@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CONSULDENTE NEWS - Painel de Recepção</title>
+    <title>CONSULDENTE NEWS</title>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;900&display=swap');
 
@@ -23,119 +23,145 @@
             background: var(--bg);
             color: #fff;
             margin: 0; padding: 0;
-            overflow-x: hidden;
-            min-height: 100vh;
+            overflow: hidden;
+            height: 100vh;
             display: flex;
             flex-direction: column;
         }
 
-        /* HEADER RESPONSIVO */
+        /* HEADER OTIMIZADO PARA VISIBILIDADE */
         header {
-            min-height: 14vh;
+            flex-shrink: 0;
+            min-height: 16vh; /* Aumentado levemente para caber fontes maiores */
             background: linear-gradient(135deg, #003049 0%, #00405e 100%);
             display: flex; justify-content: space-between;
-            align-items: center; padding: 15px 5%;
-            border-bottom: 3px solid var(--accent);
+            align-items: center; padding: 15px 50px;
+            border-bottom: 4px solid var(--accent);
             position: relative;
-            flex-wrap: wrap; gap: 15px;
+            z-index: 100;
         }
 
         .logo-area { display: flex; align-items: center; gap: 15px; }
         .logo-icon-wrap {
-            width: 60px; height: 60px; background: rgba(255,255,255,0.15);
+            width: 70px; height: 70px; background: rgba(255,255,255,0.15);
             border-radius: 14px; display: flex; align-items: center;
-            justify-content: center; font-size: 2.2rem;
+            justify-content: center; font-size: 2.5rem;
             border: 1px solid rgba(255,255,255,0.2);
         }
 
-        .logo-text h1 { margin: 0; font-size: 1.8rem; font-weight: 900; color: #fff; }
-        .logo-text .subtitle { font-size: 0.7rem; color: rgba(255,255,255,0.6); letter-spacing: 2px; text-transform: uppercase; }
+        .logo-text h1 { margin: 0; font-size: 2.4rem; font-weight: 900; color: #fff; line-height: 1; }
+        .logo-text .subtitle { font-size: 0.8rem; color: rgba(255,255,255,0.7); letter-spacing: 2px; text-transform: uppercase; }
         
-        /* BOTÃO TELA CHEIA E INFO */
         .controls-area {
-            display: flex; flex-direction: column; align-items: center; gap: 8px;
+            text-align: center;
             position: absolute; left: 50%; transform: translateX(-50%);
         }
         .btn-fullscreen {
             background: rgba(255,255,255,0.1); border: 1px solid var(--accent);
             color: #fff; padding: 6px 15px; border-radius: 20px;
-            font-size: 0.7rem; font-weight: 700; cursor: pointer;
-            text-transform: uppercase; transition: 0.3s;
-            display: flex; align-items: center; gap: 8px;
+            font-size: 0.75rem; font-weight: 700; cursor: pointer;
+            text-transform: uppercase; margin-bottom: 8px;
         }
-        .btn-fullscreen:hover { background: var(--accent); }
-        .fs-info {
-            font-size: 0.55rem; color: rgba(255,255,255,0.4);
-            text-transform: uppercase; letter-spacing: 1px;
-        }
+        .fs-info { font-size: 0.6rem; color: rgba(255,255,255,0.5); text-transform: uppercase; }
 
-        .clock-area { text-align: right; }
-        #clock { font-size: 3rem; font-weight: 900; line-height: 1; color: #fff; }
-        #date-top { font-size: 0.8rem; color: rgba(255,255,255,0.6); text-transform: uppercase; }
+        /* RELÓGIO E DATA AMPLIADOS */
+        .clock-area { text-align: right; min-width: 250px; }
+        #clock { font-size: 4.8rem; font-weight: 900; line-height: 0.9; color: #fff; letter-spacing: -2px; }
+        #date-top { 
+            font-size: 1.4rem; /* Data bem maior para ver ao longe */
+            color: #fff; /* Branco puro para contraste */
+            font-weight: 600;
+            text-transform: uppercase;
+            margin-top: 5px;
+            letter-spacing: 1px;
+        }
 
         /* NAV BAR */
         .nav-bar {
-            min-height: 6vh; background: rgba(0,0,0,0.5); backdrop-filter: blur(10px);
-            display: flex; align-items: center; padding: 5px 5%; gap: 8px;
+            flex-shrink: 0;
+            height: 6vh; background: rgba(0,0,0,0.85); backdrop-filter: blur(10px);
+            display: flex; align-items: center; padding: 0 50px; gap: 10px;
             border-bottom: 1px solid var(--border);
-            overflow-x: auto; white-space: nowrap;
+            z-index: 90;
         }
-        .nav-bar::-webkit-scrollbar { display: none; }
 
         .btn-filter {
-            background: none; border: none; color: rgba(255,255,255,0.45);
-            font-family: 'Inter', sans-serif; font-weight: 600; font-size: 0.75rem;
-            cursor: pointer; transition: 0.25s; padding: 8px 15px;
-            border-radius: 30px; text-transform: uppercase; flex-shrink: 0;
+            background: none; border: none; color: rgba(255,255,255,0.5);
+            font-family: 'Inter', sans-serif; font-weight: 700; font-size: 0.85rem;
+            cursor: pointer; transition: 0.25s; padding: 6px 20px;
+            border-radius: 30px; text-transform: uppercase;
         }
         .btn-filter.active { color: #fff; background: var(--accent); }
 
-        /* MAIN / CAROUSEL */
-        main { flex: 1; position: relative; overflow: hidden; display: flex; }
-        #carousel { width: 100%; height: 100%; position: relative; }
-        .slide { position: absolute; inset: 0; opacity: 0; transition: opacity 1.8s ease-in-out; display: flex; }
+        /* CONTEÚDO PRINCIPAL */
+        main { 
+            flex-grow: 1;
+            position: relative; 
+            overflow: hidden; 
+            background: #000;
+        }
+
+        #carousel { width: 100%; height: 100%; }
+        .slide { 
+            position: absolute; inset: 0; 
+            opacity: 0; transition: opacity 1.2s ease-in-out; 
+            display: flex; align-items: flex-end;
+        }
         .slide.active { opacity: 1; z-index: 10; }
-        .slide-bg { position: absolute; inset: 0; background-size: cover; background-position: center; z-index: -1; }
-        .slide.active .slide-bg { animation: kenBurns 14s ease-in-out forwards; }
+
+        .slide-bg { 
+            position: absolute; inset: 0; 
+            background-size: cover; background-position: center; 
+            z-index: -1; 
+        }
+        .slide.active .slide-bg { animation: kenBurns 15s ease-in-out forwards; }
         
-        @keyframes kenBurns { from { transform: scale(1); } to { transform: scale(1.1); } }
+        @keyframes kenBurns { from { transform: scale(1); } to { transform: scale(1.12); } }
 
-        .slide-overlay { position: absolute; inset: 0; background: linear-gradient(to right, rgba(0,0,0,0.95) 0%, rgba(0,0,0,0.4) 70%, transparent 100%); }
-        .slide-info { position: relative; z-index: 1; width: 85%; padding: 0 5%; display: flex; flex-direction: column; justify-content: center; }
-        .tag { background: var(--detalhe); color: #fff; padding: 5px 12px; border-radius: 4px; font-weight: 700; font-size: 0.7rem; text-transform: uppercase; margin-bottom: 15px; display: inline-block; width: fit-content; }
-        .title { font-size: 1.8rem; font-weight: 900; line-height: 1.2; margin: 0 0 15px; text-shadow: 0 4px 10px rgba(0,0,0,1); }
-
-        /* GRID VIEW */
-        #grid-view { display: none; padding: 20px; grid-template-columns: 1fr; gap: 20px; width: 100%; overflow-y: auto; background: var(--bg); }
-
-        /* MEDIA QUERIES */
-        @media (max-width: 767px) {
-            .controls-area { position: static; transform: none; width: 100%; order: 3; }
-            header { justify-content: space-around; }
+        .slide-overlay { 
+            position: absolute; inset: 0; 
+            background: linear-gradient(to top, rgba(0,0,0,0.95) 0%, rgba(0,0,0,0.4) 50%, transparent 100%); 
         }
 
-        @media (min-width: 768px) {
-            .logo-text h1 { font-size: 2.6rem; }
-            #clock { font-size: 5rem; }
-            .title { font-size: 3rem; width: 70%; }
-            #grid-view { grid-template-columns: repeat(2, 1fr); padding: 40px; }
-            .logo-icon-wrap { width: 72px; height: 72px; font-size: 2.8rem; }
+        .slide-info { 
+            position: relative; z-index: 20; 
+            width: 100%; padding: 60px 50px 100px;
         }
 
-        @media (min-width: 1200px) {
-            .title { font-size: 3.8rem; width: 60%; }
-            #grid-view { grid-template-columns: repeat(3, 1fr); }
+        .tag { 
+            background: var(--detalhe); color: #fff; 
+            padding: 8px 18px; border-radius: 4px; 
+            font-weight: 800; font-size: 0.9rem; 
+            text-transform: uppercase; margin-bottom: 20px; display: inline-block; 
         }
 
-        .news-card { background: var(--surface); border-radius: 16px; overflow: hidden; border: 1px solid var(--border); display: flex; flex-direction: column; }
+        .title { 
+            font-size: 3.8rem; font-weight: 900; line-height: 1.1; 
+            margin: 0; text-shadow: 0 5px 20px rgba(0,0,0,1);
+            max-width: 85%;
+        }
+
+        #grid-view { 
+            display: none; padding: 40px 50px; 
+            grid-template-columns: repeat(3, 1fr); gap: 25px; 
+            height: 100%; overflow-y: auto; background: var(--bg); 
+        }
+
+        @media (max-width: 1024px) {
+            #clock { font-size: 3rem; }
+            #date-top { font-size: 1rem; }
+            .title { font-size: 2.2rem; }
+        }
+
+        .news-card { background: var(--surface); border-radius: 16px; overflow: hidden; border: 1px solid var(--border); }
         .card-img { height: 180px; background-size: cover; background-position: center; }
-        .card-txt { padding: 15px; flex: 1; }
-        .card-source { font-size: 0.7rem; font-weight: 700; color: var(--accent); text-transform: uppercase; margin-bottom: 8px; }
-        .card-txt h3 { margin: 0; font-size: 1rem; line-height: 1.4; color: rgba(255,255,255,0.9); }
+        .card-txt { padding: 20px; }
+        .card-source { font-size: 0.75rem; font-weight: 700; color: var(--accent); text-transform: uppercase; margin-bottom: 8px; }
+        .card-txt h3 { margin: 0; font-size: 1.1rem; color: #fff; line-height: 1.4; }
 
-        .slide-dots { position: absolute; bottom: 20px; right: 5%; z-index: 20; display: flex; gap: 6px; }
-        .dot { width: 6px; height: 6px; border-radius: 50%; background: rgba(255,255,255,0.25); }
-        .dot.active { background: #fff; width: 20px; border-radius: 3px; }
+        .slide-dots { position: absolute; bottom: 40px; right: 50px; z-index: 30; display: flex; gap: 10px; }
+        .dot { width: 10px; height: 10px; border-radius: 50%; background: rgba(255,255,255,0.2); }
+        .dot.active { background: #fff; width: 30px; border-radius: 5px; }
     </style>
 </head>
 <body>
@@ -145,20 +171,18 @@
         <div class="logo-icon-wrap">🦷</div>
         <div class="logo-text">
             <h1>CONSULDENTE</h1>
-            <div class="subtitle">News &amp; Odonto</div>
+            <div class="subtitle">News &amp; Odonto-Update</div>
         </div>
     </div>
 
     <div class="controls-area">
-        <button class="btn-fullscreen" onclick="toggleFullScreen()">
-            <span id="fs-icon">⛶</span> <span id="fs-text">Expandir Tela</span>
-        </button>
-        <div class="fs-info">Alternar modo teclando F11 ou ESC</div>
+        <button class="btn-fullscreen" onclick="toggleFullScreen()">⛶ Expandir Tela</button>
+        <div class="fs-info">F11 ou ESC para alternar</div>
     </div>
 
     <div class="clock-area">
         <div id="clock">00:00</div>
-        <div id="date-top">carregando...</div>
+        <div id="date-top">-- de -- de ----</div>
     </div>
 </header>
 
@@ -188,41 +212,21 @@
     let autoPlay;
     const IMG_DEFAULT = "https://github.com/yuriluna85/recep-consuldente/blob/main/consudente.png?raw=true";
 
-    // FUNÇÃO TELA CHEIA CONTROLADA
     function toggleFullScreen() {
-        const btnText = document.getElementById('fs-text');
-        const btnIcon = document.getElementById('fs-icon');
-
         if (!document.fullscreenElement) {
-            document.documentElement.requestFullscreen().then(() => {
-                btnText.innerText = "Reduzir Tela";
-                btnIcon.innerText = "内";
-            }).catch(err => console.log(err));
+            document.documentElement.requestFullscreen().catch(err => console.log(err));
         } else {
-            if (document.exitFullscreen) {
-                document.exitFullscreen().then(() => {
-                    btnText.innerText = "Expandir Tela";
-                    btnIcon.innerText = "⛶";
-                });
-            }
+            document.exitFullscreen();
         }
     }
-
-    // Monitora saída de tela cheia (pelo ESC do teclado) para atualizar o botão
-    document.addEventListener('fullscreenchange', () => {
-        const btnText = document.getElementById('fs-text');
-        const btnIcon = document.getElementById('fs-icon');
-        if (!document.fullscreenElement) {
-            btnText.innerText = "Expandir Tela";
-            btnIcon.innerText = "⛶";
-        }
-    });
 
     function startClock() {
         const update = () => {
             const now = new Date();
             document.getElementById('clock').innerText = now.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
-            document.getElementById('date-top').innerText = now.toLocaleDateString('pt-BR', { day: '2-digit', month: 'short' });
+            // Data formatada para ser grande e visível
+            const options = { day: '2-digit', month: 'long', year: 'numeric' };
+            document.getElementById('date-top').innerText = now.toLocaleDateString('pt-BR', options);
         };
         setInterval(update, 1000); update();
     }
@@ -240,9 +244,7 @@
                         if (p._embedded && p._embedded['wp:featuredmedia']) thumb = p._embedded['wp:featuredmedia'][0].source_url;
                         else if (p.content.rendered.match(/src="([^"]+)"/)) thumb = p.content.rendered.match(/src="([^"]+)"/)[1];
                     } else { thumb = p.thumbnail || (p.enclosure ? p.enclosure.link : IMG_DEFAULT); }
-                    
                     if (!thumb || thumb === "") thumb = IMG_DEFAULT;
-
                     temp.push({
                         title: (f.rss ? p.title : p.title.rendered).replace(/&#8211;/g, '–').replace(/&#8220;/g, '"').replace(/&#8221;/g, '"'),
                         source: f.nome, img: thumb, date: new Date(f.rss ? p.pubDate : p.date)
@@ -260,9 +262,9 @@
         const carousel = document.getElementById('carousel');
         const grid = document.getElementById('grid-view');
         const dots = document.getElementById('slide-dots');
-
         if (tab === 'Todos') {
             carousel.style.display = 'block'; dots.style.display = 'flex'; grid.style.display = 'none';
+            render();
         } else {
             carousel.style.display = 'none'; dots.style.display = 'none'; grid.style.display = 'grid';
             renderGrid(tab);
@@ -272,15 +274,12 @@
     function render() {
         const carousel = document.getElementById('carousel');
         const dotsEl = document.getElementById('slide-dots');
-        
         let mixedNews = [];
         FONTES.forEach(f => {
             const daFonte = dataStore.filter(n => n.source === f.nome).slice(0, 3);
             mixedNews = mixedNews.concat(daFonte);
         });
-
         const topNews = mixedNews.sort((a, b) => b.date - a.date).slice(0, 10);
-
         carousel.innerHTML = topNews.map((n, i) => `
             <div class="slide ${i === 0 ? 'active' : ''}">
                 <div class="slide-bg" style="background-image: url('${n.img}')"></div>
@@ -291,7 +290,6 @@
                 </div>
             </div>
         `).join('');
-
         dotsEl.innerHTML = topNews.map((_, i) => `<div class="dot ${i === 0 ? 'active' : ''}"></div>`).join('');
         slideIdx = 0;
         clearInterval(autoPlay);
