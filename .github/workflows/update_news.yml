@@ -1,0 +1,35 @@
+name: Atualização Horária de Notícias
+
+on:
+  schedule:
+    # Roda a cada hora (minuto 0 de cada hora)
+    - cron: '0 * * * *'
+  workflow_dispatch: # Permite que você rode manualmente para testar
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout do código
+      uses: actions/checkout@v3
+
+    - name: Configurar Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Instalar dependências
+      run: |
+        pip install requests beautifulsoup4
+
+    - name: Executar script de busca
+      run: python parser.py
+
+    - name: Commit e Push das novas notícias
+      run: |
+        git config --global user.name "GitHub Action Bot"
+        git config --global user.email "actions@github.com"
+        git add data.json
+        git commit -m "🔄 Atualização horária: Notícias Odonto" || exit 0
+        git push
