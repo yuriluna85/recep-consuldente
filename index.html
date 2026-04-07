@@ -4,149 +4,106 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Consuldente News | Radar Odonto</title>
-    <link href="https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;600;700&family=DM+Serif+Display&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Sora:wght@300;400;600;700&family=DM+Serif+Display&display=swap" rel="stylesheet">
     <style>
         *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
         :root {
             --green-dark: #0d6b36; --green-mid: #1a8f4a; --green-light: #2eb25d;
-            --green-pale: #e6f7ed; --gray-100: #f5f5f3; --gray-200: #e8e8e5;
-            --gray-500: #7a7a75; --gray-700: #3a3a38; --gray-900: #111110;
-            --white: #ffffff; --card-shadow: 0 4px 20px rgba(0,0,0,0.08);
-            --radius: 12px;
+            --gray-100: #f5f5f3; --gray-200: #e8e8e5; --gray-500: #7a7a75;
+            --gray-900: #111110; --white: #ffffff; --radius: 12px;
         }
-        body { font-family: 'Sora', sans-serif; background: var(--gray-100); color: var(--gray-900); line-height: 1.6; }
-        
-        header { background: var(--white); border-bottom: 1px solid var(--gray-200); position: sticky; top: 0; z-index: 100; }
-        .header-inner { max-width: 1200px; margin: 0 auto; padding: 0 24px; height: 70px; display: flex; align-items: center; justify-content: space-between; }
-        .logo-text { font-size: 22px; font-weight: 700; color: var(--green-dark); text-decoration: none; }
-        .logo-text span { font-weight: 300; color: var(--gray-500); }
+        body { font-family: 'Sora', sans-serif; background: var(--gray-100); color: var(--gray-900); }
+        header { background: var(--white); border-bottom: 1px solid var(--gray-200); position: sticky; top: 0; z-index: 100; padding: 15px 24px; }
+        .header-inner { max-width: 1200px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; }
+        .logo { font-size: 22px; font-weight: 700; color: var(--green-dark); text-decoration: none; }
+        .logo span { font-weight: 300; color: var(--gray-500); }
 
-        .filter-bar { background: var(--white); border-bottom: 1px solid var(--gray-200); padding: 12px 0; overflow-x: auto; position: sticky; top: 70px; z-index: 90; }
-        .filter-inner { max-width: 1200px; margin: 0 auto; padding: 0 24px; display: flex; gap: 8px; }
-        .chip { padding: 8px 18px; border-radius: 20px; border: 1px solid var(--gray-200); background: white; cursor: pointer; white-space: nowrap; font-family: inherit; font-size: 13px; font-weight: 500; transition: 0.2s; }
+        .filter-bar { background: var(--white); border-bottom: 1px solid var(--gray-200); padding: 12px 0; position: sticky; top: 65px; z-index: 90; }
+        .filter-inner { max-width: 1200px; margin: 0 auto; padding: 0 24px; display: flex; gap: 10px; overflow-x: auto; }
+        .chip { padding: 8px 20px; border-radius: 25px; border: 1px solid var(--gray-200); background: white; cursor: pointer; white-space: nowrap; font-size: 13px; transition: 0.3s; }
         .chip.active { background: var(--green-dark); color: white; border-color: var(--green-dark); }
 
-        main { max-width: 1200px; margin: 0 auto; padding: 32px 24px; min-height: 80vh; }
-        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 24px; }
+        main { max-width: 1200px; margin: 0 auto; padding: 30px 24px; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 25px; }
         
-        .news-card { background: white; padding: 24px; border-radius: var(--radius); box-shadow: var(--card-shadow); transition: 0.3s; cursor: pointer; display: flex; flex-direction: column; border: 1px solid transparent; }
-        .news-card:hover { transform: translateY(-5px); border-color: var(--green-light); }
+        .card { background: white; border-radius: var(--radius); overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.05); transition: 0.3s; cursor: pointer; display: flex; flex-direction: column; }
+        .card:hover { transform: translateY(-5px); box-shadow: 0 8px 25px rgba(0,0,0,0.1); }
+        .card-img { width: 100%; height: 180px; object-fit: cover; }
+        .card-body { padding: 20px; flex-grow: 1; display: flex; flex-direction: column; }
         
-        .badge { font-size: 10px; font-weight: 700; text-transform: uppercase; background: var(--green-pale); color: var(--green-dark); padding: 4px 10px; border-radius: 20px; margin-bottom: 12px; width: fit-content; }
-        .news-card h3 { font-family: 'DM Serif Display', serif; font-size: 1.2rem; margin-bottom: 10px; color: var(--gray-900); }
-        .news-card p { font-size: 14px; color: var(--gray-500); flex-grow: 1; margin-bottom: 20px; }
+        .badge { font-size: 10px; font-weight: 700; text-transform: uppercase; background: #e6f7ed; color: var(--green-dark); padding: 4px 10px; border-radius: 4px; margin-bottom: 12px; width: fit-content; }
+        .card h3 { font-family: 'DM Serif Display', serif; font-size: 18px; margin-bottom: 10px; line-height: 1.3; }
+        .card p { font-size: 13px; color: var(--gray-500); margin-bottom: 15px; }
+        
+        .card-footer { margin-top: auto; padding-top: 15px; border-top: 1px solid var(--gray-100); display: flex; justify-content: space-between; font-size: 11px; font-weight: 600; }
+        .source { color: var(--green-mid); }
 
-        .card-footer { border-top: 1px solid var(--gray-100); padding-top: 15px; display: flex; justify-content: space-between; align-items: center; font-size: 11px; }
-        .source-label { font-weight: 700; color: var(--green-mid); text-transform: uppercase; }
-        .date-label { color: var(--gray-500); }
-
-        #status-msg { text-align: center; color: var(--gray-500); padding: 20px; font-size: 14px; }
-
-        footer { background: var(--gray-900); color: white; padding: 40px 24px; text-align: center; margin-top: 50px; }
-        footer span { color: var(--green-light); }
-
-        @media (max-width: 600px) { .header-inner { justify-content: center; } .grid { grid-template-columns: 1fr; } }
+        footer { text-align: center; padding: 40px; color: var(--gray-500); font-size: 13px; }
     </style>
 </head>
 <body>
 
 <header>
     <div class="header-inner">
-        <a href="#" class="logo-text">🦷 Consuldente <span>News</span></a>
-        <div style="font-size: 11px; font-weight: 600; color: var(--gray-500); text-transform: uppercase;">Atualizado a cada hora 🕒</div>
+        <a href="#" class="logo">🦷 Consuldente <span>News</span></a>
+        <div id="update-timer" style="font-size: 11px; color: var(--gray-500);">Radar Ativo 📡</div>
     </div>
 </header>
 
 <div class="filter-bar">
     <div class="filter-inner">
-        <button class="chip active" onclick="filterNews('todas', this)">Todas</button>
-        <button class="chip" onclick="filterNews('pesquisa', this)">Pesquisa</button>
-        <button class="chip" onclick="filterNews('eventos', this)">Eventos</button>
-        <button class="chip" onclick="filterNews('novidades', this)">Novidades</button>
+        <button class="chip active" onclick="filter('todas', this)">Todas</button>
+        <button class="chip" onclick="filter('pesquisa', this)">Pesquisa</button>
+        <button class="chip" onclick="filter('novidades', this)">Novidades</button>
     </div>
 </div>
 
 <main>
-    <div id="status-msg">Carregando as últimas notícias...</div>
     <div class="grid" id="news-grid"></div>
 </main>
 
 <footer>
-    <p>Consuldente News &mdash; Portal de Curadoria para Nerds da Odonto</p>
-    <p style="font-size: 10px; margin-top: 10px; opacity: 0.5;">Fontes: CFO, Nature, Dental Tribune, ScienceDaily</p>
+    © 2026 Consuldente News — Atualizado automaticamente via GitHub Actions
 </footer>
 
 <script>
-let currentNews = [];
+let newsData = [];
 
-// Notícias de Backup (serão exibidas se o data.json ainda não tiver sido gerado pelo robô)
-const backupNews = [
-    {
-        titulo: "Consuldente News: Iniciando Motores",
-        resumo: "O robô de inteligência artificial está sendo configurado no seu GitHub para buscar notícias agora mesmo.",
-        cat: "novidades",
-        fonte: "Sistema",
-        data: "Aguardando...",
-        url: "#"
-    }
-];
-
-// Função principal que busca os dados atualizados pelo GitHub Actions
-async function loadNews() {
-    const statusMsg = document.getElementById('status-msg');
-    
+async function load() {
     try {
-        // Busca o arquivo JSON que o robô do GitHub Actions sobrescreve a cada hora
-        // O parâmetro ?t= serve para evitar que o navegador cacheie o arquivo antigo
-        const response = await fetch('./data.json?t=' + new Date().getTime());
-        
-        if (!response.ok) throw new Error('Arquivo não encontrado');
-        
-        currentNews = await response.json();
-        statusMsg.style.display = 'none';
-        renderNews(currentNews);
+        const res = await fetch('./data.json?v=' + Date.now());
+        newsData = await res.json();
+        render(newsData);
     } catch (e) {
-        console.warn("Aguardando o arquivo data.json ser gerado pelo Workflow.");
-        statusMsg.innerHTML = "Notícias sendo processadas pelo servidor. Exibindo backup...";
-        currentNews = backupNews;
-        renderNews(currentNews);
+        document.getElementById('news-grid').innerHTML = "<p>Iniciando radar... Aguarde a primeira atualização do robô.</p>";
     }
 }
 
-// Função para desenhar os cards na tela
-function renderNews(list) {
+function render(list) {
     const grid = document.getElementById('news-grid');
-    grid.innerHTML = '';
-    
-    list.forEach(n => {
-        grid.innerHTML += `
-            <article class="news-card" onclick="window.open('${n.url}', '_blank')">
+    grid.innerHTML = list.map(n => `
+        <article class="card" onclick="window.open('${n.url}', '_blank')">
+            <img src="${n.img}" class="card-img" alt="Foto">
+            <div class="card-body">
                 <span class="badge">${n.cat}</span>
                 <h3>${n.titulo}</h3>
                 <p>${n.resumo}</p>
                 <div class="card-footer">
-                    <span class="source-label">${n.fonte}</span>
-                    <span class="date-label">📅 ${n.data}</span>
+                    <span class="source">${n.fonte}</span>
+                    <span>${n.data}</span>
                 </div>
-            </article>
-        `;
-    });
+            </div>
+        </article>
+    `).join('');
 }
 
-// Lógica de Filtros
-function filterNews(cat, btn) {
+function filter(cat, btn) {
     document.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
     btn.classList.add('active');
-    
-    if (cat === 'todas') {
-        renderNews(currentNews);
-    } else {
-        renderNews(currentNews.filter(n => n.cat === cat));
-    }
+    render(cat === 'todas' ? newsData : newsData.filter(n => n.cat === cat));
 }
 
-// Inicia o carregamento ao abrir a página
-window.onload = loadNews;
+window.onload = load;
 </script>
 </body>
 </html>
