@@ -29,7 +29,6 @@
             flex-direction: column;
         }
 
-        /* HEADER OTIMIZADO PARA VISIBILIDADE */
         header {
             flex-shrink: 0;
             min-height: 16vh;
@@ -64,7 +63,6 @@
         }
         .fs-info { font-size: 0.6rem; color: rgba(255,255,255,0.5); text-transform: uppercase; }
 
-        /* RELÓGIO E DATA AMPLIADOS */
         .clock-area { text-align: right; min-width: 250px; }
         #clock { font-size: 4.8rem; font-weight: 900; line-height: 0.9; color: #fff; letter-spacing: -2px; }
         #date-top { 
@@ -76,7 +74,6 @@
             letter-spacing: 1px;
         }
 
-        /* NAV BAR */
         .nav-bar {
             flex-shrink: 0;
             height: 6vh; background: rgba(0,0,0,0.85); backdrop-filter: blur(10px);
@@ -93,7 +90,6 @@
         }
         .btn-filter.active { color: #fff; background: var(--accent); }
 
-        /* CONTEÚDO PRINCIPAL */
         main { 
             flex-grow: 1;
             position: relative; 
@@ -230,11 +226,11 @@
         setInterval(update, 1000); update();
     }
 
+    // NOVA LÓGICA DE ATUALIZAÇÃO
     async function fetchNews() {
         let temp = [];
         for (const f of FONTES) {
             try {
-                // Buscando 10 posts de cada fonte para um carrossel robusto
                 const response = await fetch(f.url + (f.rss ? "" : "?per_page=10&_embed&_t=" + Date.now()));
                 const rawData = await response.json();
                 const posts = f.rss ? rawData.items : rawData;
@@ -248,14 +244,25 @@
                     if (!thumb || thumb === "") thumb = IMG_DEFAULT;
                     
                     temp.push({
+                        id: f.rss ? p.guid : p.id, // ID único para evitar duplicados
                         title: (f.rss ? p.title : p.title.rendered).replace(/&#8211;/g, '–').replace(/&#8220;/g, '"').replace(/&#8221;/g, '"'),
                         source: f.nome, img: thumb, date: new Date(f.rss ? p.pubDate : p.date), cat: f.cat
                     });
                 });
             } catch (e) { console.warn("Erro em: " + f.nome); }
         }
-        dataStore = temp.sort((a, b) => b.date - a.date);
-        render();
+
+        // Ordena por data, remove duplicados e mantém apenas os mais novos
+        const uniqueNews = Array.from(new Map(temp.map(item => [item.id, item])).values());
+        dataStore = uniqueNews.sort((a, b) => b.date - a.date);
+        
+        console.log(`Atualizado em: ${new Date().toLocaleTimeString()} - Total de notícias: ${dataStore.length}`);
+        
+        // Se estiver na aba "Todos", re-renderiza o carrossel suavemente
+        const activeTab = document.querySelector('.btn-filter.active').innerText;
+        if (activeTab.includes("Geral")) {
+            render();
+        }
     }
 
     function changeTab(tab, btn) {
@@ -277,12 +284,12 @@
         const carousel = document.getElementById('carousel');
         const dotsEl = document.getElementById('slide-dots');
         
-        // MIXER AMPLIADO: Pega todos os posts carregados (até 40 notícias)
-        // Isso garante que o carrossel "Todos" exiba tudo o que foi encontrado
+        // Exibe até 40 notícias frescas
         const topNews = dataStore.slice(0, 40); 
+        if(topNews.length === 0) return;
 
         carousel.innerHTML = topNews.map((n, i) => `
-            <div class="slide ${i === 0 ? 'active' : ''}">
+            <div class="slide ${i === slideIdx ? 'active' : ''}">
                 <div class="slide-bg" style="background-image: url('${n.img}')"></div>
                 <div class="slide-overlay"></div>
                 <div class="slide-info">
@@ -292,8 +299,9 @@
             </div>
         `).join('');
 
-        dotsEl.innerHTML = topNews.map((_, i) => `<div class="dot ${i === 0 ? 'active' : ''}"></div>`).join('');
-        slideIdx = 0;
+        dotsEl.innerHTML = topNews.map((_, i) => `<div class="dot ${i === slideIdx ? 'active' : ''}"></div>`).join('');
+        
+        // Reinicia o autoplay para garantir a sincronia
         clearInterval(autoPlay);
         autoPlay = setInterval(nextSlide, 10000);
     }
@@ -302,16 +310,18 @@
         const slides = document.querySelectorAll('.slide');
         const dots = document.querySelectorAll('.dot');
         if (slides.length < 2) return;
+        
         slides[slideIdx].classList.remove('active');
         dots[slideIdx].classList.remove('active');
+        
         slideIdx = (slideIdx + 1) % slides.length;
+        
         slides[slideIdx].classList.add('active');
         dots[slideIdx].classList.add('active');
     }
 
     function renderGrid(tab) {
         const grid = document.getElementById('grid-view');
-        // Filtra por 'Feira' (Local) ou por 'G1 Geral' (Brasil)
         const filtered = dataStore.filter(n => {
             if(tab === 'Feira') return n.cat === 'FEIRA';
             return n.source === tab;
@@ -330,7 +340,9 @@
 
     startClock();
     fetchNews();
-    setInterval(fetchNews, 600000);
+
+    // EXECUTA A BUSCA POR NOVAS NOTÍCIAS A CADA 30 MINUTOS
+    setInterval(fetchNews, 1800000);
 </script>
 </body>
 </html>
