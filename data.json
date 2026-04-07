@@ -1,122 +1,47 @@
 [
     {
-        "titulo": "Notícia 1: Avanço em Eventos na Odontologia",
-        "resumo": "Traduzido de Dental Tribune (Global): Pesquisa recente demonstra novas técnicas de atendimento clínico e biotecnologia aplicada.",
-        "cat": "eventos",
-        "fonte": "Dental Tribune (Global)",
-        "data": "07/04 13:32",
-        "url": "https://www.dental-tribune.com/"
-    },
-    {
-        "titulo": "Notícia 2: Avanço em Novidades na Odontologia",
-        "resumo": "Traduzido de Nature Dentistry (EUA): Pesquisa recente demonstra novas técnicas de atendimento clínico e biotecnologia aplicada.",
-        "cat": "novidades",
-        "fonte": "Nature Dentistry (EUA)",
-        "data": "07/04 13:32",
-        "url": "https://www.nature.com/bdj"
-    },
-    {
-        "titulo": "Notícia 3: Avanço em Pesquisa na Odontologia",
-        "resumo": "Traduzido de ScienceDaily (EUA): Pesquisa recente demonstra novas técnicas de atendimento clínico e biotecnologia aplicada.",
+        "titulo": "Mental health under pressure: a scoping review of suicide in the dental workforce",
+        "resumo": "Radar Consuldente: Nova atualização capturada em Nature Dentistry. Clique para ler o artigo completo na fonte original.",
         "cat": "pesquisa",
-        "fonte": "ScienceDaily (EUA)",
-        "data": "07/04 13:32",
-        "url": "https://www.sciencedaily.com/news/health_medicine/dentistry/"
+        "fonte": "Nature Dentistry",
+        "data": "07/04 13:43",
+        "url": "https://www.nature.com/bdj/research-articles/articles/s41415-026-9546-5",
+        "img": "https://picsum.photos/seed/Menta/400/250"
     },
     {
-        "titulo": "Notícia 4: Avanço em Eventos na Odontologia",
-        "resumo": "Traduzido de Portal CFO (Brasil): Pesquisa recente demonstra novas técnicas de atendimento clínico e biotecnologia aplicada.",
-        "cat": "eventos",
-        "fonte": "Portal CFO (Brasil)",
-        "data": "07/04 13:32",
-        "url": "https://website.cfo.org.br/"
-    },
-    {
-        "titulo": "Notícia 5: Avanço em Novidades na Odontologia",
-        "resumo": "Traduzido de Dental Tribune (Global): Pesquisa recente demonstra novas técnicas de atendimento clínico e biotecnologia aplicada.",
-        "cat": "novidades",
-        "fonte": "Dental Tribune (Global)",
-        "data": "07/04 13:32",
-        "url": "https://www.dental-tribune.com/"
-    },
-    {
-        "titulo": "Notícia 6: Avanço em Pesquisa na Odontologia",
-        "resumo": "Traduzido de Nature Dentistry (EUA): Pesquisa recente demonstra novas técnicas de atendimento clínico e biotecnologia aplicada.",
+        "titulo": "Exploring sibling patterns in dental treatment under general anaesthetic",
+        "resumo": "Radar Consuldente: Nova atualização capturada em Nature Dentistry. Clique para ler o artigo completo na fonte original.",
         "cat": "pesquisa",
-        "fonte": "Nature Dentistry (EUA)",
-        "data": "07/04 13:32",
-        "url": "https://www.nature.com/bdj"
+        "fonte": "Nature Dentistry",
+        "data": "07/04 13:43",
+        "url": "https://www.nature.com/bdj/research-articles/articles/s41415-026-9544-7",
+        "img": "https://picsum.photos/seed/Explo/400/250"
     },
     {
-        "titulo": "Notícia 7: Avanço em Eventos na Odontologia",
-        "resumo": "Traduzido de ScienceDaily (EUA): Pesquisa recente demonstra novas técnicas de atendimento clínico e biotecnologia aplicada.",
-        "cat": "eventos",
-        "fonte": "ScienceDaily (EUA)",
-        "data": "07/04 13:32",
-        "url": "https://www.sciencedaily.com/news/health_medicine/dentistry/"
-    },
-    {
-        "titulo": "Notícia 8: Avanço em Novidades na Odontologia",
-        "resumo": "Traduzido de Portal CFO (Brasil): Pesquisa recente demonstra novas técnicas de atendimento clínico e biotecnologia aplicada.",
-        "cat": "novidades",
-        "fonte": "Portal CFO (Brasil)",
-        "data": "07/04 13:32",
-        "url": "https://website.cfo.org.br/"
-    },
-    {
-        "titulo": "Notícia 9: Avanço em Pesquisa na Odontologia",
-        "resumo": "Traduzido de Dental Tribune (Global): Pesquisa recente demonstra novas técnicas de atendimento clínico e biotecnologia aplicada.",
+        "titulo": "The Medical Art Society",
+        "resumo": "Radar Consuldente: Nova atualização capturada em Nature Dentistry. Clique para ler o artigo completo na fonte original.",
         "cat": "pesquisa",
-        "fonte": "Dental Tribune (Global)",
-        "data": "07/04 13:32",
-        "url": "https://www.dental-tribune.com/"
+        "fonte": "Nature Dentistry",
+        "data": "07/04 13:43",
+        "url": "https://www.nature.com/bdj/research-articles/articles/s41415-026-9733-4",
+        "img": "https://picsum.photos/seed/The M/400/250"
     },
     {
-        "titulo": "Notícia 10: Avanço em Eventos na Odontologia",
-        "resumo": "Traduzido de Nature Dentistry (EUA): Pesquisa recente demonstra novas técnicas de atendimento clínico e biotecnologia aplicada.",
-        "cat": "eventos",
-        "fonte": "Nature Dentistry (EUA)",
-        "data": "07/04 13:32",
-        "url": "https://www.nature.com/bdj"
-    },
-    {
-        "titulo": "Notícia 11: Avanço em Novidades na Odontologia",
-        "resumo": "Traduzido de ScienceDaily (EUA): Pesquisa recente demonstra novas técnicas de atendimento clínico e biotecnologia aplicada.",
-        "cat": "novidades",
-        "fonte": "ScienceDaily (EUA)",
-        "data": "07/04 13:32",
-        "url": "https://www.sciencedaily.com/news/health_medicine/dentistry/"
-    },
-    {
-        "titulo": "Notícia 12: Avanço em Pesquisa na Odontologia",
-        "resumo": "Traduzido de Portal CFO (Brasil): Pesquisa recente demonstra novas técnicas de atendimento clínico e biotecnologia aplicada.",
+        "titulo": "Implants and the growing patient",
+        "resumo": "Radar Consuldente: Nova atualização capturada em Nature Dentistry. Clique para ler o artigo completo na fonte original.",
         "cat": "pesquisa",
-        "fonte": "Portal CFO (Brasil)",
-        "data": "07/04 13:32",
-        "url": "https://website.cfo.org.br/"
+        "fonte": "Nature Dentistry",
+        "data": "07/04 13:43",
+        "url": "https://www.nature.com/bdj/research-articles/articles/s41415-026-9663-1",
+        "img": "https://picsum.photos/seed/Impla/400/250"
     },
     {
-        "titulo": "Notícia 13: Avanço em Eventos na Odontologia",
-        "resumo": "Traduzido de Dental Tribune (Global): Pesquisa recente demonstra novas técnicas de atendimento clínico e biotecnologia aplicada.",
-        "cat": "eventos",
-        "fonte": "Dental Tribune (Global)",
-        "data": "07/04 13:32",
-        "url": "https://www.dental-tribune.com/"
-    },
-    {
-        "titulo": "Notícia 14: Avanço em Novidades na Odontologia",
-        "resumo": "Traduzido de Nature Dentistry (EUA): Pesquisa recente demonstra novas técnicas de atendimento clínico e biotecnologia aplicada.",
-        "cat": "novidades",
-        "fonte": "Nature Dentistry (EUA)",
-        "data": "07/04 13:32",
-        "url": "https://www.nature.com/bdj"
-    },
-    {
-        "titulo": "Notícia 15: Avanço em Pesquisa na Odontologia",
-        "resumo": "Traduzido de ScienceDaily (EUA): Pesquisa recente demonstra novas técnicas de atendimento clínico e biotecnologia aplicada.",
+        "titulo": "Lichen planus lesions become pemphigoid phenotype",
+        "resumo": "Radar Consuldente: Nova atualização capturada em Nature Dentistry. Clique para ler o artigo completo na fonte original.",
         "cat": "pesquisa",
-        "fonte": "ScienceDaily (EUA)",
-        "data": "07/04 13:32",
-        "url": "https://www.sciencedaily.com/news/health_medicine/dentistry/"
+        "fonte": "Nature Dentistry",
+        "data": "07/04 13:43",
+        "url": "https://www.nature.com/bdj/research-articles/articles/s41415-026-9655-1",
+        "img": "https://picsum.photos/seed/Liche/400/250"
     }
 ]
