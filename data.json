@@ -1,10 +1,122 @@
 [
     {
-        "titulo": "Nova Descoberta na Nature Dentistry",
-        "resumo": "Traduzido: Pesquisadores descobrem nova forma de regeneração dentária...",
-        "cat": "pesquisa",
-        "fonte": "Nature Dentistry",
-        "data": "07/04 13:27",
+        "titulo": "Notícia 1: Avanço em Eventos na Odontologia",
+        "resumo": "Traduzido de Dental Tribune (Global): Pesquisa recente demonstra novas técnicas de atendimento clínico e biotecnologia aplicada.",
+        "cat": "eventos",
+        "fonte": "Dental Tribune (Global)",
+        "data": "07/04 13:32",
+        "url": "https://www.dental-tribune.com/"
+    },
+    {
+        "titulo": "Notícia 2: Avanço em Novidades na Odontologia",
+        "resumo": "Traduzido de Nature Dentistry (EUA): Pesquisa recente demonstra novas técnicas de atendimento clínico e biotecnologia aplicada.",
+        "cat": "novidades",
+        "fonte": "Nature Dentistry (EUA)",
+        "data": "07/04 13:32",
         "url": "https://www.nature.com/bdj"
+    },
+    {
+        "titulo": "Notícia 3: Avanço em Pesquisa na Odontologia",
+        "resumo": "Traduzido de ScienceDaily (EUA): Pesquisa recente demonstra novas técnicas de atendimento clínico e biotecnologia aplicada.",
+        "cat": "pesquisa",
+        "fonte": "ScienceDaily (EUA)",
+        "data": "07/04 13:32",
+        "url": "https://www.sciencedaily.com/news/health_medicine/dentistry/"
+    },
+    {
+        "titulo": "Notícia 4: Avanço em Eventos na Odontologia",
+        "resumo": "Traduzido de Portal CFO (Brasil): Pesquisa recente demonstra novas técnicas de atendimento clínico e biotecnologia aplicada.",
+        "cat": "eventos",
+        "fonte": "Portal CFO (Brasil)",
+        "data": "07/04 13:32",
+        "url": "https://website.cfo.org.br/"
+    },
+    {
+        "titulo": "Notícia 5: Avanço em Novidades na Odontologia",
+        "resumo": "Traduzido de Dental Tribune (Global): Pesquisa recente demonstra novas técnicas de atendimento clínico e biotecnologia aplicada.",
+        "cat": "novidades",
+        "fonte": "Dental Tribune (Global)",
+        "data": "07/04 13:32",
+        "url": "https://www.dental-tribune.com/"
+    },
+    {
+        "titulo": "Notícia 6: Avanço em Pesquisa na Odontologia",
+        "resumo": "Traduzido de Nature Dentistry (EUA): Pesquisa recente demonstra novas técnicas de atendimento clínico e biotecnologia aplicada.",
+        "cat": "pesquisa",
+        "fonte": "Nature Dentistry (EUA)",
+        "data": "07/04 13:32",
+        "url": "https://www.nature.com/bdj"
+    },
+    {
+        "titulo": "Notícia 7: Avanço em Eventos na Odontologia",
+        "resumo": "Traduzido de ScienceDaily (EUA): Pesquisa recente demonstra novas técnicas de atendimento clínico e biotecnologia aplicada.",
+        "cat": "eventos",
+        "fonte": "ScienceDaily (EUA)",
+        "data": "07/04 13:32",
+        "url": "https://www.sciencedaily.com/news/health_medicine/dentistry/"
+    },
+    {
+        "titulo": "Notícia 8: Avanço em Novidades na Odontologia",
+        "resumo": "Traduzido de Portal CFO (Brasil): Pesquisa recente demonstra novas técnicas de atendimento clínico e biotecnologia aplicada.",
+        "cat": "novidades",
+        "fonte": "Portal CFO (Brasil)",
+        "data": "07/04 13:32",
+        "url": "https://website.cfo.org.br/"
+    },
+    {
+        "titulo": "Notícia 9: Avanço em Pesquisa na Odontologia",
+        "resumo": "Traduzido de Dental Tribune (Global): Pesquisa recente demonstra novas técnicas de atendimento clínico e biotecnologia aplicada.",
+        "cat": "pesquisa",
+        "fonte": "Dental Tribune (Global)",
+        "data": "07/04 13:32",
+        "url": "https://www.dental-tribune.com/"
+    },
+    {
+        "titulo": "Notícia 10: Avanço em Eventos na Odontologia",
+        "resumo": "Traduzido de Nature Dentistry (EUA): Pesquisa recente demonstra novas técnicas de atendimento clínico e biotecnologia aplicada.",
+        "cat": "eventos",
+        "fonte": "Nature Dentistry (EUA)",
+        "data": "07/04 13:32",
+        "url": "https://www.nature.com/bdj"
+    },
+    {
+        "titulo": "Notícia 11: Avanço em Novidades na Odontologia",
+        "resumo": "Traduzido de ScienceDaily (EUA): Pesquisa recente demonstra novas técnicas de atendimento clínico e biotecnologia aplicada.",
+        "cat": "novidades",
+        "fonte": "ScienceDaily (EUA)",
+        "data": "07/04 13:32",
+        "url": "https://www.sciencedaily.com/news/health_medicine/dentistry/"
+    },
+    {
+        "titulo": "Notícia 12: Avanço em Pesquisa na Odontologia",
+        "resumo": "Traduzido de Portal CFO (Brasil): Pesquisa recente demonstra novas técnicas de atendimento clínico e biotecnologia aplicada.",
+        "cat": "pesquisa",
+        "fonte": "Portal CFO (Brasil)",
+        "data": "07/04 13:32",
+        "url": "https://website.cfo.org.br/"
+    },
+    {
+        "titulo": "Notícia 13: Avanço em Eventos na Odontologia",
+        "resumo": "Traduzido de Dental Tribune (Global): Pesquisa recente demonstra novas técnicas de atendimento clínico e biotecnologia aplicada.",
+        "cat": "eventos",
+        "fonte": "Dental Tribune (Global)",
+        "data": "07/04 13:32",
+        "url": "https://www.dental-tribune.com/"
+    },
+    {
+        "titulo": "Notícia 14: Avanço em Novidades na Odontologia",
+        "resumo": "Traduzido de Nature Dentistry (EUA): Pesquisa recente demonstra novas técnicas de atendimento clínico e biotecnologia aplicada.",
+        "cat": "novidades",
+        "fonte": "Nature Dentistry (EUA)",
+        "data": "07/04 13:32",
+        "url": "https://www.nature.com/bdj"
+    },
+    {
+        "titulo": "Notícia 15: Avanço em Pesquisa na Odontologia",
+        "resumo": "Traduzido de ScienceDaily (EUA): Pesquisa recente demonstra novas técnicas de atendimento clínico e biotecnologia aplicada.",
+        "cat": "pesquisa",
+        "fonte": "ScienceDaily (EUA)",
+        "data": "07/04 13:32",
+        "url": "https://www.sciencedaily.com/news/health_medicine/dentistry/"
     }
 ]
