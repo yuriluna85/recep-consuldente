@@ -2,41 +2,46 @@ import json
 from datetime import datetime
 
 def fetch_odontology_news():
-    # Esta lista vai armazenar as 15 notícias
+    # 1. CRIAMOS A LISTA VAZIA NO INÍCIO
     news_list = []
 
-    # Aqui simulamos a estrutura das fontes que você quer
-    # No futuro, você pode usar 'requests' para pegar dados reais desses sites
-    sources = [
-        {"nome": "Portal CFO (Brasil)", "url": "https://website.cfo.org.br/"},
-        {"nome": "Dental Tribune (Global)", "url": "https://www.dental-tribune.com/"},
-        {"nome": "Nature Dentistry (EUA)", "url": "https://www.nature.com/bdj"},
-        {"nome": "ScienceDaily (EUA)", "url": "https://www.sciencedaily.com/news/health_medicine/dentistry/"}
+    # Dados simulando as fontes que você quer (CFO, Nature, Dental Tribune, ScienceDaily)
+    # Aqui estão 15 itens prontos para o seu portal
+    raw_data = [
+        {"t": "Novas Regras do CFO para Odontologia Digital", "c": "novidades", "f": "CFO (Brasil)"},
+        {"t": "Impressão 3D de Esmalte: Avanço na Bioengenharia", "c": "pesquisa", "f": "Nature Dentistry (EUA)"},
+        {"t": "CIOSP 2027 confirma foco em Odontologia Sustentável", "c": "eventos", "f": "CIOSP (Brasil)"},
+        {"t": "Scanner Intraoral com IA detecta microtrincas", "c": "novidades", "f": "Dental Tribune (Alemanha)"},
+        {"t": "Saúde da Gengiva e Prevenção de Alzheimer", "c": "pesquisa", "f": "ScienceDaily (EUA)"},
+        {"t": "FDI World Dental Congress 2026: Istanbul", "c": "eventos", "f": "FDI World (Global)"},
+        {"t": "Nano-robôs para desinfecção de canais radiculares", "c": "pesquisa", "f": "Nature Dentistry (EUA)"},
+        {"t": "CFO lança carteira digital para cirurgiões-dentistas", "c": "novidades", "f": "Portal CFO (Brasil)"},
+        {"t": "Congresso APCD 2026: Inovações na Estética", "c": "eventos", "f": "Revista APCD (Brasil)"},
+        {"t": "Laser de Er:YAG substitui o motor em cavidades", "c": "novidades", "f": "Dental Tribune (EUA)"},
+        {"t": "Vacina contra Cárie: Testes entram na Fase 2", "c": "pesquisa", "f": "ScienceDaily (EUA)"},
+        {"t": "Simpósio de Implantodontia de Curitiba", "c": "eventos", "f": "Dental Press (Brasil)"},
+        {"t": "O uso de Própolis na prevenção da Mucosite", "c": "pesquisa", "f": "Portal CFO (Brasil)"},
+        {"t": "Lançamento: Resina com efeito camaleão 2.0", "c": "novidades", "f": "Odonto News (Brasil)"},
+        {"t": "Webinário Global: O Futuro da Ortodontia", "c": "eventos", "f": "Dental Tribune (Global)"}
     ]
 
-    # Categorias que o seu index.html reconhece
-    categories = ["pesquisa", "eventos", "novidades"]
-
-    # Loop para gerar 15 notícias (5 de cada categoria para teste)
-    for i in range(1, 16):
-        source = sources[i % len(sources)]
-        category = categories[i % len(categories)]
-        
-        item = {
-            "titulo": f"Notícia {i}: Avanço em {category.capitalize()} na Odontologia",
-            "resumo": f"Traduzido de {source['nome']}: Pesquisa recente demonstra novas técnicas de atendimento clínico e biotecnologia aplicada.",
-            "cat": category,
-            "fonte": source['nome'],
+    # 2. ALIMENTAMOS A LISTA COM O LOOP
+    for item in raw_data:
+        news_item = {
+            "titulo": item["t"],
+            "resumo": f"Traduzido de {item['f']}: Notícia relevante sobre os avanços mais recentes do setor para 2026.",
+            "cat": item["c"],
+            "fonte": item["f"],
             "data": datetime.now().strftime("%d/%m %H:%M"),
-            "url": source['url']
+            "url": "https://www.google.com/search?q=" + item["t"].replace(" ", "+")
         }
-        news_list.append(item)
+        news_list.append(news_item) # ADICIONA À LISTA
 
-    # O segredo está aqui: salvamos a LISTA completa (news_list) e não apenas um item
+    # 3. O SEGREDO: SALVAMOS O ARQUIVO FORA DO LOOP (SEM INDENTAÇÃO)
     with open('data.json', 'w', encoding='utf-8') as f:
         json.dump(news_list, f, ensure_ascii=False, indent=4)
     
-    print(f"Sucesso! {len(news_list)} notícias foram salvas no data.json.")
+    print(f"Sucesso! Geradas {len(news_list)} notícias.")
 
 if __name__ == "__main__":
     fetch_odontology_news()
