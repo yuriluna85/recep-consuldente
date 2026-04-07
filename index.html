@@ -41,20 +41,12 @@
         }
 
         .logo-area { display: flex; align-items: center; gap: 15px; }
-        
-        .logo-consuldente {
-            height: 80px; 
-            width: auto;
-            border-radius: 10px;
-        }
+        .logo-consuldente { height: 80px; width: auto; border-radius: 10px; }
 
         .logo-text h1 { margin: 0; font-size: 2.4rem; font-weight: 900; color: #fff; line-height: 1; }
         .logo-text .subtitle { font-size: 0.8rem; color: rgba(255,255,255,0.7); letter-spacing: 2px; text-transform: uppercase; }
         
-        .controls-area {
-            text-align: center;
-            position: absolute; left: 50%; transform: translateX(-50%);
-        }
+        .controls-area { text-align: center; position: absolute; left: 50%; transform: translateX(-50%); }
         .btn-fullscreen {
             background: rgba(255,255,255,0.1); border: 1px solid var(--accent);
             color: #fff; padding: 6px 15px; border-radius: 20px;
@@ -84,33 +76,35 @@
 
         main { flex-grow: 1; position: relative; overflow: hidden; background: #000; }
 
-        #carousel { width: 100%; height: 100%; }
+        #carousel { width: 100%; height: 100%; position: relative; }
+
+        /* ESTILO DOS SLIDES PARA TRANSIÇÃO SUAVE */
         .slide { 
             position: absolute; inset: 0; 
-            opacity: 0; transition: opacity 1.2s ease-in-out; 
+            opacity: 0; 
+            /* Transição de opacidade de 2 segundos para o efeito de cross-fade */
+            transition: opacity 2s ease-in-out; 
             display: flex; align-items: flex-end;
             z-index: 1;
         }
         .slide.active { opacity: 1; z-index: 10; }
 
-        /* AJUSTE PARA IMAGEM NÃO ESTICAR */
         .slide-bg { 
             position: absolute; inset: 0; 
-            background-size: cover; /* Padrão para notícias com foto */
+            background-size: cover;
             background-position: center; 
             background-repeat: no-repeat;
             z-index: -1; 
+            /* Transform inicial */
+            transform: scale(1);
+            /* Transição de zoom lenta (12s) para evitar o pulo abrupto */
+            transition: transform 12s linear;
         }
 
-        /* Classe especial para quando for a Logo da Consuldente */
-        .slide-bg.is-fallback {
-            background-size: 40%; /* Ajusta o tamanho da logo no centro */
-            background-color: #050a14; /* Fundo sólido para destacar a logo */
-        }
+        /* Quando o slide está ativo, ele cresce suavemente */
+        .slide.active .slide-bg { transform: scale(1.12); }
 
-        .slide.active .slide-bg { animation: kenBurns 15s ease-in-out forwards; }
-        
-        @keyframes kenBurns { from { transform: scale(1); } to { transform: scale(1.08); } }
+        .slide-bg.is-fallback { background-size: 40%; background-color: #050a14; }
 
         .slide-overlay { 
             position: absolute; inset: 0; 
@@ -121,11 +115,8 @@
         .tag { background: var(--detalhe); color: #fff; padding: 8px 18px; border-radius: 4px; font-weight: 800; font-size: 0.9rem; text-transform: uppercase; margin-bottom: 15px; display: inline-block; }
         
         .post-date {
-            font-size: 1.1rem;
-            color: var(--accent);
-            font-weight: 600;
-            margin-bottom: 10px;
-            text-transform: uppercase;
+            font-size: 1.1rem; color: var(--accent); font-weight: 600;
+            margin-bottom: 10px; text-transform: uppercase;
             display: flex; align-items: center; gap: 10px;
         }
 
@@ -136,9 +127,12 @@
         .dot { width: 10px; height: 10px; border-radius: 50%; background: rgba(255,255,255,0.2); }
         .dot.active { background: #fff; width: 30px; border-radius: 5px; }
 
-        /* Ajuste nos cards da Grid */
+        .news-card { background: var(--surface); border-radius: 16px; overflow: hidden; border: 1px solid var(--border); }
         .card-img { height: 180px; background-size: cover; background-position: center; background-repeat: no-repeat; }
         .card-img.is-fallback { background-size: contain; background-color: #050a14; }
+        .card-txt { padding: 20px; }
+        .card-source { font-size: 0.75rem; font-weight: 700; color: var(--accent); text-transform: uppercase; margin-bottom: 8px; }
+        .card-txt h3 { margin: 0; font-size: 1.1rem; color: #fff; line-height: 1.4; }
     </style>
 </head>
 <body>
@@ -216,30 +210,21 @@
                 posts.forEach(p => {
                     let thumb = null;
                     let isFallback = false;
-
                     if (!f.rss) {
                         if (p._embedded && p._embedded['wp:featuredmedia']) thumb = p._embedded['wp:featuredmedia'][0].source_url;
                         else if (p.content && p.content.rendered.match(/src="([^"]+)"/)) thumb = p.content.rendered.match(/src="([^"]+)"/)[1];
                     } else { thumb = p.thumbnail || (p.enclosure ? p.enclosure.link : null); }
                     
-                    if (!thumb) {
-                        thumb = IMG_DEFAULT;
-                        isFallback = true;
-                    }
+                    if (!thumb) { thumb = IMG_DEFAULT; isFallback = true; }
 
                     temp.push({
                         id: (f.rss ? (p.guid || p.link) : p.id).toString(),
                         title: (f.rss ? p.title : p.title.rendered).replace(/&#8211;/g, '–').replace(/&#8220;/g, '"').replace(/&#8221;/g, '"').replace(/<[^>]*>?/gm, ''),
-                        source: f.nome, 
-                        img: thumb,
-                        isFallback: isFallback,
-                        date: new Date(f.rss ? p.pubDate : p.date), 
-                        cat: f.cat
+                        source: f.nome, img: thumb, isFallback: isFallback, date: new Date(f.rss ? p.pubDate : p.date), cat: f.cat
                     });
                 });
             } catch (e) { console.warn("Erro: " + f.nome); }
         }
-
         const map = new Map();
         temp.forEach(item => { if(!map.has(item.id)) map.set(item.id, item); });
         dataStore = Array.from(map.values());
@@ -252,7 +237,6 @@
         const carousel = document.getElementById('carousel');
         const grid = document.getElementById('grid-view');
         const dots = document.getElementById('slide-dots');
-        
         if (tab === 'Todos') {
             carousel.style.display = 'block'; dots.style.display = 'flex'; grid.style.display = 'none';
             render();
@@ -265,32 +249,24 @@
     function render() {
         const carousel = document.getElementById('carousel');
         const dotsEl = document.getElementById('slide-dots');
-        
         let queues = {};
         FONTES.forEach(f => { queues[f.nome] = dataStore.filter(n => n.source === f.nome).sort((a,b) => b.date - a.date); });
-        
         let mixedNews = [];
         let hasMore = true;
         let index = 0;
-        
         while(hasMore && mixedNews.length < 60) {
             hasMore = false;
             for(let fonte of FONTES) {
-                if(queues[fonte.nome][index]) {
-                    mixedNews.push(queues[fonte.nome][index]);
-                    hasMore = true;
-                }
+                if(queues[fonte.nome][index]) { mixedNews.push(queues[fonte.nome][index]); hasMore = true; }
             }
             index++;
         }
-
         if (mixedNews.length === 0) return;
         if (slideIdx >= mixedNews.length) slideIdx = 0;
 
         carousel.innerHTML = mixedNews.map((n, i) => {
             const dataPost = n.date.toLocaleDateString('pt-BR');
             const horaPost = n.date.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
-            
             return `
                 <div class="slide ${i === slideIdx ? 'active' : ''}">
                     <div class="slide-bg ${n.isFallback ? 'is-fallback' : ''}" style="background-image: url('${n.img}')"></div>
@@ -305,7 +281,6 @@
         }).join('');
 
         dotsEl.innerHTML = mixedNews.map((_, i) => `<div class="dot ${i === slideIdx ? 'active' : ''}"></div>`).join('');
-        
         clearInterval(autoPlay);
         autoPlay = setInterval(nextSlide, 10000);
     }
@@ -329,7 +304,6 @@
             if (tab === 'Educação') return n.cat === 'EDUCAÇÃO';
             return n.source === tab;
         }).sort((a,b) => b.date - a.date);
-        
         grid.innerHTML = filtered.map(n => `
             <div class="news-card">
                 <div class="card-img ${n.isFallback ? 'is-fallback' : ''}" style="background-image: url('${n.img}')"></div>
