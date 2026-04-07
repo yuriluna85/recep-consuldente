@@ -29,21 +29,6 @@
             flex-direction: column;
         }
 
-        /* OVERLAY DE ENTRADA */
-        #entry-overlay {
-            position: fixed; inset: 0; background: var(--bg);
-            z-index: 9999; display: flex; flex-direction: column;
-            align-items: center; justify-content: center; cursor: pointer;
-            text-align: center; padding: 20px;
-        }
-        .entry-btn {
-            padding: 20px 40px; border: 2px solid var(--accent);
-            border-radius: 50px; color: #fff; font-weight: 700;
-            text-transform: uppercase; letter-spacing: 2px;
-            animation: pulse 2s infinite;
-        }
-        @keyframes pulse { 0%, 100% { transform: scale(1); opacity: 1; } 50% { transform: scale(1.05); opacity: 0.7; } }
-
         /* HEADER RESPONSIVO */
         header {
             min-height: 14vh;
@@ -53,13 +38,6 @@
             border-bottom: 3px solid var(--accent);
             position: relative;
             flex-wrap: wrap; gap: 15px;
-        }
-
-        .fs-info {
-            position: absolute; bottom: 5px; left: 50%;
-            transform: translateX(-50%); font-size: 0.6rem;
-            color: rgba(255,255,255,0.3); text-transform: uppercase;
-            letter-spacing: 1px; display: block;
         }
 
         .logo-area { display: flex; align-items: center; gap: 15px; }
@@ -73,11 +51,29 @@
         .logo-text h1 { margin: 0; font-size: 1.8rem; font-weight: 900; color: #fff; }
         .logo-text .subtitle { font-size: 0.7rem; color: rgba(255,255,255,0.6); letter-spacing: 2px; text-transform: uppercase; }
         
+        /* BOTÃO TELA CHEIA E INFO */
+        .controls-area {
+            display: flex; flex-direction: column; align-items: center; gap: 8px;
+            position: absolute; left: 50%; transform: translateX(-50%);
+        }
+        .btn-fullscreen {
+            background: rgba(255,255,255,0.1); border: 1px solid var(--accent);
+            color: #fff; padding: 6px 15px; border-radius: 20px;
+            font-size: 0.7rem; font-weight: 700; cursor: pointer;
+            text-transform: uppercase; transition: 0.3s;
+            display: flex; align-items: center; gap: 8px;
+        }
+        .btn-fullscreen:hover { background: var(--accent); }
+        .fs-info {
+            font-size: 0.55rem; color: rgba(255,255,255,0.4);
+            text-transform: uppercase; letter-spacing: 1px;
+        }
+
         .clock-area { text-align: right; }
         #clock { font-size: 3rem; font-weight: 900; line-height: 1; color: #fff; }
         #date-top { font-size: 0.8rem; color: rgba(255,255,255,0.6); text-transform: uppercase; }
 
-        /* NAV BAR RESPONSIVA */
+        /* NAV BAR */
         .nav-bar {
             min-height: 6vh; background: rgba(0,0,0,0.5); backdrop-filter: blur(10px);
             display: flex; align-items: center; padding: 5px 5%; gap: 8px;
@@ -109,14 +105,15 @@
         .tag { background: var(--detalhe); color: #fff; padding: 5px 12px; border-radius: 4px; font-weight: 700; font-size: 0.7rem; text-transform: uppercase; margin-bottom: 15px; display: inline-block; width: fit-content; }
         .title { font-size: 1.8rem; font-weight: 900; line-height: 1.2; margin: 0 0 15px; text-shadow: 0 4px 10px rgba(0,0,0,1); }
 
-        /* GRID VIEW RESPONSIVO */
-        #grid-view { 
-            display: none; padding: 20px; 
-            grid-template-columns: 1fr; gap: 20px; 
-            width: 100%; overflow-y: auto; background: var(--bg); 
+        /* GRID VIEW */
+        #grid-view { display: none; padding: 20px; grid-template-columns: 1fr; gap: 20px; width: 100%; overflow-y: auto; background: var(--bg); }
+
+        /* MEDIA QUERIES */
+        @media (max-width: 767px) {
+            .controls-area { position: static; transform: none; width: 100%; order: 3; }
+            header { justify-content: space-around; }
         }
 
-        /* MEDIA QUERIES (TABLET E DESKTOP) */
         @media (min-width: 768px) {
             .logo-text h1 { font-size: 2.6rem; }
             #clock { font-size: 5rem; }
@@ -130,7 +127,6 @@
             #grid-view { grid-template-columns: repeat(3, 1fr); }
         }
 
-        /* ESTILO DOS CARDS NO GRID */
         .news-card { background: var(--surface); border-radius: 16px; overflow: hidden; border: 1px solid var(--border); display: flex; flex-direction: column; }
         .card-img { height: 180px; background-size: cover; background-position: center; }
         .card-txt { padding: 15px; flex: 1; }
@@ -142,12 +138,7 @@
         .dot.active { background: #fff; width: 20px; border-radius: 3px; }
     </style>
 </head>
-<body onclick="toggleFullScreen()">
-
-<div id="entry-overlay">
-    <div class="entry-btn">Toque para iniciar</div>
-    <p style="margin-top: 15px; font-size: 0.8rem; opacity: 0.6;">Otimizado para TV, Tablet e Celular</p>
-</div>
+<body>
 
 <header>
     <div class="logo-area">
@@ -157,7 +148,14 @@
             <div class="subtitle">News &amp; Odonto</div>
         </div>
     </div>
-    <div class="fs-info">ESC ou F11 para sair da tela cheia</div>
+
+    <div class="controls-area">
+        <button class="btn-fullscreen" onclick="toggleFullScreen()">
+            <span id="fs-icon">⛶</span> <span id="fs-text">Expandir Tela</span>
+        </button>
+        <div class="fs-info">Alternar modo teclando F11 ou ESC</div>
+    </div>
+
     <div class="clock-area">
         <div id="clock">00:00</div>
         <div id="date-top">carregando...</div>
@@ -190,15 +188,35 @@
     let autoPlay;
     const IMG_DEFAULT = "https://github.com/yuriluna85/recep-consuldente/blob/main/consudente.png?raw=true";
 
+    // FUNÇÃO TELA CHEIA CONTROLADA
     function toggleFullScreen() {
-        const overlay = document.getElementById('entry-overlay');
-        if (overlay) overlay.style.display = 'none';
-        
-        // No celular, o Fullscreen pode não ser suportado em todos os browsers (como iOS Safari)
-        if (!document.fullscreenElement && document.documentElement.requestFullscreen) {
-            document.documentElement.requestFullscreen().catch(err => console.log("Tela cheia não ativada"));
+        const btnText = document.getElementById('fs-text');
+        const btnIcon = document.getElementById('fs-icon');
+
+        if (!document.fullscreenElement) {
+            document.documentElement.requestFullscreen().then(() => {
+                btnText.innerText = "Reduzir Tela";
+                btnIcon.innerText = "内";
+            }).catch(err => console.log(err));
+        } else {
+            if (document.exitFullscreen) {
+                document.exitFullscreen().then(() => {
+                    btnText.innerText = "Expandir Tela";
+                    btnIcon.innerText = "⛶";
+                });
+            }
         }
     }
+
+    // Monitora saída de tela cheia (pelo ESC do teclado) para atualizar o botão
+    document.addEventListener('fullscreenchange', () => {
+        const btnText = document.getElementById('fs-text');
+        const btnIcon = document.getElementById('fs-icon');
+        if (!document.fullscreenElement) {
+            btnText.innerText = "Expandir Tela";
+            btnIcon.innerText = "⛶";
+        }
+    });
 
     function startClock() {
         const update = () => {
@@ -213,7 +231,7 @@
         let temp = [];
         for (const f of FONTES) {
             try {
-                const response = await fetch(f.url + (f.rss ? "" : "?per_page=10&_embed&_t=" + Date.now()));
+                const response = await fetch(f.url + (f.rss ? "" : "?per_page=12&_embed&_t=" + Date.now()));
                 const rawData = await response.json();
                 const posts = f.rss ? rawData.items : rawData;
                 posts.forEach(p => {
@@ -223,6 +241,8 @@
                         else if (p.content.rendered.match(/src="([^"]+)"/)) thumb = p.content.rendered.match(/src="([^"]+)"/)[1];
                     } else { thumb = p.thumbnail || (p.enclosure ? p.enclosure.link : IMG_DEFAULT); }
                     
+                    if (!thumb || thumb === "") thumb = IMG_DEFAULT;
+
                     temp.push({
                         title: (f.rss ? p.title : p.title.rendered).replace(/&#8211;/g, '–').replace(/&#8220;/g, '"').replace(/&#8221;/g, '"'),
                         source: f.nome, img: thumb, date: new Date(f.rss ? p.pubDate : p.date)
