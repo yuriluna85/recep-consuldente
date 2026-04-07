@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CONSULDENTE NEWS</title>
+    <title>CONSULDENTE NEWS - Painel de Recepção</title>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;900&display=swap');
 
@@ -32,7 +32,7 @@
         /* HEADER OTIMIZADO PARA VISIBILIDADE */
         header {
             flex-shrink: 0;
-            min-height: 16vh; /* Aumentado levemente para caber fontes maiores */
+            min-height: 16vh;
             background: linear-gradient(135deg, #003049 0%, #00405e 100%);
             display: flex; justify-content: space-between;
             align-items: center; padding: 15px 50px;
@@ -68,8 +68,8 @@
         .clock-area { text-align: right; min-width: 250px; }
         #clock { font-size: 4.8rem; font-weight: 900; line-height: 0.9; color: #fff; letter-spacing: -2px; }
         #date-top { 
-            font-size: 1.4rem; /* Data bem maior para ver ao longe */
-            color: #fff; /* Branco puro para contraste */
+            font-size: 1.4rem; 
+            color: #fff;
             font-weight: 600;
             text-transform: uppercase;
             margin-top: 5px;
@@ -151,17 +151,19 @@
             #clock { font-size: 3rem; }
             #date-top { font-size: 1rem; }
             .title { font-size: 2.2rem; }
+            header { padding: 15px 20px; }
+            .nav-bar { padding: 0 20px; }
         }
+
+        .slide-dots { position: absolute; bottom: 40px; right: 50px; z-index: 30; display: flex; gap: 10px; }
+        .dot { width: 10px; height: 10px; border-radius: 50%; background: rgba(255,255,255,0.2); }
+        .dot.active { background: #fff; width: 30px; border-radius: 5px; }
 
         .news-card { background: var(--surface); border-radius: 16px; overflow: hidden; border: 1px solid var(--border); }
         .card-img { height: 180px; background-size: cover; background-position: center; }
         .card-txt { padding: 20px; }
         .card-source { font-size: 0.75rem; font-weight: 700; color: var(--accent); text-transform: uppercase; margin-bottom: 8px; }
         .card-txt h3 { margin: 0; font-size: 1.1rem; color: #fff; line-height: 1.4; }
-
-        .slide-dots { position: absolute; bottom: 40px; right: 50px; z-index: 30; display: flex; gap: 10px; }
-        .dot { width: 10px; height: 10px; border-radius: 50%; background: rgba(255,255,255,0.2); }
-        .dot.active { background: #fff; width: 30px; border-radius: 5px; }
     </style>
 </head>
 <body>
@@ -188,9 +190,8 @@
 
 <div class="nav-bar">
     <button class="btn-filter active" onclick="changeTab('Todos', this)">⊡ Geral</button>
-    <button class="btn-filter" onclick="changeTab('CFO Federal', this)">CFO</button>
-    <button class="btn-filter" onclick="changeTab('ABO', this)">ABO</button>
-    <button class="btn-filter" onclick="changeTab('Feira', this)">Feira</button>
+    <button class="btn-filter" onclick="changeTab('Feira', this)">Local (Feira)</button>
+    <button class="btn-filter" onclick="changeTab('G1 Geral', this)">G1 Brasil</button>
 </div>
 
 <main>
@@ -201,10 +202,10 @@
 
 <script>
     const FONTES = [
-        {"nome": "CFO Federal", "url": "https://website.cfo.org.br/wp-json/wp/v2/posts", "cat": "ODONTO"},
-        {"nome": "ABO", "url": "https://api.rss2json.com/v1/api.json?rss_url=https://www.abo.org.br/feed", "cat": "ODONTO", "rss": true},
+        {"nome": "G1 Geral", "url": "https://api.rss2json.com/v1/api.json?rss_url=https://g1.globo.com/dynamo/rss2.xml", "cat": "BRASIL", "rss": true},
         {"nome": "Acorda Cidade", "url": "https://www.acordacidade.com.br/wp-json/wp/v2/posts", "cat": "FEIRA"},
-        {"nome": "G1 Feira", "url": "https://api.rss2json.com/v1/api.json?rss_url=https://g1.globo.com/dynamo/ba/feira-de-santana-regiao/rss2.xml", "cat": "NOTÍCIAS", "rss": true}
+        {"nome": "G1 Feira", "url": "https://api.rss2json.com/v1/api.json?rss_url=https://g1.globo.com/dynamo/ba/feira-de-santana-regiao/rss2.xml", "cat": "FEIRA", "rss": true},
+        {"nome": "Folha do Estado", "url": "https://www.jornalfolhadoestado.com/wp-json/wp/v2/posts", "cat": "FEIRA"}
     ];
 
     let dataStore = [];
@@ -224,9 +225,7 @@
         const update = () => {
             const now = new Date();
             document.getElementById('clock').innerText = now.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
-            // Data formatada para ser grande e visível
-            const options = { day: '2-digit', month: 'long', year: 'numeric' };
-            document.getElementById('date-top').innerText = now.toLocaleDateString('pt-BR', options);
+            document.getElementById('date-top').innerText = now.toLocaleDateString('pt-BR', { day: '2-digit', month: 'long', year: 'numeric' });
         };
         setInterval(update, 1000); update();
     }
@@ -235,9 +234,11 @@
         let temp = [];
         for (const f of FONTES) {
             try {
-                const response = await fetch(f.url + (f.rss ? "" : "?per_page=12&_embed&_t=" + Date.now()));
+                // Buscando 10 posts de cada fonte para um carrossel robusto
+                const response = await fetch(f.url + (f.rss ? "" : "?per_page=10&_embed&_t=" + Date.now()));
                 const rawData = await response.json();
                 const posts = f.rss ? rawData.items : rawData;
+                
                 posts.forEach(p => {
                     let thumb = IMG_DEFAULT;
                     if (!f.rss) {
@@ -245,12 +246,13 @@
                         else if (p.content.rendered.match(/src="([^"]+)"/)) thumb = p.content.rendered.match(/src="([^"]+)"/)[1];
                     } else { thumb = p.thumbnail || (p.enclosure ? p.enclosure.link : IMG_DEFAULT); }
                     if (!thumb || thumb === "") thumb = IMG_DEFAULT;
+                    
                     temp.push({
                         title: (f.rss ? p.title : p.title.rendered).replace(/&#8211;/g, '–').replace(/&#8220;/g, '"').replace(/&#8221;/g, '"'),
-                        source: f.nome, img: thumb, date: new Date(f.rss ? p.pubDate : p.date)
+                        source: f.nome, img: thumb, date: new Date(f.rss ? p.pubDate : p.date), cat: f.cat
                     });
                 });
-            } catch (e) { console.warn("Erro: " + f.nome); }
+            } catch (e) { console.warn("Erro em: " + f.nome); }
         }
         dataStore = temp.sort((a, b) => b.date - a.date);
         render();
@@ -274,22 +276,22 @@
     function render() {
         const carousel = document.getElementById('carousel');
         const dotsEl = document.getElementById('slide-dots');
-        let mixedNews = [];
-        FONTES.forEach(f => {
-            const daFonte = dataStore.filter(n => n.source === f.nome).slice(0, 3);
-            mixedNews = mixedNews.concat(daFonte);
-        });
-        const topNews = mixedNews.sort((a, b) => b.date - a.date).slice(0, 10);
+        
+        // MIXER AMPLIADO: Pega todos os posts carregados (até 40 notícias)
+        // Isso garante que o carrossel "Todos" exiba tudo o que foi encontrado
+        const topNews = dataStore.slice(0, 40); 
+
         carousel.innerHTML = topNews.map((n, i) => `
             <div class="slide ${i === 0 ? 'active' : ''}">
                 <div class="slide-bg" style="background-image: url('${n.img}')"></div>
                 <div class="slide-overlay"></div>
                 <div class="slide-info">
-                    <span class="tag">${n.source}</span>
+                    <span class="tag">${n.source} | ${n.cat}</span>
                     <h2 class="title">${n.title}</h2>
                 </div>
             </div>
         `).join('');
+
         dotsEl.innerHTML = topNews.map((_, i) => `<div class="dot ${i === 0 ? 'active' : ''}"></div>`).join('');
         slideIdx = 0;
         clearInterval(autoPlay);
@@ -309,7 +311,12 @@
 
     function renderGrid(tab) {
         const grid = document.getElementById('grid-view');
-        const filtered = dataStore.filter(n => tab === 'Feira' ? (n.source === 'G1 Feira' || n.source === 'Acorda Cidade') : n.source === tab);
+        // Filtra por 'Feira' (Local) ou por 'G1 Geral' (Brasil)
+        const filtered = dataStore.filter(n => {
+            if(tab === 'Feira') return n.cat === 'FEIRA';
+            return n.source === tab;
+        });
+        
         grid.innerHTML = filtered.map(n => `
             <div class="news-card">
                 <div class="card-img" style="background-image: url('${n.img}')"></div>
