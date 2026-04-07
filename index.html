@@ -146,6 +146,7 @@
 <div class="nav-bar">
     <button class="btn-filter active" onclick="changeTab('Todos', this)">⊡ Geral</button>
     <button class="btn-filter" onclick="changeTab('Feira', this)">Local (Feira)</button>
+    <button class="btn-filter" onclick="changeTab('Educação', this)">IFBaiano</button>
     <button class="btn-filter" onclick="changeTab('G1 Geral', this)">G1 Brasil</button>
 </div>
 
@@ -159,6 +160,7 @@
     const FONTES = [
         {"nome": "G1 Geral", "url": "https://api.rss2json.com/v1/api.json?rss_url=https://g1.globo.com/dynamo/rss2.xml", "cat": "BRASIL", "rss": true},
         {"nome": "Acorda Cidade", "url": "https://www.acordacidade.com.br/wp-json/wp/v2/posts", "cat": "FEIRA"},
+        {"nome": "IFBaiano", "url": "https://www.ifbaiano.edu.br/portal/wp-json/wp/v2/posts", "cat": "EDUCAÇÃO"},
         {"nome": "G1 Feira", "url": "https://api.rss2json.com/v1/api.json?rss_url=https://g1.globo.com/dynamo/ba/feira-de-santana-regiao/rss2.xml", "cat": "FEIRA", "rss": true},
         {"nome": "Folha do Estado", "url": "https://www.jornalfolhadoestado.com/wp-json/wp/v2/posts", "cat": "FEIRA"}
     ];
@@ -189,7 +191,8 @@
         let temp = [];
         for (const f of FONTES) {
             try {
-                const response = await fetch(f.url + (f.rss ? "" : "?per_page=12&_embed&_t=" + Date.now()));
+                // Buscamos os posts mais recentes (WP JSON ou RSS via JSON)
+                const response = await fetch(f.url + (f.rss ? "" : "?per_page=10&_embed&_t=" + Date.now()));
                 const rawData = await response.json();
                 const posts = f.rss ? rawData.items : rawData;
                 
@@ -197,19 +200,18 @@
                     let thumb = IMG_DEFAULT;
                     if (!f.rss) {
                         if (p._embedded && p._embedded['wp:featuredmedia']) thumb = p._embedded['wp:featuredmedia'][0].source_url;
-                        else if (p.content.rendered.match(/src="([^"]+)"/)) thumb = p.content.rendered.match(/src="([^"]+)"/)[1];
+                        else if (p.content && p.content.rendered.match(/src="([^"]+)"/)) thumb = p.content.rendered.match(/src="([^"]+)"/)[1];
                     } else { thumb = p.thumbnail || (p.enclosure ? p.enclosure.link : IMG_DEFAULT); }
                     
                     temp.push({
-                        id: (f.rss ? (p.guid || p.link) : p.id).toString(), // Garantindo ID como String
-                        title: (f.rss ? p.title : p.title.rendered).replace(/&#8211;/g, '–').replace(/&#8220;/g, '"').replace(/&#8221;/g, '"'),
+                        id: (f.rss ? (p.guid || p.link) : p.id).toString(),
+                        title: (f.rss ? p.title : p.title.rendered).replace(/&#8211;/g, '–').replace(/&#8220;/g, '"').replace(/&#8221;/g, '"').replace(/<[^>]*>?/gm, ''),
                         source: f.nome, img: thumb || IMG_DEFAULT, date: new Date(f.rss ? p.pubDate : p.date), cat: f.cat
                     });
                 });
-            } catch (e) { console.warn("Erro: " + f.nome); }
+            } catch (e) { console.warn("Erro ao buscar " + f.nome); }
         }
 
-        // Remover duplicados por ID de forma segura
         const map = new Map();
         temp.forEach(item => { if(!map.has(item.id)) map.set(item.id, item); });
         dataStore = Array.from(map.values()).sort((a, b) => b.date - a.date);
@@ -237,11 +239,8 @@
         const carousel = document.getElementById('carousel');
         const dotsEl = document.getElementById('slide-dots');
         
-        // Pega as 40 mais novas. Se não tiver nada, para por aqui.
-        const topNews = dataStore.slice(0, 40);
+        const topNews = dataStore.slice(0, 50); // Aumentado para 50 para comportar a nova fonte
         if (topNews.length === 0) return;
-
-        // Reset do índice para evitar que ele tente acessar um slide que sumiu
         if (slideIdx >= topNews.length) slideIdx = 0;
 
         carousel.innerHTML = topNews.map((n, i) => `
@@ -257,7 +256,6 @@
 
         dotsEl.innerHTML = topNews.map((_, i) => `<div class="dot ${i === slideIdx ? 'active' : ''}"></div>`).join('');
         
-        // Reinicia o autoplay
         clearInterval(autoPlay);
         autoPlay = setInterval(nextSlide, 10000);
     }
@@ -276,7 +274,11 @@
 
     function renderGrid(tab) {
         const grid = document.getElementById('grid-view');
-        const filtered = dataStore.filter(n => (tab === 'Feira') ? n.cat === 'FEIRA' : n.source === tab);
+        const filtered = dataStore.filter(n => {
+            if (tab === 'Feira') return n.cat === 'FEIRA';
+            if (tab === 'Educação') return n.cat === 'EDUCAÇÃO';
+            return n.source === tab;
+        });
         
         grid.innerHTML = filtered.map(n => `
             <div class="news-card">
@@ -291,7 +293,7 @@
 
     startClock();
     fetchNews();
-    setInterval(fetchNews, 1800000); // Atualiza a cada 30 min
+    setInterval(fetchNews, 1800000); // 30 min
 </script>
 </body>
 </html>
