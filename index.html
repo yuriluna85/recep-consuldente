@@ -3,20 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Consuldente News | Radar v1.1</title>
+    <title>Consuldente News | v1.2</title>
     <link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;700&family=DM+Serif+Display&display=swap" rel="stylesheet">
     <style>
         *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-        
         body { 
             font-family: 'Sora', sans-serif; 
-            background-color: #D6EAF8; /* Azul Glacial (mais escuro e profissional) */
+            background-color: #D6EAF8; 
             overflow: hidden; 
             height: 100vh; 
             display: flex; 
             flex-direction: column; 
         }
-
         header { 
             background: #fff; 
             padding: 15px 40px; 
@@ -25,59 +23,120 @@
             align-items: center; 
             border-bottom: 2px solid #aecadb; 
         }
-
         .logo { font-size: 26px; font-weight: 700; color: #0d6b36; text-decoration: none; }
         .logo span { font-weight: 300; color: #507ea1; }
         .clock { font-size: 22px; font-weight: 700; color: #2c5d85; }
-
         main { flex: 1; display: flex; align-items: center; justify-content: center; padding: 20px; position: relative; }
-
         #radar-panel { 
-            width: 95%; 
-            max-width: 1400px; 
-            height: 82vh; 
-            background: #fff; 
-            border-radius: 30px; 
-            overflow: hidden; 
-            box-shadow: 0 30px 70px rgba(44, 93, 133, 0.25); 
-            position: relative; 
-            cursor: pointer; 
-            display: flex; 
-            flex-direction: column; 
+            width: 95%; max-width: 1400px; height: 82vh; background: #fff; 
+            border-radius: 30px; overflow: hidden; box-shadow: 0 30px 70px rgba(44, 93, 133, 0.25); 
+            position: relative; cursor: pointer; display: flex; flex-direction: column; 
         }
-
-        .img-box { width: 100%; height: 60%; background: #eee; }
+        .img-box { width: 100%; height: 60%; background: #eee; position: relative; }
         #s-img { width: 100%; height: 100%; object-fit: cover; transition: opacity 0.5s; opacity: 0; }
-
         .slide-content { padding: 40px; flex: 1; display: flex; flex-direction: column; justify-content: center; }
         .badge { display: inline-block; padding: 6px 15px; background: #e1effa; color: #2c5d85; border-radius: 8px; font-weight: 700; font-size: 14px; margin-bottom: 20px; width: fit-content; text-transform: uppercase; }
-        
         #s-title { font-family: 'DM Serif Display', serif; font-size: 42px; line-height: 1.1; margin-bottom: 20px; color: #111; }
         .meta { font-size: 18px; font-weight: 600; color: #5d8aa8; }
-
         .p-container { position: absolute; bottom: 0; left: 0; width: 100%; height: 8px; background: #eef4f8; }
         #p-bar { height: 100%; background: #0d6b36; width: 0%; }
-
-        /* Rodapé de Versionamento */
-        footer {
-            position: absolute;
-            bottom: 10px;
-            right: 40px;
-            font-size: 11px;
-            font-weight: 700;
-            color: #5d8aa8;
-            letter-spacing: 1px;
-        }
+        footer { position: absolute; bottom: 10px; right: 40px; font-size: 11px; font-weight: 700; color: #5d8aa8; letter-spacing: 1px; }
     </style>
 </head>
 <body>
     <header>
         <a href="#" class="logo">Consuldente <span>News</span></a>
-        <div id="clock" class="clock">00:00:00</div>
+        <div id="clock" class="clock">--:--:--</div>
     </header>
-
     <main>
         <div id="radar-panel" onclick="openLink()">
-            <div class="img-box"><img id="s-img" src=""></div>
+            <div class="img-box"><img id="s-img" src="" alt=""></div>
             <div class="slide-content">
-                <span id="s-badge" class="badge">
+                <span id="s-badge" class="badge">Aguarde...</span>
+                <h2 id="s-title">Iniciando Painel Digital...</h2>
+                <div class="meta">FONTE: <strong id="s-fonte" style="color:#0d6b36">---</strong> | HORA: <strong id="s-data">--:--</strong></div>
+            </div>
+            <div class="p-container"><div id="p-bar"></div></div>
+        </div>
+        <footer>REVISION v1.2</footer>
+    </main>
+    <script>
+        let news = [];
+        let idx = 0;
+        const TIME = 15000;
+
+        function updateClock() {
+            const clockEl = document.getElementById('clock');
+            if (clockEl) {
+                clockEl.innerText = new Date().toLocaleTimeString('pt-BR');
+            }
+        }
+
+        async function init() {
+            updateClock();
+            setInterval(updateClock, 1000);
+            try {
+                const res = await fetch('./data.json?v=' + Date.now());
+                if (!res.ok) throw new Error('Falha ao ler JSON');
+                news = await res.json();
+                if (news && news.length > 0) {
+                    startRadar();
+                } else {
+                    document.getElementById('s-title').innerText = "Radar vazio. Aguarde atualização.";
+                }
+            } catch (e) {
+                console.error(e);
+                document.getElementById('s-title').innerText = "Erro ao carregar dados.";
+            }
+        }
+
+        function startRadar() {
+            show();
+            setInterval(show, TIME);
+        }
+
+        function preload(url) {
+            return new Promise((resolve) => {
+                const i = new Image();
+                i.src = url;
+                i.onload = () => resolve(url);
+                i.onerror = () => resolve("https://picsum.photos/seed/error/800/400");
+            });
+        }
+
+        async function show() {
+            if (!news || news.length === 0) return;
+            const n = news[idx];
+            const img = document.getElementById('s-img');
+            const bar = document.getElementById('p-bar');
+            
+            bar.style.transition = 'none';
+            bar.style.width = '0%';
+            img.style.opacity = 0;
+            
+            const url = await preload(n.img);
+            
+            img.src = url;
+            document.getElementById('s-badge').innerText = n.cat;
+            document.getElementById('s-title').innerText = n.titulo;
+            document.getElementById('s-fonte').innerText = n.fonte;
+            document.getElementById('s-data').innerText = n.data;
+            img.style.opacity = 1;
+            
+            setTimeout(() => {
+                bar.style.transition = `width ${TIME}ms linear`;
+                bar.style.width = '100%';
+            }, 100);
+            
+            idx = (idx + 1) % news.length;
+        }
+
+        function openLink() {
+            const currentItem = news[idx === 0 ? news.length - 1 : idx - 1];
+            if (currentItem && currentItem.url) window.open(currentItem.url, '_blank');
+        }
+
+        window.onload = init;
+    </script>
+</body>
+</html>
