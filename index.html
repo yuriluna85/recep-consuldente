@@ -3,284 +3,632 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Radar Odonto - Recepção</title>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.5.28/jspdf.plugin.autotable.min.js"></script>
-    
+    <title>CONSULDENTE NEWS - Painel de Recepção</title>
     <style>
-        :root { 
-            /* Nova Paleta: Saúde/Odonto */
-            --odonto-primario: #0077b6; 
-            --odonto-secundario: #00b4d8; 
-            --odonto-dark: #023e8a;
-            --bg-light: #f8fdff;
-            --card-bg: rgba(255, 255, 255, 0.98);
-            --txt-primario: #2b2d42;
-            --txt-secundario: #6c757d;
-        }
-        
-        @keyframes meshGradient {
-            0% { background-position: 0% 50%; }
-            50% { background-position: 100% 50%; }
-            100% { background-position: 0% 50%; }
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;900&display=swap');
+
+        :root {
+            --primario: #003049;
+            --accent: #669bbc;
+            --detalhe: #c1121f;
+            --detalhe2: #f77f00;
+            --bg: #0a0f1a;
+            --surface: rgba(255,255,255,0.05);
+            --surface2: rgba(255,255,255,0.09);
+            --border: rgba(255,255,255,0.1);
         }
 
-        body { 
-            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; 
-            background: linear-gradient(-45deg, #ffffff, #eef9ff, #f0f4f8, #ffffff);
-            background-size: 400% 400%;
-            animation: meshGradient 20s ease infinite;
-            margin: 0; padding: 0; min-height: 100vh;
-            display: flex; flex-direction: column;
-        }
-        
-        header { 
-            background: #fff; 
-            padding: 15px 35px; border-radius: 0 0 25px 25px; 
-            box-shadow: 0 4px 20px rgba(0,119,182,0.1);
-            border-bottom: 6px solid var(--odonto-primario);
-            margin-bottom: 20px;
-            display: flex; align-items: center; position: relative;
-        }
-        
-        .header-left { display: flex; align-items: center; margin-right: auto; }
-        .logo-placeholder { 
-            width: 60px; height: 60px; 
-            background: var(--odonto-primario); 
-            border-radius: 12px;
-            display: flex; align-items: center; justify-content: center;
-            color: white; font-size: 30px;
-        }
-        h1 { color: var(--odonto-dark); font-size: 1.6rem; margin: 0; font-weight: 800; margin-left: 20px; }
-        
-        .header-right { text-align: right; border-left: 2px solid #eee; padding-left: 20px; }
-        #clock { font-size: 2rem; font-weight: 900; color: var(--odonto-dark); line-height: 1; }
-        #date-top { font-size: 0.85rem; color: var(--odonto-secundario); font-weight: 700; text-transform: uppercase; }
+        * { box-sizing: border-box; }
 
-        .main-content { padding: 0 20px 100px 20px; flex: 1; }
-
-        .progress-container { max-width: 1200px; margin: 0 auto 10px auto; height: 6px; background: #e0e0e0; border-radius: 10px; overflow: hidden; }
-        #bar-fill { width: 100%; height: 100%; background: var(--odonto-secundario); transition: width 1s linear; }
-        
-        #status-console { 
-            font-family: 'Courier New', monospace; font-size: 0.8rem; color: #00b4d8; 
-            background: #0d1b2a; padding: 10px; border-radius: 8px; 
-            max-width: 1200px; margin: 0 auto 20px auto;
+        body {
+            font-family: 'Inter', sans-serif;
+            background: var(--bg);
+            color: #fff;
+            margin: 0; padding: 0;
+            overflow: hidden;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
         }
 
-        .filters { max-width: 1200px; margin: 15px auto; display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; }
-        .btn-filter { background: #fff; border: 1px solid #ddd; color: var(--txt-secundario); padding: 8px 18px; border-radius: 20px; cursor: pointer; font-size: 0.8rem; font-weight: 600; transition: 0.3s; }
-        .btn-filter.active, .btn-filter:hover { background: var(--odonto-primario); color: #fff; border-color: var(--odonto-primario); transform: translateY(-2px); }
-
-        #news-container { max-width: 1400px; margin: 0 auto; display: grid; grid-template-columns: 1fr; gap: 20px; }
-        @media (min-width: 1024px) { #news-container { grid-template-columns: 1fr 1fr; } .featured { grid-column: 1 / span 2; } }
-
-        .card { display: flex; background: var(--card-bg); border-radius: 15px; overflow: hidden; text-decoration: none; color: inherit; height: 180px; border-left: 8px solid var(--odonto-secundario); transition: 0.3s; box-shadow: 0 6px 15px rgba(0,0,0,0.05); }
-        .card.featured { height: 220px; border-left-color: var(--odonto-dark); }
-        .card:hover { transform: scale(1.01); box-shadow: 0 10px 25px rgba(0,0,182,0.1); }
-
-        .img-box { position: relative; width: 30%; min-width: 180px; height: 100%; background: #f0f4f8; overflow: hidden; }
-        .img-src { width: 100%; height: 100%; background-size: cover; background-position: center; transition: 0.5s; }
-        .badge { position: absolute; top: 0; left: 0; background: var(--odonto-primario); color: #fff; font-size: 0.7rem; font-weight: 800; padding: 6px 12px; border-bottom-right-radius: 12px; text-transform: uppercase; }
-
-        .info { padding: 20px; display: flex; flex-direction: column; justify-content: center; width: 70%; }
-        .title { margin: 0; font-size: 1.2rem; line-height: 1.3; font-weight: 700; color: var(--odonto-dark); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
-        .source-tag { font-size: 0.75rem; color: var(--odonto-secundario); font-weight: 800; margin-bottom: 5px; text-transform: uppercase; }
-        .date { font-size: 0.85rem; color: var(--txt-secundario); margin-top: 10px; }
-
-        footer {
-            background: rgba(255, 255, 255, 0.95); backdrop-filter: blur(5px);
-            padding: 12px; position: fixed; bottom: 0; width: 100%;
-            display: flex; justify-content: center; border-top: 1px solid #eee; z-index: 1000;
+        /* ===== HEADER ===== */
+        header {
+            height: 14vh;
+            background: linear-gradient(135deg, #003049 0%, #00405e 100%);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0 50px;
+            border-bottom: 3px solid var(--accent);
+            position: relative;
+            overflow: hidden;
         }
 
-        .btn-pdf { 
-            background: var(--odonto-dark); color: white; border: none; 
-            padding: 10px 25px; border-radius: 25px; cursor: pointer; 
-            font-size: 0.85rem; font-weight: 700; transition: 0.3s;
+        header::before {
+            content: '';
+            position: absolute;
+            top: -60px; right: -60px;
+            width: 200px; height: 200px;
+            background: rgba(102,155,188,0.12);
+            border-radius: 50%;
         }
-        .btn-pdf:hover { background: #000; }
+
+        header::after {
+            content: '';
+            position: absolute;
+            bottom: -80px; right: 200px;
+            width: 160px; height: 160px;
+            background: rgba(102,155,188,0.07);
+            border-radius: 50%;
+        }
+
+        .logo-area {
+            display: flex;
+            align-items: center;
+            gap: 22px;
+            z-index: 1;
+        }
+
+        .logo-icon-wrap {
+            width: 72px; height: 72px;
+            background: rgba(255,255,255,0.15);
+            border-radius: 18px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2.8rem;
+            border: 1px solid rgba(255,255,255,0.2);
+        }
+
+        .logo-text h1 {
+            margin: 0 0 2px;
+            font-size: 2.6rem;
+            font-weight: 900;
+            letter-spacing: 1px;
+            color: #fff;
+        }
+
+        .logo-text .subtitle {
+            font-size: 0.85rem;
+            font-weight: 400;
+            color: rgba(255,255,255,0.6);
+            letter-spacing: 3px;
+            text-transform: uppercase;
+        }
+
+        .logo-text .badge {
+            display: inline-block;
+            background: var(--detalhe);
+            color: #fff;
+            font-size: 0.65rem;
+            font-weight: 700;
+            letter-spacing: 2px;
+            padding: 3px 10px;
+            border-radius: 4px;
+            margin-right: 8px;
+            text-transform: uppercase;
+        }
+
+        .clock-area {
+            text-align: right;
+            z-index: 1;
+        }
+
+        #clock {
+            font-size: 5rem;
+            font-weight: 900;
+            line-height: 1;
+            color: #fff;
+            letter-spacing: -3px;
+        }
+
+        #date-top {
+            font-size: 0.95rem;
+            font-weight: 400;
+            color: rgba(255,255,255,0.6);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-top: 4px;
+        }
+
+        /* ===== NAV BAR ===== */
+        .nav-bar {
+            height: 6vh;
+            background: rgba(0,0,0,0.5);
+            backdrop-filter: blur(10px);
+            display: flex;
+            align-items: center;
+            padding: 0 50px;
+            gap: 8px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .btn-filter {
+            background: none;
+            border: 1px solid transparent;
+            color: rgba(255,255,255,0.45);
+            font-family: 'Inter', sans-serif;
+            font-weight: 600;
+            font-size: 0.8rem;
+            cursor: pointer;
+            transition: all 0.25s;
+            padding: 6px 18px;
+            border-radius: 30px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+        }
+
+        .btn-filter:hover {
+            color: rgba(255,255,255,0.75);
+            background: var(--surface);
+        }
+
+        .btn-filter.active {
+            color: #fff;
+            background: var(--accent);
+            border-color: var(--accent);
+        }
+
+        #status {
+            font-family: 'Inter', sans-serif;
+            font-size: 0.75rem;
+            color: rgba(255,255,255,0.3);
+            margin-left: auto;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        #status-dot {
+            width: 7px; height: 7px;
+            background: #22c55e;
+            border-radius: 50%;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.4; }
+        }
+
+        /* ===== MAIN / CAROUSEL ===== */
+        main {
+            flex: 1;
+            position: relative;
+            overflow: hidden;
+        }
+
+        #carousel {
+            width: 100%;
+            height: 100%;
+            position: relative;
+        }
+
+        .slide {
+            position: absolute;
+            top: 0; left: 0;
+            width: 100%; height: 100%;
+            opacity: 0;
+            transition: opacity 1.8s ease-in-out;
+            display: flex;
+        }
+
+        .slide.active {
+            opacity: 1;
+            z-index: 10;
+        }
+
+        .slide-bg {
+            position: absolute;
+            top: 0; left: 0;
+            width: 100%; height: 100%;
+            background-size: cover;
+            background-position: center;
+            z-index: -1;
+        }
+
+        .slide.active .slide-bg {
+            animation: kenBurns 14s ease-in-out forwards;
+        }
+
+        @keyframes kenBurns {
+            from { transform: scale(1); }
+            to { transform: scale(1.12); }
+        }
+
+        /* Gradiente elegante na imagem */
+        .slide-overlay {
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(
+                to right,
+                rgba(0,0,0,0.88) 0%,
+                rgba(0,0,0,0.65) 45%,
+                rgba(0,0,0,0.1) 100%
+            );
+            z-index: 0;
+        }
+
+        .slide-info {
+            position: relative;
+            z-index: 1;
+            width: 60%;
+            padding: 0 60px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .slide-meta {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 24px;
+        }
+
+        .tag {
+            background: var(--detalhe);
+            color: #fff;
+            padding: 5px 16px;
+            border-radius: 4px;
+            font-weight: 700;
+            font-size: 0.75rem;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+        }
+
+        .tag.verde { background: #0f6e56; }
+        .tag.azul { background: #185fa5; }
+
+        .slide-source {
+            font-size: 0.8rem;
+            color: rgba(255,255,255,0.5);
+            letter-spacing: 1px;
+            text-transform: uppercase;
+        }
+
+        .title {
+            font-size: 3.8rem;
+            font-weight: 900;
+            line-height: 1.08;
+            margin: 0 0 24px;
+            color: #fff;
+            max-width: 700px;
+        }
+
+        .slide-time {
+            font-size: 0.85rem;
+            color: rgba(255,255,255,0.4);
+            font-weight: 400;
+        }
+
+        /* Indicadores do carrossel */
+        .slide-dots {
+            position: absolute;
+            bottom: 30px;
+            right: 50px;
+            z-index: 20;
+            display: flex;
+            gap: 8px;
+        }
+
+        .dot {
+            width: 6px; height: 6px;
+            border-radius: 50%;
+            background: rgba(255,255,255,0.25);
+            transition: all 0.3s;
+        }
+
+        .dot.active {
+            background: #fff;
+            width: 24px;
+            border-radius: 3px;
+        }
+
+        /* Número do slide */
+        .slide-counter {
+            position: absolute;
+            top: 30px;
+            right: 50px;
+            z-index: 20;
+            font-size: 0.8rem;
+            color: rgba(255,255,255,0.3);
+            letter-spacing: 1px;
+        }
+
+        /* ===== GRID VIEW ===== */
+        #grid-view {
+            display: none;
+            padding: 35px 50px;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 24px;
+            height: 100%;
+            overflow-y: auto;
+            background: var(--bg);
+        }
+
+        #grid-view::-webkit-scrollbar { width: 6px; }
+        #grid-view::-webkit-scrollbar-track { background: transparent; }
+        #grid-view::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.15); border-radius: 3px; }
+
+        .news-card {
+            background: var(--surface);
+            border-radius: 16px;
+            overflow: hidden;
+            border: 1px solid var(--border);
+            display: flex;
+            flex-direction: column;
+            transition: transform 0.2s, border-color 0.2s;
+        }
+
+        .news-card:hover {
+            transform: translateY(-4px);
+            border-color: rgba(102,155,188,0.4);
+        }
+
+        .card-img {
+            height: 190px;
+            background-size: cover;
+            background-position: center;
+            flex-shrink: 0;
+            position: relative;
+        }
+
+        .card-img::after {
+            content: '';
+            position: absolute;
+            bottom: 0; left: 0; right: 0;
+            height: 60px;
+            background: linear-gradient(transparent, rgba(0,0,0,0.5));
+        }
+
+        .card-txt {
+            padding: 20px 22px 22px;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .card-source {
+            font-size: 0.7rem;
+            font-weight: 700;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            color: var(--accent);
+            margin-bottom: 10px;
+        }
+
+        .card-txt h3 {
+            margin: 0;
+            font-size: 1.05rem;
+            font-weight: 600;
+            line-height: 1.45;
+            color: rgba(255,255,255,0.9);
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        .card-date {
+            margin-top: auto;
+            padding-top: 14px;
+            font-size: 0.72rem;
+            color: rgba(255,255,255,0.3);
+        }
     </style>
 </head>
 <body>
 
 <header>
-    <div class="header-left">
-        <div class="logo-placeholder">🦷</div>
-        <h1>Radar Odonto & Notícias</h1>
+    <div class="logo-area">
+        <div class="logo-icon-wrap">🦷</div>
+        <div class="logo-text">
+            <div>
+                <span class="badge">ao vivo</span>
+            </div>
+            <h1>CONSULDENTE</h1>
+            <div class="subtitle">News &amp; Odonto-Update</div>
+        </div>
     </div>
-    <div class="header-right">
-        <div id="date-top">-- de -- de ----</div>
-        <div id="clock">00:00:00</div>
+    <div class="clock-area">
+        <div id="clock">00:00</div>
+        <div id="date-top">carregando...</div>
     </div>
 </header>
 
-<div class="main-content">
-    <div class="progress-container"><div id="bar-fill"></div></div>
-    <div id="status-console">> Sistema de Monitoramento Odontológico Iniciado...</div>
-
-    <div class="filters" id="filters">
-        <button id="btn-todos" class="btn-filter active" onclick="filterBySource('Todos', this)">Todas as Notícias</button>
+<div class="nav-bar">
+    <button class="btn-filter active" onclick="changeTab('Todos', this)">⊡ Geral</button>
+    <button class="btn-filter" onclick="changeTab('CFO Federal', this)">CFO Federal</button>
+    <button class="btn-filter" onclick="changeTab('ABO Nacional', this)">ABO Nacional</button>
+    <button class="btn-filter" onclick="changeTab('Feira', this)">Feira de Santana</button>
+    <div id="status">
+        <span id="status-dot"></span>
+        <span id="status-text">Sincronizando...</span>
     </div>
-
-    <div id="news-container"></div>
 </div>
 
-<footer>
-    <button class="btn-pdf" onclick="gerarRelatorioPDF()">
-        📄 Exportar Relatório (<span id="pdf-context">Geral</span>)
-    </button>
-</footer>
+<main>
+    <div id="carousel"></div>
+    <div id="slide-dots" class="slide-dots"></div>
+    <div id="slide-counter" class="slide-counter"></div>
+    <div id="grid-view"></div>
+</main>
 
 <script>
-    // Configuração das Fontes
     const FONTES = [
-        {"nome": "CFO Federal", "url": "https://website.cfo.org.br/wp-json/wp/v2/posts", "cat": "ODONTOLOGIA"},
-        {"nome": "CRO-BA", "url": "https://croba.org.br/wp-json/wp/v2/posts", "cat": "ODONTOLOGIA"},
-        {"nome": "ABO-BA", "url": "https://abo-ba.org.br/wp-json/wp/v2/posts", "cat": "ODONTOLOGIA"},
-        {"nome": "Acorda Cidade", "url": "https://www.acordacidade.com.br/wp-json/wp/v2/posts", "cat": "FEIRA DE SANTANA"},
-        {"nome": "Portal da Feira", "url": "https://portaldafeira.com.br/wp-json/wp/v2/posts", "cat": "FEIRA DE SANTANA"},
-        {"nome": "Folha do Estado", "url": "https://www.jornalfolhadoestado.com/wp-json/wp/v2/posts", "cat": "FEIRA DE SANTANA"},
-        {"nome": "G1 Feira", "url": "RSS_PROXY", "cat": "FEIRA DE SANTANA", "isRSS": true, "rssUrl": "https://g1.globo.com/dynamo/ba/feira-de-santana-regiao/rss2.xml"}
+        {"nome": "CFO Federal", "url": "https://website.cfo.org.br/wp-json/wp/v2/posts", "cat": "ODONTO"},
+        {"nome": "ABO Nacional", "url": "https://www.abo.org.br/wp-json/wp/v2/posts", "cat": "ODONTO"},
+        {"nome": "Acorda Cidade", "url": "https://www.acordacidade.com.br/wp-json/wp/v2/posts", "cat": "FEIRA"},
+        {"nome": "G1 Feira", "url": "https://api.rss2json.com/v1/api.json?rss_url=https://g1.globo.com/dynamo/ba/feira-de-santana-regiao/rss2.xml", "cat": "NOTÍCIAS", "rss": true}
     ];
 
-    let timer = 180; // 3 minutos para recepção
     let dataStore = [];
-    let currentFilter = 'Todos';
-    const FALLBACK_IMG = "https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&q=80&w=400";
+    let slideIdx = 0;
+    let autoPlay;
+    const IMG_DEFAULT = "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?q=80&w=1920&auto=format&fit=crop";
 
-    function updateClock() {
-        const now = new Date();
-        document.getElementById('clock').innerText = now.toLocaleTimeString('pt-BR');
-        document.getElementById('date-top').innerText = now.toLocaleDateString('pt-BR', { day: '2-digit', month: 'long', year: 'numeric' });
+    const tagColors = {
+        "CFO Federal": "verde",
+        "ABO Nacional": "azul",
+        "G1 Feira": "",
+        "Acorda Cidade": ""
+    };
+
+    function startClock() {
+        const update = () => {
+            const now = new Date();
+            document.getElementById('clock').innerText =
+                now.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
+            document.getElementById('date-top').innerText =
+                now.toLocaleDateString('pt-BR', { weekday: 'long', day: '2-digit', month: 'long', year: 'numeric' });
+        };
+        setInterval(update, 1000);
+        update();
     }
-    setInterval(updateClock, 1000); updateClock();
 
-    // Gerar Botões de Filtro
-    FONTES.forEach(f => {
-        const btn = document.createElement('button');
-        btn.className = 'btn-filter'; btn.innerText = f.nome;
-        btn.onclick = (e) => filterBySource(f.nome, e.target);
-        document.getElementById('filters').appendChild(btn);
-    });
+    async function fetchNews() {
+        document.getElementById('status-text').innerText = 'Atualizando feeds...';
+        let temp = [];
 
-    setInterval(() => {
-        timer--;
-        document.getElementById('bar-fill').style.width = (timer / 180 * 100) + "%";
-        if (timer <= 0) { timer = 180; fetchAllNews(); }
-    }, 1000);
-
-    async function fetchAllNews() {
-        const consoleLog = document.getElementById('status-console');
-        consoleLog.innerText = "> Atualizando fontes de notícias...";
-        let tempBatch = [];
-
-        for (const fonte of FONTES) {
+        for (const f of FONTES) {
             try {
-                if (fonte.isRSS) {
-                    // Simulação/Tratamento simplificado para RSS via serviço gratuito (ex: rss2json)
-                    const res = await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(fonte.rssUrl)}`);
-                    const data = await res.json();
-                    data.items.slice(0, 5).forEach(item => {
-                        tempBatch.push({
-                            title: item.title,
-                            link: item.link,
-                            date: new Date(item.pubDate),
-                            source: fonte.nome,
-                            cat: fonte.cat,
-                            img: item.thumbnail || FALLBACK_IMG
-                        });
+                const response = await fetch(f.url + (f.rss ? "" : "?per_page=6&_embed&_t=" + Date.now()));
+                const rawData = await response.json();
+                const posts = f.rss ? rawData.items : rawData;
+
+                posts.forEach(p => {
+                    let thumb = IMG_DEFAULT;
+                    if (!f.rss && p._embedded && p._embedded['wp:featuredmedia']) {
+                        thumb = p._embedded['wp:featuredmedia'][0].source_url;
+                    } else if (f.rss && p.thumbnail) {
+                        thumb = p.thumbnail;
+                    }
+
+                    temp.push({
+                        title: (f.rss ? p.title : p.title.rendered)
+                            .replace(/&#8211;/g, '–').replace(/&#8220;/g, '"').replace(/&#8221;/g, '"'),
+                        source: f.nome,
+                        cat: f.cat,
+                        img: thumb,
+                        date: new Date(f.rss ? p.pubDate : p.date)
                     });
-                } else {
-                    const response = await fetch(`${fonte.url}?per_page=5&_embed&_t=${Date.now()}`);
-                    const posts = await response.json();
-                    posts.forEach(post => {
-                        let img = FALLBACK_IMG;
-                        if (post._embedded && post._embedded['wp:featuredmedia']) {
-                            img = post._embedded['wp:featuredmedia'][0].source_url;
-                        }
-                        tempBatch.push({
-                            title: post.title.rendered.replace(/&#8211;/g, '-').replace(/&#8220;/g, '"').replace(/&#8221;/g, '"'),
-                            link: post.link,
-                            date: new Date(post.date),
-                            source: fonte.nome,
-                            cat: fonte.cat,
-                            img: img
-                        });
-                    });
-                }
-            } catch (e) {
-                console.error(`Erro em ${fonte.nome}:`, e);
-            }
+                });
+            } catch (e) { console.warn("Erro: " + f.nome); }
         }
 
-        dataStore = tempBatch.sort((a, b) => b.date - a.date);
+        dataStore = temp.sort((a, b) => b.date - a.date);
+        document.getElementById('status-text').innerText = dataStore.length + ' artigos carregados';
         render();
-        consoleLog.innerText = `> Atualizado: ${new Date().toLocaleTimeString('pt-BR')} | Total de notícias: ${dataStore.length}`;
     }
 
-    function filterBySource(nome, btn) {
-        currentFilter = nome;
+    function changeTab(tab, btn) {
         document.querySelectorAll('.btn-filter').forEach(b => b.classList.remove('active'));
         btn.classList.add('active');
-        document.getElementById('pdf-context').innerText = nome;
-        render();
+
+        const carousel = document.getElementById('carousel');
+        const grid = document.getElementById('grid-view');
+        const dots = document.getElementById('slide-dots');
+        const counter = document.getElementById('slide-counter');
+
+        if (tab === 'Todos') {
+            carousel.style.display = 'block';
+            dots.style.display = 'flex';
+            counter.style.display = 'block';
+            grid.style.display = 'none';
+        } else {
+            carousel.style.display = 'none';
+            dots.style.display = 'none';
+            counter.style.display = 'none';
+            grid.style.display = 'grid';
+            renderGrid(tab);
+        }
     }
 
     function render() {
-        const container = document.getElementById('news-container');
-        let list = (currentFilter === 'Todos') ? dataStore : dataStore.filter(n => n.source === currentFilter);
-        
-        if (list.length === 0) {
-            container.innerHTML = "<p style='text-align:center; color:gray;'>Buscando notícias...</p>";
+        const carousel = document.getElementById('carousel');
+        const dotsEl = document.getElementById('slide-dots');
+        const counter = document.getElementById('slide-counter');
+        const topNews = dataStore.slice(0, 10);
+
+        carousel.innerHTML = topNews.map((n, i) => {
+            const tagClass = tagColors[n.source] || '';
+            const timeStr = n.date.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
+            return `
+                <div class="slide ${i === 0 ? 'active' : ''}">
+                    <div class="slide-bg" style="background-image: url('${n.img}')"></div>
+                    <div class="slide-overlay"></div>
+                    <div class="slide-info">
+                        <div class="slide-meta">
+                            <span class="tag ${tagClass}">${n.cat}</span>
+                            <span class="slide-source">${n.source}</span>
+                        </div>
+                        <h2 class="title">${n.title}</h2>
+                        <div class="slide-time">Publicado hoje às ${timeStr}</div>
+                    </div>
+                </div>
+            `;
+        }).join('');
+
+        dotsEl.innerHTML = topNews.map((_, i) =>
+            `<div class="dot ${i === 0 ? 'active' : ''}"></div>`
+        ).join('');
+
+        slideIdx = 0;
+        updateCounter(slideIdx, topNews.length);
+
+        clearInterval(autoPlay);
+        autoPlay = setInterval(() => nextSlide(topNews.length), 10000);
+    }
+
+    function updateCounter(idx, total) {
+        document.getElementById('slide-counter').innerText = (idx + 1) + ' / ' + total;
+    }
+
+    function nextSlide(total) {
+        const slides = document.querySelectorAll('.slide');
+        const dots = document.querySelectorAll('.dot');
+        if (slides.length < 2) return;
+
+        slides[slideIdx].classList.remove('active');
+        dots[slideIdx].classList.remove('active');
+        slideIdx = (slideIdx + 1) % slides.length;
+        slides[slideIdx].classList.add('active');
+        dots[slideIdx].classList.add('active');
+        updateCounter(slideIdx, total || slides.length);
+    }
+
+    function renderGrid(tab) {
+        const grid = document.getElementById('grid-view');
+        const filtered = dataStore.filter(n =>
+            tab === 'Feira'
+                ? (n.source === 'G1 Feira' || n.source === 'Acorda Cidade')
+                : n.source === tab
+        );
+
+        if (filtered.length === 0) {
+            grid.innerHTML = `<div style="grid-column:1/-1; text-align:center; color:rgba(255,255,255,0.3); padding:60px 0; font-size:1.1rem;">Nenhuma notícia carregada ainda.</div>`;
             return;
         }
 
-        container.innerHTML = list.map((n, index) => `
-            <a href="${n.link}" target="_blank" class="card ${(index === 0 && currentFilter === 'Todos') ? 'featured' : ''}">
-                <div class="img-box">
-                    <div class="img-src" style="background-image: url('${n.img}')"></div>
-                    <div class="badge">${n.cat}</div>
+        grid.innerHTML = filtered.map(n => {
+            const dateStr = n.date.toLocaleDateString('pt-BR', { day: '2-digit', month: 'short', hour: '2-digit', minute: '2-digit' });
+            return `
+                <div class="news-card">
+                    <div class="card-img" style="background-image: url('${n.img}')"></div>
+                    <div class="card-txt">
+                        <div class="card-source">${n.source}</div>
+                        <h3>${n.title}</h3>
+                        <div class="card-date">${dateStr}</div>
+                    </div>
                 </div>
-                <div class="info">
-                    <span class="source-tag">${n.source}</span>
-                    <h2 class="title">${n.title}</h2>
-                    <div class="date">📅 ${n.date.toLocaleDateString('pt-BR')} às ${n.date.toLocaleTimeString('pt-BR', {hour:'2-digit', minute:'2-digit'})}</div>
-                </div>
-            </a>`).join('');
+            `;
+        }).join('');
     }
 
-    async function gerarRelatorioPDF() {
-        const { jsPDF } = window.jspdf;
-        const doc = new jsPDF();
-        const now = new Date();
-        
-        let reportData = (currentFilter === 'Todos') ? dataStore : dataStore.filter(n => n.source === currentFilter);
-
-        doc.setFont("helvetica", "bold");
-        doc.text(`Radar de Notícias - ${currentFilter}`, 14, 20);
-        doc.setFontSize(10);
-        doc.setFont("helvetica", "normal");
-        doc.text(`Gerado em: ${now.toLocaleString('pt-BR')}`, 14, 28);
-
-        const rows = reportData.map(n => [
-            n.date.toLocaleDateString('pt-BR'),
-            n.source,
-            n.title
-        ]);
-
-        doc.autoTable({
-            startY: 35,
-            head: [['Data', 'Fonte', 'Título']],
-            body: rows,
-            headStyles: { fillColor: [0, 119, 182] }
-        });
-
-        doc.save(`Radar_Odonto_${currentFilter.replace(/\s/g, '_')}.pdf`);
-    }
-
-    // Início automático
-    fetchAllNews();
+    startClock();
+    fetchNews();
+    setInterval(fetchNews, 600000);
 </script>
 </body>
 </html>
