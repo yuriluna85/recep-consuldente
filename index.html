@@ -3,42 +3,36 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Consuldente News | Radar Odonto</title>
-    <link href="https://fonts.googleapis.com/css2?family=Sora:wght@300;400;600;700&family=DM+Serif+Display&display=swap" rel="stylesheet">
+    <title>Consuldente News | Radar Inteligente</title>
+    <link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700&family=DM+Serif+Display&display=swap" rel="stylesheet">
     <style>
         *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-        :root {
-            --green-dark: #0d6b36; --green-mid: #1a8f4a; --green-light: #2eb25d;
-            --gray-100: #f5f5f3; --gray-200: #e8e8e5; --gray-500: #7a7a75;
-            --gray-900: #111110; --white: #ffffff; --radius: 12px;
-        }
-        body { font-family: 'Sora', sans-serif; background: var(--gray-100); color: var(--gray-900); }
-        header { background: var(--white); border-bottom: 1px solid var(--gray-200); position: sticky; top: 0; z-index: 100; padding: 15px 24px; }
-        .header-inner { max-width: 1200px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; }
-        .logo { font-size: 22px; font-weight: 700; color: var(--green-dark); text-decoration: none; }
-        .logo span { font-weight: 300; color: var(--gray-500); }
-
-        .filter-bar { background: var(--white); border-bottom: 1px solid var(--gray-200); padding: 12px 0; position: sticky; top: 65px; z-index: 90; }
-        .filter-inner { max-width: 1200px; margin: 0 auto; padding: 0 24px; display: flex; gap: 10px; overflow-x: auto; }
-        .chip { padding: 8px 20px; border-radius: 25px; border: 1px solid var(--gray-200); background: white; cursor: pointer; white-space: nowrap; font-size: 13px; transition: 0.3s; }
-        .chip.active { background: var(--green-dark); color: white; border-color: var(--green-dark); }
-
-        main { max-width: 1200px; margin: 0 auto; padding: 30px 24px; }
-        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 25px; }
+        :root { --green: #0d6b36; --gray: #f5f5f3; --white: #ffffff; }
+        body { font-family: 'Sora', sans-serif; background: var(--gray); color: #111; overflow-x: hidden; }
         
-        .card { background: white; border-radius: var(--radius); overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.05); transition: 0.3s; cursor: pointer; display: flex; flex-direction: column; }
-        .card:hover { transform: translateY(-5px); box-shadow: 0 8px 25px rgba(0,0,0,0.1); }
-        .card-img { width: 100%; height: 180px; object-fit: cover; }
-        .card-body { padding: 20px; flex-grow: 1; display: flex; flex-direction: column; }
+        header { background: var(--white); padding: 15px 24px; border-bottom: 1px solid #ddd; position: sticky; top: 0; z-index: 100; }
+        .header-inner { max-width: 1100px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; }
+        .logo { font-size: 20px; font-weight: 700; color: var(--green); text-decoration: none; }
         
-        .badge { font-size: 10px; font-weight: 700; text-transform: uppercase; background: #e6f7ed; color: var(--green-dark); padding: 4px 10px; border-radius: 4px; margin-bottom: 12px; width: fit-content; }
-        .card h3 { font-family: 'DM Serif Display', serif; font-size: 18px; margin-bottom: 10px; line-height: 1.3; }
-        .card p { font-size: 13px; color: var(--gray-500); margin-bottom: 15px; }
-        
-        .card-footer { margin-top: auto; padding-top: 15px; border-top: 1px solid var(--gray-100); display: flex; justify-content: space-between; font-size: 11px; font-weight: 600; }
-        .source { color: var(--green-mid); }
+        .filter-bar { background: var(--white); padding: 10px; display: flex; justify-content: center; gap: 8px; border-bottom: 1px solid #ddd; }
+        .chip { padding: 8px 16px; border-radius: 20px; border: 1px solid #ccc; background: white; cursor: pointer; font-size: 12px; font-weight: 600; }
+        .chip.active { background: var(--green); color: white; border-color: var(--green); }
 
-        footer { text-align: center; padding: 40px; color: var(--gray-500); font-size: 13px; }
+        main { max-width: 900px; margin: 20px auto; padding: 0 20px; }
+        
+        /* Carrossel */
+        #radar-container { position: relative; width: 100%; min-height: 450px; background: white; border-radius: 15px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.1); display: none; cursor: pointer; }
+        .slide-img { width: 100%; height: 300px; object-fit: cover; }
+        .slide-content { padding: 25px; }
+        .progress-bar { position: absolute; bottom: 0; left: 0; height: 5px; background: var(--green); width: 0%; transition: width 15s linear; }
+        
+        /* Grid para Categorias */
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px; display: none; }
+        .card { background: white; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.05); cursor: pointer; }
+        .card img { width: 100%; height: 150px; object-fit: cover; }
+        .card-body { padding: 15px; }
+
+        .badge { font-size: 10px; font-weight: 700; text-transform: uppercase; padding: 4px 8px; border-radius: 4px; background: #e6f7ed; color: var(--green); margin-bottom: 10px; display: inline-block; }
     </style>
 </head>
 <body>
@@ -46,64 +40,118 @@
 <header>
     <div class="header-inner">
         <a href="#" class="logo">🦷 Consuldente <span>News</span></a>
-        <div id="update-timer" style="font-size: 11px; color: var(--gray-500);">Radar Ativo 📡</div>
+        <div id="clock" style="font-weight: 700; color: var(--green);"></div>
     </div>
 </header>
 
-<div class="filter-bar">
-    <div class="filter-inner">
-        <button class="chip active" onclick="filter('todas', this)">Todas</button>
-        <button class="chip" onclick="filter('pesquisa', this)">Pesquisa</button>
-        <button class="chip" onclick="filter('novidades', this)">Novidades</button>
-    </div>
-</div>
+<nav class="filter-bar">
+    <button class="chip active" onclick="setView('todas', this)">Radar (Slide)</button>
+    <button class="chip" onclick="setView('feira', this)">Feira de Santana</button>
+    <button class="chip" onclick="setView('odontologia', this)">Odontologia</button>
+</nav>
 
 <main>
-    <div class="grid" id="news-grid"></div>
-</main>
+    <div id="radar-container" onclick="openLink()">
+        <img id="s-img" class="slide-img" src="" alt="">
+        <div class="slide-content">
+            <span id="s-badge" class="badge"></span>
+            <h2 id="s-title" style="font-family:'DM Serif Display'; margin-bottom:10px;"></h2>
+            <p id="s-resumo" style="color:#666; font-size:14px;"></p>
+            <div style="margin-top:15px; font-size:11px; font-weight:700; color:#999;">
+                FONTE: <span id="s-fonte" style="color:var(--green)"></span> | <span id="s-data"></span>
+            </div>
+        </div>
+        <div id="p-bar" class="progress-bar"></div>
+    </div>
 
-<footer>
-    © 2026 Consuldente News — Atualizado automaticamente via GitHub Actions
-</footer>
+    <div id="news-grid" class="grid"></div>
+</main>
 
 <script>
 let newsData = [];
+let currentIndex = 0;
+let slideInterval;
 
-async function load() {
-    try {
-        const res = await fetch('./data.json?v=' + Date.now());
-        newsData = await res.json();
-        render(newsData);
-    } catch (e) {
-        document.getElementById('news-grid').innerHTML = "<p>Iniciando radar... Aguarde a primeira atualização do robô.</p>";
+async function fetchData() {
+    const res = await fetch('./data.json?v=' + Date.now());
+    newsData = await res.json();
+    setView('todas', document.querySelector('.chip'));
+    updateClock();
+    setInterval(updateClock, 1000);
+}
+
+function updateClock() {
+    document.getElementById('clock').innerText = new Date().toLocaleTimeString('pt-BR');
+}
+
+function setView(mode, btn) {
+    document.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
+    btn.classList.add('active');
+    
+    clearInterval(slideInterval);
+    const container = document.getElementById('radar-container');
+    const grid = document.getElementById('news-grid');
+
+    if (mode === 'todas') {
+        container.style.display = 'block';
+        grid.style.display = 'none';
+        startRadar();
+    } else {
+        container.style.display = 'none';
+        grid.style.display = 'grid';
+        renderGrid(newsData.filter(n => n.cat === mode));
     }
 }
 
-function render(list) {
+function startRadar() {
+    showSlide();
+    slideInterval = setInterval(showSlide, 15000);
+}
+
+function showSlide() {
+    const n = newsData[currentIndex];
+    const pBar = document.getElementById('p-bar');
+    
+    // Reset progress bar
+    pBar.style.transition = 'none';
+    pBar.style.width = '0%';
+    
+    setTimeout(() => {
+        pBar.style.transition = 'width 15s linear';
+        pBar.style.width = '100%';
+    }, 50);
+
+    document.getElementById('s-img').src = n.img;
+    document.getElementById('s-badge').innerText = n.cat;
+    document.getElementById('s-title').innerText = n.titulo;
+    document.getElementById('s-resumo').innerText = n.resumo;
+    document.getElementById('s-fonte').innerText = n.fonte;
+    document.getElementById('s-data').innerText = n.data;
+
+    currentIndex = (currentIndex + 1) % newsData.length;
+}
+
+function renderGrid(list) {
     const grid = document.getElementById('news-grid');
     grid.innerHTML = list.map(n => `
-        <article class="card" onclick="window.open('${n.url}', '_blank')">
-            <img src="${n.img}" class="card-img" alt="Foto">
+        <div class="card" onclick="window.open('${n.url}', '_blank')">
+            <img src="${n.img}">
             <div class="card-body">
                 <span class="badge">${n.cat}</span>
-                <h3>${n.titulo}</h3>
-                <p>${n.resumo}</p>
-                <div class="card-footer">
-                    <span class="source">${n.fonte}</span>
-                    <span>${n.data}</span>
-                </div>
+                <h3 style="font-size:15px;">${n.titulo}</h3>
+                <p style="font-size:11px; margin-top:10px; font-weight:700;">${n.fonte}</p>
             </div>
-        </article>
+        </div>
     `).join('');
 }
 
-function filter(cat, btn) {
-    document.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
-    btn.classList.add('active');
-    render(cat === 'todas' ? newsData : newsData.filter(n => n.cat === cat));
+function openLink() {
+    // Abre a notícia que estava no slide (o index já avançou, então pegamos o anterior)
+    let idx = currentIndex === 0 ? newsData.length - 1 : currentIndex - 1;
+    window.open(newsData[idx].url, '_blank');
 }
 
-window.onload = load;
+window.onload = fetchData;
 </script>
 </body>
 </html>
