@@ -61,18 +61,10 @@
             font-size: 0.75rem; font-weight: 700; cursor: pointer;
             text-transform: uppercase; margin-bottom: 8px;
         }
-        .fs-info { font-size: 0.6rem; color: rgba(255,255,255,0.5); text-transform: uppercase; }
 
         .clock-area { text-align: right; min-width: 250px; }
         #clock { font-size: 4.8rem; font-weight: 900; line-height: 0.9; color: #fff; letter-spacing: -2px; }
-        #date-top { 
-            font-size: 1.4rem; 
-            color: #fff;
-            font-weight: 600;
-            text-transform: uppercase;
-            margin-top: 5px;
-            letter-spacing: 1px;
-        }
+        #date-top { font-size: 1.4rem; color: #fff; font-weight: 600; text-transform: uppercase; margin-top: 5px; }
 
         .nav-bar {
             flex-shrink: 0;
@@ -90,18 +82,14 @@
         }
         .btn-filter.active { color: #fff; background: var(--accent); }
 
-        main { 
-            flex-grow: 1;
-            position: relative; 
-            overflow: hidden; 
-            background: #000;
-        }
+        main { flex-grow: 1; position: relative; overflow: hidden; background: #000; }
 
         #carousel { width: 100%; height: 100%; }
         .slide { 
             position: absolute; inset: 0; 
             opacity: 0; transition: opacity 1.2s ease-in-out; 
             display: flex; align-items: flex-end;
+            z-index: 1;
         }
         .slide.active { opacity: 1; z-index: 10; }
 
@@ -119,38 +107,11 @@
             background: linear-gradient(to top, rgba(0,0,0,0.95) 0%, rgba(0,0,0,0.4) 50%, transparent 100%); 
         }
 
-        .slide-info { 
-            position: relative; z-index: 20; 
-            width: 100%; padding: 60px 50px 100px;
-        }
+        .slide-info { position: relative; z-index: 20; width: 100%; padding: 60px 50px 100px; }
+        .tag { background: var(--detalhe); color: #fff; padding: 8px 18px; border-radius: 4px; font-weight: 800; font-size: 0.9rem; text-transform: uppercase; margin-bottom: 20px; display: inline-block; }
+        .title { font-size: 3.8rem; font-weight: 900; line-height: 1.1; margin: 0; text-shadow: 0 5px 20px rgba(0,0,0,1); max-width: 85%; }
 
-        .tag { 
-            background: var(--detalhe); color: #fff; 
-            padding: 8px 18px; border-radius: 4px; 
-            font-weight: 800; font-size: 0.9rem; 
-            text-transform: uppercase; margin-bottom: 20px; display: inline-block; 
-        }
-
-        .title { 
-            font-size: 3.8rem; font-weight: 900; line-height: 1.1; 
-            margin: 0; text-shadow: 0 5px 20px rgba(0,0,0,1);
-            max-width: 85%;
-        }
-
-        #grid-view { 
-            display: none; padding: 40px 50px; 
-            grid-template-columns: repeat(3, 1fr); gap: 25px; 
-            height: 100%; overflow-y: auto; background: var(--bg); 
-        }
-
-        @media (max-width: 1024px) {
-            #clock { font-size: 3rem; }
-            #date-top { font-size: 1rem; }
-            .title { font-size: 2.2rem; }
-            header { padding: 15px 20px; }
-            .nav-bar { padding: 0 20px; }
-        }
-
+        #grid-view { display: none; padding: 40px 50px; grid-template-columns: repeat(3, 1fr); gap: 25px; height: 100%; overflow-y: auto; background: var(--bg); }
         .slide-dots { position: absolute; bottom: 40px; right: 50px; z-index: 30; display: flex; gap: 10px; }
         .dot { width: 10px; height: 10px; border-radius: 50%; background: rgba(255,255,255,0.2); }
         .dot.active { background: #fff; width: 30px; border-radius: 5px; }
@@ -172,12 +133,10 @@
             <div class="subtitle">News &amp; Odonto-Update</div>
         </div>
     </div>
-
     <div class="controls-area">
         <button class="btn-fullscreen" onclick="toggleFullScreen()">⛶ Expandir Tela</button>
-        <div class="fs-info">F11 ou ESC para alternar</div>
+        <div style="font-size: 0.6rem; color: rgba(255,255,255,0.4); margin-top: 5px;">F11 OU ESC PARA SAIR</div>
     </div>
-
     <div class="clock-area">
         <div id="clock">00:00</div>
         <div id="date-top">-- de -- de ----</div>
@@ -226,12 +185,11 @@
         setInterval(update, 1000); update();
     }
 
-    // NOVA LÓGICA DE ATUALIZAÇÃO
     async function fetchNews() {
         let temp = [];
         for (const f of FONTES) {
             try {
-                const response = await fetch(f.url + (f.rss ? "" : "?per_page=10&_embed&_t=" + Date.now()));
+                const response = await fetch(f.url + (f.rss ? "" : "?per_page=12&_embed&_t=" + Date.now()));
                 const rawData = await response.json();
                 const posts = f.rss ? rawData.items : rawData;
                 
@@ -241,28 +199,22 @@
                         if (p._embedded && p._embedded['wp:featuredmedia']) thumb = p._embedded['wp:featuredmedia'][0].source_url;
                         else if (p.content.rendered.match(/src="([^"]+)"/)) thumb = p.content.rendered.match(/src="([^"]+)"/)[1];
                     } else { thumb = p.thumbnail || (p.enclosure ? p.enclosure.link : IMG_DEFAULT); }
-                    if (!thumb || thumb === "") thumb = IMG_DEFAULT;
                     
                     temp.push({
-                        id: f.rss ? p.guid : p.id, // ID único para evitar duplicados
+                        id: (f.rss ? (p.guid || p.link) : p.id).toString(), // Garantindo ID como String
                         title: (f.rss ? p.title : p.title.rendered).replace(/&#8211;/g, '–').replace(/&#8220;/g, '"').replace(/&#8221;/g, '"'),
-                        source: f.nome, img: thumb, date: new Date(f.rss ? p.pubDate : p.date), cat: f.cat
+                        source: f.nome, img: thumb || IMG_DEFAULT, date: new Date(f.rss ? p.pubDate : p.date), cat: f.cat
                     });
                 });
-            } catch (e) { console.warn("Erro em: " + f.nome); }
+            } catch (e) { console.warn("Erro: " + f.nome); }
         }
 
-        // Ordena por data, remove duplicados e mantém apenas os mais novos
-        const uniqueNews = Array.from(new Map(temp.map(item => [item.id, item])).values());
-        dataStore = uniqueNews.sort((a, b) => b.date - a.date);
+        // Remover duplicados por ID de forma segura
+        const map = new Map();
+        temp.forEach(item => { if(!map.has(item.id)) map.set(item.id, item); });
+        dataStore = Array.from(map.values()).sort((a, b) => b.date - a.date);
         
-        console.log(`Atualizado em: ${new Date().toLocaleTimeString()} - Total de notícias: ${dataStore.length}`);
-        
-        // Se estiver na aba "Todos", re-renderiza o carrossel suavemente
-        const activeTab = document.querySelector('.btn-filter.active').innerText;
-        if (activeTab.includes("Geral")) {
-            render();
-        }
+        render(); 
     }
 
     function changeTab(tab, btn) {
@@ -271,6 +223,7 @@
         const carousel = document.getElementById('carousel');
         const grid = document.getElementById('grid-view');
         const dots = document.getElementById('slide-dots');
+        
         if (tab === 'Todos') {
             carousel.style.display = 'block'; dots.style.display = 'flex'; grid.style.display = 'none';
             render();
@@ -284,9 +237,12 @@
         const carousel = document.getElementById('carousel');
         const dotsEl = document.getElementById('slide-dots');
         
-        // Exibe até 40 notícias frescas
-        const topNews = dataStore.slice(0, 40); 
-        if(topNews.length === 0) return;
+        // Pega as 40 mais novas. Se não tiver nada, para por aqui.
+        const topNews = dataStore.slice(0, 40);
+        if (topNews.length === 0) return;
+
+        // Reset do índice para evitar que ele tente acessar um slide que sumiu
+        if (slideIdx >= topNews.length) slideIdx = 0;
 
         carousel.innerHTML = topNews.map((n, i) => `
             <div class="slide ${i === slideIdx ? 'active' : ''}">
@@ -301,7 +257,7 @@
 
         dotsEl.innerHTML = topNews.map((_, i) => `<div class="dot ${i === slideIdx ? 'active' : ''}"></div>`).join('');
         
-        // Reinicia o autoplay para garantir a sincronia
+        // Reinicia o autoplay
         clearInterval(autoPlay);
         autoPlay = setInterval(nextSlide, 10000);
     }
@@ -313,19 +269,14 @@
         
         slides[slideIdx].classList.remove('active');
         dots[slideIdx].classList.remove('active');
-        
         slideIdx = (slideIdx + 1) % slides.length;
-        
         slides[slideIdx].classList.add('active');
         dots[slideIdx].classList.add('active');
     }
 
     function renderGrid(tab) {
         const grid = document.getElementById('grid-view');
-        const filtered = dataStore.filter(n => {
-            if(tab === 'Feira') return n.cat === 'FEIRA';
-            return n.source === tab;
-        });
+        const filtered = dataStore.filter(n => (tab === 'Feira') ? n.cat === 'FEIRA' : n.source === tab);
         
         grid.innerHTML = filtered.map(n => `
             <div class="news-card">
@@ -340,9 +291,7 @@
 
     startClock();
     fetchNews();
-
-    // EXECUTA A BUSCA POR NOVAS NOTÍCIAS A CADA 30 MINUTOS
-    setInterval(fetchNews, 1800000);
+    setInterval(fetchNews, 1800000); // Atualiza a cada 30 min
 </script>
 </body>
 </html>
