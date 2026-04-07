@@ -1,4 +1,4 @@
-name: Atualização Horária de Notícias
+name: Atualização Horária Radar Consuldente
 
 on:
   schedule:
@@ -8,15 +8,15 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true  # Atende a sugestão do log
+    permissions:
+      contents: write
 
     steps:
-    - name: Checkout do código
-      uses: actions/checkout@v4 # Atualizado de v3 para v4
+    - name: Checkout
+      uses: actions/checkout@v4
 
     - name: Configurar Python
-      uses: actions/setup-python@v5 # Atualizado de v4 para v5
+      uses: actions/setup-python@v5
       with:
         python-version: '3.10'
 
@@ -24,14 +24,13 @@ jobs:
       run: |
         pip install requests beautifulsoup4
 
-    - name: Executar script de busca
+    - name: Executar Radar
       run: python parser.py
 
-    - name: Commit e Push das novas notícias
+    - name: Salvar no Repositório
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add data.json
-        # O "|| exit 0" evita que o robô dê erro se não houver notícias novas para salvar
-        git commit -m "🔄 Atualização horária: Notícias Odonto" || exit 0
+        git commit -m "📡 Radar: Notícias Atualizadas" || exit 0
         git push
