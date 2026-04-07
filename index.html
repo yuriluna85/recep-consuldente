@@ -23,17 +23,18 @@
             background: var(--bg);
             color: #fff;
             margin: 0; padding: 0;
-            overflow: hidden;
-            height: 100vh;
+            overflow-x: hidden;
+            min-height: 100vh;
             display: flex;
             flex-direction: column;
         }
 
-        /* OVERLAY DE ENTRADA (Necessário para Fullscreen) */
+        /* OVERLAY DE ENTRADA */
         #entry-overlay {
             position: fixed; inset: 0; background: var(--bg);
             z-index: 9999; display: flex; flex-direction: column;
             align-items: center; justify-content: center; cursor: pointer;
+            text-align: center; padding: 20px;
         }
         .entry-btn {
             padding: 20px 40px; border: 2px solid var(--accent);
@@ -41,103 +42,122 @@
             text-transform: uppercase; letter-spacing: 2px;
             animation: pulse 2s infinite;
         }
+        @keyframes pulse { 0%, 100% { transform: scale(1); opacity: 1; } 50% { transform: scale(1.05); opacity: 0.7; } }
 
-        /* HEADER */
+        /* HEADER RESPONSIVO */
         header {
-            height: 14vh;
+            min-height: 14vh;
             background: linear-gradient(135deg, #003049 0%, #00405e 100%);
             display: flex; justify-content: space-between;
-            align-items: center; padding: 0 50px;
+            align-items: center; padding: 15px 5%;
             border-bottom: 3px solid var(--accent);
             position: relative;
+            flex-wrap: wrap; gap: 15px;
         }
 
         .fs-info {
             position: absolute; bottom: 5px; left: 50%;
             transform: translateX(-50%); font-size: 0.6rem;
             color: rgba(255,255,255,0.3); text-transform: uppercase;
-            letter-spacing: 1px;
+            letter-spacing: 1px; display: block;
         }
 
-        .logo-area { display: flex; align-items: center; gap: 22px; }
+        .logo-area { display: flex; align-items: center; gap: 15px; }
         .logo-icon-wrap {
-            width: 72px; height: 72px; background: rgba(255,255,255,0.15);
-            border-radius: 18px; display: flex; align-items: center;
-            justify-content: center; font-size: 2.8rem;
+            width: 60px; height: 60px; background: rgba(255,255,255,0.15);
+            border-radius: 14px; display: flex; align-items: center;
+            justify-content: center; font-size: 2.2rem;
             border: 1px solid rgba(255,255,255,0.2);
         }
 
-        .logo-text h1 { margin: 0; font-size: 2.6rem; font-weight: 900; color: #fff; }
-        .logo-text .subtitle { font-size: 0.85rem; color: rgba(255,255,255,0.6); letter-spacing: 3px; text-transform: uppercase; }
-        .badge { background: var(--detalhe); color: #fff; font-size: 0.65rem; font-weight: 700; padding: 3px 10px; border-radius: 4px; text-transform: uppercase; margin-bottom: 5px; display: inline-block; }
-
+        .logo-text h1 { margin: 0; font-size: 1.8rem; font-weight: 900; color: #fff; }
+        .logo-text .subtitle { font-size: 0.7rem; color: rgba(255,255,255,0.6); letter-spacing: 2px; text-transform: uppercase; }
+        
         .clock-area { text-align: right; }
-        #clock { font-size: 5rem; font-weight: 900; line-height: 1; color: #fff; letter-spacing: -3px; }
-        #date-top { font-size: 0.95rem; color: rgba(255,255,255,0.6); text-transform: uppercase; margin-top: 4px; }
+        #clock { font-size: 3rem; font-weight: 900; line-height: 1; color: #fff; }
+        #date-top { font-size: 0.8rem; color: rgba(255,255,255,0.6); text-transform: uppercase; }
 
-        /* NAV BAR */
+        /* NAV BAR RESPONSIVA */
         .nav-bar {
-            height: 6vh; background: rgba(0,0,0,0.5); backdrop-filter: blur(10px);
-            display: flex; align-items: center; padding: 0 50px; gap: 8px;
+            min-height: 6vh; background: rgba(0,0,0,0.5); backdrop-filter: blur(10px);
+            display: flex; align-items: center; padding: 5px 5%; gap: 8px;
             border-bottom: 1px solid var(--border);
+            overflow-x: auto; white-space: nowrap;
         }
+        .nav-bar::-webkit-scrollbar { display: none; }
 
         .btn-filter {
             background: none; border: none; color: rgba(255,255,255,0.45);
-            font-family: 'Inter', sans-serif; font-weight: 600; font-size: 0.8rem;
-            cursor: pointer; transition: 0.25s; padding: 6px 18px;
-            border-radius: 30px; text-transform: uppercase;
+            font-family: 'Inter', sans-serif; font-weight: 600; font-size: 0.75rem;
+            cursor: pointer; transition: 0.25s; padding: 8px 15px;
+            border-radius: 30px; text-transform: uppercase; flex-shrink: 0;
         }
-
         .btn-filter.active { color: #fff; background: var(--accent); }
 
-        #status { font-size: 0.75rem; color: rgba(255,255,255,0.3); margin-left: auto; display: flex; align-items: center; gap: 8px; }
-        #status-dot { width: 7px; height: 7px; background: #22c55e; border-radius: 50%; }
-
         /* MAIN / CAROUSEL */
-        main { flex: 1; position: relative; overflow: hidden; }
+        main { flex: 1; position: relative; overflow: hidden; display: flex; }
         #carousel { width: 100%; height: 100%; position: relative; }
         .slide { position: absolute; inset: 0; opacity: 0; transition: opacity 1.8s ease-in-out; display: flex; }
         .slide.active { opacity: 1; z-index: 10; }
         .slide-bg { position: absolute; inset: 0; background-size: cover; background-position: center; z-index: -1; }
         .slide.active .slide-bg { animation: kenBurns 14s ease-in-out forwards; }
         
-        @keyframes kenBurns { from { transform: scale(1); } to { transform: scale(1.12); } }
+        @keyframes kenBurns { from { transform: scale(1); } to { transform: scale(1.1); } }
 
-        .slide-overlay { position: absolute; inset: 0; background: linear-gradient(to right, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.4) 60%, transparent 100%); }
-        .slide-info { position: relative; z-index: 1; width: 60%; padding: 0 60px; display: flex; flex-direction: column; justify-content: center; }
-        .tag { background: var(--detalhe); color: #fff; padding: 5px 16px; border-radius: 4px; font-weight: 700; font-size: 0.75rem; text-transform: uppercase; margin-bottom: 15px; display: inline-block; width: fit-content; }
-        .title { font-size: 3.8rem; font-weight: 900; line-height: 1.08; margin: 0 0 20px; text-shadow: 0 4px 10px rgba(0,0,0,0.5); }
+        .slide-overlay { position: absolute; inset: 0; background: linear-gradient(to right, rgba(0,0,0,0.95) 0%, rgba(0,0,0,0.4) 70%, transparent 100%); }
+        .slide-info { position: relative; z-index: 1; width: 85%; padding: 0 5%; display: flex; flex-direction: column; justify-content: center; }
+        .tag { background: var(--detalhe); color: #fff; padding: 5px 12px; border-radius: 4px; font-weight: 700; font-size: 0.7rem; text-transform: uppercase; margin-bottom: 15px; display: inline-block; width: fit-content; }
+        .title { font-size: 1.8rem; font-weight: 900; line-height: 1.2; margin: 0 0 15px; text-shadow: 0 4px 10px rgba(0,0,0,1); }
 
-        /* GRID VIEW */
-        #grid-view { display: none; padding: 35px 50px; grid-template-columns: repeat(3, 1fr); gap: 24px; height: 100%; overflow-y: auto; background: var(--bg); }
+        /* GRID VIEW RESPONSIVO */
+        #grid-view { 
+            display: none; padding: 20px; 
+            grid-template-columns: 1fr; gap: 20px; 
+            width: 100%; overflow-y: auto; background: var(--bg); 
+        }
+
+        /* MEDIA QUERIES (TABLET E DESKTOP) */
+        @media (min-width: 768px) {
+            .logo-text h1 { font-size: 2.6rem; }
+            #clock { font-size: 5rem; }
+            .title { font-size: 3rem; width: 70%; }
+            #grid-view { grid-template-columns: repeat(2, 1fr); padding: 40px; }
+            .logo-icon-wrap { width: 72px; height: 72px; font-size: 2.8rem; }
+        }
+
+        @media (min-width: 1200px) {
+            .title { font-size: 3.8rem; width: 60%; }
+            #grid-view { grid-template-columns: repeat(3, 1fr); }
+        }
+
+        /* ESTILO DOS CARDS NO GRID */
         .news-card { background: var(--surface); border-radius: 16px; overflow: hidden; border: 1px solid var(--border); display: flex; flex-direction: column; }
-        .card-img { height: 190px; background-size: cover; background-position: center; }
-        .card-txt { padding: 20px; flex: 1; }
-        .card-source { font-size: 0.7rem; font-weight: 700; color: var(--accent); text-transform: uppercase; margin-bottom: 10px; }
-        .card-txt h3 { margin: 0; font-size: 1.05rem; line-height: 1.45; color: rgba(255,255,255,0.9); }
+        .card-img { height: 180px; background-size: cover; background-position: center; }
+        .card-txt { padding: 15px; flex: 1; }
+        .card-source { font-size: 0.7rem; font-weight: 700; color: var(--accent); text-transform: uppercase; margin-bottom: 8px; }
+        .card-txt h3 { margin: 0; font-size: 1rem; line-height: 1.4; color: rgba(255,255,255,0.9); }
 
-        .slide-dots { position: absolute; bottom: 30px; right: 50px; z-index: 20; display: flex; gap: 8px; }
+        .slide-dots { position: absolute; bottom: 20px; right: 5%; z-index: 20; display: flex; gap: 6px; }
         .dot { width: 6px; height: 6px; border-radius: 50%; background: rgba(255,255,255,0.25); }
-        .dot.active { background: #fff; width: 24px; border-radius: 3px; }
+        .dot.active { background: #fff; width: 20px; border-radius: 3px; }
     </style>
 </head>
 <body onclick="toggleFullScreen()">
 
 <div id="entry-overlay">
-    <div class="entry-btn">Clique para iniciar o Painel</div>
+    <div class="entry-btn">Toque para iniciar</div>
+    <p style="margin-top: 15px; font-size: 0.8rem; opacity: 0.6;">Otimizado para TV, Tablet e Celular</p>
 </div>
 
 <header>
     <div class="logo-area">
         <div class="logo-icon-wrap">🦷</div>
         <div class="logo-text">
-            <span class="badge">ao vivo</span>
             <h1>CONSULDENTE</h1>
-            <div class="subtitle">News &amp; Odonto-Update</div>
+            <div class="subtitle">News &amp; Odonto</div>
         </div>
     </div>
-    <div class="fs-info">Para sair da tela cheia tecle ESC ou F11</div>
+    <div class="fs-info">ESC ou F11 para sair da tela cheia</div>
     <div class="clock-area">
         <div id="clock">00:00</div>
         <div id="date-top">carregando...</div>
@@ -146,13 +166,9 @@
 
 <div class="nav-bar">
     <button class="btn-filter active" onclick="changeTab('Todos', this)">⊡ Geral</button>
-    <button class="btn-filter" onclick="changeTab('CFO Federal', this)">CFO Federal</button>
-    <button class="btn-filter" onclick="changeTab('ABO', this)">ABO Nacional</button>
-    <button class="btn-filter" onclick="changeTab('Feira', this)">Feira de Santana</button>
-    <div id="status">
-        <span id="status-dot"></span>
-        <span id="status-text">Sincronizando...</span>
-    </div>
+    <button class="btn-filter" onclick="changeTab('CFO Federal', this)">CFO</button>
+    <button class="btn-filter" onclick="changeTab('ABO', this)">ABO</button>
+    <button class="btn-filter" onclick="changeTab('Feira', this)">Feira</button>
 </div>
 
 <main>
@@ -162,7 +178,6 @@
 </main>
 
 <script>
-    // FONTES ATUALIZADAS: ABO via RSS Proxy para maior compatibilidade
     const FONTES = [
         {"nome": "CFO Federal", "url": "https://website.cfo.org.br/wp-json/wp/v2/posts", "cat": "ODONTO"},
         {"nome": "ABO", "url": "https://api.rss2json.com/v1/api.json?rss_url=https://www.abo.org.br/feed", "cat": "ODONTO", "rss": true},
@@ -173,71 +188,49 @@
     let dataStore = [];
     let slideIdx = 0;
     let autoPlay;
-    const IMG_DEFAULT = "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?q=80&w=1920&auto=format&fit=crop";
+    const IMG_DEFAULT = "https://github.com/yuriluna85/recep-consuldente/blob/main/consudente.png?raw=true";
 
-    // TELA CHEIA AUTOMÁTICA E MANUAL
     function toggleFullScreen() {
         const overlay = document.getElementById('entry-overlay');
         if (overlay) overlay.style.display = 'none';
-
-        if (!document.fullscreenElement) {
-            document.documentElement.requestFullscreen().catch(err => {
-                console.log(`Erro ao tentar modo tela cheia: ${err.message}`);
-            });
+        
+        // No celular, o Fullscreen pode não ser suportado em todos os browsers (como iOS Safari)
+        if (!document.fullscreenElement && document.documentElement.requestFullscreen) {
+            document.documentElement.requestFullscreen().catch(err => console.log("Tela cheia não ativada"));
         }
     }
-
-    // Monitora Teclas F11 e ESC
-    window.addEventListener('keydown', (e) => {
-        if (e.key === 'F11') {
-            e.preventDefault(); 
-            toggleFullScreen();
-        }
-    });
 
     function startClock() {
         const update = () => {
             const now = new Date();
             document.getElementById('clock').innerText = now.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
-            document.getElementById('date-top').innerText = now.toLocaleDateString('pt-BR', { weekday: 'long', day: '2-digit', month: 'long', year: 'numeric' });
+            document.getElementById('date-top').innerText = now.toLocaleDateString('pt-BR', { day: '2-digit', month: 'short' });
         };
         setInterval(update, 1000); update();
     }
 
     async function fetchNews() {
-        document.getElementById('status-text').innerText = 'Atualizando...';
         let temp = [];
-
         for (const f of FONTES) {
             try {
-                const response = await fetch(f.url + (f.rss ? "" : "?per_page=8&_embed&_t=" + Date.now()));
+                const response = await fetch(f.url + (f.rss ? "" : "?per_page=10&_embed&_t=" + Date.now()));
                 const rawData = await response.json();
                 const posts = f.rss ? rawData.items : rawData;
-
                 posts.forEach(p => {
                     let thumb = IMG_DEFAULT;
-                    if (!f.rss && p._embedded && p._embedded['wp:featuredmedia']) {
-                        thumb = p._embedded['wp:featuredmedia'][0].source_url;
-                    } else if (f.rss && p.thumbnail) {
-                        thumb = p.thumbnail;
-                    } else if (f.rss && p.enclosure && p.enclosure.link) {
-                        thumb = p.enclosure.link;
-                    }
-
+                    if (!f.rss) {
+                        if (p._embedded && p._embedded['wp:featuredmedia']) thumb = p._embedded['wp:featuredmedia'][0].source_url;
+                        else if (p.content.rendered.match(/src="([^"]+)"/)) thumb = p.content.rendered.match(/src="([^"]+)"/)[1];
+                    } else { thumb = p.thumbnail || (p.enclosure ? p.enclosure.link : IMG_DEFAULT); }
+                    
                     temp.push({
                         title: (f.rss ? p.title : p.title.rendered).replace(/&#8211;/g, '–').replace(/&#8220;/g, '"').replace(/&#8221;/g, '"'),
-                        source: f.nome,
-                        cat: f.cat,
-                        img: thumb,
-                        date: new Date(f.rss ? p.pubDate : p.date)
+                        source: f.nome, img: thumb, date: new Date(f.rss ? p.pubDate : p.date)
                     });
                 });
             } catch (e) { console.warn("Erro: " + f.nome); }
         }
-
-        // Ordenação global por data para o "Geral" funcionar corretamente
         dataStore = temp.sort((a, b) => b.date - a.date);
-        document.getElementById('status-text').innerText = dataStore.length + ' notícias carregadas';
         render();
     }
 
@@ -259,17 +252,22 @@
     function render() {
         const carousel = document.getElementById('carousel');
         const dotsEl = document.getElementById('slide-dots');
-        // Pega as 12 notícias mais recentes de TODAS as fontes para o carrossel
-        const topNews = dataStore.slice(0, 12);
+        
+        let mixedNews = [];
+        FONTES.forEach(f => {
+            const daFonte = dataStore.filter(n => n.source === f.nome).slice(0, 3);
+            mixedNews = mixedNews.concat(daFonte);
+        });
+
+        const topNews = mixedNews.sort((a, b) => b.date - a.date).slice(0, 10);
 
         carousel.innerHTML = topNews.map((n, i) => `
             <div class="slide ${i === 0 ? 'active' : ''}">
                 <div class="slide-bg" style="background-image: url('${n.img}')"></div>
                 <div class="slide-overlay"></div>
                 <div class="slide-info">
-                    <span class="tag">${n.source} | ${n.cat}</span>
+                    <span class="tag">${n.source}</span>
                     <h2 class="title">${n.title}</h2>
-                    <div class="slide-time">Publicado em ${n.date.toLocaleDateString('pt-BR')} às ${n.date.toLocaleTimeString('pt-BR', {hour:'2-digit', minute:'2-digit'})}</div>
                 </div>
             </div>
         `).join('');
@@ -277,10 +275,10 @@
         dotsEl.innerHTML = topNews.map((_, i) => `<div class="dot ${i === 0 ? 'active' : ''}"></div>`).join('');
         slideIdx = 0;
         clearInterval(autoPlay);
-        autoPlay = setInterval(() => nextSlide(topNews.length), 10000);
+        autoPlay = setInterval(nextSlide, 10000);
     }
 
-    function nextSlide(total) {
+    function nextSlide() {
         const slides = document.querySelectorAll('.slide');
         const dots = document.querySelectorAll('.dot');
         if (slides.length < 2) return;
@@ -294,14 +292,12 @@
     function renderGrid(tab) {
         const grid = document.getElementById('grid-view');
         const filtered = dataStore.filter(n => tab === 'Feira' ? (n.source === 'G1 Feira' || n.source === 'Acorda Cidade') : n.source === tab);
-        
         grid.innerHTML = filtered.map(n => `
             <div class="news-card">
                 <div class="card-img" style="background-image: url('${n.img}')"></div>
                 <div class="card-txt">
                     <div class="card-source">${n.source}</div>
                     <h3>${n.title}</h3>
-                    <div class="card-date">${n.date.toLocaleDateString('pt-BR')}</div>
                 </div>
             </div>
         `).join('');
