@@ -3,73 +3,95 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 import random
+import time
 
-def capturar_noticias(url, seletor, fonte, categoria):
-    noticias_locais = []
+def buscar_imagem_wp(post_json):
+    """Tenta extrair a imagem destacada do JSON do WordPress"""
     try:
-        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36'}
-        response = requests.get(url, headers=headers, timeout=25) # Aumentei o timeout
-        soup = BeautifulSoup(response.text, 'html.parser')
+        # Verifica se o link da imagem está embutido no JSON (links -> wp:featuredmedia)
+        if "_links" in post_json and "wp:featuredmedia" in post_json["_links"]:
+            media_url = post_json["_links"]["wp:featuredmedia"][0]["href"]
+            res = requests.get(media_url, timeout=10)
+            return res.json()["source_url"]
+    except:
+        pass
+    return f"https://picsum.photos/seed/{random.randint(1,1000)}/800/400"
+
+def capturar_noticias():
+    print(f"📡 Iniciando Radar Híbrido às {datetime.now().strftime('%H:%M:%S')}")
+    final_news = []
+    
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
+
+    fontes = [
+        # ODONTOLOGIA
+        {"nome": "CFO Federal", "json": "https://website.cfo.org.br/wp-json/wp/v2/posts", "rss": "https://website.cfo.org.br/feed/", "cat": "ODONTOLOGIA"},
+        {"nome": "CRO-BA", "json": "https://croba.org.br/wp-json/wp/v2/posts", "rss": "https://croba.org.br/feed/", "cat": "ODONTOLOGIA"},
+        {"nome": "ABO-BA", "json": "https://abo-ba.org.br/wp-json/wp/v2/posts", "rss": "https://abo-ba.org.br/feed/", "cat": "ODONTOLOGIA"},
         
-        artigos = soup.select(seletor)[:6] 
+        # FEIRA DE SANTANA
+        {"nome": "Acorda Cidade", "json": "https://www.acordacidade.com.br/wp-json/wp/v2/posts", "rss": "https://www.acordacidade.com.br/feed/", "cat": "FEIRA"},
+        {"nome": "Portal da Feira", "json": "https://portaldafeira.com.br/wp-json/wp/v2/posts", "rss": "https://portaldafeira.com.br/feed/", "cat": "FEIRA"},
+        {"nome": "Folha do Estado", "json": "https://www.jornalfolhadoestado.com/wp-json/wp/v2/posts", "rss": "https://www.jornalfolhadoestado.com/feed/", "cat": "FEIRA"},
         
-        for art in artigos:
-            titulo = art.get_text().strip()
-            link_tag = art.find('a') if art.name != 'a' else art
-            link = link_tag['href'] if link_tag and link_tag.has_attr('href') else url
-            if not link.startswith('http'):
-                link = url.rstrip('/') + '/' + link.lstrip('/')
-
-            # Busca de imagem mais agressiva
-            img_url = ""
-            # Procura imagem dentro do bloco do artigo
-            img_tag = art.select_one('img') or art.find_previous('img') or art.find_next('img')
-            
-            if img_tag and img_tag.has_attr('src'):
-                img_url = img_tag['src']
-            elif img_tag and img_tag.has_attr('data-src'):
-                img_url = img_tag['data-src']
-
-            # Se não achou imagem real, gera uma elegante baseada na categoria
-            if not img_url or "base64" in img_url:
-                img_url = f"https://picsum.photos/seed/{random.randint(1,1000)}/1200/600"
-
-            if len(titulo) > 20:
-                noticias_locais.append({
-                    "titulo": titulo[:100],
-                    "resumo": f"Radar Consuldente: Informação em tempo real via {fonte}.",
-                    "cat": categoria,
-                    "fonte": fonte,
-                    "data": datetime.now().strftime("%H:%M"),
-                    "url": link,
-                    "img": img_url
-                })
-    except Exception as e:
-        print(f"Erro em {fonte}: {e}")
-    return noticias_locais
-
-def rodar_radar():
-    radar_data = []
-    alvos = [
-        {"url": "https://website.cfo.org.br/noticias/", "sel": "h2.entry-title", "name": "CFO", "cat": "odontologia"},
-        {"url": "https://croba.org.br/noticias/", "sel": "h2.entry-title", "name": "CRO-BA", "cat": "odontologia"},
-        {"url": "https://abo-ba.org.br/noticias/", "sel": ".post-title", "name": "ABO-BA", "cat": "odontologia"},
-        {"url": "https://www.acordacidade.com.br/", "sel": ".entry-title", "name": "Acorda Cidade", "cat": "feira"},
-        {"url": "https://g1.globo.com/ba/feira-de-santana-regiao/", "sel": ".feed-post-link", "name": "G1 Feira", "cat": "feira"},
-        {"url": "https://noticias.r7.com/bahia/", "sel": ".r7-flex-listing-title", "name": "R7 Bahia", "cat": "feira"},
-        {"url": "https://portaldafeira.com.br/", "sel": "h3.entry-title", "name": "Portal da Feira", "cat": "feira"},
-        {"url": "https://www.jornalfolhadoestado.com/?s=Feira+de+Santana", "sel": ".entry-title", "name": "Folha Estado", "cat": "feira"}
+        # ESPECIAIS (G1 via RSS)
+        {"nome": "G1 Feira", "json": None, "rss": "https://g1.globo.com/dynamo/ba/feira-de-santana-regiao/rss2.xml", "cat": "FEIRA"}
     ]
 
-    for alvo in alvos:
-        print(f"Rastreando: {alvo['name']}")
-        radar_data.extend(capturar_noticias(alvo['url'], alvo['sel'], alvo['name'], alvo['cat']))
+    for f in fontes:
+        success = False
+        print(f"🔎 Rastreando: {f['nome']}")
 
-    # Embaralha para não vir só G1 no início
-    random.shuffle(radar_data)
+        # TENTATIVA 1: WP-JSON (Melhor qualidade)
+        if f["json"]:
+            try:
+                res = requests.get(f["json"], headers=headers, timeout=15)
+                if res.status_code == 200:
+                    posts = res.json()[:6]
+                    for p in posts:
+                        final_news.append({
+                            "titulo": p["title"]["rendered"][:95],
+                            "resumo": "Clique para ler a matéria completa no portal oficial.",
+                            "cat": f["cat"],
+                            "fonte": f["nome"],
+                            "data": datetime.now().strftime("%H:%M"),
+                            "url": p["link"],
+                            "img": buscar_imagem_wp(p)
+                        })
+                    print(f"  ✅ {f['nome']} via JSON")
+                    success = True
+            except: pass
 
-    with open('data.json', 'w', encoding='utf-8') as f:
-        json.dump(radar_data, f, ensure_ascii=False, indent=4)
+        # TENTATIVA 2: RSS / Feed (Redundância)
+        if not success and f["rss"]:
+            try:
+                res = requests.get(f["rss"], headers=headers, timeout=15)
+                soup = BeautifulSoup(res.content, features="xml")
+                items = soup.findAll('item')[:6]
+                for i in items:
+                    # Tenta extrair imagem do content:encoded ou media:content
+                    img = "https://picsum.photos/seed/feira/800/400"
+                    if i.find('media:content'): img = i.find('media:content')['url']
+                    
+                    final_news.append({
+                        "titulo": i.title.text[:95],
+                        "resumo": "Notícia atualizada capturada via Feed RSS.",
+                        "cat": f["cat"],
+                        "fonte": f["nome"],
+                        "data": datetime.now().strftime("%H:%M"),
+                        "url": i.link.text,
+                        "img": img
+                    })
+                print(f"  ✅ {f['nome']} via RSS")
+                success = True
+            except: pass
+
+    # Embaralhar para o Slide ficar dinâmico
+    random.shuffle(final_news)
+
+    with open('data.json', 'w', encoding='utf-8') as f_out:
+        json.dump(final_news, f_out, ensure_ascii=False, indent=4)
+    print(f"🚀 Radar Concluído! {len(final_news)} posts processados.")
 
 if __name__ == "__main__":
-    rodar_radar()
+    capturar_noticias()
