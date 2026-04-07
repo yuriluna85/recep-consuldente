@@ -2,15 +2,16 @@ import json
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
+import random
 
 def capturar_noticias(url, seletor, fonte, categoria):
     noticias_locais = []
     try:
-        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36'}
-        response = requests.get(url, headers=headers, timeout=20)
+        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36'}
+        response = requests.get(url, headers=headers, timeout=25) # Aumentei o timeout
         soup = BeautifulSoup(response.text, 'html.parser')
         
-        artigos = soup.select(seletor)[:8] 
+        artigos = soup.select(seletor)[:6] 
         
         for art in artigos:
             titulo = art.get_text().strip()
@@ -19,20 +20,24 @@ def capturar_noticias(url, seletor, fonte, categoria):
             if not link.startswith('http'):
                 link = url.rstrip('/') + '/' + link.lstrip('/')
 
-            # Lógica para Imagem Destacada (Wordpress e outros)
-            img_url = "https://picsum.photos/seed/odonto/800/400" # Fallback
+            # Busca de imagem mais agressiva
+            img_url = ""
+            # Procura imagem dentro do bloco do artigo
+            img_tag = art.select_one('img') or art.find_previous('img') or art.find_next('img')
             
-            # Tenta achar uma imagem próxima ao título ou dentro do artigo
-            img_tag = art.find_previous('img') or art.find_next('img') or art.select_one('img')
             if img_tag and img_tag.has_attr('src'):
                 img_url = img_tag['src']
-                if not img_url.startswith('http'):
-                    img_url = url.rstrip('/') + '/' + img_url.lstrip('/')
+            elif img_tag and img_tag.has_attr('data-src'):
+                img_url = img_tag['data-src']
 
-            if len(titulo) > 15:
+            # Se não achou imagem real, gera uma elegante baseada na categoria
+            if not img_url or "base64" in img_url:
+                img_url = f"https://picsum.photos/seed/{random.randint(1,1000)}/1200/600"
+
+            if len(titulo) > 20:
                 noticias_locais.append({
-                    "titulo": titulo[:95],
-                    "resumo": f"Radar Consuldente: Informação atualizada via {fonte}.",
+                    "titulo": titulo[:100],
+                    "resumo": f"Radar Consuldente: Informação em tempo real via {fonte}.",
                     "cat": categoria,
                     "fonte": fonte,
                     "data": datetime.now().strftime("%H:%M"),
@@ -40,7 +45,7 @@ def capturar_noticias(url, seletor, fonte, categoria):
                     "img": img_url
                 })
     except Exception as e:
-        print(f"Erro ao rastrear {fonte}: {e}")
+        print(f"Erro em {fonte}: {e}")
     return noticias_locais
 
 def rodar_radar():
@@ -49,7 +54,6 @@ def rodar_radar():
         {"url": "https://website.cfo.org.br/noticias/", "sel": "h2.entry-title", "name": "CFO", "cat": "odontologia"},
         {"url": "https://croba.org.br/noticias/", "sel": "h2.entry-title", "name": "CRO-BA", "cat": "odontologia"},
         {"url": "https://abo-ba.org.br/noticias/", "sel": ".post-title", "name": "ABO-BA", "cat": "odontologia"},
-        {"url": "https://www.abo.org.br/noticias", "sel": ".noticia-titulo", "name": "ABO", "cat": "odontologia"},
         {"url": "https://www.acordacidade.com.br/", "sel": ".entry-title", "name": "Acorda Cidade", "cat": "feira"},
         {"url": "https://g1.globo.com/ba/feira-de-santana-regiao/", "sel": ".feed-post-link", "name": "G1 Feira", "cat": "feira"},
         {"url": "https://noticias.r7.com/bahia/", "sel": ".r7-flex-listing-title", "name": "R7 Bahia", "cat": "feira"},
@@ -58,14 +62,14 @@ def rodar_radar():
     ]
 
     for alvo in alvos:
+        print(f"Rastreando: {alvo['name']}")
         radar_data.extend(capturar_noticias(alvo['url'], alvo['sel'], alvo['name'], alvo['cat']))
 
-    # Limpeza de duplicatas
-    vistos = set()
-    data_final = [n for n in radar_data if not (n['titulo'] in vistos or vistos.add(n['titulo']))]
+    # Embaralha para não vir só G1 no início
+    random.shuffle(radar_data)
 
     with open('data.json', 'w', encoding='utf-8') as f:
-        json.dump(data_final, f, ensure_ascii=False, indent=4)
+        json.dump(radar_data, f, ensure_ascii=False, indent=4)
 
 if __name__ == "__main__":
     rodar_radar()
