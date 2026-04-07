@@ -16,19 +16,16 @@
         }
         body { font-family: 'Sora', sans-serif; background: var(--gray-100); color: var(--gray-900); line-height: 1.6; }
         
-        /* Header & Logo */
         header { background: var(--white); border-bottom: 1px solid var(--gray-200); position: sticky; top: 0; z-index: 100; }
         .header-inner { max-width: 1200px; margin: 0 auto; padding: 0 24px; height: 70px; display: flex; align-items: center; justify-content: space-between; }
         .logo-text { font-size: 22px; font-weight: 700; color: var(--green-dark); text-decoration: none; }
         .logo-text span { font-weight: 300; color: var(--gray-500); }
 
-        /* Filtros */
         .filter-bar { background: var(--white); border-bottom: 1px solid var(--gray-200); padding: 12px 0; overflow-x: auto; position: sticky; top: 70px; z-index: 90; }
         .filter-inner { max-width: 1200px; margin: 0 auto; padding: 0 24px; display: flex; gap: 8px; }
         .chip { padding: 8px 18px; border-radius: 20px; border: 1px solid var(--gray-200); background: white; cursor: pointer; white-space: nowrap; font-family: inherit; font-size: 13px; font-weight: 500; transition: 0.2s; }
         .chip.active { background: var(--green-dark); color: white; border-color: var(--green-dark); }
 
-        /* Grid de Notícias */
         main { max-width: 1200px; margin: 0 auto; padding: 32px 24px; min-height: 80vh; }
         .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 24px; }
         
@@ -39,10 +36,11 @@
         .news-card h3 { font-family: 'DM Serif Display', serif; font-size: 1.2rem; margin-bottom: 10px; color: var(--gray-900); }
         .news-card p { font-size: 14px; color: var(--gray-500); flex-grow: 1; margin-bottom: 20px; }
 
-        /* Fonte e Footer do Card */
         .card-footer { border-top: 1px solid var(--gray-100); padding-top: 15px; display: flex; justify-content: space-between; align-items: center; font-size: 11px; }
         .source-label { font-weight: 700; color: var(--green-mid); text-transform: uppercase; }
         .date-label { color: var(--gray-500); }
+
+        #status-msg { text-align: center; color: var(--gray-500); padding: 20px; font-size: 14px; }
 
         footer { background: var(--gray-900); color: white; padding: 40px 24px; text-align: center; margin-top: 50px; }
         footer span { color: var(--green-light); }
@@ -55,7 +53,7 @@
 <header>
     <div class="header-inner">
         <a href="#" class="logo-text">🦷 Consuldente <span>News</span></a>
-        <div style="font-size: 11px; font-weight: 600; color: var(--gray-500); text-transform: uppercase;">Traduzido por IA 🤖</div>
+        <div style="font-size: 11px; font-weight: 600; color: var(--gray-500); text-transform: uppercase;">Atualizado a cada hora 🕒</div>
     </div>
 </header>
 
@@ -69,142 +67,57 @@
 </div>
 
 <main>
+    <div id="status-msg">Carregando as últimas notícias...</div>
     <div class="grid" id="news-grid"></div>
 </main>
 
 <footer>
-    <p>Consuldente News &mdash; Orgulhosamente <span>Nerd</span></p>
-    <p style="font-size: 10px; margin-top: 10px; opacity: 0.5;">Fonte: Portais Oficiais (CFO, Nature, Dental Tribune, ScienceDaily)</p>
+    <p>Consuldente News &mdash; Portal de Curadoria para Nerds da Odonto</p>
+    <p style="font-size: 10px; margin-top: 10px; opacity: 0.5;">Fontes: CFO, Nature, Dental Tribune, ScienceDaily</p>
 </footer>
 
 <script>
-// Dados com tradução aplicada para PT-BR e indicação de fonte
-const allNews = [
+let currentNews = [];
+
+// Notícias de Backup (serão exibidas se o data.json ainda não tiver sido gerado pelo robô)
+const backupNews = [
     {
-        titulo: "Novas Regras do CFO para Publicidade Digital",
-        resumo: "O Conselho Federal de Odontologia atualizou as normas de ética para redes sociais, focando na proteção de dados dos pacientes.",
+        titulo: "Consuldente News: Iniciando Motores",
+        resumo: "O robô de inteligência artificial está sendo configurado no seu GitHub para buscar notícias agora mesmo.",
         cat: "novidades",
-        fonte: "CFO (Brasil)",
-        data: "07/04/2026",
-        url: "https://website.cfo.org.br/"
-    },
-    {
-        titulo: "Impressão 3D de Esmalte: Avanço na Bioengenharia",
-        resumo: "Traduzido de Nature: Cientistas conseguem mimetizar a estrutura mineral do esmalte dentário usando impressoras de alta precisão.",
-        cat: "pesquisa",
-        fonte: "Nature Dentistry (EUA)",
-        data: "06/04/2026",
-        url: "https://www.nature.com/bdj"
-    },
-    {
-        titulo: "CIOSP 2027 confirma foco em Odontologia Sustentável",
-        resumo: "A organização do maior congresso da AL anuncia diretrizes 'Zero Plástico' para as exposições de materiais odontológicos.",
-        cat: "eventos",
-        fonte: "CIOSP (Brasil)",
-        data: "05/04/2026",
-        url: "https://www.ciosp.com.br/"
-    },
-    {
-        titulo: "Scanner Intraoral com IA detecta microtrincas",
-        resumo: "Traduzido de Dental Tribune: Novo software europeu utiliza aprendizado de máquina para prever fraturas antes que ocorram.",
-        cat: "novidades",
-        fonte: "Dental Tribune (Alemanha)",
-        data: "04/04/2026",
-        url: "https://www.dental-tribune.com/"
-    },
-    {
-        titulo: "Estudo vincula Saúde da Gengiva à Prevenção de Alzheimer",
-        resumo: "Traduzido de ScienceDaily: Pesquisa reforça que a P. gingivalis pode estar ligada ao declínio cognitivo em idosos.",
-        cat: "pesquisa",
-        fonte: "ScienceDaily (EUA)",
-        data: "03/04/2026",
-        url: "https://www.sciencedaily.com/news/health_medicine/dentistry/"
-    },
-    {
-        titulo: "FDI World Dental Congress 2026",
-        resumo: "O encontro mundial da federação será palco para o lançamento do novo protocolo global de controle de infecção.",
-        cat: "eventos",
-        fonte: "FDI World Federation (Global)",
-        data: "02/04/2026",
-        url: "https://www.fdiworlddental.org/"
-    },
-    {
-        titulo: "Nano-robôs para desinfecção de canais radiculares",
-        resumo: "Traduzido de Nature: Partículas magnéticas minúsculas conseguem penetrar nos túbulos dentinários e eliminar bactérias persistentes.",
-        cat: "pesquisa",
-        fonte: "Nature Dentistry (EUA)",
-        data: "01/04/2026",
-        url: "https://www.nature.com/bdj"
-    },
-    {
-        titulo: "CFO lança carteira digital para cirurgiões-dentistas",
-        resumo: "Documento oficial agora pode ser acessado via app, integrando dados de especialidades e anuidades de forma prática.",
-        cat: "novidades",
-        fonte: "Portal CFO (Brasil)",
-        data: "31/03/2026",
-        url: "https://website.cfo.org.br/"
-    },
-    {
-        titulo: "Congresso APCD 2026: Inovações na Estética",
-        resumo: "Evento em São Paulo traz palestras exclusivas sobre facetas ultrafinas e o uso de resinas fluidas de alta carga.",
-        cat: "eventos",
-        fonte: "Revista APCD (Brasil)",
-        data: "29/03/2026",
-        url: "https://www.apcd.org.br/"
-    },
-    {
-        titulo: "Laser de Er:YAG substitui o motor em cavidades",
-        resumo: "Traduzido de Dental Tribune: Novos protocolos mostram redução drástica da dor e maior preservação de tecido sadio.",
-        cat: "novidades",
-        fonte: "Dental Tribune (EUA)",
-        data: "27/03/2026",
-        url: "https://www.dental-tribune.com/"
-    },
-    {
-        titulo: "Vacina contra Cárie: Testes entram na Fase 2",
-        resumo: "Traduzido de PubMed: Estudo foca em anticorpos IgA salivares para impedir a colonização do Streptococcus mutans.",
-        cat: "pesquisa",
-        fonte: "ScienceDaily (EUA)",
-        data: "25/03/2026",
-        url: "https://www.sciencedaily.com/"
-    },
-    {
-        titulo: "Simpósio de Implantodontia de Curitiba",
-        resumo: "Encontro nacional reúne especialistas para debater superfícies de implante que aceleram a osseointegração em diabéticos.",
-        cat: "eventos",
-        fonte: "Dental Press (Brasil)",
-        data: "23/03/2026",
-        url: "https://www.dentalpress.com.br/"
-    },
-    {
-        titulo: "O uso de Própolis na prevenção da Mucosite",
-        resumo: "Estudo brasileiro ganha destaque internacional ao provar eficácia de extratos naturais em pacientes oncológicos.",
-        cat: "pesquisa",
-        fonte: "Portal CFO (Brasil)",
-        data: "21/03/2026",
-        url: "https://website.cfo.org.br/"
-    },
-    {
-        titulo: "Lançamento: Resina com efeito camaleão 2.0",
-        resumo: "Nova tecnologia de opalescência faz com que a restauração se torne virtualmente invisível sob qualquer luz.",
-        cat: "novidades",
-        fonte: "Odonto News (Brasil)",
-        data: "19/03/2026",
-        url: "https://www.dental-tribune.com/"
-    },
-    {
-        titulo: "Webinário Global: O Futuro da Ortodontia com Alinhadores",
-        resumo: "Especialistas mundiais discutem os limites biológicos dos movimentos complexos feitos apenas com placas.",
-        cat: "eventos",
-        fonte: "Dental Tribune (Global)",
-        data: "15/03/2026",
-        url: "https://www.dental-tribune.com/"
+        fonte: "Sistema",
+        data: "Aguardando...",
+        url: "#"
     }
 ];
 
+// Função principal que busca os dados atualizados pelo GitHub Actions
+async function loadNews() {
+    const statusMsg = document.getElementById('status-msg');
+    
+    try {
+        // Busca o arquivo JSON que o robô do GitHub Actions sobrescreve a cada hora
+        // O parâmetro ?t= serve para evitar que o navegador cacheie o arquivo antigo
+        const response = await fetch('./data.json?t=' + new Date().getTime());
+        
+        if (!response.ok) throw new Error('Arquivo não encontrado');
+        
+        currentNews = await response.json();
+        statusMsg.style.display = 'none';
+        renderNews(currentNews);
+    } catch (e) {
+        console.warn("Aguardando o arquivo data.json ser gerado pelo Workflow.");
+        statusMsg.innerHTML = "Notícias sendo processadas pelo servidor. Exibindo backup...";
+        currentNews = backupNews;
+        renderNews(currentNews);
+    }
+}
+
+// Função para desenhar os cards na tela
 function renderNews(list) {
     const grid = document.getElementById('news-grid');
     grid.innerHTML = '';
+    
     list.forEach(n => {
         grid.innerHTML += `
             <article class="news-card" onclick="window.open('${n.url}', '_blank')">
@@ -213,20 +126,27 @@ function renderNews(list) {
                 <p>${n.resumo}</p>
                 <div class="card-footer">
                     <span class="source-label">${n.fonte}</span>
-                    <span class="date-label">${n.data}</span>
+                    <span class="date-label">📅 ${n.data}</span>
                 </div>
             </article>
         `;
     });
 }
 
+// Lógica de Filtros
 function filterNews(cat, btn) {
     document.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
     btn.classList.add('active');
-    renderNews(cat === 'todas' ? allNews : allNews.filter(n => n.cat === cat));
+    
+    if (cat === 'todas') {
+        renderNews(currentNews);
+    } else {
+        renderNews(currentNews.filter(n => n.cat === cat));
+    }
 }
 
-window.onload = () => renderNews(allNews);
+// Inicia o carregamento ao abrir a página
+window.onload = loadNews;
 </script>
 </body>
 </html>
