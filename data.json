@@ -1,109 +1,46 @@
 [
     {
-        "titulo": "Presidente do CFO prestigia posse da nova diretoria do CRO-DF",
+        "titulo": "Clube de Benefícios",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "10:37",
-        "url": "https://website.cfo.org.br/presidente-do-cfo-prestigia-posse-da-nova-diretoria-do-cro-df/",
-        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/DSCF3872-scaled.jpg"
+        "data": "11:33",
+        "url": "https://website.cfo.org.br/clube-beneficios",
+        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/arte-beneficios-scaled.png"
     },
     {
-        "titulo": "VÍDEO: mulher é agredida em via pública no interior da Bahia; suspeito é cunhado da vítima",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "10:37",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/04/11/video-mulher-e-agredida-em-via-publica-no-interior-da-bahia.ghtml",
-        "img": "https://picsum.photos/seed/637/800/400"
-    },
-    {
-        "titulo": "Justiça manda desmontar e transferir igreja histórica de mais de 400 anos em Sergipe",
+        "titulo": "Com um jogador a mais, Vitória vence o São Paulo no Barradão pelo Brasileiro",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Folha do Estado",
-        "data": "10:37",
-        "url": "https://www.jornalfolhadoestado.com/municipios/justica-manda-desmontar-e-transferir-igreja-historica-de-mais-de-400-anos-em-sergipe/",
-        "img": "https://picsum.photos/seed/744/800/400"
+        "data": "11:34",
+        "url": "https://www.jornalfolhadoestado.com/esportes/com-um-jogador-a-mais-vitoria-vence-o-sao-paulo-no-barradao-pelo-brasileiro/",
+        "img": "https://picsum.photos/seed/143/800/400"
     },
     {
-        "titulo": "Assista aos telejornais da TV Subaé",
+        "titulo": "Motorista fica preso às ferragens após colisão entre duas carretas no interior da Bahia",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "G1 Feira",
-        "data": "10:37",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
-        "img": "https://picsum.photos/seed/25/800/400"
+        "data": "11:34",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/04/11/motorista-fica-preso-as-ferragens-apos-colisao-entre-carretas-na-bahia.ghtml",
+        "img": "https://picsum.photos/seed/274/800/400"
     },
     {
-        "titulo": "Saiba quem era o empresário baiano que morreu em acidente na Paraíba",
+        "titulo": "CRO-BA realiza Encontro de Clínicas Odontológicas nos dias 28 e 29 de abril",
         "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "10:37",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/04/11/empresario-baiano-morre-em-acidente-na-paraiba.ghtml",
-        "img": "https://picsum.photos/seed/596/800/400"
-    },
-    {
-        "titulo": "Centro de Convenções de Feira de Santana recebe coletivo de samba, show, artesanato e outras at",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "10:37",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/04/10/centro-de-convencoes-de-feira-de-santana-recebe-coletivo-de-samba-show-artesanato-e-outras-atracoes.ghtml",
-        "img": "https://picsum.photos/seed/890/800/400"
-    },
-    {
-        "titulo": "Manual e anexos",
-        "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "10:37",
-        "url": "https://website.cfo.org.br/modelos-de-prontuarios",
-        "img": "https://picsum.photos/seed/591/800/400"
-    },
-    {
-        "titulo": "Mega-Sena acumula novamente e prêmio chega a R$ 45 milhões",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "10:37",
-        "url": "https://www.acordacidade.com.br/brasil/mega-sena-acumula-novamente-e-premio-chega-a-r-45-milhoes/",
-        "img": "https://picsum.photos/seed/631/800/400"
-    },
-    {
-        "titulo": "Prefeitura avalia áreas para construção de creche e posto de saúde no bairro Conceição",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "10:37",
-        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/prefeitura-avalia-areas-para-construcao-de-creche-e-posto-de-saude-no-bairro-conceicao/",
-        "img": "https://picsum.photos/seed/935/800/400"
-    },
-    {
-        "titulo": "Presidente do CFO prestigia posse da nova diretoria do CRO-GO",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "10:37",
-        "url": "https://website.cfo.org.br/presidente-do-cfo-prestigia-posse-da-nova-diretoria-do-cro-go/",
-        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/CAR08361-scaled.jpg"
-    },
-    {
-        "titulo": "Suspeito de matar homem a tiros após briga em bar é preso no interior da Bahia",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "10:37",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/04/11/suspeito-de-matar-homem-a-tiros-e-preso-em-ipecaeta.ghtml",
-        "img": "https://picsum.photos/seed/664/800/400"
+        "fonte": "CRO-BA",
+        "data": "11:33",
+        "url": "https://croba.org.br/cro-ba-realiza-encontro-de-clinicas-odontologicas-nos-dias-28-e-29-de-abril/",
+        "img": "https://picsum.photos/seed/1/800/400"
     },
     {
         "titulo": "São João da ABO-BA celebra tradição, alegria e união da classe odontológica",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "ABO-BA",
-        "data": "10:37",
+        "data": "11:34",
         "url": "https://abo-ba.org.br/sao-joao-da-abo-ba-celebra-tradicao-alegria-e-uniao-da-classe-odontologica/",
         "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/2.png"
     },
@@ -112,143 +49,260 @@
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "ABO-BA",
-        "data": "10:37",
+        "data": "11:34",
         "url": "https://abo-ba.org.br/cafe-prosa-promove-reflexao-sobre-autocuidado-na-abo-ba/",
         "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/1.png"
     },
     {
-        "titulo": "Terceira arma é apreendida em 15 dias durante blitz em Feira de Santana",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "10:37",
-        "url": "https://www.acordacidade.com.br/policia/terceira-arma-e-apreendida-em-15-dias-durante-blitz-em-feira-de-santana/",
-        "img": "https://picsum.photos/seed/614/800/400"
-    },
-    {
-        "titulo": "Prefeito vistoria obra da Escola Timóteo Ferreira da Silva, que atinge 75% de execução",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "10:37",
-        "url": "https://www.acordacidade.com.br/feira-de-santana/prefeito-vistoria-obra-da-escola-timoteo-ferreira-da-silva-que-atinge-75-de-execucao/",
-        "img": "https://picsum.photos/seed/604/800/400"
-    },
-    {
-        "titulo": "Colisão entre carretas na BR-324 deixa motorista ferido e preso às ferragens",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "10:37",
-        "url": "https://www.jornalfolhadoestado.com/municipios/colisao-entre-carretas-na-br-324-deixa-motorista-ferido-e-preso-as-ferragens/",
-        "img": "https://picsum.photos/seed/430/800/400"
-    },
-    {
-        "titulo": "Com um jogador a mais, Vitória vence o São Paulo no Barradão pelo Brasileiro",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "10:37",
-        "url": "https://www.jornalfolhadoestado.com/esportes/com-um-jogador-a-mais-vitoria-vence-o-sao-paulo-no-barradao-pelo-brasileiro/",
-        "img": "https://picsum.photos/seed/980/800/400"
-    },
-    {
-        "titulo": "Clube de Benefícios",
-        "resumo": "Portal Oficial - Clique para ler mais.",
+        "titulo": "HOF E CTBMF – Nota técnica do CFO esclarece interpretação normativa",
+        "resumo": "Atualização via Radar Consuldente.",
         "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "10:37",
-        "url": "https://website.cfo.org.br/clube-beneficios",
-        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/arte-beneficios-scaled.png"
-    },
-    {
-        "titulo": "Fora de casa, Bahia vence o Mirassol de virada e dorme no G-4 do Brasileirão",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "10:37",
-        "url": "https://www.jornalfolhadoestado.com/esportes/fora-de-casa-bahia-vence-o-mirassol-de-virada-e-dorme-no-g-4-do-brasileirao/",
-        "img": "https://picsum.photos/seed/144/800/400"
-    },
-    {
-        "titulo": "Morre Silvio Matos, ator e dublador, aos 82 anos no Rio de Janeiro",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "10:37",
-        "url": "https://www.acordacidade.com.br/entretenimento/famosos/morre-silvio-matos-ator-e-dublador-aos-82-anos-no-rio-de-janeiro/",
-        "img": "https://picsum.photos/seed/151/800/400"
-    },
-    {
-        "titulo": "Ao estilo Raudinei, Bahia vira sobre o Mirassol e volta ao G4",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "10:37",
-        "url": "https://www.acordacidade.com.br/esportes/futebol/ao-estilo-raudinei-bahia-vira-sobre-o-mirassol-e-volta-ao-g4/",
-        "img": "https://picsum.photos/seed/575/800/400"
+        "fonte": "CRO-BA",
+        "data": "11:33",
+        "url": "https://croba.org.br/hof-e-ctbmf-nota-tecnica-do-cfo-esclarece-interpretacao-normativa/",
+        "img": "https://picsum.photos/seed/437/800/400"
     },
     {
         "titulo": "Prefeitura analisa áreas para construção de creche e unidade de saúde na Conceição",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Acorda Cidade",
-        "data": "10:37",
+        "data": "11:34",
         "url": "https://www.acordacidade.com.br/variedades/prefeitura-analisa-areas-para-construcao-de-creche-e-unidade-de-saude-na-conceicao/",
-        "img": "https://picsum.photos/seed/633/800/400"
+        "img": "https://picsum.photos/seed/917/800/400"
     },
     {
-        "titulo": "Motorista fica preso às ferragens após colisão entre duas carretas no interior da Bahia",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "10:37",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/04/11/motorista-fica-preso-as-ferragens-apos-colisao-entre-carretas-na-bahia.ghtml",
-        "img": "https://picsum.photos/seed/184/800/400"
-    },
-    {
-        "titulo": "Nova gestão do CFO homenageia liderança feminina e reafirma compromisso com a equidade no Siste",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "10:37",
-        "url": "https://website.cfo.org.br/nova-gestao-do-cfo-homenageia-lideranca-feminina-e-reafirma-compromisso-com-a-equidade-no-sistema-conselhos-de-odontologia/",
-        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/Presidentes-dos-Conselhos-Regionais-de-Odontologia.jpeg"
-    },
-    {
-        "titulo": "Cirurgia Estética Orofacial é oficialmente regulamentada",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "10:37",
-        "url": "https://website.cfo.org.br/cirurgia-estetica-orofacial-e-oficialmente-regulamentada/",
-        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/DSC0432-scaled.jpg"
-    },
-    {
-        "titulo": "Passageiro é morto por motorista de aplicativo após vomitar durante corrida",
+        "titulo": "Terceira arma é apreendida em 15 dias durante blitz em Feira de Santana",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "10:37",
-        "url": "https://www.jornalfolhadoestado.com/brasil/passageiro-e-morto-por-motorista-de-aplicativo-apos-vomitar-durante-corrida/",
-        "img": "https://picsum.photos/seed/265/800/400"
-    },
-    {
-        "titulo": "ABO Bahia sedia Jornada Estadual sobre Hanseníase: “Conhecer e Cuidar, de Janeiro a Janeiro”",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "10:37",
-        "url": "https://abo-ba.org.br/abo-bahia-sedia-jornada-estadual-sobre-hanseniase-conhecer-e-cuidar-de-janeiro-a-janeiro/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/capas-abo-.png"
+        "fonte": "Acorda Cidade",
+        "data": "11:34",
+        "url": "https://www.acordacidade.com.br/policia/terceira-arma-e-apreendida-em-15-dias-durante-blitz-em-feira-de-santana/",
+        "img": "https://picsum.photos/seed/19/800/400"
     },
     {
         "titulo": "A nova era da harmonização orofacial começa com conhecimento de verdade e você pode fazer parte",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "ABO-BA",
-        "data": "10:37",
+        "data": "11:34",
         "url": "https://abo-ba.org.br/a-nova-era-da-harmonizacao-orofacial-comeca-com-conhecimento-de-verdade-e-voce-pode-fazer-parte/",
         "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/Black-and-Gold-Illustrated-Webinar-Event-Instagram-Post-1920-x-1080-px.png"
+    },
+    {
+        "titulo": "Idosa é morta a tiros dentro de casa no interior da Bahia",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "11:34",
+        "url": "https://www.jornalfolhadoestado.com/policia/idosa-e-morta-a-tiros-dentro-de-casa-no-interior-da-bahia/",
+        "img": "https://picsum.photos/seed/277/800/400"
+    },
+    {
+        "titulo": "Suspeito de matar homem a tiros após briga em bar é preso no interior da Bahia",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "11:34",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/04/11/suspeito-de-matar-homem-a-tiros-e-preso-em-ipecaeta.ghtml",
+        "img": "https://picsum.photos/seed/694/800/400"
+    },
+    {
+        "titulo": "Assista aos telejornais da TV Subaé",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "11:34",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
+        "img": "https://picsum.photos/seed/41/800/400"
+    },
+    {
+        "titulo": "VÍDEO: mulher é agredida em via pública no interior da Bahia; suspeito é cunhado da vítima",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "11:34",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/04/11/video-mulher-e-agredida-em-via-publica-no-interior-da-bahia.ghtml",
+        "img": "https://picsum.photos/seed/552/800/400"
+    },
+    {
+        "titulo": "ABO Bahia sedia Jornada Estadual sobre Hanseníase: “Conhecer e Cuidar, de Janeiro a Janeiro”",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "11:34",
+        "url": "https://abo-ba.org.br/abo-bahia-sedia-jornada-estadual-sobre-hanseniase-conhecer-e-cuidar-de-janeiro-a-janeiro/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/capas-abo-.png"
+    },
+    {
+        "titulo": "CRO-BA realizou evento“Elas Cuidam, Elas Transformam” em 14 municípios da Bahia durante o mês d",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "11:33",
+        "url": "https://croba.org.br/cro-ba-realizou-eventoelas-cuidam-elas-transformam-em-14-municipios-da-bahia-durante-o-mes-de-marco/",
+        "img": "https://picsum.photos/seed/582/800/400"
+    },
+    {
+        "titulo": "Saiba quem era o empresário baiano que morreu em acidente na Paraíba",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "11:34",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/04/11/empresario-baiano-morre-em-acidente-na-paraiba.ghtml",
+        "img": "https://picsum.photos/seed/746/800/400"
+    },
+    {
+        "titulo": "Centro de Convenções de Feira de Santana recebe coletivo de samba, show, artesanato e outras at",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "11:34",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/04/10/centro-de-convencoes-de-feira-de-santana-recebe-coletivo-de-samba-show-artesanato-e-outras-atracoes.ghtml",
+        "img": "https://picsum.photos/seed/671/800/400"
+    },
+    {
+        "titulo": "Prefeitura avalia áreas para construção de creche e posto de saúde no bairro Conceição",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "11:34",
+        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/prefeitura-avalia-areas-para-construcao-de-creche-e-posto-de-saude-no-bairro-conceicao/",
+        "img": "https://picsum.photos/seed/861/800/400"
+    },
+    {
+        "titulo": "Justiça manda desmontar e transferir igreja histórica de mais de 400 anos em Sergipe",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "11:34",
+        "url": "https://www.jornalfolhadoestado.com/municipios/justica-manda-desmontar-e-transferir-igreja-historica-de-mais-de-400-anos-em-sergipe/",
+        "img": "https://picsum.photos/seed/837/800/400"
+    },
+    {
+        "titulo": "Mega-Sena acumula novamente e prêmio chega a R$ 45 milhões",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "11:34",
+        "url": "https://www.acordacidade.com.br/brasil/mega-sena-acumula-novamente-e-premio-chega-a-r-45-milhoes/",
+        "img": "https://picsum.photos/seed/435/800/400"
+    },
+    {
+        "titulo": "Presidente do CFO prestigia posse da nova diretoria do CRO-DF",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "11:33",
+        "url": "https://website.cfo.org.br/presidente-do-cfo-prestigia-posse-da-nova-diretoria-do-cro-df/",
+        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/DSCF3872-scaled.jpg"
+    },
+    {
+        "titulo": "Fora de casa, Bahia vence o Mirassol de virada e dorme no G-4 do Brasileirão",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "11:34",
+        "url": "https://www.jornalfolhadoestado.com/esportes/fora-de-casa-bahia-vence-o-mirassol-de-virada-e-dorme-no-g-4-do-brasileirao/",
+        "img": "https://picsum.photos/seed/660/800/400"
+    },
+    {
+        "titulo": "CRO-BA participa da 1ª cerimônia oficial de assinatura do Manifesto ESG / ODS",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "11:33",
+        "url": "https://croba.org.br/cro-ba-participa-da-1a-cerimonia-oficial-de-assinatura-do-manifesto-esg-ods/",
+        "img": "https://picsum.photos/seed/229/800/400"
+    },
+    {
+        "titulo": "Presidente do CRO-BA se reúne com a Comissão de Remidos",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "11:33",
+        "url": "https://croba.org.br/presidente-do-cro-ba-se-reune-com-a-comissao-de-remidos/",
+        "img": "https://picsum.photos/seed/239/800/400"
+    },
+    {
+        "titulo": "Cirurgia Estética Orofacial é oficialmente regulamentada",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "11:33",
+        "url": "https://website.cfo.org.br/cirurgia-estetica-orofacial-e-oficialmente-regulamentada/",
+        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/DSC0432-scaled.jpg"
+    },
+    {
+        "titulo": "Presidente do CFO prestigia posse da nova diretoria do CRO-GO",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "11:33",
+        "url": "https://website.cfo.org.br/presidente-do-cfo-prestigia-posse-da-nova-diretoria-do-cro-go/",
+        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/CAR08361-scaled.jpg"
+    },
+    {
+        "titulo": "Passageiro é morto por motorista de aplicativo após vomitar durante corrida",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "11:34",
+        "url": "https://www.jornalfolhadoestado.com/brasil/passageiro-e-morto-por-motorista-de-aplicativo-apos-vomitar-durante-corrida/",
+        "img": "https://picsum.photos/seed/790/800/400"
+    },
+    {
+        "titulo": "Nova gestão do CFO homenageia liderança feminina e reafirma compromisso com a equidade no Siste",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "11:33",
+        "url": "https://website.cfo.org.br/nova-gestao-do-cfo-homenageia-lideranca-feminina-e-reafirma-compromisso-com-a-equidade-no-sistema-conselhos-de-odontologia/",
+        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/Presidentes-dos-Conselhos-Regionais-de-Odontologia.jpeg"
+    },
+    {
+        "titulo": "Ao estilo Raudinei, Bahia vira sobre o Mirassol e volta ao G4",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "11:34",
+        "url": "https://www.acordacidade.com.br/esportes/futebol/ao-estilo-raudinei-bahia-vira-sobre-o-mirassol-e-volta-ao-g4/",
+        "img": "https://picsum.photos/seed/586/800/400"
+    },
+    {
+        "titulo": "Morre Silvio Matos, ator e dublador, aos 82 anos no Rio de Janeiro",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "11:34",
+        "url": "https://www.acordacidade.com.br/entretenimento/famosos/morre-silvio-matos-ator-e-dublador-aos-82-anos-no-rio-de-janeiro/",
+        "img": "https://picsum.photos/seed/398/800/400"
+    },
+    {
+        "titulo": "CRO-BA participa de reunião com gestão municipal de Ipiaú em defesa da valorização da Odontolog",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "11:33",
+        "url": "https://croba.org.br/cro-ba-participa-de-reuniao-com-gestao-municipal-de-ipiau-em-defesa-da-valorizacao-da-odontologia/",
+        "img": "https://picsum.photos/seed/197/800/400"
+    },
+    {
+        "titulo": "Prefeito vistoria obra da Escola Timóteo Ferreira da Silva, que atinge 75% de execução",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "11:34",
+        "url": "https://www.acordacidade.com.br/feira-de-santana/prefeito-vistoria-obra-da-escola-timoteo-ferreira-da-silva-que-atinge-75-de-execucao/",
+        "img": "https://picsum.photos/seed/503/800/400"
+    },
+    {
+        "titulo": "Manual e anexos",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "11:33",
+        "url": "https://website.cfo.org.br/modelos-de-prontuarios",
+        "img": "https://picsum.photos/seed/801/800/400"
     }
 ]
