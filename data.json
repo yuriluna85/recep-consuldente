@@ -1,308 +1,272 @@
 [
     {
-        "titulo": "SEDESO marcará presença em mais uma edição do Feira em Ação",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "22:47",
-        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/sedeso-marcara-presenca-em-mais-uma-edicao-do-feira-em-acao/",
-        "img": "https://picsum.photos/seed/276/800/400"
-    },
-    {
-        "titulo": "Ampliação do Minha Casa, Minha Vida pressiona por moradia para servidor",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "22:47",
-        "url": "https://www.acordacidade.com.br/bahia/ampliacao-do-minha-casa-minha-vida-pressiona-por-moradia-para-servidor/",
-        "img": "https://picsum.photos/seed/14/800/400"
-    },
-    {
-        "titulo": "Vídeos do g1 e TV Subaé - quarta-feira, 22 de abril de 2026",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "22:47",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/edicao/2026/04/22/videos-do-g1-e-tv-subae-quarta-feira-22-de-abril-de-2026.ghtml",
-        "img": "https://picsum.photos/seed/511/800/400"
-    },
-    {
-        "titulo": "Cirurgia Estética Orofacial é oficialmente regulamentada",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "22:46",
-        "url": "https://website.cfo.org.br/cirurgia-estetica-orofacial-e-oficialmente-regulamentada/",
-        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/DSC0432-scaled.jpg"
-    },
-    {
-        "titulo": "Presidente do CFO prestigia posse da nova diretoria do CRO-DF",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "22:46",
-        "url": "https://website.cfo.org.br/presidente-do-cfo-prestigia-posse-da-nova-diretoria-do-cro-df/",
-        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/DSCF3872-scaled.jpg"
-    },
-    {
-        "titulo": "Casa do Trabalhador promove cursos gratuitos de capacitação em Feira de Santana; saiba como par",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "22:47",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/04/22/vagas-cursos-bahia.ghtml",
-        "img": "https://picsum.photos/seed/817/800/400"
-    },
-    {
-        "titulo": "Corpo de homem é resgatado por bombeiros do 5º BBM na Cachoeira da Pancada Grande",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "22:47",
-        "url": "https://www.acordacidade.com.br/bahia/corpo-de-homem-e-resgatado-por-bombeiros-do-5o-bbm-na-cachoeira-da-pancada-grande/",
-        "img": "https://picsum.photos/seed/970/800/400"
-    },
-    {
-        "titulo": "Café &#038; Prosa promove reflexão sobre autocuidado na ABO-BA",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "22:47",
-        "url": "https://abo-ba.org.br/cafe-prosa-promove-reflexao-sobre-autocuidado-na-abo-ba/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/1.png"
-    },
-    {
-        "titulo": "Neuromodulação ganha espaço no tratamento da dor crônica e do estresse",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "22:47",
-        "url": "https://www.jornalfolhadoestado.com/saude/neuromodulacao-ganha-espaco-no-tratamento-da-dor-cronica-e-do-estresse/",
-        "img": "https://picsum.photos/seed/889/800/400"
-    },
-    {
-        "titulo": "Contribuinte tem uma semana para quitar IPTU com desconto de 20%",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "22:47",
-        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/contribuinte-tem-uma-semana-para-quitar-iptu-com-desconto-de-20/",
-        "img": "https://picsum.photos/seed/17/800/400"
-    },
-    {
-        "titulo": "Pastor é acusado de homofobia após pregação em Feira de Santana",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "22:47",
-        "url": "https://www.jornalfolhadoestado.com/policia/pastor-e-acusado-de-homofobia-apos-pregacao-em-feira-de-santana/",
-        "img": "https://picsum.photos/seed/519/800/400"
-    },
-    {
-        "titulo": "Entenda o que são Gêmeos digitais e como reduzem custos e tempo em hospitais e indústrias do Br",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "22:47",
-        "url": "https://www.acordacidade.com.br/ciencia-e-tecnologia/entenda-o-que-sao-gemeos-digitais-e-como-reduzem-custos-e-tempo-em-hospitais-e-industrias-do-brasil/",
-        "img": "https://picsum.photos/seed/279/800/400"
-    },
-    {
-        "titulo": "TRE-BA realiza plantões eleitorais antes do fim do prazo de cadastro",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "22:47",
-        "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/04/22/tre-ba-realiza-plantoes-eleitorais-antes-do-fim-do-prazo-de-cadastro.ghtml",
-        "img": "https://picsum.photos/seed/461/800/400"
-    },
-    {
-        "titulo": "Inscrições para vagas remanescentes do Fies vão até 29 de abril",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "22:47",
-        "url": "https://www.jornalfolhadoestado.com/brasil/inscricoes-para-vagas-remanescentes-do-fies-vao-ate-29-de-abril/",
-        "img": "https://picsum.photos/seed/290/800/400"
-    },
-    {
-        "titulo": "Manual e anexos",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "22:46",
-        "url": "https://website.cfo.org.br/modelos-de-prontuarios",
-        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/Manual-do-Prontuario-1-scaled.png"
-    },
-    {
-        "titulo": "Assista ao BATV da TV Subaé",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "22:47",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
-        "img": "https://picsum.photos/seed/320/800/400"
-    },
-    {
-        "titulo": "PF na Bahia recebe investimentos para modernização institucional",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "22:47",
-        "url": "https://www.acordacidade.com.br/policia/pf-na-bahia-recebe-investimentos-para-modernizacao-institucional/",
-        "img": "https://picsum.photos/seed/863/800/400"
-    },
-    {
-        "titulo": "A nova era da harmonização orofacial começa com conhecimento de verdade e você pode fazer parte",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "22:47",
-        "url": "https://abo-ba.org.br/a-nova-era-da-harmonizacao-orofacial-comeca-com-conhecimento-de-verdade-e-voce-pode-fazer-parte/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/Black-and-Gold-Illustrated-Webinar-Event-Instagram-Post-1920-x-1080-px.png"
-    },
-    {
-        "titulo": "Pastor conhecido nas redes sociais é investigado por suspeita de injúria homofóbica em hospital",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "22:47",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/04/22/pastor-suspeito-de-injuria-homofobica-em-feira-de-santana.ghtml",
-        "img": "https://picsum.photos/seed/980/800/400"
-    },
-    {
-        "titulo": "CRO-BA participa da 1ª cerimônia oficial de assinatura do Manifesto ESG / ODS",
+        "titulo": "Presidente do CRO-BA se reúne com a Comissão de Remidos",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "ODONTOLOGIA",
         "fonte": "CRO-BA",
-        "data": "22:46",
-        "url": "https://croba.org.br/cro-ba-participa-da-1a-cerimonia-oficial-de-assinatura-do-manifesto-esg-ods/",
-        "img": "https://picsum.photos/seed/24/800/400"
-    },
-    {
-        "titulo": "ABO Bahia sedia Jornada Estadual sobre Hanseníase: “Conhecer e Cuidar, de Janeiro a Janeiro”",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "22:47",
-        "url": "https://abo-ba.org.br/abo-bahia-sedia-jornada-estadual-sobre-hanseniase-conhecer-e-cuidar-de-janeiro-a-janeiro/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/capas-abo-.png"
-    },
-    {
-        "titulo": "Investimentos fortalecem estrutura da Polícia Federal na Bahia",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "22:47",
-        "url": "https://www.jornalfolhadoestado.com/policia/investimentos-fortalecem-estrutura-da-policia-federal-na-bahia/",
-        "img": "https://picsum.photos/seed/219/800/400"
+        "data": "23:44",
+        "url": "https://croba.org.br/presidente-do-cro-ba-se-reune-com-a-comissao-de-remidos/",
+        "img": "https://picsum.photos/seed/510/800/400"
     },
     {
         "titulo": "Fórum discute neurodivergência com presença de especialistas em Feira de Santana; saiba mais",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "G1 Feira",
-        "data": "22:47",
+        "data": "23:44",
         "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/04/22/evento-feira-de-santana.ghtml",
-        "img": "https://picsum.photos/seed/972/800/400"
+        "img": "https://picsum.photos/seed/988/800/400"
     },
     {
-        "titulo": "São João da ABO-BA celebra tradição, alegria e união da classe odontológica",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "22:47",
-        "url": "https://abo-ba.org.br/sao-joao-da-abo-ba-celebra-tradicao-alegria-e-uniao-da-classe-odontologica/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/2.png"
-    },
-    {
-        "titulo": "Presidente do CRO-BA se reúne com a Comissão de Remidos",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "22:46",
-        "url": "https://croba.org.br/presidente-do-cro-ba-se-reune-com-a-comissao-de-remidos/",
-        "img": "https://picsum.photos/seed/791/800/400"
-    },
-    {
-        "titulo": "CRO-BA participa de ato público em Brasília em defesa da PEC 2/2026 e dialoga com o senador Ang",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "22:46",
-        "url": "https://croba.org.br/cro-ba-participa-de-ato-publico-em-brasilia-em-defesa-da-pec-2-2026-e-dialoga-com-o-senador-angelo-coronel/",
-        "img": "https://picsum.photos/seed/377/800/400"
-    },
-    {
-        "titulo": "Clube de Benefícios",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "22:46",
-        "url": "https://website.cfo.org.br/clube-beneficios",
-        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/arte-beneficios-scaled.png"
-    },
-    {
-        "titulo": "Superintendente avalia mudanças no trânsito na região da Cerb como positivas",
+        "titulo": "Inscrições para vagas remanescentes do Fies vão até 29 de abril",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "22:47",
-        "url": "https://www.acordacidade.com.br/feira-de-santana/superintendente-avalia-mudancas-no-transito-na-regiao-da-cerb-como-positivas/",
-        "img": "https://picsum.photos/seed/890/800/400"
-    },
-    {
-        "titulo": "Nova gestão do CFO homenageia liderança feminina e reafirma compromisso com a equidade no Siste",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "22:46",
-        "url": "https://website.cfo.org.br/nova-gestao-do-cfo-homenageia-lideranca-feminina-e-reafirma-compromisso-com-a-equidade-no-sistema-conselhos-de-odontologia/",
-        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/Presidentes-dos-Conselhos-Regionais-de-Odontologia.jpeg"
-    },
-    {
-        "titulo": "CRO-BA participa de reunião com gestão municipal de Ipiaú em defesa da valorização da Odontolog",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "22:46",
-        "url": "https://croba.org.br/cro-ba-participa-de-reuniao-com-gestao-municipal-de-ipiau-em-defesa-da-valorizacao-da-odontologia/",
-        "img": "https://picsum.photos/seed/510/800/400"
+        "fonte": "Folha do Estado",
+        "data": "23:44",
+        "url": "https://www.jornalfolhadoestado.com/brasil/inscricoes-para-vagas-remanescentes-do-fies-vao-ate-29-de-abril/",
+        "img": "https://picsum.photos/seed/956/800/400"
     },
     {
         "titulo": "CRO-BA acompanha, em Brasília, aprovação do relatório do PL 1365/2022 na CAE",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "ODONTOLOGIA",
         "fonte": "CRO-BA",
-        "data": "22:46",
+        "data": "23:44",
         "url": "https://croba.org.br/cro-ba-acompanha-em-brasilia-aprovacao-do-relatorio-do-pl-1365-2022-na-cae/",
-        "img": "https://picsum.photos/seed/21/800/400"
+        "img": "https://picsum.photos/seed/574/800/400"
     },
     {
-        "titulo": "CCJ aprova propostas que acabam com a escala 6&#215;1",
+        "titulo": "PRF intercepta ônibus e apreende mais de 12 kg de drogas na BR-116",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Acorda Cidade",
-        "data": "22:47",
-        "url": "https://www.acordacidade.com.br/politica/ccj-aprova-propostas-que-acabam-com-a-escala-6x1/",
-        "img": "https://picsum.photos/seed/420/800/400"
+        "data": "23:44",
+        "url": "https://www.acordacidade.com.br/policia/prf-intercepta-onibus-e-apreende-mais-de-12-kg-de-drogas-na-br-116/",
+        "img": "https://picsum.photos/seed/536/800/400"
+    },
+    {
+        "titulo": "André Mendonça pede vista e suspende julgamento contra Eduardo Bolsonaro",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "23:44",
+        "url": "https://www.acordacidade.com.br/politica/andre-mendonca-pede-vista-e-suspende-julgamento-contra-eduardo-bolsonaro/",
+        "img": "https://picsum.photos/seed/234/800/400"
+    },
+    {
+        "titulo": "Ação da PRF resulta na apreensão de quase 5 kg de cocaína em Vitória da Conquista",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "23:44",
+        "url": "https://www.acordacidade.com.br/policia/acao-da-prf-resulta-na-apreensao-de-quase-5-kg-de-cocaina-em-vitoria-da-conquista/",
+        "img": "https://picsum.photos/seed/396/800/400"
+    },
+    {
+        "titulo": "Contribuinte tem uma semana para quitar IPTU com desconto de 20%",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "23:44",
+        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/contribuinte-tem-uma-semana-para-quitar-iptu-com-desconto-de-20/",
+        "img": "https://picsum.photos/seed/127/800/400"
     },
     {
         "titulo": "Presidente do CFO prestigia posse da nova diretoria do CRO-GO",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "22:46",
+        "data": "23:44",
         "url": "https://website.cfo.org.br/presidente-do-cfo-prestigia-posse-da-nova-diretoria-do-cro-go/",
         "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/CAR08361-scaled.jpg"
+    },
+    {
+        "titulo": "2ª edição do Café com Psi promove diálogos sobre Psicologia Hospitalar em Feira de Santana",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "23:44",
+        "url": "https://www.acordacidade.com.br/educacao/eventos-academicos/2a-edicao-do-cafe-com-psi-promove-dialogos-sobre-psicologia-hospitalar-em-feira-de-santana/",
+        "img": "https://picsum.photos/seed/439/800/400"
+    },
+    {
+        "titulo": "Vídeos do g1 e TV Subaé - quarta-feira, 22 de abril de 2026",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "23:44",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/edicao/2026/04/22/videos-do-g1-e-tv-subae-quarta-feira-22-de-abril-de-2026.ghtml",
+        "img": "https://picsum.photos/seed/979/800/400"
+    },
+    {
+        "titulo": "Investimentos fortalecem estrutura da Polícia Federal na Bahia",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "23:44",
+        "url": "https://www.jornalfolhadoestado.com/policia/investimentos-fortalecem-estrutura-da-policia-federal-na-bahia/",
+        "img": "https://picsum.photos/seed/201/800/400"
+    },
+    {
+        "titulo": "Nova gestão do CFO homenageia liderança feminina e reafirma compromisso com a equidade no Siste",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "23:44",
+        "url": "https://website.cfo.org.br/nova-gestao-do-cfo-homenageia-lideranca-feminina-e-reafirma-compromisso-com-a-equidade-no-sistema-conselhos-de-odontologia/",
+        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/Presidentes-dos-Conselhos-Regionais-de-Odontologia.jpeg"
+    },
+    {
+        "titulo": "Assista aos telejornais da TV Subaé",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "23:44",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
+        "img": "https://picsum.photos/seed/743/800/400"
+    },
+    {
+        "titulo": "CRO-BA participa da 1ª cerimônia oficial de assinatura do Manifesto ESG / ODS",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "23:44",
+        "url": "https://croba.org.br/cro-ba-participa-da-1a-cerimonia-oficial-de-assinatura-do-manifesto-esg-ods/",
+        "img": "https://picsum.photos/seed/961/800/400"
     },
     {
         "titulo": "Circuito CRO-BA – Ética em Movimento reúne profissionais e estudantes em Senhor do Bonfim",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "ODONTOLOGIA",
         "fonte": "CRO-BA",
-        "data": "22:46",
+        "data": "23:44",
         "url": "https://croba.org.br/circuito-cro-ba-etica-em-movimento-reune-profissionais-e-estudantes-em-senhor-do-bonfim/",
-        "img": "https://picsum.photos/seed/969/800/400"
+        "img": "https://picsum.photos/seed/564/800/400"
+    },
+    {
+        "titulo": "Preso por feminicídio de modelo baiana no Rio é encontrado morto na cela",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "23:44",
+        "url": "https://www.acordacidade.com.br/policia/preso-por-feminicidio-de-modelo-baiana-no-rio-e-encontrado-morto-na-cela/",
+        "img": "https://picsum.photos/seed/52/800/400"
+    },
+    {
+        "titulo": "Pastor conhecido nas redes sociais é investigado por suspeita de injúria homofóbica em hospital",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "23:44",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/04/22/pastor-suspeito-de-injuria-homofobica-em-feira-de-santana.ghtml",
+        "img": "https://picsum.photos/seed/943/800/400"
+    },
+    {
+        "titulo": "Manual e anexos",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "23:44",
+        "url": "https://website.cfo.org.br/modelos-de-prontuarios",
+        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/Manual-do-Prontuario-1-scaled.png"
+    },
+    {
+        "titulo": "Clube de Benefícios",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "23:44",
+        "url": "https://website.cfo.org.br/clube-beneficios",
+        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/arte-beneficios-scaled.png"
+    },
+    {
+        "titulo": "Casa do Trabalhador promove cursos gratuitos de capacitação em Feira de Santana; saiba como par",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "23:44",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/04/22/vagas-cursos-bahia.ghtml",
+        "img": "https://picsum.photos/seed/881/800/400"
+    },
+    {
+        "titulo": "STF discute definição de mínimo existencial em casos de superendividamento",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "23:44",
+        "url": "https://www.acordacidade.com.br/brasil/stf-discute-definicao-de-minimo-existencial-em-casos-de-superendividamento/",
+        "img": "https://picsum.photos/seed/157/800/400"
+    },
+    {
+        "titulo": "CRO-BA participa de reunião com gestão municipal de Ipiaú em defesa da valorização da Odontolog",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "23:44",
+        "url": "https://croba.org.br/cro-ba-participa-de-reuniao-com-gestao-municipal-de-ipiau-em-defesa-da-valorizacao-da-odontologia/",
+        "img": "https://picsum.photos/seed/795/800/400"
+    },
+    {
+        "titulo": "Feira de Santana sediará a 2ª edição do Cenário das Doenças Raras",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "23:44",
+        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/feira-de-santana-sediara-a-2a-edicao-do-cenario-das-doencas-raras/",
+        "img": "https://picsum.photos/seed/568/800/400"
+    },
+    {
+        "titulo": "CRO-BA participa de ato público em Brasília em defesa da PEC 2/2026 e dialoga com o senador Ang",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "23:44",
+        "url": "https://croba.org.br/cro-ba-participa-de-ato-publico-em-brasilia-em-defesa-da-pec-2-2026-e-dialoga-com-o-senador-angelo-coronel/",
+        "img": "https://picsum.photos/seed/322/800/400"
+    },
+    {
+        "titulo": "TRE-BA realiza plantões eleitorais antes do fim do prazo de cadastro",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "23:44",
+        "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/04/22/tre-ba-realiza-plantoes-eleitorais-antes-do-fim-do-prazo-de-cadastro.ghtml",
+        "img": "https://picsum.photos/seed/356/800/400"
+    },
+    {
+        "titulo": "Presidente do CFO prestigia posse da nova diretoria do CRO-DF",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "23:44",
+        "url": "https://website.cfo.org.br/presidente-do-cfo-prestigia-posse-da-nova-diretoria-do-cro-df/",
+        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/DSCF3872-scaled.jpg"
+    },
+    {
+        "titulo": "Cirurgia Estética Orofacial é oficialmente regulamentada",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "23:44",
+        "url": "https://website.cfo.org.br/cirurgia-estetica-orofacial-e-oficialmente-regulamentada/",
+        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/DSC0432-scaled.jpg"
+    },
+    {
+        "titulo": "Pastor é acusado de homofobia após pregação em Feira de Santana",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "23:44",
+        "url": "https://www.jornalfolhadoestado.com/policia/pastor-e-acusado-de-homofobia-apos-pregacao-em-feira-de-santana/",
+        "img": "https://picsum.photos/seed/113/800/400"
+    },
+    {
+        "titulo": "SEDESO marcará presença em mais uma edição do Feira em Ação",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "23:44",
+        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/sedeso-marcara-presenca-em-mais-uma-edicao-do-feira-em-acao/",
+        "img": "https://picsum.photos/seed/447/800/400"
     }
 ]
