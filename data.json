@@ -1,317 +1,272 @@
 [
     {
-        "titulo": "Homem é conduzido à delegacia suspeito de apertar o pescoço da companheira",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "20:44",
-        "url": "https://www.acordacidade.com.br/policia/homem-e-conduzido-a-delegacia-suspeito-de-apertar-o-pescoco-da-companheira/",
-        "img": "https://picsum.photos/seed/859/800/400"
-    },
-    {
-        "titulo": "Mulheres priorizam a família, mas adiam o próprio planejamento financeiro, aponta estudo",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "20:44",
-        "url": "https://www.acordacidade.com.br/economia/mulheres-priorizam-a-familia-mas-adiam-o-proprio-planejamento-financeiro-aponta-estudo/",
-        "img": "https://picsum.photos/seed/421/800/400"
-    },
-    {
-        "titulo": "Cirurgia Estética Orofacial é oficialmente regulamentada",
-        "resumo": "Portal Oficial - Clique para ler mais.",
+        "titulo": "Presidente do CRO-BA se reúne com a Comissão de Remidos",
+        "resumo": "Atualização via Radar Consuldente.",
         "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "20:44",
-        "url": "https://website.cfo.org.br/cirurgia-estetica-orofacial-e-oficialmente-regulamentada/",
-        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/DSC0432-scaled.jpg"
-    },
-    {
-        "titulo": "Clube de Benefícios",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "20:44",
-        "url": "https://website.cfo.org.br/clube-beneficios",
-        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/arte-beneficios-scaled.png"
+        "fonte": "CRO-BA",
+        "data": "21:46",
+        "url": "https://croba.org.br/presidente-do-cro-ba-se-reune-com-a-comissao-de-remidos/",
+        "img": "https://picsum.photos/seed/7/800/400"
     },
     {
         "titulo": "CFO lança REFIS 2026 com regularização de débitos em até 10 vezes no cartão e 100% de redução d",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "20:44",
+        "data": "21:46",
         "url": "https://website.cfo.org.br/cfo-lanca-refis-2026-com-regularizacao-de-debitos-em-ate-10-vezes-no-cartao-e-100-de-reducao-de-juros-multa-e-correcao-monetaria/",
-        "img": "https://picsum.photos/seed/714/800/400"
+        "img": "https://picsum.photos/seed/202/800/400"
     },
     {
-        "titulo": "Evento com programação gratuita de cultura, saúde e qualificação profissional será realizado em",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "20:44",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/05/09/evento-gratuito-bahia.ghtml",
-        "img": "https://picsum.photos/seed/370/800/400"
+        "titulo": "Clube de Benefícios",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "21:46",
+        "url": "https://website.cfo.org.br/clube-beneficios",
+        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/arte-beneficios-scaled.png"
     },
     {
         "titulo": "PF investiga Ciro Nogueira após compra de triplex de R$ 22 milhões",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Folha do Estado",
-        "data": "20:44",
+        "data": "21:46",
         "url": "https://www.jornalfolhadoestado.com/politica/pf-investiga-ciro-nogueira-apos-compra-de-triplex-de-r-22-milhoes/",
-        "img": "https://picsum.photos/seed/671/800/400"
-    },
-    {
-        "titulo": "CRO-BA participa de ato público em Brasília em defesa da PEC 2/2026 e dialoga com o senador Ang",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "20:44",
-        "url": "https://croba.org.br/cro-ba-participa-de-ato-publico-em-brasilia-em-defesa-da-pec-2-2026-e-dialoga-com-o-senador-angelo-coronel/",
-        "img": "https://picsum.photos/seed/832/800/400"
-    },
-    {
-        "titulo": "Suspeitos de corrupção de menor e estupro são presos em Santaluz",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "20:44",
-        "url": "https://www.jornalfolhadoestado.com/policia/suspeitos-de-corrupcao-de-menor-e-estupro-sao-presos-em-santaluz/",
-        "img": "https://picsum.photos/seed/105/800/400"
-    },
-    {
-        "titulo": "Mulheres negras do Norte e Nordeste são as mais afetadas pela fome",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "20:44",
-        "url": "https://www.jornalfolhadoestado.com/brasil/mulheres-negras-do-norte-e-nordeste-sao-as-mais-afetadas-pela-fome/",
-        "img": "https://picsum.photos/seed/75/800/400"
+        "img": "https://picsum.photos/seed/116/800/400"
     },
     {
         "titulo": "Após oito anos de tratamentos para reverter infertilidade, baiana realiza sonho da maternidade ",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "G1 Feira",
-        "data": "20:44",
+        "data": "21:46",
         "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/05/10/baiana-realiza-sonho-da-maternidade-apos-anos-de-infertilidade-e-cria-rede-de-acolhimento.ghtml",
-        "img": "https://picsum.photos/seed/925/800/400"
-    },
-    {
-        "titulo": "Homem é preso suspeito de receptação ligada ao comércio clandestino de canetas emagrecedoras",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "20:44",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/05/09/homem-e-preso-suspeito-de-receptacao-ligada-ao-comercio-clandestino-de-canetas-emagrecedoras.ghtml",
-        "img": "https://picsum.photos/seed/975/800/400"
-    },
-    {
-        "titulo": "Café &#038; Prosa promove reflexão sobre autocuidado na ABO-BA",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "20:44",
-        "url": "https://abo-ba.org.br/cafe-prosa-promove-reflexao-sobre-autocuidado-na-abo-ba/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/1.png"
-    },
-    {
-        "titulo": "IBGE divulga nova rodada de pesquisas com dados da Bahia",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "20:44",
-        "url": "https://www.jornalfolhadoestado.com/brasil/ibge-divulga-nova-rodada-de-pesquisas-com-dados-da-bahia/",
-        "img": "https://picsum.photos/seed/302/800/400"
-    },
-    {
-        "titulo": "Brasil bate a Argentina e é campeão sul-americano no feminino Sub-17",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "20:44",
-        "url": "https://www.acordacidade.com.br/esportes/brasil-bate-a-argentina-e-e-campeao-sul-americano-no-feminino-sub-17/",
-        "img": "https://picsum.photos/seed/599/800/400"
-    },
-    {
-        "titulo": "ODONTOLOGIA HOSPITALAR AVANÇA NO BRASIL COM MODELO INTEGRADOR E CONQUISTA NOVO PROTAGONISMO NAC",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "20:44",
-        "url": "https://website.cfo.org.br/odontologia-hospitalar-avanca-no-brasil-com-modelo-integrador-e-conquista-novo-protagonismo-nacional/",
-        "img": "https://picsum.photos/seed/371/800/400"
-    },
-    {
-        "titulo": "Manual e anexos",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "20:44",
-        "url": "https://website.cfo.org.br/modelos-de-prontuarios",
-        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/Manual-do-Prontuario-1-scaled.png"
-    },
-    {
-        "titulo": "São João da ABO-BA celebra tradição, alegria e união da classe odontológica",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "20:44",
-        "url": "https://abo-ba.org.br/sao-joao-da-abo-ba-celebra-tradicao-alegria-e-uniao-da-classe-odontologica/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/2.png"
-    },
-    {
-        "titulo": "Motociclista morre em acidente na BR-324",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "20:44",
-        "url": "https://www.jornalfolhadoestado.com/municipios/motociclista-morre-em-acidente-na-br-324/",
-        "img": "https://picsum.photos/seed/385/800/400"
-    },
-    {
-        "titulo": "Após 40 anos longe da escola, mãe volta a estudar incentivada pela filha e é aprovada na UFRB",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "20:44",
-        "url": "https://g1.globo.com/ba/bahia/noticia/2026/05/10/mae-volta-a-estudar-incentivada-pela-filha-e-e-aprovada-na-ufrb.ghtml",
-        "img": "https://picsum.photos/seed/917/800/400"
+        "img": "https://picsum.photos/seed/310/800/400"
     },
     {
         "titulo": "De São Félix para todo o Brasil: Vaqueirinho brilha no Altas Horas ao lado de João Gomes",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Folha do Estado",
-        "data": "20:44",
+        "data": "21:46",
         "url": "https://www.jornalfolhadoestado.com/cultura/de-sao-felix-para-todo-o-brasil-vaqueirinho-brilha-no-altas-horas-ao-lado-de-joao-gomes/",
-        "img": "https://picsum.photos/seed/846/800/400"
+        "img": "https://picsum.photos/seed/626/800/400"
     },
     {
-        "titulo": "Nota de Pesar",
+        "titulo": "Homem com mandado de prisão em aberto é preso no distrito de Jaíba",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "21:46",
+        "url": "https://www.acordacidade.com.br/policia/homem-com-mandado-de-prisao-em-aberto-e-preso-no-distrito-de-jaiba/",
+        "img": "https://picsum.photos/seed/854/800/400"
+    },
+    {
+        "titulo": "CRO-BA participa de ato público em Brasília em defesa da PEC 2/2026 e dialoga com o senador Ang",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "ODONTOLOGIA",
         "fonte": "CRO-BA",
-        "data": "20:44",
-        "url": "https://croba.org.br/nota-de-pesar-3/",
-        "img": "https://picsum.photos/seed/848/800/400"
+        "data": "21:46",
+        "url": "https://croba.org.br/cro-ba-participa-de-ato-publico-em-brasilia-em-defesa-da-pec-2-2026-e-dialoga-com-o-senador-angelo-coronel/",
+        "img": "https://picsum.photos/seed/312/800/400"
+    },
+    {
+        "titulo": "Homem é conduzido à delegacia suspeito de apertar o pescoço da companheira",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "21:46",
+        "url": "https://www.acordacidade.com.br/policia/homem-e-conduzido-a-delegacia-suspeito-de-apertar-o-pescoco-da-companheira/",
+        "img": "https://picsum.photos/seed/828/800/400"
+    },
+    {
+        "titulo": "Evento com programação gratuita de cultura, saúde e qualificação profissional será realizado em",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "21:46",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/05/09/evento-gratuito-bahia.ghtml",
+        "img": "https://picsum.photos/seed/364/800/400"
     },
     {
         "titulo": "Presidente do CFO prestigia posse da nova diretoria do CRO-GO",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "20:44",
+        "data": "21:46",
         "url": "https://website.cfo.org.br/presidente-do-cfo-prestigia-posse-da-nova-diretoria-do-cro-go/",
         "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/CAR08361-scaled.jpg"
-    },
-    {
-        "titulo": "CRO-BA acompanha, em Brasília, aprovação do relatório do PL 1365/2022 na CAE",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "20:44",
-        "url": "https://croba.org.br/cro-ba-acompanha-em-brasilia-aprovacao-do-relatorio-do-pl-1365-2022-na-cae/",
-        "img": "https://picsum.photos/seed/194/800/400"
     },
     {
         "titulo": "Circuito CRO-BA – Ética em Movimento reúne profissionais e estudantes em Senhor do Bonfim",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "ODONTOLOGIA",
         "fonte": "CRO-BA",
-        "data": "20:44",
+        "data": "21:46",
         "url": "https://croba.org.br/circuito-cro-ba-etica-em-movimento-reune-profissionais-e-estudantes-em-senhor-do-bonfim/",
-        "img": "https://picsum.photos/seed/107/800/400"
+        "img": "https://picsum.photos/seed/789/800/400"
     },
     {
-        "titulo": "Presidente do CRO-BA se reúne com a Comissão de Remidos",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "20:44",
-        "url": "https://croba.org.br/presidente-do-cro-ba-se-reune-com-a-comissao-de-remidos/",
-        "img": "https://picsum.photos/seed/12/800/400"
-    },
-    {
-        "titulo": "A nova era da harmonização orofacial começa com conhecimento de verdade e você pode fazer parte",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "20:44",
-        "url": "https://abo-ba.org.br/a-nova-era-da-harmonizacao-orofacial-comeca-com-conhecimento-de-verdade-e-voce-pode-fazer-parte/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/Black-and-Gold-Illustrated-Webinar-Event-Instagram-Post-1920-x-1080-px.png"
-    },
-    {
-        "titulo": "Projeto celebra o Dia das Mães com fotos e solidariedade em Feira de Santana",
+        "titulo": "Feira FC vence o Camaçari fora de casa e mantém 100% na Série B do Baiano",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "20:44",
-        "url": "https://www.acordacidade.com.br/feira-de-santana/projeto-celebra-o-dia-das-maes-com-fotos-e-solidariedade-em-feira-de-santana/",
-        "img": "https://picsum.photos/seed/577/800/400"
+        "fonte": "Folha do Estado",
+        "data": "21:46",
+        "url": "https://www.jornalfolhadoestado.com/esportes/feira-fc-vence-o-camacari-fora-de-casa-e-mantem-100-na-serie-b-do-baiano/",
+        "img": "https://picsum.photos/seed/308/800/400"
     },
     {
-        "titulo": "Mulher é morta a facadas pelo irmão enquanto dormia no interior da BA; suspeito foi preso em fl",
+        "titulo": "ODONTOLOGIA HOSPITALAR AVANÇA NO BRASIL COM MODELO INTEGRADOR E CONQUISTA NOVO PROTAGONISMO NAC",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "21:46",
+        "url": "https://website.cfo.org.br/odontologia-hospitalar-avanca-no-brasil-com-modelo-integrador-e-conquista-novo-protagonismo-nacional/",
+        "img": "https://picsum.photos/seed/319/800/400"
+    },
+    {
+        "titulo": "Homem é preso suspeito de receptação ligada ao comércio clandestino de canetas emagrecedoras",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "G1 Feira",
-        "data": "20:44",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/05/09/mulher-e-morta-na-bahia.ghtml",
-        "img": "https://picsum.photos/seed/781/800/400"
+        "data": "21:46",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/05/09/homem-e-preso-suspeito-de-receptacao-ligada-ao-comercio-clandestino-de-canetas-emagrecedoras.ghtml",
+        "img": "https://picsum.photos/seed/895/800/400"
+    },
+    {
+        "titulo": "Manual e anexos",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "21:46",
+        "url": "https://website.cfo.org.br/modelos-de-prontuarios",
+        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/Manual-do-Prontuario-1-scaled.png"
+    },
+    {
+        "titulo": "IBGE divulga nova rodada de pesquisas com dados da Bahia",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "21:46",
+        "url": "https://www.jornalfolhadoestado.com/brasil/ibge-divulga-nova-rodada-de-pesquisas-com-dados-da-bahia/",
+        "img": "https://picsum.photos/seed/833/800/400"
     },
     {
         "titulo": "CRO-BA participa da 1ª cerimônia oficial de assinatura do Manifesto ESG / ODS",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "ODONTOLOGIA",
         "fonte": "CRO-BA",
-        "data": "20:44",
+        "data": "21:46",
         "url": "https://croba.org.br/cro-ba-participa-da-1a-cerimonia-oficial-de-assinatura-do-manifesto-esg-ods/",
-        "img": "https://picsum.photos/seed/588/800/400"
+        "img": "https://picsum.photos/seed/478/800/400"
     },
     {
-        "titulo": "Governo da Bahia articula extradição de líder de facção capturado na Bolívia",
+        "titulo": "Motociclista é morto a tiros no bairro Jardim Cruzeiro",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Acorda Cidade",
-        "data": "20:44",
-        "url": "https://www.acordacidade.com.br/policia/governo-da-bahia-articula-extradicao-de-lider-de-faccao-capturado-na-bolivia/",
-        "img": "https://picsum.photos/seed/365/800/400"
+        "data": "21:46",
+        "url": "https://www.acordacidade.com.br/policia/motociclista-e-morto-a-tiros-no-bairro-jardim-cruzeiro/",
+        "img": "https://picsum.photos/seed/815/800/400"
     },
     {
-        "titulo": "ABO Bahia sedia Jornada Estadual sobre Hanseníase: “Conhecer e Cuidar, de Janeiro a Janeiro”",
-        "resumo": "Portal Oficial - Clique para ler mais.",
+        "titulo": "CRO-BA acompanha, em Brasília, aprovação do relatório do PL 1365/2022 na CAE",
+        "resumo": "Atualização via Radar Consuldente.",
         "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "20:44",
-        "url": "https://abo-ba.org.br/abo-bahia-sedia-jornada-estadual-sobre-hanseniase-conhecer-e-cuidar-de-janeiro-a-janeiro/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/capas-abo-.png"
+        "fonte": "CRO-BA",
+        "data": "21:46",
+        "url": "https://croba.org.br/cro-ba-acompanha-em-brasilia-aprovacao-do-relatorio-do-pl-1365-2022-na-cae/",
+        "img": "https://picsum.photos/seed/749/800/400"
     },
     {
-        "titulo": "Centro comercial de Feira de Santana registra movimento fraco no Dia das Mães",
+        "titulo": "Feira FC vence o Camaçari por 3&#215;0 e segue empatado no topo da tabela do Baianão",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Acorda Cidade",
-        "data": "20:44",
-        "url": "https://www.acordacidade.com.br/feira-de-santana/centro-comercial-de-feira-de-santana-registra-movimento-fraco-no-dia-das-maes/",
-        "img": "https://picsum.photos/seed/382/800/400"
+        "data": "21:46",
+        "url": "https://www.acordacidade.com.br/esportes/feira-fc-vence-o-camacari-por-3x0-e-segue-empatado-no-topo-da-tabela-do-baianao/",
+        "img": "https://picsum.photos/seed/870/800/400"
+    },
+    {
+        "titulo": "Após 40 anos longe da escola, mãe volta a estudar incentivada pela filha e é aprovada na UFRB",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "21:46",
+        "url": "https://g1.globo.com/ba/bahia/noticia/2026/05/10/mae-volta-a-estudar-incentivada-pela-filha-e-e-aprovada-na-ufrb.ghtml",
+        "img": "https://picsum.photos/seed/773/800/400"
+    },
+    {
+        "titulo": "Moto com sinais de adulteração é apreendida pela PM no Distrito da Matinha",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "21:46",
+        "url": "https://www.acordacidade.com.br/policia/moto-com-sinais-de-adulteracao-e-apreendida-pela-pm-no-distrito-da-matinha/",
+        "img": "https://picsum.photos/seed/621/800/400"
+    },
+    {
+        "titulo": "Mulher é morta a facadas pelo irmão enquanto dormia no interior da BA; suspeito foi preso em fl",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "21:46",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/05/09/mulher-e-morta-na-bahia.ghtml",
+        "img": "https://picsum.photos/seed/508/800/400"
     },
     {
         "titulo": "Especialista analisa aumento da desigualdade salarial para negros e mulheres na BA: 'Debate não",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "G1 Feira",
-        "data": "20:44",
+        "data": "21:46",
         "url": "https://g1.globo.com/ba/bahia/noticia/2026/05/09/especialista-analisa-aumento-da-desigualdade-salarial-para-negros-e-mulheres-na-ba.ghtml",
-        "img": "https://picsum.photos/seed/272/800/400"
+        "img": "https://picsum.photos/seed/865/800/400"
     },
     {
-        "titulo": "ABO se torna  signatária do Manifesto ESG/ODS por Ambientes Sustentáveis, Saudáveis, Inteligent",
+        "titulo": "Motociclista morre em acidente na BR-324",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "21:46",
+        "url": "https://www.jornalfolhadoestado.com/municipios/motociclista-morre-em-acidente-na-br-324/",
+        "img": "https://picsum.photos/seed/606/800/400"
+    },
+    {
+        "titulo": "Brasil bate a Argentina e é campeão sul-americano no feminino Sub-17",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "21:46",
+        "url": "https://www.acordacidade.com.br/esportes/brasil-bate-a-argentina-e-e-campeao-sul-americano-no-feminino-sub-17/",
+        "img": "https://picsum.photos/seed/267/800/400"
+    },
+    {
+        "titulo": "Mulheres negras do Norte e Nordeste são as mais afetadas pela fome",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "21:46",
+        "url": "https://www.jornalfolhadoestado.com/brasil/mulheres-negras-do-norte-e-nordeste-sao-as-mais-afetadas-pela-fome/",
+        "img": "https://picsum.photos/seed/770/800/400"
+    },
+    {
+        "titulo": "Cirurgia Estética Orofacial é oficialmente regulamentada",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "20:44",
-        "url": "https://abo-ba.org.br/abo-se-torna-signataria-do-manifesto-esg-ods-por-ambientes-sustentaveis-saudaveis-inteligentes-e-felizes/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-23-at-09.02.46.jpeg"
+        "fonte": "CFO Federal",
+        "data": "21:46",
+        "url": "https://website.cfo.org.br/cirurgia-estetica-orofacial-e-oficialmente-regulamentada/",
+        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/DSC0432-scaled.jpg"
+    },
+    {
+        "titulo": "Nota de Pesar",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "21:46",
+        "url": "https://croba.org.br/nota-de-pesar-3/",
+        "img": "https://picsum.photos/seed/149/800/400"
     }
 ]
