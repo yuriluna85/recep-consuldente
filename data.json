@@ -1,272 +1,218 @@
 [
     {
-        "titulo": "Senac oferece mais de 3 mil vagas gratuitas em cursos de qualificação durante ação na Bahia",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "21:58",
-        "url": "https://g1.globo.com/ba/bahia/blogdoemprego/noticia/2026/05/15/vagas-bahia.ghtml",
-        "img": "https://picsum.photos/seed/641/800/400"
-    },
-    {
-        "titulo": "Cirurgia Estética Orofacial é oficialmente regulamentada",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "21:58",
-        "url": "https://website.cfo.org.br/cirurgia-estetica-orofacial-e-oficialmente-regulamentada/",
-        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/DSC0432-scaled.jpg"
-    },
-    {
-        "titulo": "CRO-BA participa de ato público em Brasília em defesa da PEC 2/2026 e dialoga com o senador Ang",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "21:58",
-        "url": "https://croba.org.br/cro-ba-participa-de-ato-publico-em-brasilia-em-defesa-da-pec-2-2026-e-dialoga-com-o-senador-angelo-coronel/",
-        "img": "https://picsum.photos/seed/951/800/400"
-    },
-    {
-        "titulo": "Feira de Santana lidera gastos com acidentes de moto e Bahia já soma quase R$ 150 milhões em in",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "21:58",
-        "url": "https://www.acordacidade.com.br/feira-de-santana/feira-de-santana-lidera-gastos-com-acidentes-de-moto-e-bahia-ja-soma-quase-r-150-milhoes-em-internacoes/",
-        "img": "https://picsum.photos/seed/102/800/400"
-    },
-    {
-        "titulo": "Prefeitura do litoral sul reduz salário do prefeito por crise financeira",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "21:58",
-        "url": "https://www.jornalfolhadoestado.com/politica/prefeitura-do-litoral-sul-reduz-salario-do-prefeito-por-crise-financeira/",
-        "img": "https://picsum.photos/seed/87/800/400"
-    },
-    {
-        "titulo": "Operação Malha Fechada prende suspeitos de homicídio e tráfico na Bahia",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "21:58",
-        "url": "https://www.acordacidade.com.br/policia/operacao-malha-fechada-prende-suspeitos-de-homicidio-e-trafico-na-bahia/",
-        "img": "https://picsum.photos/seed/807/800/400"
-    },
-    {
-        "titulo": "CRO-BA participa da 1ª cerimônia oficial de assinatura do Manifesto ESG / ODS",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "21:58",
-        "url": "https://croba.org.br/cro-ba-participa-da-1a-cerimonia-oficial-de-assinatura-do-manifesto-esg-ods/",
-        "img": "https://picsum.photos/seed/990/800/400"
-    },
-    {
-        "titulo": "Semana S do Comércio será realizada neste sábado (16) em Feira de Santana",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "21:58",
-        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/semana-s-do-comercio-sera-realizada-neste-sabado-16-em-feira-de-santana/",
-        "img": "https://picsum.photos/seed/673/800/400"
-    },
-    {
-        "titulo": "Presidente do CRO-BA se reúne com a Comissão de Remidos",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "21:58",
-        "url": "https://croba.org.br/presidente-do-cro-ba-se-reune-com-a-comissao-de-remidos/",
-        "img": "https://picsum.photos/seed/656/800/400"
-    },
-    {
-        "titulo": "Operação atinge patrimônio milionário de organização criminosa na região do Sisal",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "21:58",
-        "url": "https://www.jornalfolhadoestado.com/policia/operacao-atinge-patrimonio-milionario-de-organizacao-criminosa-na-regiao-do-sisal/",
-        "img": "https://picsum.photos/seed/274/800/400"
-    },
-    {
-        "titulo": " Música e teatro: veja opções de lazer em Feira de Santana e região",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "21:58",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/05/15/veja-opcoes-de-lazer-em-feira-de-santana-e-regiao.ghtml",
-        "img": "https://picsum.photos/seed/269/800/400"
-    },
-    {
-        "titulo": "Investigado por assalto contra turista carioca é capturado em Salvador",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "21:58",
-        "url": "https://www.acordacidade.com.br/policia/investigado-por-assalto-contra-turista-carioca-e-capturado-em-salvador/",
-        "img": "https://picsum.photos/seed/684/800/400"
-    },
-    {
-        "titulo": "CRO-BA acompanha, em Brasília, aprovação do relatório do PL 1365/2022 na CAE",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "21:58",
-        "url": "https://croba.org.br/cro-ba-acompanha-em-brasilia-aprovacao-do-relatorio-do-pl-1365-2022-na-cae/",
-        "img": "https://picsum.photos/seed/724/800/400"
-    },
-    {
-        "titulo": "Economia compartilhada tem sido benéfico para empresas e consumidores; entenda",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "21:58",
-        "url": "https://www.acordacidade.com.br/variedades/comportamento/economia-compartilhada-tem-sido-benefico-para-empresas-e-consumidores-entenda/",
-        "img": "https://picsum.photos/seed/143/800/400"
-    },
-    {
-        "titulo": "Clube de Benefícios",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "21:58",
-        "url": "https://website.cfo.org.br/clube-beneficios",
-        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/arte-beneficios-scaled.png"
-    },
-    {
-        "titulo": "Circuito CRO-BA – Ética em Movimento reúne profissionais e estudantes em Senhor do Bonfim",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "21:58",
-        "url": "https://croba.org.br/circuito-cro-ba-etica-em-movimento-reune-profissionais-e-estudantes-em-senhor-do-bonfim/",
-        "img": "https://picsum.photos/seed/437/800/400"
-    },
-    {
-        "titulo": "Dino abre apuração sobre emendas para produtora do filme de Bolsonaro",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "21:58",
-        "url": "https://www.jornalfolhadoestado.com/politica/dino-abre-apuracao-sobre-emendas-para-produtora-do-filme-de-bolsonaro/",
-        "img": "https://picsum.photos/seed/577/800/400"
-    },
-    {
-        "titulo": "Manual e anexos",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "21:58",
-        "url": "https://website.cfo.org.br/modelos-de-prontuarios",
-        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/Manual-do-Prontuario-1-scaled.png"
-    },
-    {
         "titulo": "ODONTOLOGIA HOSPITALAR AVANÇA NO BRASIL COM MODELO INTEGRADOR E CONQUISTA NOVO PROTAGONISMO NAC",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "21:58",
+        "data": "23:02",
         "url": "https://website.cfo.org.br/odontologia-hospitalar-avanca-no-brasil-com-modelo-integrador-e-conquista-novo-protagonismo-nacional/",
-        "img": "https://picsum.photos/seed/464/800/400"
-    },
-    {
-        "titulo": "Acelen anuncia redução de até 6,9% em combustíveis na Bahia",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "21:58",
-        "url": "https://g1.globo.com/ba/bahia/noticia/2026/05/14/acelen-anuncia-reducao-em-combustiveis-na-bahia.ghtml",
-        "img": "https://picsum.photos/seed/987/800/400"
-    },
-    {
-        "titulo": "Acidentes de moto na Bahia custaram quase R$150 milhões para a Saúde Pública em 2025",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "21:58",
-        "url": "https://www.jornalfolhadoestado.com/saude/acidentes-de-moto-na-bahia-custaram-quase-r150-milhoes-para-a-saude-publica-em-2025/",
-        "img": "https://picsum.photos/seed/145/800/400"
-    },
-    {
-        "titulo": "Prefeitura e MP chegam a acordo e mantêm show de Robyssão no São João de Euclides da Cunha",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "21:58",
-        "url": "https://www.jornalfolhadoestado.com/especiais/sao-joao/prefeitura-e-mp-chegam-a-acordo-e-mantem-show-de-robyssao-no-sao-joao-de-euclides-da-cunha/",
-        "img": "https://picsum.photos/seed/879/800/400"
+        "img": "https://picsum.photos/seed/783/800/400"
     },
     {
         "titulo": "Caminhão capota na BR-110 e vítima morre presa às ferragens",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Acorda Cidade",
-        "data": "21:58",
+        "data": "23:02",
         "url": "https://www.acordacidade.com.br/bahia/caminhao-capota-na-br-110-e-vitima-morre-presa-as-ferragens/",
-        "img": "https://picsum.photos/seed/467/800/400"
+        "img": "https://picsum.photos/seed/698/800/400"
     },
     {
-        "titulo": "Prefeitura de Alagoinhas distribui repelentes para gestantes após aumento de casos de arboviros",
-        "resumo": "Atualização via Radar Consuldente.",
+        "titulo": "Ex-ministro José Dirceu é diagnosticado com linfoma após exames gerais",
+        "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "21:58",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/05/15/alagoinhas-atendimento.ghtml",
-        "img": "https://picsum.photos/seed/503/800/400"
-    },
-    {
-        "titulo": "Nota de Pesar",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "21:58",
-        "url": "https://croba.org.br/nota-de-pesar-3/",
-        "img": "https://picsum.photos/seed/406/800/400"
-    },
-    {
-        "titulo": "Presidente do CFO prestigia posse da nova diretoria do CRO-GO",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "21:58",
-        "url": "https://website.cfo.org.br/presidente-do-cfo-prestigia-posse-da-nova-diretoria-do-cro-go/",
-        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/CAR08361-scaled.jpg"
-    },
-    {
-        "titulo": "CFO lança REFIS 2026 com regularização de débitos em até 10 vezes no cartão e 100% de redução d",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "21:58",
-        "url": "https://website.cfo.org.br/cfo-lanca-refis-2026-com-regularizacao-de-debitos-em-ate-10-vezes-no-cartao-e-100-de-reducao-de-juros-multa-e-correcao-monetaria/",
-        "img": "https://picsum.photos/seed/477/800/400"
+        "fonte": "Acorda Cidade",
+        "data": "23:02",
+        "url": "https://www.acordacidade.com.br/politica/ex-ministro-jose-dirceu-e-diagnosticado-com-linfoma-apos-exames-gerais/",
+        "img": "https://picsum.photos/seed/417/800/400"
     },
     {
         "titulo": "STF mantém determinação que obriga Planserv a custear tratamentos de alta complexidade",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "G1 Feira",
-        "data": "21:58",
+        "data": "23:02",
         "url": "https://g1.globo.com/ba/bahia/noticia/2026/05/14/stf-mantem-determinacao-que-obriga-planserv-a-custear-tratamentos-de-alta-complexidade.ghtml",
-        "img": "https://picsum.photos/seed/654/800/400"
+        "img": "https://picsum.photos/seed/911/800/400"
     },
     {
-        "titulo": "Assista aos telejornais da TV Subaé",
+        "titulo": " Música e teatro: veja opções de lazer em Feira de Santana e região",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "G1 Feira",
-        "data": "21:58",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
-        "img": "https://picsum.photos/seed/61/800/400"
+        "data": "23:02",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/05/15/veja-opcoes-de-lazer-em-feira-de-santana-e-regiao.ghtml",
+        "img": "https://picsum.photos/seed/726/800/400"
+    },
+    {
+        "titulo": "Sem casos registrados, Bahia mantém vigilância ativa para hantavirose",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "23:02",
+        "url": "https://www.jornalfolhadoestado.com/saude/sem-casos-registrados-bahia-mantem-vigilancia-ativa-para-hantavirose/",
+        "img": "https://picsum.photos/seed/283/800/400"
+    },
+    {
+        "titulo": "Fluminense de Feira x Camaçari: histórico traz equilíbrio e rivalidade",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "23:02",
+        "url": "https://www.jornalfolhadoestado.com/esportes/fluminense-de-feira-x-camacari-historico-traz-equilibrio-e-rivalidade/",
+        "img": "https://picsum.photos/seed/891/800/400"
     },
     {
         "titulo": "Adolescente de 16 anos morre após sofrer descarga elétrica ao usar chapinha",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Acorda Cidade",
-        "data": "21:58",
+        "data": "23:02",
         "url": "https://www.acordacidade.com.br/bahia/adolescente-de-16-anos-morre-apos-sofrer-descarga-eletrica-ao-usar-chapinha/",
-        "img": "https://picsum.photos/seed/137/800/400"
+        "img": "https://picsum.photos/seed/685/800/400"
+    },
+    {
+        "titulo": "CFO lança REFIS 2026 com regularização de débitos em até 10 vezes no cartão e 100% de redução d",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "23:02",
+        "url": "https://website.cfo.org.br/cfo-lanca-refis-2026-com-regularizacao-de-debitos-em-ate-10-vezes-no-cartao-e-100-de-reducao-de-juros-multa-e-correcao-monetaria/",
+        "img": "https://picsum.photos/seed/713/800/400"
+    },
+    {
+        "titulo": "Acelen anuncia redução de até 6,9% em combustíveis na Bahia",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "23:02",
+        "url": "https://g1.globo.com/ba/bahia/noticia/2026/05/14/acelen-anuncia-reducao-em-combustiveis-na-bahia.ghtml",
+        "img": "https://picsum.photos/seed/536/800/400"
+    },
+    {
+        "titulo": "Senac oferece mais de 3 mil vagas gratuitas em cursos de qualificação durante ação na Bahia",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "23:02",
+        "url": "https://g1.globo.com/ba/bahia/blogdoemprego/noticia/2026/05/15/vagas-bahia.ghtml",
+        "img": "https://picsum.photos/seed/196/800/400"
+    },
+    {
+        "titulo": "Presidente do CFO prestigia posse da nova diretoria do CRO-GO",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "23:02",
+        "url": "https://website.cfo.org.br/presidente-do-cfo-prestigia-posse-da-nova-diretoria-do-cro-go/",
+        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/CAR08361-scaled.jpg"
+    },
+    {
+        "titulo": "Cirurgia Estética Orofacial é oficialmente regulamentada",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "23:02",
+        "url": "https://website.cfo.org.br/cirurgia-estetica-orofacial-e-oficialmente-regulamentada/",
+        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/DSC0432-scaled.jpg"
+    },
+    {
+        "titulo": "Clube de Benefícios",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "23:02",
+        "url": "https://website.cfo.org.br/clube-beneficios",
+        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/arte-beneficios-scaled.png"
+    },
+    {
+        "titulo": "Manual e anexos",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "23:02",
+        "url": "https://website.cfo.org.br/modelos-de-prontuarios",
+        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/Manual-do-Prontuario-1-scaled.png"
+    },
+    {
+        "titulo": "Capitão da PM é atropelado em frente a batalhão policial na BR-116",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "23:02",
+        "url": "https://www.acordacidade.com.br/bahia/capitao-da-pm-e-atropelado-em-frente-a-batalhao-policial-na-br-116/",
+        "img": "https://picsum.photos/seed/674/800/400"
+    },
+    {
+        "titulo": "Foragido da Justiça de São Paulo é preso em Serrinha",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "23:02",
+        "url": "https://www.jornalfolhadoestado.com/policia/foragido-da-justica-de-sao-paulo-e-preso-em-serrinha/",
+        "img": "https://picsum.photos/seed/956/800/400"
+    },
+    {
+        "titulo": "Homem é preso com canetas emagracedoras no aeroporto de Salvador",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "23:02",
+        "url": "https://www.jornalfolhadoestado.com/policia/homem-e-preso-com-canetas-emagracedoras-no-aeroporto-de-salvador/",
+        "img": "https://picsum.photos/seed/912/800/400"
+    },
+    {
+        "titulo": "Operação Malha Fechada prende suspeitos de homicídio e tráfico na Bahia",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "23:02",
+        "url": "https://www.acordacidade.com.br/policia/operacao-malha-fechada-prende-suspeitos-de-homicidio-e-trafico-na-bahia/",
+        "img": "https://picsum.photos/seed/536/800/400"
+    },
+    {
+        "titulo": "Dino abre apuração sobre emendas para produtora do filme de Bolsonaro",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "23:02",
+        "url": "https://www.jornalfolhadoestado.com/politica/dino-abre-apuracao-sobre-emendas-para-produtora-do-filme-de-bolsonaro/",
+        "img": "https://picsum.photos/seed/379/800/400"
+    },
+    {
+        "titulo": "Assista aos telejornais da TV Subaé",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "23:02",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
+        "img": "https://picsum.photos/seed/779/800/400"
+    },
+    {
+        "titulo": "Prefeitura de Alagoinhas distribui repelentes para gestantes após aumento de casos de arboviros",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "23:02",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/05/15/alagoinhas-atendimento.ghtml",
+        "img": "https://picsum.photos/seed/579/800/400"
+    },
+    {
+        "titulo": "Pré-candidatos podem iniciar arrecadação para campanhas eleitorais a partir desta sexta",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "23:02",
+        "url": "https://www.acordacidade.com.br/politica/eleicoes/pre-candidatos-podem-iniciar-arrecadacao-para-campanhas-eleitorais-a-partir-desta-sexta/",
+        "img": "https://picsum.photos/seed/844/800/400"
+    },
+    {
+        "titulo": "Prefeitura amplia linhas de ônibus e beneficia moradores na região norte da cidade",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "23:02",
+        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/prefeitura-amplia-linhas-de-onibus-e-beneficia-moradores-na-regiao-norte-da-cidade/",
+        "img": "https://picsum.photos/seed/523/800/400"
     }
 ]
