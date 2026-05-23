@@ -1,218 +1,272 @@
 [
     {
-        "titulo": "Torcedores que vão à Copa de 2026 devem reforçar vacinação contra sarampo",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "18:00",
-        "url": "https://www.jornalfolhadoestado.com/brasil/torcedores-que-vao-a-copa-de-2026-devem-reforcar-vacinacao-contra-sarampo/",
-        "img": "https://picsum.photos/seed/373/800/400"
-    },
-    {
-        "titulo": "ODONTOLOGIA HOSPITALAR AVANÇA NO BRASIL COM MODELO INTEGRADOR E CONQUISTA NOVO PROTAGONISMO NAC",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "17:59",
-        "url": "https://website.cfo.org.br/odontologia-hospitalar-avanca-no-brasil-com-modelo-integrador-e-conquista-novo-protagonismo-nacional/",
-        "img": "https://picsum.photos/seed/821/800/400"
-    },
-    {
-        "titulo": "Homem suspeito de praticar assaltos é preso na Bahia ",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "18:00",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/05/23/homem-preso-na-bahia.ghtml",
-        "img": "https://picsum.photos/seed/941/800/400"
-    },
-    {
-        "titulo": "Denúncias de maus-tratos a animais em Feira de Santana é apurada pela polícia",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "18:00",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/05/23/denuncias-de-maus-tratos-a-animais-em-feira-de-santana.ghtml",
-        "img": "https://picsum.photos/seed/158/800/400"
-    },
-    {
         "titulo": "Manual e anexos",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "17:59",
+        "data": "19:23",
         "url": "https://website.cfo.org.br/modelos-de-prontuarios",
         "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/Manual-do-Prontuario-1-scaled.png"
     },
     {
-        "titulo": "Instituto Panthers leva 40 atletas para o Campeonato Baiano de Karatê em Salvador",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "18:00",
-        "url": "https://www.jornalfolhadoestado.com/esportes/instituto-panthers-leva-40-atletas-para-o-campeonato-baiano-de-karate-em-salvador/",
-        "img": "https://picsum.photos/seed/784/800/400"
-    },
-    {
-        "titulo": "Festival de Sanfoneiros marca cinquentenário da Uefs em celebração à cultura e à memória nordes",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "18:00",
-        "url": "https://www.acordacidade.com.br/feira-de-santana/festival-de-sanfoneiros-marca-cinquentenario-da-uefs-em-celebracao-a-cultura-e-a-memoria-nordestina/",
-        "img": "https://picsum.photos/seed/493/800/400"
-    },
-    {
-        "titulo": "Álbum da Copa volta a virar febre e transforma Feira de Santana em ponto de encontro de geraçõe",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "18:00",
-        "url": "https://www.acordacidade.com.br/feira-de-santana/album-da-copa-volta-a-virar-febre-e-transforma-feira-de-santana-em-ponto-de-encontro-de-geracoes-as-vesperas-do-mundial/",
-        "img": "https://picsum.photos/seed/266/800/400"
-    },
-    {
-        "titulo": "PM apreende cocaína, maconha e ecstasy em encomenda dentro de ônibus em Ibipitanga",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "18:00",
-        "url": "https://www.acordacidade.com.br/policia/pm-apreende-cocaina-maconha-e-ecstasy-em-encomenda-dentro-de-onibus-em-ibipitanga/",
-        "img": "https://picsum.photos/seed/182/800/400"
-    },
-    {
-        "titulo": "Expectativa dos vendedores cresce com movimentação da XXV Festa do Vaqueiro",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "18:00",
-        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/expectativa-dos-vendedores-cresce-com-movimentacao-da-xxv-festa-do-vaqueiro/",
-        "img": "https://picsum.photos/seed/241/800/400"
-    },
-    {
-        "titulo": "Homem suspeito de agredir ex-companheira com garrafa de vidro, socos e chutes é preso no interi",
+        "titulo": "CRO-BA participa da 1ª cerimônia oficial de assinatura do Manifesto ESG / ODS",
         "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "18:00",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/05/23/homem-suspeito-de-agredir-ex-companheira-e-preso-no-interior-da-bahia.ghtml",
-        "img": "https://picsum.photos/seed/800/800/400"
-    },
-    {
-        "titulo": "Cirurgia Estética Orofacial é oficialmente regulamentada",
-        "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "17:59",
-        "url": "https://website.cfo.org.br/cirurgia-estetica-orofacial-e-oficialmente-regulamentada/",
-        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/DSC0432-scaled.jpg"
-    },
-    {
-        "titulo": "Festa do Vaqueiro de Ipuaçu altera horários dos shows deste sábado (23); confira",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "18:00",
-        "url": "https://www.acordacidade.com.br/feira-de-santana/festa-do-vaqueiro-de-ipuacu-altera-horarios-dos-shows-deste-sabado-23-confira/",
-        "img": "https://picsum.photos/seed/874/800/400"
-    },
-    {
-        "titulo": "Clube de Benefícios",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "17:59",
-        "url": "https://website.cfo.org.br/clube-beneficios",
-        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/arte-beneficios-scaled.png"
-    },
-    {
-        "titulo": "Mães na fila da Justiça: mutirão da Defensoria expõe histórias de luta por pensão e sustento do",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "18:00",
-        "url": "https://www.acordacidade.com.br/variedades/maes-na-fila-da-justica-mutirao-da-defensoria-expoe-historias-de-luta-por-pensao-e-sustento-dos-filhos/",
-        "img": "https://picsum.photos/seed/266/800/400"
-    },
-    {
-        "titulo": "SETTDEC garante ordenamento e segurança para ambulantes e foliões na XXV Festa do Vaqueiro",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "18:00",
-        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/settdec-garante-ordenamento-e-seguranca-para-ambulantes-e-folioes-na-xxv-festa-do-vaqueiro/",
-        "img": "https://picsum.photos/seed/605/800/400"
-    },
-    {
-        "titulo": "Ação oferece programação gratuita para crianças e famílias durante Semana Mundial do Brincar em",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "18:00",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/05/23/acao-gratuita-na-bahia.ghtml",
-        "img": "https://picsum.photos/seed/253/800/400"
-    },
-    {
-        "titulo": "Jovem é presa com 22 barras de maconha após ação de cão farejador em ônibus",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "18:00",
-        "url": "https://www.acordacidade.com.br/policia/jovem-e-presa-com-22-barras-de-maconha-apos-acao-de-cao-farejador-em-onibus/",
-        "img": "https://picsum.photos/seed/142/800/400"
-    },
-    {
-        "titulo": "Operadora de caixa de supermercado é agredida por cliente",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "18:00",
-        "url": "https://www.jornalfolhadoestado.com/policia/operadora-de-caixa-de-supermercado-e-agredida-por-cliente/",
-        "img": "https://picsum.photos/seed/52/800/400"
+        "fonte": "CRO-BA",
+        "data": "19:23",
+        "url": "https://croba.org.br/cro-ba-participa-da-1a-cerimonia-oficial-de-assinatura-do-manifesto-esg-ods/",
+        "img": "https://picsum.photos/seed/780/800/400"
     },
     {
         "titulo": "Presidente do CFO prestigia posse da nova diretoria do CRO-GO",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "17:59",
+        "data": "19:23",
         "url": "https://website.cfo.org.br/presidente-do-cfo-prestigia-posse-da-nova-diretoria-do-cro-go/",
         "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/CAR08361-scaled.jpg"
+    },
+    {
+        "titulo": "Suspeito de realizar quatro roubos no mesmo dia é preso dentro de hospital na Bahia",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "19:23",
+        "url": "https://www.acordacidade.com.br/policia/suspeito-de-realizar-quatro-roubos-no-mesmo-dia-e-preso-dentro-de-hospital-na-bahia/",
+        "img": "https://picsum.photos/seed/192/800/400"
+    },
+    {
+        "titulo": "Mandados de prisão são cumpridos contra suspeitos de tráfico de drogas após cartas serem encont",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "19:24",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/05/23/mandados-de-prisao-sao-cumpridos-contra-suspeitos-de-trafico-de-drogas-na-bahia.ghtml",
+        "img": "https://picsum.photos/seed/247/800/400"
+    },
+    {
+        "titulo": "Ação oferece programação gratuita para crianças e famílias durante Semana Mundial do Brincar em",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "19:24",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/05/23/acao-gratuita-na-bahia.ghtml",
+        "img": "https://picsum.photos/seed/527/800/400"
+    },
+    {
+        "titulo": "Deolane Bezerra movimentou até R$ 43 milhões em investigação de lavagem de dinheiro, diz políci",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "19:24",
+        "url": "https://www.jornalfolhadoestado.com/policia/deolane-bezerra-movimentou-ate-r-43-milhoes-em-investigacao-de-lavagem-de-dinheiro-diz-policia/",
+        "img": "https://picsum.photos/seed/82/800/400"
+    },
+    {
+        "titulo": "Mais de 100 mil escolas públicas já têm internet gratuita no Brasil",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "19:23",
+        "url": "https://www.acordacidade.com.br/educacao/mais-de-100-mil-escolas-publicas-ja-tem-internet-gratuita-no-brasil/",
+        "img": "https://picsum.photos/seed/56/800/400"
+    },
+    {
+        "titulo": "VÍDEO: homem é preso após roubar 80 celulares de loja no interior da Bahia",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "19:24",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/05/23/homem-e-preso-com-celulares-roubados-apos-assalto-na-bahia.ghtml",
+        "img": "https://picsum.photos/seed/856/800/400"
+    },
+    {
+        "titulo": "Expectativa dos vendedores cresce com movimentação da XXV Festa do Vaqueiro",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "19:24",
+        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/expectativa-dos-vendedores-cresce-com-movimentacao-da-xxv-festa-do-vaqueiro/",
+        "img": "https://picsum.photos/seed/891/800/400"
+    },
+    {
+        "titulo": "CRO-BA acompanha, em Brasília, aprovação do relatório do PL 1365/2022 na CAE",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "19:23",
+        "url": "https://croba.org.br/cro-ba-acompanha-em-brasilia-aprovacao-do-relatorio-do-pl-1365-2022-na-cae/",
+        "img": "https://picsum.photos/seed/464/800/400"
+    },
+    {
+        "titulo": "Circuito CRO-BA – Ética em Movimento reúne profissionais e estudantes em Senhor do Bonfim",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "19:23",
+        "url": "https://croba.org.br/circuito-cro-ba-etica-em-movimento-reune-profissionais-e-estudantes-em-senhor-do-bonfim/",
+        "img": "https://picsum.photos/seed/79/800/400"
+    },
+    {
+        "titulo": "Homem suspeito de praticar assaltos é preso na Bahia ",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "19:24",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/05/23/homem-preso-na-bahia.ghtml",
+        "img": "https://picsum.photos/seed/589/800/400"
+    },
+    {
+        "titulo": "Torcedores que vão à Copa de 2026 devem reforçar vacinação contra sarampo",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "19:24",
+        "url": "https://www.jornalfolhadoestado.com/brasil/torcedores-que-vao-a-copa-de-2026-devem-reforcar-vacinacao-contra-sarampo/",
+        "img": "https://picsum.photos/seed/376/800/400"
+    },
+    {
+        "titulo": "ODONTOLOGIA HOSPITALAR AVANÇA NO BRASIL COM MODELO INTEGRADOR E CONQUISTA NOVO PROTAGONISMO NAC",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "19:23",
+        "url": "https://website.cfo.org.br/odontologia-hospitalar-avanca-no-brasil-com-modelo-integrador-e-conquista-novo-protagonismo-nacional/",
+        "img": "https://picsum.photos/seed/426/800/400"
+    },
+    {
+        "titulo": "Nota de Pesar",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "19:23",
+        "url": "https://croba.org.br/nota-de-pesar-3/",
+        "img": "https://picsum.photos/seed/161/800/400"
     },
     {
         "titulo": "CFO lança REFIS 2026 com regularização de débitos em até 10 vezes no cartão e 100% de redução d",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "17:59",
+        "data": "19:23",
         "url": "https://website.cfo.org.br/cfo-lanca-refis-2026-com-regularizacao-de-debitos-em-ate-10-vezes-no-cartao-e-100-de-reducao-de-juros-multa-e-correcao-monetaria/",
-        "img": "https://picsum.photos/seed/643/800/400"
+        "img": "https://picsum.photos/seed/497/800/400"
     },
     {
-        "titulo": "Fluminense mira manutenção da hegemonia em duelos locais",
+        "titulo": "SETTDEC garante ordenamento e segurança para ambulantes e foliões na XXV Festa do Vaqueiro",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Folha do Estado",
-        "data": "18:00",
-        "url": "https://www.jornalfolhadoestado.com/esportes/fluminense-mira-manutencao-da-hegemonia-em-duelos-locais/",
-        "img": "https://picsum.photos/seed/372/800/400"
+        "data": "19:24",
+        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/settdec-garante-ordenamento-e-seguranca-para-ambulantes-e-folioes-na-xxv-festa-do-vaqueiro/",
+        "img": "https://picsum.photos/seed/32/800/400"
     },
     {
-        "titulo": "Homem suspeito de estupro de vulnerável é preso em flagrante após ser encontrado em quarto com ",
+        "titulo": "Instituto Panthers leva 40 atletas para o Campeonato Baiano de Karatê em Salvador",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "19:24",
+        "url": "https://www.jornalfolhadoestado.com/esportes/instituto-panthers-leva-40-atletas-para-o-campeonato-baiano-de-karate-em-salvador/",
+        "img": "https://picsum.photos/seed/125/800/400"
+    },
+    {
+        "titulo": "Com uso de tecnologia, Bahia chega a 1.000 foragidos capturados em 2026",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "19:23",
+        "url": "https://www.acordacidade.com.br/policia/com-uso-de-tecnologia-bahia-chega-a-1-000-foragidos-capturados-em-2026/",
+        "img": "https://picsum.photos/seed/667/800/400"
+    },
+    {
+        "titulo": "Clube de Benefícios",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "19:23",
+        "url": "https://website.cfo.org.br/clube-beneficios",
+        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/arte-beneficios-scaled.png"
+    },
+    {
+        "titulo": "Lula diz que Brasil “não é menor nem menos competitivo do que ninguém”",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "19:23",
+        "url": "https://www.acordacidade.com.br/dilton-e-feito/lula-diz-que-brasil-nao-e-menor-nem-menos-competitivo-do-que-ninguem/",
+        "img": "https://picsum.photos/seed/638/800/400"
+    },
+    {
+        "titulo": "Surto de ebola coloca dez países africanos em situação de alto risco",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "19:23",
+        "url": "https://www.acordacidade.com.br/mundo/surto-de-ebola-coloca-dez-paises-africanos-em-situacao-de-alto-risco/",
+        "img": "https://picsum.photos/seed/920/800/400"
+    },
+    {
+        "titulo": "Lula diz que Rio de Janeiro “não pode ser governado por miliciano” e pede ações imediatas do no",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "19:23",
+        "url": "https://www.acordacidade.com.br/dilton-e-feito/lula-diz-que-rio-de-janeiro-nao-pode-ser-governado-por-miliciano-e-pede-acoes-imediatas-do-novo-governador-interino/",
+        "img": "https://picsum.photos/seed/528/800/400"
+    },
+    {
+        "titulo": "Homem suspeito de agredir ex-companheira com garrafa de vidro, socos e chutes é preso no interi",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "G1 Feira",
-        "data": "18:00",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/05/23/homem-suspeito-de-estupro-de-vulneravel-e-preso-em-valenca.ghtml",
-        "img": "https://picsum.photos/seed/753/800/400"
+        "data": "19:24",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/05/23/homem-suspeito-de-agredir-ex-companheira-e-preso-no-interior-da-bahia.ghtml",
+        "img": "https://picsum.photos/seed/623/800/400"
+    },
+    {
+        "titulo": "Operadora de caixa de supermercado é agredida por cliente",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "19:24",
+        "url": "https://www.jornalfolhadoestado.com/policia/operadora-de-caixa-de-supermercado-e-agredida-por-cliente/",
+        "img": "https://picsum.photos/seed/680/800/400"
+    },
+    {
+        "titulo": "Presidente do CRO-BA se reúne com a Comissão de Remidos",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "19:23",
+        "url": "https://croba.org.br/presidente-do-cro-ba-se-reune-com-a-comissao-de-remidos/",
+        "img": "https://picsum.photos/seed/911/800/400"
+    },
+    {
+        "titulo": "CRO-BA participa de ato público em Brasília em defesa da PEC 2/2026 e dialoga com o senador Ang",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "19:23",
+        "url": "https://croba.org.br/cro-ba-participa-de-ato-publico-em-brasilia-em-defesa-da-pec-2-2026-e-dialoga-com-o-senador-angelo-coronel/",
+        "img": "https://picsum.photos/seed/615/800/400"
     },
     {
         "titulo": "Mil foragidos da Justiça foram presos este ano após identificação no sistema de reconhecimento ",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "G1 Feira",
-        "data": "18:00",
+        "data": "19:24",
         "url": "https://g1.globo.com/ba/bahia/noticia/2026/05/23/foragidos-da-justica-presos-apos-identificacao-no-sistema-de-reconhecimento-facial.ghtml",
-        "img": "https://picsum.photos/seed/771/800/400"
+        "img": "https://picsum.photos/seed/18/800/400"
+    },
+    {
+        "titulo": "Cirurgia Estética Orofacial é oficialmente regulamentada",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "19:23",
+        "url": "https://website.cfo.org.br/cirurgia-estetica-orofacial-e-oficialmente-regulamentada/",
+        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/DSC0432-scaled.jpg"
     }
 ]
