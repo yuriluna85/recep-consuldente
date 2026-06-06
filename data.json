@@ -1,82 +1,19 @@
 [
     {
-        "titulo": "Presidente do CRO-BA se reúne com a Comissão de Remidos",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "09:24",
-        "url": "https://croba.org.br/presidente-do-cro-ba-se-reune-com-a-comissao-de-remidos/",
-        "img": "https://picsum.photos/seed/256/800/400"
-    },
-    {
-        "titulo": "Prazo de inscrição do Enem 2026 é ampliado até 12 de junho",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "09:24",
-        "url": "https://www.acordacidade.com.br/educacao/prazo-de-inscricao-do-enem-2026-e-ampliado-ate-12-de-junho/",
-        "img": "https://picsum.photos/seed/343/800/400"
-    },
-    {
-        "titulo": "CRO-BA participa da 1ª cerimônia oficial de assinatura do Manifesto ESG / ODS",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "09:24",
-        "url": "https://croba.org.br/cro-ba-participa-da-1a-cerimonia-oficial-de-assinatura-do-manifesto-esg-ods/",
-        "img": "https://picsum.photos/seed/410/800/400"
-    },
-    {
-        "titulo": "CRO-BA acompanha, em Brasília, aprovação do relatório do PL 1365/2022 na CAE",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "09:24",
-        "url": "https://croba.org.br/cro-ba-acompanha-em-brasilia-aprovacao-do-relatorio-do-pl-1365-2022-na-cae/",
-        "img": "https://picsum.photos/seed/774/800/400"
-    },
-    {
-        "titulo": "PM apreende drogas e arma de fogo em Amélia Rodrigues; suspeito efetuou disparos contra guarniç",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "09:24",
-        "url": "https://www.acordacidade.com.br/policia/pm-apreende-drogas-e-arma-de-fogo-em-amelia-rodrigues-suspeito-efetuou-disparos-contra-guarnicao/",
-        "img": "https://picsum.photos/seed/13/800/400"
-    },
-    {
-        "titulo": "Suspeito de integrar grupo de roubo a condomínios em diversos estados é preso na Bahia",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "09:24",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/06/05/prisao-suspeito-roubos-condominios-bahia.ghtml",
-        "img": "https://picsum.photos/seed/760/800/400"
-    },
-    {
         "titulo": "Vítima de acidente entre van e caminhonete morre em hospital da Bahia; colisão deixou 16 pessoa",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "G1 Feira",
-        "data": "09:24",
+        "data": "11:25",
         "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/06/04/vitima-de-acidente-entre-van-e-caminhonete-morre-em-hospital-da-bahia.ghtml",
-        "img": "https://picsum.photos/seed/868/800/400"
-    },
-    {
-        "titulo": "Flávio Bolsonaro pede ao STF afastamento de Alexandre de Moraes em caso envolvendo Banco Master",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "09:24",
-        "url": "https://www.jornalfolhadoestado.com/politica/flavio-bolsonaro-pede-ao-stf-afastamento-de-alexandre-de-moraes-em-caso-envolvendo-banco-master/",
-        "img": "https://picsum.photos/seed/396/800/400"
+        "img": "https://picsum.photos/seed/198/800/400"
     },
     {
         "titulo": "Presidente do CFO prestigia posse da nova diretoria do CRO-GO",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "09:24",
+        "data": "11:25",
         "url": "https://website.cfo.org.br/presidente-do-cfo-prestigia-posse-da-nova-diretoria-do-cro-go/",
         "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/CAR08361-scaled.jpg"
     },
@@ -85,188 +22,251 @@
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Folha do Estado",
-        "data": "09:24",
+        "data": "11:25",
         "url": "https://www.jornalfolhadoestado.com/politica/moraes-da-cinco-dias-para-pgr-analisar-pedido-de-mauro-cid-para-encerrar-pena/",
-        "img": "https://picsum.photos/seed/116/800/400"
-    },
-    {
-        "titulo": "CFO lança REFIS 2026 com regularização de débitos em até 10 vezes no cartão e 100% de redução d",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "09:24",
-        "url": "https://website.cfo.org.br/cfo-lanca-refis-2026-com-regularizacao-de-debitos-em-ate-10-vezes-no-cartao-e-100-de-reducao-de-juros-multa-e-correcao-monetaria/",
-        "img": "https://picsum.photos/seed/500/800/400"
-    },
-    {
-        "titulo": "ODONTOLOGIA HOSPITALAR AVANÇA NO BRASIL COM MODELO INTEGRADOR E CONQUISTA NOVO PROTAGONISMO NAC",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "09:24",
-        "url": "https://website.cfo.org.br/odontologia-hospitalar-avanca-no-brasil-com-modelo-integrador-e-conquista-novo-protagonismo-nacional/",
-        "img": "https://picsum.photos/seed/967/800/400"
-    },
-    {
-        "titulo": "Veja quais são as festas juninas do Nordeste mais pesquisadas na internet",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "09:24",
-        "url": "https://www.acordacidade.com.br/sao-joao/veja-quais-sao-as-festas-juninas-do-nordeste-mais-pesquisadas-na-internet/",
-        "img": "https://picsum.photos/seed/192/800/400"
-    },
-    {
-        "titulo": "Bahia será sede do 8° Encontro Nacional de Vice-Presidentes dos Tribunais de Justiça em 2027",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "09:24",
-        "url": "https://www.jornalfolhadoestado.com/politica/bahia-sera-sede-do-8-encontro-nacional-de-vice-presidentes-dos-tribunais-de-justica-em-2027/",
-        "img": "https://picsum.photos/seed/90/800/400"
-    },
-    {
-        "titulo": "Homem é preso suspeito de tentar matar outro a facadas após discussão por cobrança de devolução",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "09:24",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/06/04/homem-e-preso-na-bahia.ghtml",
-        "img": "https://picsum.photos/seed/979/800/400"
-    },
-    {
-        "titulo": "Congo registra 71 novos casos de ebola em 24 horas",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "09:24",
-        "url": "https://www.jornalfolhadoestado.com/mundo/congo-registra-71-novos-casos-de-ebola-em-24-horas/",
-        "img": "https://picsum.photos/seed/426/800/400"
-    },
-    {
-        "titulo": "CRO-BA participa de ato público em Brasília em defesa da PEC 2/2026 e dialoga com o senador Ang",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "09:24",
-        "url": "https://croba.org.br/cro-ba-participa-de-ato-publico-em-brasilia-em-defesa-da-pec-2-2026-e-dialoga-com-o-senador-angelo-coronel/",
-        "img": "https://picsum.photos/seed/701/800/400"
-    },
-    {
-        "titulo": "Corpo de homem é encontrado dentro de carro abandonado em estrada de terra",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "09:24",
-        "url": "https://www.acordacidade.com.br/policia/corpo-de-homem-e-encontrado-dentro-de-carro-abandonado-em-estrada-de-terra/",
-        "img": "https://picsum.photos/seed/38/800/400"
-    },
-    {
-        "titulo": "Homem é encontrado carbonizado dentro de carro em cidade da Bahia",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "09:24",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/06/05/homem-e-encontrado-morto-em-inhambupe.ghtml",
-        "img": "https://picsum.photos/seed/895/800/400"
-    },
-    {
-        "titulo": "Vídeo mostra fuga de homem após capotar carro roubado; suspeito foi preso horas depois na Bahia",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "09:24",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/06/05/suspeito-preso-roubo-bahia.ghtml",
-        "img": "https://picsum.photos/seed/660/800/400"
-    },
-    {
-        "titulo": "Clube de Benefícios",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "09:24",
-        "url": "https://website.cfo.org.br/clube-beneficios",
-        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/arte-beneficios-scaled.png"
-    },
-    {
-        "titulo": "Feira de Santana amplia emissão de carteirinhas para TEA e fibromialgia; veja como solicitar",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "09:24",
-        "url": "https://www.acordacidade.com.br/saude/feira-de-santana-amplia-emissao-de-carteirinhas-para-tea-e-fibromialgia-veja-como-solicitar/",
-        "img": "https://picsum.photos/seed/950/800/400"
-    },
-    {
-        "titulo": "Suspeito de integrar quadrilha nacional de roubo a condomínios é preso na Bahia",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "09:24",
-        "url": "https://www.jornalfolhadoestado.com/policia/suspeito-de-integrar-quadrilha-nacional-de-roubo-a-condominios-e-preso-na-bahia/",
-        "img": "https://picsum.photos/seed/527/800/400"
-    },
-    {
-        "titulo": "Cirurgia Estética Orofacial é oficialmente regulamentada",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "09:24",
-        "url": "https://website.cfo.org.br/cirurgia-estetica-orofacial-e-oficialmente-regulamentada/",
-        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/DSC0432-scaled.jpg"
-    },
-    {
-        "titulo": "Corpo carbonizado é encontrado dentro de carro na zona rural de Inhambupe",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "09:24",
-        "url": "https://www.acordacidade.com.br/policia/corpo-carbonizado-e-encontrado-dentro-de-carro-na-zona-rural-de-inhambupe/",
-        "img": "https://picsum.photos/seed/908/800/400"
-    },
-    {
-        "titulo": "Circuito CRO-BA – Ética em Movimento reúne profissionais e estudantes em Senhor do Bonfim",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "09:24",
-        "url": "https://croba.org.br/circuito-cro-ba-etica-em-movimento-reune-profissionais-e-estudantes-em-senhor-do-bonfim/",
-        "img": "https://picsum.photos/seed/162/800/400"
-    },
-    {
-        "titulo": "Assista aos telejornais da TV Subaé",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "09:24",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
-        "img": "https://picsum.photos/seed/46/800/400"
+        "img": "https://picsum.photos/seed/954/800/400"
     },
     {
         "titulo": "Manual e anexos",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "09:24",
+        "data": "11:25",
         "url": "https://website.cfo.org.br/modelos-de-prontuarios",
         "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/Manual-do-Prontuario-1-scaled.png"
     },
     {
-        "titulo": "Governo prorroga inscrições do Enem 2026 até 12 de junho",
+        "titulo": "Vídeo mostra fuga de homem após capotar carro roubado; suspeito foi preso horas depois na Bahia",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "11:25",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/06/05/suspeito-preso-roubo-bahia.ghtml",
+        "img": "https://picsum.photos/seed/349/800/400"
+    },
+    {
+        "titulo": "Ponto e Vírgula 04/06/2026",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Folha do Estado",
-        "data": "09:24",
-        "url": "https://www.jornalfolhadoestado.com/brasil/governo-prorroga-inscricoes-do-enem-2026-ate-12-de-junho/",
-        "img": "https://picsum.photos/seed/88/800/400"
+        "data": "11:25",
+        "url": "https://www.jornalfolhadoestado.com/blogs/ponto-e-virgula/ponto-e-virgula-04-06-2026/",
+        "img": "https://picsum.photos/seed/709/800/400"
+    },
+    {
+        "titulo": "Circuito CRO-BA – Ética em Movimento reúne profissionais e estudantes em Senhor do Bonfim",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "11:25",
+        "url": "https://croba.org.br/circuito-cro-ba-etica-em-movimento-reune-profissionais-e-estudantes-em-senhor-do-bonfim/",
+        "img": "https://picsum.photos/seed/626/800/400"
+    },
+    {
+        "titulo": "CRO-BA participa da 1ª cerimônia oficial de assinatura do Manifesto ESG / ODS",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "11:25",
+        "url": "https://croba.org.br/cro-ba-participa-da-1a-cerimonia-oficial-de-assinatura-do-manifesto-esg-ods/",
+        "img": "https://picsum.photos/seed/48/800/400"
+    },
+    {
+        "titulo": "Ponto e Vírgula 05/06/2026",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "11:25",
+        "url": "https://www.jornalfolhadoestado.com/blogs/ponto-e-virgula/ponto-e-virgula-05-06-2026/",
+        "img": "https://picsum.photos/seed/793/800/400"
+    },
+    {
+        "titulo": "Homem é preso suspeito de tentar matar outro a facadas após discussão por cobrança de devolução",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "11:25",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/06/04/homem-e-preso-na-bahia.ghtml",
+        "img": "https://picsum.photos/seed/551/800/400"
+    },
+    {
+        "titulo": "Assista aos telejornais da TV Subaé",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "11:25",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
+        "img": "https://picsum.photos/seed/289/800/400"
+    },
+    {
+        "titulo": "CRO-BA acompanha, em Brasília, aprovação do relatório do PL 1365/2022 na CAE",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "11:25",
+        "url": "https://croba.org.br/cro-ba-acompanha-em-brasilia-aprovacao-do-relatorio-do-pl-1365-2022-na-cae/",
+        "img": "https://picsum.photos/seed/204/800/400"
+    },
+    {
+        "titulo": "Marceneiro é encontrado morto dentro de oficina em Feira de Santana",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "11:25",
+        "url": "https://www.acordacidade.com.br/policia/marceneiro-e-encontrado-morto-dentro-de-oficina-em-feira-de-santana/",
+        "img": "https://picsum.photos/seed/716/800/400"
+    },
+    {
+        "titulo": "ODONTOLOGIA HOSPITALAR AVANÇA NO BRASIL COM MODELO INTEGRADOR E CONQUISTA NOVO PROTAGONISMO NAC",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "11:25",
+        "url": "https://website.cfo.org.br/odontologia-hospitalar-avanca-no-brasil-com-modelo-integrador-e-conquista-novo-protagonismo-nacional/",
+        "img": "https://picsum.photos/seed/699/800/400"
+    },
+    {
+        "titulo": "Homem abusa de menina de 8 anos após oferecer R$ 5 por abraços na Bahia",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "11:25",
+        "url": "https://www.jornalfolhadoestado.com/policia/homem-abusa-de-menina-de-8-anos-apos-oferecer-r-5-por-abracos-na-bahia/",
+        "img": "https://picsum.photos/seed/380/800/400"
+    },
+    {
+        "titulo": "Clube de Benefícios",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "11:25",
+        "url": "https://website.cfo.org.br/clube-beneficios",
+        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/arte-beneficios-scaled.png"
+    },
+    {
+        "titulo": "Confira a programação do Centro de Convenções durante o mês do São João",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "11:25",
+        "url": "https://www.acordacidade.com.br/variedades/confira-a-programacao-do-centro-de-convencoes-durante-o-mes-do-sao-joao/",
+        "img": "https://picsum.photos/seed/752/800/400"
+    },
+    {
+        "titulo": "Feira de Santana amplia emissão de carteirinhas para TEA e fibromialgia; veja como solicitar",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "11:25",
+        "url": "https://www.acordacidade.com.br/saude/feira-de-santana-amplia-emissao-de-carteirinhas-para-tea-e-fibromialgia-veja-como-solicitar/",
+        "img": "https://picsum.photos/seed/910/800/400"
+    },
+    {
+        "titulo": "CFO lança REFIS 2026 com regularização de débitos em até 10 vezes no cartão e 100% de redução d",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "11:25",
+        "url": "https://website.cfo.org.br/cfo-lanca-refis-2026-com-regularizacao-de-debitos-em-ate-10-vezes-no-cartao-e-100-de-reducao-de-juros-multa-e-correcao-monetaria/",
+        "img": "https://picsum.photos/seed/96/800/400"
+    },
+    {
+        "titulo": "Cirurgia Estética Orofacial é oficialmente regulamentada",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "11:25",
+        "url": "https://website.cfo.org.br/cirurgia-estetica-orofacial-e-oficialmente-regulamentada/",
+        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/DSC0432-scaled.jpg"
+    },
+    {
+        "titulo": "Operação Afrodite reforça fiscalizações para proteger consumidores no Dia dos Namorados",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "11:25",
+        "url": "https://www.acordacidade.com.br/bahia/operacao-afrodite-reforca-fiscalizacoes-para-proteger-consumidores-no-dia-dos-namorados/",
+        "img": "https://picsum.photos/seed/641/800/400"
+    },
+    {
+        "titulo": "Corpo de homem é encontrado carbonizado em Inhambupe",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "11:25",
+        "url": "https://www.jornalfolhadoestado.com/policia/corpo-de-homem-e-encontrado-carbonizado-em-inhambupe/",
+        "img": "https://picsum.photos/seed/409/800/400"
+    },
+    {
+        "titulo": "Polícia Civil rastreia Pix enviados para mulher de 37 anos que se passava por criança em SC",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "11:25",
+        "url": "https://www.jornalfolhadoestado.com/policia/policia-civil-rastreia-pix-enviados-para-mulher-de-37-anos-que-se-passava-por-crianca-em-sc/",
+        "img": "https://picsum.photos/seed/925/800/400"
+    },
+    {
+        "titulo": "Suspeito de integrar grupo de roubo a condomínios em diversos estados é preso na Bahia",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "11:25",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/06/05/prisao-suspeito-roubos-condominios-bahia.ghtml",
+        "img": "https://picsum.photos/seed/223/800/400"
+    },
+    {
+        "titulo": "Presidente do CRO-BA se reúne com a Comissão de Remidos",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "11:25",
+        "url": "https://croba.org.br/presidente-do-cro-ba-se-reune-com-a-comissao-de-remidos/",
+        "img": "https://picsum.photos/seed/248/800/400"
     },
     {
         "titulo": "Nota de Pesar",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "ODONTOLOGIA",
         "fonte": "CRO-BA",
-        "data": "09:24",
+        "data": "11:25",
         "url": "https://croba.org.br/nota-de-pesar-3/",
-        "img": "https://picsum.photos/seed/648/800/400"
+        "img": "https://picsum.photos/seed/885/800/400"
+    },
+    {
+        "titulo": "CRO-BA participa de ato público em Brasília em defesa da PEC 2/2026 e dialoga com o senador Ang",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "11:25",
+        "url": "https://croba.org.br/cro-ba-participa-de-ato-publico-em-brasilia-em-defesa-da-pec-2-2026-e-dialoga-com-o-senador-angelo-coronel/",
+        "img": "https://picsum.photos/seed/656/800/400"
+    },
+    {
+        "titulo": "Dois homens são mortos a tiros em São Gonçalo dos Campos",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "11:25",
+        "url": "https://www.acordacidade.com.br/policia/dois-homens-sao-mortos-a-tiros-em-sao-goncalo-dos-campos/",
+        "img": "https://picsum.photos/seed/246/800/400"
+    },
+    {
+        "titulo": "Homem é encontrado carbonizado dentro de carro em cidade da Bahia",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "11:25",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/06/05/homem-e-encontrado-morto-em-inhambupe.ghtml",
+        "img": "https://picsum.photos/seed/359/800/400"
+    },
+    {
+        "titulo": "Emissão de CNHs atinge maior marca da história nos primeiros meses de 2026",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "11:25",
+        "url": "https://www.acordacidade.com.br/brasil/emissao-de-cnhs-atinge-maior-marca-da-historia-nos-primeiros-meses-de-2026/",
+        "img": "https://picsum.photos/seed/484/800/400"
     }
 ]
