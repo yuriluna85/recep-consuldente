@@ -1,317 +1,218 @@
 [
     {
-        "titulo": "Motorista de caminhão é indiciado por homicídio doloso após acidente que matou 16 pessoas na Ba",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "00:12",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/06/09/motorista-de-caminhao-presidio-salvador.ghtml",
-        "img": "https://picsum.photos/seed/333/800/400"
-    },
-    {
-        "titulo": "NOTA TÉCNICA CFO Nº 002/2026: OTOMODELAÇÃO É PROCEDIMENTO LÍCITO NA ODONTOLOGIA",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "00:11",
-        "url": "https://website.cfo.org.br/nota-tecnica-cfo-no-002-2026-otomodelacao-e-procedimento-licito-na-odontologia/",
-        "img": "https://picsum.photos/seed/634/800/400"
-    },
-    {
-        "titulo": "Nota de Pesar",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "00:12",
-        "url": "https://croba.org.br/nota-de-pesar-3/",
-        "img": "https://picsum.photos/seed/113/800/400"
-    },
-    {
-        "titulo": "CRO-BA participa de ato público em Brasília em defesa da PEC 2/2026 e dialoga com o senador Ang",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "00:12",
-        "url": "https://croba.org.br/cro-ba-participa-de-ato-publico-em-brasilia-em-defesa-da-pec-2-2026-e-dialoga-com-o-senador-angelo-coronel/",
-        "img": "https://picsum.photos/seed/326/800/400"
-    },
-    {
-        "titulo": "A nova era da harmonização orofacial começa com conhecimento de verdade e você pode fazer parte",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "00:12",
-        "url": "https://abo-ba.org.br/a-nova-era-da-harmonizacao-orofacial-comeca-com-conhecimento-de-verdade-e-voce-pode-fazer-parte/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/Black-and-Gold-Illustrated-Webinar-Event-Instagram-Post-1920-x-1080-px.png"
-    },
-    {
-        "titulo": "CRO-BA participa da 1ª cerimônia oficial de assinatura do Manifesto ESG / ODS",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "00:12",
-        "url": "https://croba.org.br/cro-ba-participa-da-1a-cerimonia-oficial-de-assinatura-do-manifesto-esg-ods/",
-        "img": "https://picsum.photos/seed/858/800/400"
-    },
-    {
-        "titulo": "Assista aos telejornais da TV Subaé",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "00:12",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
-        "img": "https://picsum.photos/seed/787/800/400"
-    },
-    {
-        "titulo": "Cirurgia Estética Orofacial é oficialmente regulamentada",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "00:12",
-        "url": "https://website.cfo.org.br/cirurgia-estetica-orofacial-e-oficialmente-regulamentada/",
-        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/DSC0432-scaled.jpg"
-    },
-    {
-        "titulo": "ABO Bahia sedia Jornada Estadual sobre Hanseníase: “Conhecer e Cuidar, de Janeiro a Janeiro”",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "00:12",
-        "url": "https://abo-ba.org.br/abo-bahia-sedia-jornada-estadual-sobre-hanseniase-conhecer-e-cuidar-de-janeiro-a-janeiro/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/capas-abo-.png"
-    },
-    {
-        "titulo": "Copa do Mundo JW7 2026 celebra chegada do Mundial FIFA e promove integração entre jovens atleta",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "00:12",
-        "url": "https://www.jornalfolhadoestado.com/esportes/copa-do-mundo-jw7-2026-celebra-chegada-do-mundial-fifa-e-promove-integracao-entre-jovens-atletas/",
-        "img": "https://picsum.photos/seed/63/800/400"
-    },
-    {
-        "titulo": "Saiba o que diz inquérito sobre acidente que matou 16 pessoas na BR-116",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "00:12",
-        "url": "https://www.acordacidade.com.br/policia/saiba-o-que-diz-inquerito-sobre-acidente-que-matou-16-pessoas-na-br-116/",
-        "img": "https://picsum.photos/seed/503/800/400"
-    },
-    {
-        "titulo": "CRO-BA acompanha, em Brasília, aprovação do relatório do PL 1365/2022 na CAE",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "00:12",
-        "url": "https://croba.org.br/cro-ba-acompanha-em-brasilia-aprovacao-do-relatorio-do-pl-1365-2022-na-cae/",
-        "img": "https://picsum.photos/seed/817/800/400"
-    },
-    {
-        "titulo": "Capacitação reúne profissionais para aprimorar atendimento às mulheres vítimas de violência",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "00:12",
-        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/capacitacao-reune-profissionais-para-aprimorar-atendimento-as-mulheres-vitimas-de-violencia/",
-        "img": "https://picsum.photos/seed/171/800/400"
-    },
-    {
-        "titulo": "Flávio Bolsonaro faz campanha em reduto do pai na Bahia e critica governo Lula",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "00:12",
-        "url": "https://g1.globo.com/ba/bahia/noticia/2026/06/09/flavio-bolsonaro-faz-campanha-em-reduto-do-pai-na-bahia-e-critica-governo-lula.ghtml",
-        "img": "https://picsum.photos/seed/939/800/400"
-    },
-    {
-        "titulo": "Deolane Bezerra segue presa após STJ negar habeas corpus por unanimidade",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "00:12",
-        "url": "https://www.acordacidade.com.br/brasil/deolane-bezerra-segue-presa-apos-stj-negar-habeas-corpus-por-unanimidade/",
-        "img": "https://picsum.photos/seed/71/800/400"
-    },
-    {
-        "titulo": "Arraiá Kids inclui festejo infantil na programação junina de Feira de Santana",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "00:12",
-        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/arraia-kids-inclui-festejo-infantil-na-programacao-junina-de-feira-de-santana/",
-        "img": "https://picsum.photos/seed/125/800/400"
-    },
-    {
-        "titulo": "Manual e anexos",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "00:12",
-        "url": "https://website.cfo.org.br/modelos-de-prontuarios",
-        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/Manual-do-Prontuario-1-scaled.png"
-    },
-    {
-        "titulo": "Mais artistas aderem à redução de cachês e São João gera economia de R$ 21 milhões",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "00:12",
-        "url": "https://www.acordacidade.com.br/sao-joao/mais-artistas-aderem-a-reducao-de-caches-e-sao-joao-gera-economia-de-r-21-milhoes/",
-        "img": "https://picsum.photos/seed/987/800/400"
-    },
-    {
-        "titulo": "CFO lança REFIS 2026 com regularização de débitos em até 10 vezes no cartão e 100% de redução d",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "00:11",
-        "url": "https://website.cfo.org.br/cfo-lanca-refis-2026-com-regularizacao-de-debitos-em-ate-10-vezes-no-cartao-e-100-de-reducao-de-juros-multa-e-correcao-monetaria/",
-        "img": "https://picsum.photos/seed/269/800/400"
-    },
-    {
-        "titulo": "Cerca de 7 mil fogos de artifício são apreendidos durante operação policial em cinco cidades da",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "00:12",
-        "url": "https://g1.globo.com/ba/bahia/noticia/2026/06/09/fogos-de-artificio-sao-apreendidos-em-cidades-da-bahia.ghtml",
-        "img": "https://picsum.photos/seed/862/800/400"
-    },
-    {
-        "titulo": "Café &#038; Prosa promove reflexão sobre autocuidado na ABO-BA",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "00:12",
-        "url": "https://abo-ba.org.br/cafe-prosa-promove-reflexao-sobre-autocuidado-na-abo-ba/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/1.png"
-    },
-    {
-        "titulo": "Circuito CRO-BA – Ética em Movimento reúne profissionais e estudantes em Senhor do Bonfim",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "00:12",
-        "url": "https://croba.org.br/circuito-cro-ba-etica-em-movimento-reune-profissionais-e-estudantes-em-senhor-do-bonfim/",
-        "img": "https://picsum.photos/seed/508/800/400"
-    },
-    {
-        "titulo": "Professora aposentada é encontrada morta dentro de casa com marcas de violência",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "00:12",
-        "url": "https://www.acordacidade.com.br/policia/professora-aposentada-e-encontrada-morta-dentro-de-casa-com-marcas-de-violencia/",
-        "img": "https://picsum.photos/seed/164/800/400"
-    },
-    {
-        "titulo": "ABO se torna  signatária do Manifesto ESG/ODS por Ambientes Sustentáveis, Saudáveis, Inteligent",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "00:12",
-        "url": "https://abo-ba.org.br/abo-se-torna-signataria-do-manifesto-esg-ods-por-ambientes-sustentaveis-saudaveis-inteligentes-e-felizes/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-23-at-09.02.46.jpeg"
-    },
-    {
-        "titulo": "Clube de Benefícios",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "00:11",
-        "url": "https://website.cfo.org.br/clube-beneficios",
-        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/arte-beneficios-scaled.png"
-    },
-    {
-        "titulo": "Mesmo após nova lei, STJ mantém absolvição de acusado em caso de estupro de vulnerável",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "00:12",
-        "url": "https://www.acordacidade.com.br/brasil/mesmo-apos-nova-lei-stj-mantem-absolvicao-de-acusado-em-caso-de-estupro-de-vulneravel/",
-        "img": "https://picsum.photos/seed/508/800/400"
-    },
-    {
         "titulo": "STJ não vê estupro em relação de jovem de 18 anos e menina de 13",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Folha do Estado",
-        "data": "00:12",
+        "data": "05:17",
         "url": "https://www.jornalfolhadoestado.com/politica/stj-nao-ve-estupro-em-relacao-de-jovem-de-18-anos-e-menina-de-13/",
-        "img": "https://picsum.photos/seed/940/800/400"
+        "img": "https://picsum.photos/seed/283/800/400"
+    },
+    {
+        "titulo": "Avanço das obras do VLT provocam novos bloqueios e desvios na BR-324",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "05:17",
+        "url": "https://g1.globo.com/ba/bahia/noticia/2026/06/09/mudancas-transito-salvador.ghtml",
+        "img": "https://picsum.photos/seed/491/800/400"
     },
     {
         "titulo": "Diabetes avança e desafia prevenção no Brasil",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Folha do Estado",
-        "data": "00:12",
+        "data": "05:17",
         "url": "https://www.jornalfolhadoestado.com/saude/diabetes-avanca-e-desafia-prevencao-no-brasil/",
-        "img": "https://picsum.photos/seed/608/800/400"
+        "img": "https://picsum.photos/seed/160/800/400"
     },
     {
-        "titulo": "REFIS 2026",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "00:12",
-        "url": "https://croba.org.br/refis-2026/",
-        "img": "https://picsum.photos/seed/701/800/400"
-    },
-    {
-        "titulo": "Vídeos do g1 e TV Subaé - terça-feira, 9 de junho de 2026",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "00:12",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/edicao/2026/06/09/videos-do-g1-e-tv-subae-terca-feira-9-de-junho-de-2026.ghtml",
-        "img": "https://picsum.photos/seed/442/800/400"
-    },
-    {
-        "titulo": "Governo paga nova parcela do precatório do abono extraordinário para profissionais da educação ",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "00:12",
-        "url": "https://g1.globo.com/ba/bahia/noticia/2026/06/09/pagamento-precatorio-e-abono-extraordinario-profissionais-da-educacao-da-bahia.ghtml",
-        "img": "https://picsum.photos/seed/355/800/400"
-    },
-    {
-        "titulo": "Sete pessoas ficam feridas após caminhão desgovernado atingir prédio de repartição pública",
+        "titulo": "Professores de escolas particulares da Bahia aprovam estado de greve durante assembleia",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Acorda Cidade",
-        "data": "00:12",
-        "url": "https://www.acordacidade.com.br/bahia/sete-pessoas-ficam-feridas-apos-caminhao-desgovernado-atingir-predio-de-reparticao-publica/",
-        "img": "https://picsum.photos/seed/832/800/400"
+        "data": "05:17",
+        "url": "https://www.acordacidade.com.br/educacao/professores-de-escolas-particulares-da-bahia-aprovam-estado-de-greve-durante-assembleia/",
+        "img": "https://picsum.photos/seed/395/800/400"
+    },
+    {
+        "titulo": "Manual e anexos",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "05:16",
+        "url": "https://website.cfo.org.br/modelos-de-prontuarios",
+        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/Manual-do-Prontuario-1-scaled.png"
+    },
+    {
+        "titulo": "Capacitação reúne profissionais para aprimorar atendimento às mulheres vítimas de violência",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "05:17",
+        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/capacitacao-reune-profissionais-para-aprimorar-atendimento-as-mulheres-vitimas-de-violencia/",
+        "img": "https://picsum.photos/seed/143/800/400"
+    },
+    {
+        "titulo": "Assista aos telejornais da TV Subaé",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "05:17",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
+        "img": "https://picsum.photos/seed/423/800/400"
+    },
+    {
+        "titulo": "Bahia recebe 19 combos cirúrgicos e três tomógrafos por meio do Novo PAC Saúde",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "05:17",
+        "url": "https://www.acordacidade.com.br/saude/bahia-recebe-19-combos-cirurgicos-e-tres-tomografos-por-meio-do-novo-pac-saude/",
+        "img": "https://picsum.photos/seed/840/800/400"
+    },
+    {
+        "titulo": "Forró no Buzu anima transporte público de Feira de Santana a partir desta quinta (11); confira ",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "05:17",
+        "url": "https://www.acordacidade.com.br/sao-joao/forro-no-buzu-anima-transporte-publico-de-feira-de-santana-a-partir-desta-quinta-11-confira-a-programacao/",
+        "img": "https://picsum.photos/seed/519/800/400"
+    },
+    {
+        "titulo": "Secretaria de Educação da Bahia promove Dia D de Inscrições do Enem nesta quarta (10)",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "05:17",
+        "url": "https://www.acordacidade.com.br/educacao/secretaria-de-educacao-da-bahia-promove-dia-d-de-inscricoes-do-enem-nesta-quarta-10/",
+        "img": "https://picsum.photos/seed/748/800/400"
+    },
+    {
+        "titulo": "Cirurgia Estética Orofacial é oficialmente regulamentada",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "05:16",
+        "url": "https://website.cfo.org.br/cirurgia-estetica-orofacial-e-oficialmente-regulamentada/",
+        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/DSC0432-scaled.jpg"
     },
     {
         "titulo": "Chegada de nova fábrica consolida Camaçari como polo da indústria de energia limpa",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Folha do Estado",
-        "data": "00:12",
+        "data": "05:17",
         "url": "https://www.jornalfolhadoestado.com/politica/chegada-de-nova-fabrica-consolida-camacari-como-polo-da-industria-de-energia-limpa/",
-        "img": "https://picsum.photos/seed/373/800/400"
+        "img": "https://picsum.photos/seed/885/800/400"
     },
     {
-        "titulo": "São João da ABO-BA celebra tradição, alegria e união da classe odontológica",
+        "titulo": "Arraiá Kids inclui festejo infantil na programação junina de Feira de Santana",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "05:17",
+        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/arraia-kids-inclui-festejo-infantil-na-programacao-junina-de-feira-de-santana/",
+        "img": "https://picsum.photos/seed/645/800/400"
+    },
+    {
+        "titulo": "Dia dos Namorados: Federação Brasileira de Bancos alerta consumidores sobre golpes em compras e",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "05:17",
+        "url": "https://www.acordacidade.com.br/economia/dia-dos-namorados-federacao-brasileira-de-bancos-alerta-consumidores-sobre-golpes-em-compras-e-promocoes/",
+        "img": "https://picsum.photos/seed/424/800/400"
+    },
+    {
+        "titulo": "Cerca de 7 mil fogos de artifício são apreendidos durante operação policial em cinco cidades da",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "05:17",
+        "url": "https://g1.globo.com/ba/bahia/noticia/2026/06/09/fogos-de-artificio-sao-apreendidos-em-cidades-da-bahia.ghtml",
+        "img": "https://picsum.photos/seed/818/800/400"
+    },
+    {
+        "titulo": "Copa do Mundo JW7 2026 celebra chegada do Mundial FIFA e promove integração entre jovens atleta",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "05:17",
+        "url": "https://www.jornalfolhadoestado.com/esportes/copa-do-mundo-jw7-2026-celebra-chegada-do-mundial-fifa-e-promove-integracao-entre-jovens-atletas/",
+        "img": "https://picsum.photos/seed/150/800/400"
+    },
+    {
+        "titulo": "Clube de Benefícios",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "00:12",
-        "url": "https://abo-ba.org.br/sao-joao-da-abo-ba-celebra-tradicao-alegria-e-uniao-da-classe-odontologica/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/2.png"
+        "fonte": "CFO Federal",
+        "data": "05:16",
+        "url": "https://website.cfo.org.br/clube-beneficios",
+        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/arte-beneficios-scaled.png"
     },
     {
         "titulo": "ODONTOLOGIA HOSPITALAR AVANÇA NO BRASIL COM MODELO INTEGRADOR E CONQUISTA NOVO PROTAGONISMO NAC",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "00:11",
+        "data": "05:16",
         "url": "https://website.cfo.org.br/odontologia-hospitalar-avanca-no-brasil-com-modelo-integrador-e-conquista-novo-protagonismo-nacional/",
-        "img": "https://picsum.photos/seed/337/800/400"
+        "img": "https://picsum.photos/seed/458/800/400"
+    },
+    {
+        "titulo": "São João: vendedores de amendoim mantém tradição de família e esperança de boas vendas em Feira",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "05:17",
+        "url": "https://www.acordacidade.com.br/sao-joao/sao-joao-vendedores-de-amendoim-mantem-tradicao-de-familia-e-esperanca-de-boas-vendas-em-feira-de-santana/",
+        "img": "https://picsum.photos/seed/355/800/400"
+    },
+    {
+        "titulo": "Vídeos do g1 e TV Subaé - terça-feira, 9 de junho de 2026",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "05:17",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/edicao/2026/06/09/videos-do-g1-e-tv-subae-terca-feira-9-de-junho-de-2026.ghtml",
+        "img": "https://picsum.photos/seed/824/800/400"
+    },
+    {
+        "titulo": "Motorista de caminhão é indiciado por homicídio doloso após acidente que matou 16 pessoas na Ba",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "05:17",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/06/09/motorista-de-caminhao-presidio-salvador.ghtml",
+        "img": "https://picsum.photos/seed/442/800/400"
+    },
+    {
+        "titulo": "Flávio Bolsonaro faz campanha em reduto do pai na Bahia e critica governo Lula",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "05:17",
+        "url": "https://g1.globo.com/ba/bahia/noticia/2026/06/09/flavio-bolsonaro-faz-campanha-em-reduto-do-pai-na-bahia-e-critica-governo-lula.ghtml",
+        "img": "https://picsum.photos/seed/383/800/400"
+    },
+    {
+        "titulo": "CFO lança REFIS 2026 com regularização de débitos em até 10 vezes no cartão e 100% de redução d",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "05:16",
+        "url": "https://website.cfo.org.br/cfo-lanca-refis-2026-com-regularizacao-de-debitos-em-ate-10-vezes-no-cartao-e-100-de-reducao-de-juros-multa-e-correcao-monetaria/",
+        "img": "https://picsum.photos/seed/514/800/400"
+    },
+    {
+        "titulo": "NOTA TÉCNICA CFO Nº 002/2026: OTOMODELAÇÃO É PROCEDIMENTO LÍCITO NA ODONTOLOGIA",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "05:16",
+        "url": "https://website.cfo.org.br/nota-tecnica-cfo-no-002-2026-otomodelacao-e-procedimento-licito-na-odontologia/",
+        "img": "https://picsum.photos/seed/539/800/400"
     }
 ]
