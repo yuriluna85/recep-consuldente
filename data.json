@@ -1,136 +1,19 @@
 [
     {
-        "titulo": "Cantor americano e youtuber estão entre as vítimas de acidente aéreo no Rio; FAB investiga caus",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "00:07",
-        "url": "https://www.acordacidade.com.br/brasil/cantor-americano-e-youtuber-estao-entre-as-vitimas-de-acidente-aereo-no-rio-fab-investiga-causas/",
-        "img": "https://picsum.photos/seed/233/800/400"
-    },
-    {
-        "titulo": "CFO lança REFIS 2026 com regularização de débitos em até 10 vezes no cartão e 100% de redução d",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "00:07",
-        "url": "https://website.cfo.org.br/cfo-lanca-refis-2026-com-regularizacao-de-debitos-em-ate-10-vezes-no-cartao-e-100-de-reducao-de-juros-multa-e-correcao-monetaria/",
-        "img": "https://picsum.photos/seed/511/800/400"
-    },
-    {
-        "titulo": "Copa do Mundo: Holanda e Japão empatam em 2 a 2",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "00:07",
-        "url": "https://www.jornalfolhadoestado.com/esportes/copa-do-mundo-holanda-e-japao-empatam-em-2-a-2/",
-        "img": "https://picsum.photos/seed/998/800/400"
-    },
-    {
         "titulo": "Feira FC: Lucaneta sofre lesão grave no joelho e passará por cirurgia",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Folha do Estado",
-        "data": "00:07",
+        "data": "06:22",
         "url": "https://www.jornalfolhadoestado.com/esportes/rascunho-automat/",
-        "img": "https://picsum.photos/seed/760/800/400"
-    },
-    {
-        "titulo": "Feira FC goleia o Grapiúna por 7 a 0 e se mantém no G4 do Baiano Série B",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "00:07",
-        "url": "https://www.acordacidade.com.br/esportes/futebol/feira-fc-goleia-o-grapiuna-por-7-a-0-e-se-mantem-no-g4-do-baiano-serie-b/",
-        "img": "https://picsum.photos/seed/422/800/400"
-    },
-    {
-        "titulo": "Foragidos da Justiça são presos ao tentar entrar em festas juninas no interior da Bahia",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "00:07",
-        "url": "https://g1.globo.com/ba/bahia/noticia/2026/06/13/foragidos-da-justica-sao-presos-ao-tentar-entrar-em-festas-juninas-na-bahia.ghtml",
-        "img": "https://picsum.photos/seed/183/800/400"
-    },
-    {
-        "titulo": "Copa do Mundo: Alemanha goleia Curaçau por 7 a 1 na estreia",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "00:07",
-        "url": "https://www.jornalfolhadoestado.com/esportes/copa-do-mundo-alemanha-goleia-curacau-por-7-a-1-na-estreia/",
-        "img": "https://picsum.photos/seed/86/800/400"
-    },
-    {
-        "titulo": "Três pessoas são presas após morte de jovem  em salto de rope jump",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "00:07",
-        "url": "https://www.acordacidade.com.br/brasil/suspeito-de-homicidio-entra-em-confronto-com-policiais-e-e-preso-em-valenca/",
-        "img": "https://picsum.photos/seed/27/800/400"
-    },
-    {
-        "titulo": "Série B do Baiano: Redenção bate Conquista por 1 a 0 e segue vivo",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "00:07",
-        "url": "https://www.jornalfolhadoestado.com/esportes/serie-b-do-baiano-redencao-bate-conquista-por-1-a-0-e-segue-vivo/",
-        "img": "https://picsum.photos/seed/328/800/400"
-    },
-    {
-        "titulo": "Cirurgia Estética Orofacial é oficialmente regulamentada",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "00:07",
-        "url": "https://website.cfo.org.br/cirurgia-estetica-orofacial-e-oficialmente-regulamentada/",
-        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/DSC0432-scaled.jpg"
-    },
-    {
-        "titulo": "Homem suspeito de feminicídio em Mato Grosso é preso na Bahia após mais de um ano foragido",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "00:07",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/06/12/homem-acusado-de-feminicidio-e-preso-em-feira-de-santana.ghtml",
-        "img": "https://picsum.photos/seed/513/800/400"
-    },
-    {
-        "titulo": "Feira FC goleia Grapiúna por 7 a 0 no Joia",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "00:07",
-        "url": "https://www.jornalfolhadoestado.com/esportes/feira-fc-goleia-grapiuna-por-7-a-0-no-joia/",
-        "img": "https://picsum.photos/seed/247/800/400"
-    },
-    {
-        "titulo": "NOTA TÉCNICA CFO Nº 002/2026: OTOMODELAÇÃO É PROCEDIMENTO LÍCITO NA ODONTOLOGIA",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "00:07",
-        "url": "https://website.cfo.org.br/nota-tecnica-cfo-no-002-2026-otomodelacao-e-procedimento-licito-na-odontologia/",
-        "img": "https://picsum.photos/seed/25/800/400"
-    },
-    {
-        "titulo": "CAS aprova, em votação suplementar, projeto que estabelece piso salarial dos cirurgiões-dentist",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "00:07",
-        "url": "https://website.cfo.org.br/cas-aprova-em-votacao-suplementar-projeto-que-estabelece-piso-salarial-dos-cirurgioes-dentistas-e-medicos/",
-        "img": "https://picsum.photos/seed/695/800/400"
+        "img": "https://picsum.photos/seed/171/800/400"
     },
     {
         "titulo": "Clube de Benefícios",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "00:07",
+        "data": "06:22",
         "url": "https://website.cfo.org.br/clube-beneficios",
         "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/arte-beneficios-scaled.png"
     },
@@ -139,80 +22,197 @@
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Folha do Estado",
-        "data": "00:07",
+        "data": "06:22",
         "url": "https://www.jornalfolhadoestado.com/feira-de-santana/diogo-defante-e-preso-nos-eua-proximo-a-estadio-da-copa-do-mundo/",
-        "img": "https://picsum.photos/seed/629/800/400"
+        "img": "https://picsum.photos/seed/227/800/400"
     },
     {
-        "titulo": "ODONTOLOGIA HOSPITALAR AVANÇA NO BRASIL COM MODELO INTEGRADOR E CONQUISTA NOVO PROTAGONISMO NAC",
+        "titulo": "Lula sanciona lei do Marco Legal do Transporte Público Coletivo",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "06:22",
+        "url": "https://www.acordacidade.com.br/politica/lula-sanciona-lei-do-marco-legal-do-transporte-publico-coletivo/",
+        "img": "https://picsum.photos/seed/136/800/400"
+    },
+    {
+        "titulo": "CAS aprova, em votação suplementar, projeto que estabelece piso salarial dos cirurgiões-dentist",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "00:07",
-        "url": "https://website.cfo.org.br/odontologia-hospitalar-avanca-no-brasil-com-modelo-integrador-e-conquista-novo-protagonismo-nacional/",
-        "img": "https://picsum.photos/seed/494/800/400"
-    },
-    {
-        "titulo": "Ciclista morre após batida com caminhão na BR-242, no interior da Bahia",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "00:07",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/06/13/ciclista-morre-em-acidente-na-bahia.ghtml",
-        "img": "https://picsum.photos/seed/422/800/400"
-    },
-    {
-        "titulo": "Vitória esmagadora: Alemanha repete 7&#215;1 sobre Curaçao, no Texas",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "00:07",
-        "url": "https://www.acordacidade.com.br/esportes/futebol/vitoria-esmagadora-alemanha-repete-7x1-sobre-curacao-no-texas/",
-        "img": "https://picsum.photos/seed/140/800/400"
-    },
-    {
-        "titulo": "Suspeito de série de assaltos é preso com carro sem placas em Feira de Santana",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "00:07",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/06/13/suspeito-de-assaltos-e-preso-em-feira-de-santana.ghtml",
-        "img": "https://picsum.photos/seed/121/800/400"
-    },
-    {
-        "titulo": "VÍDEO: uma pessoa morre após carro e caminhão caírem em ribanceira na Bahia",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "00:07",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/06/13/acidente-entre-carro-e-caminhao-no-interior-da-bahia.ghtml",
-        "img": "https://picsum.photos/seed/976/800/400"
-    },
-    {
-        "titulo": "Homem é encontrado morto em Feira de Santana",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "00:07",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/06/14/homem-e-encontrado-morto-em-feira-de-santana.ghtml",
-        "img": "https://picsum.photos/seed/416/800/400"
-    },
-    {
-        "titulo": "Otto Alencar garante que PSD está mais unido do que nunca e destaca parceria com Lula na Bahia",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "00:07",
-        "url": "https://www.acordacidade.com.br/dilton-e-feito/otto-alencar-garante-que-psd-esta-mais-unido-do-que-nunca-e-destaca-parceria-com-lula-na-bahia/",
-        "img": "https://picsum.photos/seed/466/800/400"
+        "data": "06:22",
+        "url": "https://website.cfo.org.br/cas-aprova-em-votacao-suplementar-projeto-que-estabelece-piso-salarial-dos-cirurgioes-dentistas-e-medicos/",
+        "img": "https://picsum.photos/seed/103/800/400"
     },
     {
         "titulo": "Operação Malhas da Lei: suspeito de homicídio é preso após entrar em confronto com policiais",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Acorda Cidade",
-        "data": "00:07",
+        "data": "06:22",
         "url": "https://www.acordacidade.com.br/policia/operacao-malhas-da-lei-suspeito-de-homicidio-e-preso-apos-entrar-em-confronto-com-policiais/",
-        "img": "https://picsum.photos/seed/692/800/400"
+        "img": "https://picsum.photos/seed/401/800/400"
+    },
+    {
+        "titulo": "Copa do Mundo: Holanda e Japão empatam em 2 a 2",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "06:22",
+        "url": "https://www.jornalfolhadoestado.com/esportes/copa-do-mundo-holanda-e-japao-empatam-em-2-a-2/",
+        "img": "https://picsum.photos/seed/47/800/400"
+    },
+    {
+        "titulo": "Homem é encontrado morto em Feira de Santana",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "06:22",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/06/14/homem-e-encontrado-morto-em-feira-de-santana.ghtml",
+        "img": "https://picsum.photos/seed/500/800/400"
+    },
+    {
+        "titulo": "Foragidos da Justiça são presos ao tentar entrar em festas juninas no interior da Bahia",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "06:22",
+        "url": "https://g1.globo.com/ba/bahia/noticia/2026/06/13/foragidos-da-justica-sao-presos-ao-tentar-entrar-em-festas-juninas-na-bahia.ghtml",
+        "img": "https://picsum.photos/seed/672/800/400"
+    },
+    {
+        "titulo": "23ª edição do Intercol encerra competições com participação de mais de 2 mil estudantes, em Fei",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "06:22",
+        "url": "https://www.acordacidade.com.br/esportes/23a-edicao-do-intercol-encerra-competicoes-com-participacao-de-mais-de-2-mil-estudantes-em-feira-de-santana/",
+        "img": "https://picsum.photos/seed/77/800/400"
+    },
+    {
+        "titulo": "NOTA TÉCNICA CFO Nº 002/2026: OTOMODELAÇÃO É PROCEDIMENTO LÍCITO NA ODONTOLOGIA",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "06:22",
+        "url": "https://website.cfo.org.br/nota-tecnica-cfo-no-002-2026-otomodelacao-e-procedimento-licito-na-odontologia/",
+        "img": "https://picsum.photos/seed/442/800/400"
+    },
+    {
+        "titulo": "Ciclista morre após batida com caminhão na BR-242, no interior da Bahia",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "06:22",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/06/13/ciclista-morre-em-acidente-na-bahia.ghtml",
+        "img": "https://picsum.photos/seed/286/800/400"
+    },
+    {
+        "titulo": "CFO lança REFIS 2026 com regularização de débitos em até 10 vezes no cartão e 100% de redução d",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "06:22",
+        "url": "https://website.cfo.org.br/cfo-lanca-refis-2026-com-regularizacao-de-debitos-em-ate-10-vezes-no-cartao-e-100-de-reducao-de-juros-multa-e-correcao-monetaria/",
+        "img": "https://picsum.photos/seed/296/800/400"
+    },
+    {
+        "titulo": "VÍDEO: uma pessoa morre após carro e caminhão caírem em ribanceira na Bahia",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "06:22",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/06/13/acidente-entre-carro-e-caminhao-no-interior-da-bahia.ghtml",
+        "img": "https://picsum.photos/seed/585/800/400"
+    },
+    {
+        "titulo": "Copa do Mundo: Alemanha goleia Curaçau por 7 a 1 na estreia",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "06:22",
+        "url": "https://www.jornalfolhadoestado.com/esportes/copa-do-mundo-alemanha-goleia-curacau-por-7-a-1-na-estreia/",
+        "img": "https://picsum.photos/seed/100/800/400"
+    },
+    {
+        "titulo": "Cirurgia Estética Orofacial é oficialmente regulamentada",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "06:22",
+        "url": "https://website.cfo.org.br/cirurgia-estetica-orofacial-e-oficialmente-regulamentada/",
+        "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/DSC0432-scaled.jpg"
+    },
+    {
+        "titulo": "ODONTOLOGIA HOSPITALAR AVANÇA NO BRASIL COM MODELO INTEGRADOR E CONQUISTA NOVO PROTAGONISMO NAC",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "06:22",
+        "url": "https://website.cfo.org.br/odontologia-hospitalar-avanca-no-brasil-com-modelo-integrador-e-conquista-novo-protagonismo-nacional/",
+        "img": "https://picsum.photos/seed/550/800/400"
+    },
+    {
+        "titulo": "Assessores duvidam que Lula volte a indicar Jorge Messias ao STF antes das eleições",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "06:22",
+        "url": "https://www.acordacidade.com.br/dilton-e-feito/assessores-duvidam-que-lula-volte-a-indicar-jorge-messias-ao-stf-antes-das-eleicoes/",
+        "img": "https://picsum.photos/seed/341/800/400"
+    },
+    {
+        "titulo": "Feira FC goleia Grapiúna por 7 a 0 no Joia",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "06:22",
+        "url": "https://www.jornalfolhadoestado.com/esportes/feira-fc-goleia-grapiuna-por-7-a-0-no-joia/",
+        "img": "https://picsum.photos/seed/987/800/400"
+    },
+    {
+        "titulo": "Suspeito de série de assaltos é preso com carro sem placas em Feira de Santana",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "06:22",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/06/13/suspeito-de-assaltos-e-preso-em-feira-de-santana.ghtml",
+        "img": "https://picsum.photos/seed/430/800/400"
+    },
+    {
+        "titulo": "Três pessoas são presas após morte de jovem  em salto de rope jump",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "06:22",
+        "url": "https://www.acordacidade.com.br/brasil/suspeito-de-homicidio-entra-em-confronto-com-policiais-e-e-preso-em-valenca/",
+        "img": "https://picsum.photos/seed/336/800/400"
+    },
+    {
+        "titulo": "Homem suspeito de feminicídio em Mato Grosso é preso na Bahia após mais de um ano foragido",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "06:22",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/06/12/homem-acusado-de-feminicidio-e-preso-em-feira-de-santana.ghtml",
+        "img": "https://picsum.photos/seed/380/800/400"
+    },
+    {
+        "titulo": "Série B do Baiano: Redenção bate Conquista por 1 a 0 e segue vivo",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "06:22",
+        "url": "https://www.jornalfolhadoestado.com/esportes/serie-b-do-baiano-redencao-bate-conquista-por-1-a-0-e-segue-vivo/",
+        "img": "https://picsum.photos/seed/734/800/400"
+    },
+    {
+        "titulo": "Feira FC goleia o Grapiúna por 7 a 0 e se mantém no G4 do Baiano Série B",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "06:22",
+        "url": "https://www.acordacidade.com.br/esportes/futebol/feira-fc-goleia-o-grapiuna-por-7-a-0-e-se-mantem-no-g4-do-baiano-serie-b/",
+        "img": "https://picsum.photos/seed/968/800/400"
     }
 ]
