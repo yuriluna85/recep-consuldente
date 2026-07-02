@@ -1,218 +1,326 @@
 [
     {
-        "titulo": "NOTA TÉCNICA CFO Nº 002/2026: OTOMODELAÇÃO É PROCEDIMENTO LÍCITO NA ODONTOLOGIA",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "19:22",
-        "url": "https://website.cfo.org.br/nota-tecnica-cfo-no-002-2026-otomodelacao-e-procedimento-licito-na-odontologia/",
-        "img": "https://picsum.photos/seed/988/800/400"
-    },
-    {
-        "titulo": "Secretaria de Educação abre inscrições para sorteio de vagas em cursos técnicos",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "19:22",
-        "url": "https://www.acordacidade.com.br/educacao/secretaria-de-educacao-abre-inscricoes-para-sorteio-de-vagas-em-cursos-tecnicos/",
-        "img": "https://picsum.photos/seed/882/800/400"
-    },
-    {
-        "titulo": "Internet chega a 95% de domicílios do país em 2025",
+        "titulo": "Em nota, Dom Zanoni manifesta solidariedade às vítimas dos terremotos na Venezuela",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Folha do Estado",
-        "data": "19:22",
-        "url": "https://www.jornalfolhadoestado.com/brasil/internet-chega-a-95-de-domicilios-do-pais-em-2025/",
-        "img": "https://picsum.photos/seed/176/800/400"
+        "data": "21:05",
+        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/em-nota-dom-zanoni-manifesta-solidariedade-as-vitimas-dos-terremotos-na-venezuela/",
+        "img": "https://picsum.photos/seed/965/800/400"
     },
     {
-        "titulo": "Venezuelano morre após cair de muro em casa de passagem para imigrantes em Feira de Santana",
+        "titulo": "São João da ABO-BA celebra tradição, alegria e união da classe odontológica",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "21:04",
+        "url": "https://abo-ba.org.br/sao-joao-da-abo-ba-celebra-tradicao-alegria-e-uniao-da-classe-odontologica/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/2.png"
+    },
+    {
+        "titulo": "Recurso apresentado ao PL do Piso Salarial leva proposta para votação em Plenário do Senado.",
         "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "19:22",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/02/venezuelano-morre-apos-cair-de-muro-em-feira-de-santana.ghtml",
-        "img": "https://picsum.photos/seed/803/800/400"
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "21:04",
+        "url": "https://croba.org.br/recurso-apresentado-ao-pl-do-piso-salarial-leva-proposta-para-votacao-em-plenario-do-senado/",
+        "img": "https://picsum.photos/seed/340/800/400"
     },
     {
         "titulo": "Clube de Benefícios",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "19:22",
+        "data": "21:04",
         "url": "https://website.cfo.org.br/clube-beneficios",
         "img": "https://website.cfo.org.br/wp-content/uploads/2026/03/arte-beneficios-scaled.png"
+    },
+    {
+        "titulo": "Caminhão-cegonha com 11 carros elétricos pega fogo na BR-101",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "21:05",
+        "url": "https://www.jornalfolhadoestado.com/policia/caminhao-cegonha-com-11-carros-eletricos-pega-fogo-na-br-101/",
+        "img": "https://picsum.photos/seed/890/800/400"
+    },
+    {
+        "titulo": "Após morte de venezuelano, Sedeso detalha atendimento prestado e assistência à família",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "21:05",
+        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/apos-morte-de-venezuelano-sedeso-detalha-atendimento-prestado-e-assistencia-a-familia/",
+        "img": "https://picsum.photos/seed/70/800/400"
+    },
+    {
+        "titulo": "Nota de Pesar – Dra. Valni Queiroga Santana Martins",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "21:04",
+        "url": "https://croba.org.br/nota-de-pesar-dra-valni-queiroga-santana-martins/",
+        "img": "https://picsum.photos/seed/598/800/400"
     },
     {
         "titulo": "Eu Te Explico #187: muito além do 'Grito do Ipiranga' - o 2 de Julho e a Independência do Brasi",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "G1 Feira",
-        "data": "19:22",
+        "data": "21:05",
         "url": "https://g1.globo.com/ba/bahia/podcast/eu-te-explico/noticia/2026/07/02/eu-te-explico-187-muito-alem-do-grito-do-ipiranga-o-2-de-julho-e-a-independencia-do-brasil-na-bahia-com-a-expulsao-dos-portugueses.ghtml",
-        "img": "https://picsum.photos/seed/434/800/400"
+        "img": "https://picsum.photos/seed/836/800/400"
     },
     {
-        "titulo": "Estudante desaparece após sair para assistir jogo da seleção em Feira de Santana; polícia faz b",
-        "resumo": "Atualização via Radar Consuldente.",
+        "titulo": "Após três dias de buscas, corpo de turista paulista desaparecido na Chapada Diamantina é encont",
+        "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "19:22",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/02/estudante-desaparece-em-feira-de-santana.ghtml",
-        "img": "https://picsum.photos/seed/816/800/400"
+        "fonte": "Acorda Cidade",
+        "data": "21:04",
+        "url": "https://www.acordacidade.com.br/bahia/apos-tres-dias-de-buscas-corpo-de-turista-paulista-desaparecido-na-chapada-diamantina-e-encontrado/",
+        "img": "https://picsum.photos/seed/218/800/400"
     },
     {
         "titulo": "Weston McKennie se consolida como motor dos Estados Unidos na Copa do Mundo de 2026",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Folha do Estado",
-        "data": "19:22",
+        "data": "21:05",
         "url": "https://www.jornalfolhadoestado.com/esportes/weston-mckennie-se-consolida-como-motor-dos-estados-unidos-na-copa-do-mundo-de-2026/",
-        "img": "https://picsum.photos/seed/680/800/400"
-    },
-    {
-        "titulo": "Prova Nacional Docente: inscrições terminam nesta sexta (3)",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "19:22",
-        "url": "https://www.acordacidade.com.br/educacao/prova-nacional-docente-inscricoes-terminam-nesta-sexta-3/",
-        "img": "https://picsum.photos/seed/19/800/400"
-    },
-    {
-        "titulo": "Presidente da Câmara recebe CFO para discutir piso salarial dos cirurgiões-dentistas",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "19:22",
-        "url": "https://website.cfo.org.br/presidente-da-camara-recebe-cfo-para-discutir-piso-salarial-dos-cirurgioes-dentistas/",
-        "img": "https://picsum.photos/seed/249/800/400"
-    },
-    {
-        "titulo": "Venezuelano morre após cair de muro em casa de acolhimento em Feira de Santana",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "19:22",
-        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/venezuelano-morre-apos-cair-de-muro-em-casa-de-acolhimento-em-feira-de-santana/",
-        "img": "https://picsum.photos/seed/517/800/400"
-    },
-    {
-        "titulo": "Gabriel Vasconcelos pode trocar o Vitória pelo Ceará por empréstimo",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "19:22",
-        "url": "https://www.jornalfolhadoestado.com/esportes/gabriel-vasconcelos-pode-trocar-o-vitoria-pelo-ceara-por-emprestimo/",
-        "img": "https://picsum.photos/seed/579/800/400"
-    },
-    {
-        "titulo": "Assista aos telejornais da TV Subaé",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "19:22",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
-        "img": "https://picsum.photos/seed/472/800/400"
-    },
-    {
-        "titulo": "ODONTOLOGIA HOSPITALAR AVANÇA NO BRASIL COM MODELO INTEGRADOR E CONQUISTA NOVO PROTAGONISMO NAC",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "19:22",
-        "url": "https://website.cfo.org.br/odontologia-hospitalar-avanca-no-brasil-com-modelo-integrador-e-conquista-novo-protagonismo-nacional/",
-        "img": "https://picsum.photos/seed/451/800/400"
-    },
-    {
-        "titulo": "Bahia anuncia contratação do zagueiro espanhol Marco Moreno até 2031",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "19:22",
-        "url": "https://www.jornalfolhadoestado.com/esportes/bahia-anuncia-contratacao-do-zagueiro-espanhol-marco-moreno-ate-2031/",
-        "img": "https://picsum.photos/seed/84/800/400"
-    },
-    {
-        "titulo": "Zema confirma apoio a ACM Neto para o governo da Bahia: 'Quem estiver contra o PT tem meu apoio",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "19:22",
-        "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/07/01/zema-confirma-apoio-a-acm-neto-para-o-governo-da-bahia.ghtml",
-        "img": "https://picsum.photos/seed/829/800/400"
-    },
-    {
-        "titulo": "Igreja Inacabada de Alagoinhas não foi feita com sangue de boi; confira lendas sobre o templo e",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "19:22",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/02/igreja-inacabada-de-alagoinhas-entenda-por-que-construcao-nunca-foi-concluida.ghtml",
-        "img": "https://picsum.photos/seed/575/800/400"
-    },
-    {
-        "titulo": "Inscrições do Fies para o 2º semestre começam em 14 de julho; veja cronograma",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "19:22",
-        "url": "https://www.acordacidade.com.br/educacao/inscricoes-do-fies-para-o-2o-semestre-comecam-em-14-de-julho-veja-cronograma/",
-        "img": "https://picsum.photos/seed/650/800/400"
-    },
-    {
-        "titulo": "Inauguração da nova sede da Associação Feirense de Futebol de Mesa reúne atletas de diversas ci",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "19:22",
-        "url": "https://www.acordacidade.com.br/feira-de-santana/inauguracao-da-nova-sede-da-associacao-feirense-de-futebol-de-mesa-reune-atletas-de-diversas-cidades-da-bahia/",
-        "img": "https://picsum.photos/seed/666/800/400"
-    },
-    {
-        "titulo": "Preocupação com segurança faz cair uso de celular entre crianças de 10 a 13 anos",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "19:22",
-        "url": "https://www.acordacidade.com.br/brasil/preocupacao-com-seguranca-faz-cair-uso-de-celular-entre-criancas-de-10-a-13-anos/",
-        "img": "https://picsum.photos/seed/681/800/400"
-    },
-    {
-        "titulo": "Suspeita de furtar a própria mãe é presa pela Polícia Civil",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "19:22",
-        "url": "https://www.acordacidade.com.br/policia/suspeita-de-furtar-a-propria-mae-e-presa-pela-policia-civil/",
-        "img": "https://picsum.photos/seed/764/800/400"
+        "img": "https://picsum.photos/seed/979/800/400"
     },
     {
         "titulo": "CAS aprova, em votação suplementar, projeto que estabelece piso salarial dos cirurgiões-dentist",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "19:22",
+        "data": "21:04",
         "url": "https://website.cfo.org.br/cas-aprova-em-votacao-suplementar-projeto-que-estabelece-piso-salarial-dos-cirurgioes-dentistas-e-medicos/",
-        "img": "https://picsum.photos/seed/323/800/400"
+        "img": "https://picsum.photos/seed/564/800/400"
+    },
+    {
+        "titulo": "CFO prorroga prazo de adesão ao REFIS 2026 até 31 de julho",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "21:04",
+        "url": "https://croba.org.br/26035-2/",
+        "img": "https://picsum.photos/seed/191/800/400"
     },
     {
         "titulo": "CFO lança REFIS 2026 com regularização de débitos em até 10 vezes no cartão e 100% de redução d",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "19:22",
+        "data": "21:04",
         "url": "https://website.cfo.org.br/cfo-lanca-refis-2026-com-regularizacao-de-debitos-em-ate-10-vezes-no-cartao-e-100-de-reducao-de-juros-multa-e-correcao-monetaria/",
-        "img": "https://picsum.photos/seed/680/800/400"
+        "img": "https://picsum.photos/seed/713/800/400"
     },
     {
-        "titulo": "Ambulância é consumida pelo fogo quando trafegava pela BR 116 Norte",
+        "titulo": "São João ABO-BA: tradição, alegria e bons encontros.",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "21:04",
+        "url": "https://abo-ba.org.br/sao-joao-abo-ba-tradicao-alegria-e-bons-encontros/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-30-at-11.35.37.jpeg"
+    },
+    {
+        "titulo": "Bahia participa da construção do Registro de Qualificação de Especialistas",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "21:04",
+        "url": "https://croba.org.br/bahia-participa-da-construcao-do-registro-de-qualificacao-de-especialistas/",
+        "img": "https://picsum.photos/seed/498/800/400"
+    },
+    {
+        "titulo": "Prova Nacional Docente: inscrições terminam nesta sexta (3)",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "21:04",
+        "url": "https://www.acordacidade.com.br/educacao/prova-nacional-docente-inscricoes-terminam-nesta-sexta-3/",
+        "img": "https://picsum.photos/seed/853/800/400"
+    },
+    {
+        "titulo": "NOTA TÉCNICA CFO Nº 002/2026: OTOMODELAÇÃO É PROCEDIMENTO LÍCITO NA ODONTOLOGIA",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "21:04",
+        "url": "https://website.cfo.org.br/nota-tecnica-cfo-no-002-2026-otomodelacao-e-procedimento-licito-na-odontologia/",
+        "img": "https://picsum.photos/seed/487/800/400"
+    },
+    {
+        "titulo": "Estudante desaparece após sair para assistir jogo da seleção em Feira de Santana; polícia faz b",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "21:05",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/02/estudante-desaparece-em-feira-de-santana.ghtml",
+        "img": "https://picsum.photos/seed/750/800/400"
+    },
+    {
+        "titulo": "ODONTOLOGIA HOSPITALAR AVANÇA NO BRASIL COM MODELO INTEGRADOR E CONQUISTA NOVO PROTAGONISMO NAC",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "21:04",
+        "url": "https://website.cfo.org.br/odontologia-hospitalar-avanca-no-brasil-com-modelo-integrador-e-conquista-novo-protagonismo-nacional/",
+        "img": "https://picsum.photos/seed/201/800/400"
+    },
+    {
+        "titulo": "Quem assinou o recurso que leva o PL nº 1.365/2022 do piso salarial dos cirurgiões-dentistas ao",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "21:04",
+        "url": "https://croba.org.br/quem-assinou-o-recurso-que-leva-o-pl-no-1-365-2022-do-piso-salarial-dos-cirurgioes-dentistas-ao-plenario-do-senado/",
+        "img": "https://picsum.photos/seed/155/800/400"
+    },
+    {
+        "titulo": "Academia Feirense de Letras abre inscrições para concurso literário voltado a estudantes em Fei",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "21:05",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/02/concurso-literario-da-academia-feirense-de-letras.ghtml",
+        "img": "https://picsum.photos/seed/275/800/400"
+    },
+    {
+        "titulo": "Condenada por roubo e tráfico é presa após denúncia de conflito doméstico com enteada",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "21:04",
+        "url": "https://www.acordacidade.com.br/policia/condenada-por-roubo-e-trafico-e-presa-apos-denuncia-de-conflito-domestico-com-enteada/",
+        "img": "https://picsum.photos/seed/430/800/400"
+    },
+    {
+        "titulo": "Preocupação com segurança faz cair uso de celular entre crianças de 10 a 13 anos",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "21:04",
+        "url": "https://www.acordacidade.com.br/brasil/preocupacao-com-seguranca-faz-cair-uso-de-celular-entre-criancas-de-10-a-13-anos/",
+        "img": "https://picsum.photos/seed/786/800/400"
+    },
+    {
+        "titulo": "CRO-BA fortalece diálogo com estudantes de Odontologia em Juazeiro",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "21:04",
+        "url": "https://croba.org.br/cro-ba-fortalece-dialogo-com-estudantes-de-odontologia-em-juazeiro/",
+        "img": "https://picsum.photos/seed/777/800/400"
+    },
+    {
+        "titulo": "Grupo Dolly é alvo de pedido de falência por dívida de R$ 15,7 bilhões",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Folha do Estado",
-        "data": "19:22",
-        "url": "https://www.jornalfolhadoestado.com/municipios/ambulancia-e-consumida-pelo-fogo-quando-trafegava-pela-br-116-norte/",
-        "img": "https://picsum.photos/seed/714/800/400"
+        "data": "21:05",
+        "url": "https://www.jornalfolhadoestado.com/economia/grupo-dolly-e-alvo-de-pedido-de-falencia-por-divida-de-r-157-bilhoes/",
+        "img": "https://picsum.photos/seed/477/800/400"
+    },
+    {
+        "titulo": "Venezuelano morre após cair de muro em casa de passagem para imigrantes em Feira de Santana",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "21:05",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/02/venezuelano-morre-apos-cair-de-muro-em-feira-de-santana.ghtml",
+        "img": "https://picsum.photos/seed/757/800/400"
+    },
+    {
+        "titulo": "Presidente da Câmara recebe CFO para discutir piso salarial dos cirurgiões-dentistas",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "21:04",
+        "url": "https://website.cfo.org.br/presidente-da-camara-recebe-cfo-para-discutir-piso-salarial-dos-cirurgioes-dentistas/",
+        "img": "https://picsum.photos/seed/636/800/400"
+    },
+    {
+        "titulo": "A nova era da harmonização orofacial começa com conhecimento de verdade e você pode fazer parte",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "21:04",
+        "url": "https://abo-ba.org.br/a-nova-era-da-harmonizacao-orofacial-comeca-com-conhecimento-de-verdade-e-voce-pode-fazer-parte/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/Black-and-Gold-Illustrated-Webinar-Event-Instagram-Post-1920-x-1080-px.png"
+    },
+    {
+        "titulo": "Caminhão-cegonha com 11 carros elétricos pega fogo na BR-101",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "21:05",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/02/caminhao-cegonha-com-carros-eletricos-pega-fogo-em-alagoinhas.ghtml",
+        "img": "https://picsum.photos/seed/409/800/400"
+    },
+    {
+        "titulo": "ABO Bahia sedia Jornada Estadual sobre Hanseníase: “Conhecer e Cuidar, de Janeiro a Janeiro”",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "21:04",
+        "url": "https://abo-ba.org.br/abo-bahia-sedia-jornada-estadual-sobre-hanseniase-conhecer-e-cuidar-de-janeiro-a-janeiro/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/capas-abo-.png"
+    },
+    {
+        "titulo": "Suspeita de furtar a própria mãe é presa pela Polícia Civil",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "21:04",
+        "url": "https://www.acordacidade.com.br/policia/suspeita-de-furtar-a-propria-mae-e-presa-pela-policia-civil/",
+        "img": "https://picsum.photos/seed/312/800/400"
+    },
+    {
+        "titulo": "Café &#038; Prosa promove reflexão sobre autocuidado na ABO-BA",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "21:04",
+        "url": "https://abo-ba.org.br/cafe-prosa-promove-reflexao-sobre-autocuidado-na-abo-ba/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/1.png"
+    },
+    {
+        "titulo": "ABO se torna  signatária do Manifesto ESG/ODS por Ambientes Sustentáveis, Saudáveis, Inteligent",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "21:04",
+        "url": "https://abo-ba.org.br/abo-se-torna-signataria-do-manifesto-esg-ods-por-ambientes-sustentaveis-saudaveis-inteligentes-e-felizes/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-23-at-09.02.46.jpeg"
+    },
+    {
+        "titulo": "Parlamentares celebram os 203 anos da Independência da Bahia",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "21:05",
+        "url": "https://www.jornalfolhadoestado.com/municipios/parlamentares-celebram-os-203-anos-da-independencia-da-bahia/",
+        "img": "https://picsum.photos/seed/282/800/400"
+    },
+    {
+        "titulo": "Assista aos telejornais da TV Subaé",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "21:05",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
+        "img": "https://picsum.photos/seed/623/800/400"
+    },
+    {
+        "titulo": "Inscrições do Fies para o 2º semestre começam em 14 de julho; veja cronograma",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "21:04",
+        "url": "https://www.acordacidade.com.br/educacao/inscricoes-do-fies-para-o-2o-semestre-comecam-em-14-de-julho-veja-cronograma/",
+        "img": "https://picsum.photos/seed/35/800/400"
     }
 ]
