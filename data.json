@@ -1,218 +1,326 @@
 [
     {
-        "titulo": "Cinema é notificado após denúncia realizada via aplicativo Procon Feira",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "23:01",
-        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/cinema-e-notificado-apos-denuncia-realizada-via-aplicativo-procon-feira/",
-        "img": "https://picsum.photos/seed/60/800/400"
-    },
-    {
-        "titulo": "Feira de Santana tem menor número de mortes violentas dos últimos 19 anos",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "23:01",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/03/feira-de-santana-o-menor-numero-de-mortes-violentas-dos-ultimos-19-anos.ghtml",
-        "img": "https://picsum.photos/seed/335/800/400"
-    },
-    {
-        "titulo": "Prefeitura inicia pavimentação asfáltica em cinco ruas do bairro Conceição, em Feira de Santana",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "23:01",
-        "url": "https://www.acordacidade.com.br/feira-de-santana/prefeitura-inicia-pavimentacao-asfaltica-em-cinco-ruas-do-bairro-conceicao-em-feira-de-santana/",
-        "img": "https://picsum.photos/seed/628/800/400"
-    },
-    {
-        "titulo": "Endrick destaca confiança em Ancelotti e valoriza aprendizado com líderes da Seleção Brasileira",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "23:01",
-        "url": "https://www.jornalfolhadoestado.com/esportes/endrick-destaca-confianca-em-ancelotti-e-valoriza-aprendizado-com-lideres-da-selecao-brasileira/",
-        "img": "https://picsum.photos/seed/703/800/400"
-    },
-    {
-        "titulo": "CPR-L registra queda nos crimes contra a vida no 1º semestre de 2026, mas junho tem alta de oco",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "23:01",
-        "url": "https://www.acordacidade.com.br/policia/cpr-l-registra-queda-nos-crimes-contra-a-vida-no-1o-semestre-de-2026-mas-junho-tem-alta-de-ocorrencias/",
-        "img": "https://picsum.photos/seed/89/800/400"
-    },
-    {
-        "titulo": "Flu de Feira goleia o NRDEC, mantém 100% de aproveitamento e lidera grupo na Copa 2 de Julho",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "23:01",
-        "url": "https://www.jornalfolhadoestado.com/esportes/flu-de-feira-goleia-o-nrdec-mantem-100-de-aproveitamento-e-lidera-grupo-na-copa-2-de-julho/",
-        "img": "https://picsum.photos/seed/959/800/400"
-    },
-    {
-        "titulo": "&#8220;Municípios baianos economizaram mais de R$ 60 milhões nos  festejos juninos”, comemora p",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "23:01",
-        "url": "https://www.jornalfolhadoestado.com/municipios/municipios-baianos-economizaram-mais-de-r-60-milhoes-nos-festejos-juninos-comemora-presidente-da-upb/",
-        "img": "https://picsum.photos/seed/474/800/400"
-    },
-    {
-        "titulo": "Preço das hortaliças cai enquanto tomate volta a subir na Feirinha da Estação Nova; veja os val",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "23:01",
-        "url": "https://www.acordacidade.com.br/feira-de-santana/preco-das-hortalicas-cai-enquanto-tomate-volta-a-subir-na-feirinha-da-estacao-nova-veja-os-valores/",
-        "img": "https://picsum.photos/seed/165/800/400"
-    },
-    {
-        "titulo": "Moraes atende defesa e prorroga prisão domiciliar humanitária de Bolsonaro",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "23:01",
-        "url": "https://www.jornalfolhadoestado.com/politica/moraes-atende-defesa-e-prorroga-prisao-domiciliar-humanitaria-de-bolsonaro/",
-        "img": "https://picsum.photos/seed/674/800/400"
-    },
-    {
-        "titulo": "NOTA TÉCNICA CFO Nº 002/2026: OTOMODELAÇÃO É PROCEDIMENTO LÍCITO NA ODONTOLOGIA",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "23:01",
-        "url": "https://website.cfo.org.br/nota-tecnica-cfo-no-002-2026-otomodelacao-e-procedimento-licito-na-odontologia/",
-        "img": "https://picsum.photos/seed/64/800/400"
-    },
-    {
-        "titulo": "Assista aos telejornais da TV Subaé",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "23:01",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
-        "img": "https://picsum.photos/seed/857/800/400"
-    },
-    {
-        "titulo": "Prefeitura altera trânsito no distrito de Jaíba durante festejos de São Pedro em Feira de Santa",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "23:01",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/03/mudancas-transito-feira-de-santana.ghtml",
-        "img": "https://picsum.photos/seed/790/800/400"
-    },
-    {
-        "titulo": "Gás de cozinha fica mais barato para consumidores na Bahia ",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "23:01",
-        "url": "https://g1.globo.com/ba/bahia/noticia/2026/07/02/gas-de-cozinha-fica-mais-barato.ghtml",
-        "img": "https://picsum.photos/seed/374/800/400"
-    },
-    {
-        "titulo": "Venda de fatias de tortas vira febre em Feira de Santana e transforma uma das principais avenid",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "23:01",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/03/doce-fraga-venda-de-fatias-de-tortas-transforma-uma-das-principais-avenidas-de-feira-de-santana.ghtml",
-        "img": "https://picsum.photos/seed/35/800/400"
-    },
-    {
-        "titulo": "Presidente da Câmara recebe CFO para discutir piso salarial dos cirurgiões-dentistas",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "23:01",
-        "url": "https://website.cfo.org.br/presidente-da-camara-recebe-cfo-para-discutir-piso-salarial-dos-cirurgioes-dentistas/",
-        "img": "https://picsum.photos/seed/295/800/400"
-    },
-    {
-        "titulo": "ODONTOLOGIA HOSPITALAR AVANÇA NO BRASIL COM MODELO INTEGRADOR E CONQUISTA NOVO PROTAGONISMO NAC",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "23:01",
-        "url": "https://website.cfo.org.br/odontologia-hospitalar-avanca-no-brasil-com-modelo-integrador-e-conquista-novo-protagonismo-nacional/",
-        "img": "https://picsum.photos/seed/881/800/400"
-    },
-    {
         "titulo": "CFO lança REFIS 2026 com regularização de débitos em até 10 vezes no cartão e 100% de redução d",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "23:01",
+        "data": "02:46",
         "url": "https://website.cfo.org.br/cfo-lanca-refis-2026-com-regularizacao-de-debitos-em-ate-10-vezes-no-cartao-e-100-de-reducao-de-juros-multa-e-correcao-monetaria/",
-        "img": "https://picsum.photos/seed/850/800/400"
-    },
-    {
-        "titulo": "Governo da Bahia inicia licitação de R$ 73,2 milhões para obras em rodovias de Feira de Santana",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "23:01",
-        "url": "https://www.acordacidade.com.br/bahia/governo-da-bahia-inicia-licitacao-de-r-732-milhoes-para-obras-em-rodovias-de-feira-de-santana-central-e-itapetinga/",
-        "img": "https://picsum.photos/seed/395/800/400"
-    },
-    {
-        "titulo": "Lula sanciona lei que cria a primeira Universidade Federal do Esporte do Brasil",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "23:01",
-        "url": "https://www.acordacidade.com.br/esportes/lula-sanciona-lei-que-cria-a-primeira-universidade-federal-do-esporte-do-brasil/",
-        "img": "https://picsum.photos/seed/708/800/400"
-    },
-    {
-        "titulo": "CAS aprova, em votação suplementar, projeto que estabelece piso salarial dos cirurgiões-dentist",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "23:01",
-        "url": "https://website.cfo.org.br/cas-aprova-em-votacao-suplementar-projeto-que-estabelece-piso-salarial-dos-cirurgioes-dentistas-e-medicos/",
-        "img": "https://picsum.photos/seed/138/800/400"
-    },
-    {
-        "titulo": "Adolescente suspeito de tentar matar o próprio pai é morto a tiros em Feira de Santana",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "23:01",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/03/adolescente-e-morto-a-tiros-em-feira-de-santana.ghtml",
-        "img": "https://picsum.photos/seed/220/800/400"
-    },
-    {
-        "titulo": "Feira de Santana registra menor número de crimes violentos, dos últimos 19 anos",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "23:01",
-        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/feira-de-santana-registra-menor-numero-de-crimes-violentos-dos-ultimos-19-anos/",
-        "img": "https://picsum.photos/seed/543/800/400"
+        "img": "https://picsum.photos/seed/353/800/400"
     },
     {
         "titulo": "Sesc-DF, CFO e CRO-DF unem forças para ampliar o acesso à saúde bucal",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "23:01",
+        "data": "02:46",
         "url": "https://website.cfo.org.br/sesc-df-cfo-e-cro-df-unem-forcas-para-ampliar-o-acesso-a-saude-bucal/",
-        "img": "https://picsum.photos/seed/765/800/400"
+        "img": "https://picsum.photos/seed/201/800/400"
     },
     {
-        "titulo": "&#8220;Racismo é crime e não pode ser tolerado&#8221;, diz secretária no Dia Nacional de Combat",
+        "titulo": "Feira FC aposta em defesa sólida e reforços para chegar forte ao mata-mata da Série B",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "02:46",
+        "url": "https://www.jornalfolhadoestado.com/esportes/feira-fc-aposta-em-defesa-solida-e-reforcos-para-chegar-forte-ao-mata-mata-da-serie-b/",
+        "img": "https://picsum.photos/seed/909/800/400"
+    },
+    {
+        "titulo": "Assista aos telejornais da TV Subaé",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "02:47",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
+        "img": "https://picsum.photos/seed/90/800/400"
+    },
+    {
+        "titulo": "São João da ABO-BA celebra tradição, alegria e união da classe odontológica",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "02:46",
+        "url": "https://abo-ba.org.br/sao-joao-da-abo-ba-celebra-tradicao-alegria-e-uniao-da-classe-odontologica/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/2.png"
+    },
+    {
+        "titulo": "A nova era da harmonização orofacial começa com conhecimento de verdade e você pode fazer parte",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "02:46",
+        "url": "https://abo-ba.org.br/a-nova-era-da-harmonizacao-orofacial-comeca-com-conhecimento-de-verdade-e-voce-pode-fazer-parte/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/Black-and-Gold-Illustrated-Webinar-Event-Instagram-Post-1920-x-1080-px.png"
+    },
+    {
+        "titulo": "Fies Empreendedor e Desenrola Adimplentes: governo regulamenta programas para ampliar acesso ao",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Acorda Cidade",
-        "data": "23:01",
-        "url": "https://www.acordacidade.com.br/feira-de-santana/racismo-e-crime-e-nao-pode-ser-tolerado-diz-secretaria-no-dia-nacional-de-combate-a-discriminacao-racial/",
-        "img": "https://picsum.photos/seed/765/800/400"
+        "data": "02:46",
+        "url": "https://www.acordacidade.com.br/economia/fies-empreendedor-e-desenrola-adimplentes-governo-regulamenta-programas-para-ampliar-acesso-ao-credito/",
+        "img": "https://picsum.photos/seed/727/800/400"
+    },
+    {
+        "titulo": "Bahia economiza mais de R$ 60 milhões nos gastos com festejos juninos",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "02:46",
+        "url": "https://www.acordacidade.com.br/sao-joao/bahia-economiza-mais-de-r-60-milhoes-nos-gastos-com-festejos-juninos/",
+        "img": "https://picsum.photos/seed/615/800/400"
+    },
+    {
+        "titulo": "Feira de Santana registra menor número de crimes violentos, dos últimos 19 anos",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "02:46",
+        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/feira-de-santana-registra-menor-numero-de-crimes-violentos-dos-ultimos-19-anos/",
+        "img": "https://picsum.photos/seed/140/800/400"
+    },
+    {
+        "titulo": "CFO prorroga prazo de adesão ao REFIS 2026 até 31 de julho",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "02:46",
+        "url": "https://croba.org.br/26035-2/",
+        "img": "https://picsum.photos/seed/239/800/400"
+    },
+    {
+        "titulo": "Governador cobra hospital municipal após José Ronaldo chamar regulação de “fila da morte”",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "02:46",
+        "url": "https://www.acordacidade.com.br/politica/governador-cobra-hospital-municipal-apos-jose-ronaldo-chamar-regulacao-de-fila-da-morte/",
+        "img": "https://picsum.photos/seed/278/800/400"
+    },
+    {
+        "titulo": "Gás de cozinha fica mais barato para consumidores na Bahia ",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "02:47",
+        "url": "https://g1.globo.com/ba/bahia/noticia/2026/07/02/gas-de-cozinha-fica-mais-barato.ghtml",
+        "img": "https://picsum.photos/seed/703/800/400"
+    },
+    {
+        "titulo": "Após vídeo com armas, PM prende dois integrantes de facção criminosa e desmonta acampamento",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "02:46",
+        "url": "https://www.acordacidade.com.br/policia/apos-video-com-armas-pm-prende-dois-integrantes-de-faccao-criminosa-e-desmonta-acampamento/",
+        "img": "https://picsum.photos/seed/208/800/400"
+    },
+    {
+        "titulo": "Recurso apresentado ao PL do Piso Salarial leva proposta para votação em Plenário do Senado.",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "02:46",
+        "url": "https://croba.org.br/recurso-apresentado-ao-pl-do-piso-salarial-leva-proposta-para-votacao-em-plenario-do-senado/",
+        "img": "https://picsum.photos/seed/654/800/400"
+    },
+    {
+        "titulo": "Presidente da Câmara recebe CFO para discutir piso salarial dos cirurgiões-dentistas",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "02:46",
+        "url": "https://website.cfo.org.br/presidente-da-camara-recebe-cfo-para-discutir-piso-salarial-dos-cirurgioes-dentistas/",
+        "img": "https://picsum.photos/seed/210/800/400"
+    },
+    {
+        "titulo": "Feira de Santana tem menor número de mortes violentas dos últimos 19 anos",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "02:47",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/03/feira-de-santana-o-menor-numero-de-mortes-violentas-dos-ultimos-19-anos.ghtml",
+        "img": "https://picsum.photos/seed/883/800/400"
+    },
+    {
+        "titulo": "Governador entrega duplicação de trecho da BA-502 e destaca novas obras na região",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "02:46",
+        "url": "https://www.acordacidade.com.br/feira-de-santana/governador-entrega-duplicacao-de-trecho-da-ba-502-e-destaca-novas-obras-na-regiao/",
+        "img": "https://picsum.photos/seed/749/800/400"
+    },
+    {
+        "titulo": "ABO se torna  signatária do Manifesto ESG/ODS por Ambientes Sustentáveis, Saudáveis, Inteligent",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "02:46",
+        "url": "https://abo-ba.org.br/abo-se-torna-signataria-do-manifesto-esg-ods-por-ambientes-sustentaveis-saudaveis-inteligentes-e-felizes/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-23-at-09.02.46.jpeg"
+    },
+    {
+        "titulo": "Nota de Pesar – Dra. Valni Queiroga Santana Martins",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "02:46",
+        "url": "https://croba.org.br/nota-de-pesar-dra-valni-queiroga-santana-martins/",
+        "img": "https://picsum.photos/seed/524/800/400"
+    },
+    {
+        "titulo": "Bahia participa da construção do Registro de Qualificação de Especialistas",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "02:46",
+        "url": "https://croba.org.br/bahia-participa-da-construcao-do-registro-de-qualificacao-de-especialistas/",
+        "img": "https://picsum.photos/seed/79/800/400"
+    },
+    {
+        "titulo": "Prefeitura altera trânsito no distrito de Jaíba durante festejos de São Pedro em Feira de Santa",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "02:47",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/03/mudancas-transito-feira-de-santana.ghtml",
+        "img": "https://picsum.photos/seed/386/800/400"
+    },
+    {
+        "titulo": "Fluminense de Feira enfrenta Jacuipense por vaga na semifinal do Baiano Sub-20 e na Copinha",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "02:46",
+        "url": "https://www.jornalfolhadoestado.com/esportes/fluminense-de-feira-enfrenta-jacuipense-por-vaga-na-semifinal-do-baiano-sub-20-e-na-copinha/",
+        "img": "https://picsum.photos/seed/126/800/400"
+    },
+    {
+        "titulo": "Quem assinou o recurso que leva o PL nº 1.365/2022 do piso salarial dos cirurgiões-dentistas ao",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "02:46",
+        "url": "https://croba.org.br/quem-assinou-o-recurso-que-leva-o-pl-no-1-365-2022-do-piso-salarial-dos-cirurgioes-dentistas-ao-plenario-do-senado/",
+        "img": "https://picsum.photos/seed/22/800/400"
+    },
+    {
+        "titulo": "ABO Bahia sedia Jornada Estadual sobre Hanseníase: “Conhecer e Cuidar, de Janeiro a Janeiro”",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "02:46",
+        "url": "https://abo-ba.org.br/abo-bahia-sedia-jornada-estadual-sobre-hanseniase-conhecer-e-cuidar-de-janeiro-a-janeiro/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/capas-abo-.png"
+    },
+    {
+        "titulo": "CAS aprova, em votação suplementar, projeto que estabelece piso salarial dos cirurgiões-dentist",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "02:46",
+        "url": "https://website.cfo.org.br/cas-aprova-em-votacao-suplementar-projeto-que-estabelece-piso-salarial-dos-cirurgioes-dentistas-e-medicos/",
+        "img": "https://picsum.photos/seed/606/800/400"
+    },
+    {
+        "titulo": "Cinema é notificado após denúncia realizada via aplicativo Procon Feira",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "02:46",
+        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/cinema-e-notificado-apos-denuncia-realizada-via-aplicativo-procon-feira/",
+        "img": "https://picsum.photos/seed/278/800/400"
+    },
+    {
+        "titulo": "Resultado final dos aprovados em vagas imediatas do CNU 2 é divulgado",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "02:46",
+        "url": "https://www.acordacidade.com.br/empregos/concursos/resultado-final-dos-aprovados-em-vagas-imediatas-do-cnu-2-e-divulgado/",
+        "img": "https://picsum.photos/seed/682/800/400"
+    },
+    {
+        "titulo": "Venda de fatias de tortas vira febre em Feira de Santana e transforma uma das principais avenid",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "02:47",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/03/doce-fraga-venda-de-fatias-de-tortas-transforma-uma-das-principais-avenidas-de-feira-de-santana.ghtml",
+        "img": "https://picsum.photos/seed/298/800/400"
+    },
+    {
+        "titulo": "Café &#038; Prosa promove reflexão sobre autocuidado na ABO-BA",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "02:46",
+        "url": "https://abo-ba.org.br/cafe-prosa-promove-reflexao-sobre-autocuidado-na-abo-ba/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/1.png"
+    },
+    {
+        "titulo": "ODONTOLOGIA HOSPITALAR AVANÇA NO BRASIL COM MODELO INTEGRADOR E CONQUISTA NOVO PROTAGONISMO NAC",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "02:46",
+        "url": "https://website.cfo.org.br/odontologia-hospitalar-avanca-no-brasil-com-modelo-integrador-e-conquista-novo-protagonismo-nacional/",
+        "img": "https://picsum.photos/seed/551/800/400"
+    },
+    {
+        "titulo": "Adolescente suspeito de tentar matar o próprio pai é morto a tiros em Feira de Santana",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "02:47",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/03/adolescente-e-morto-a-tiros-em-feira-de-santana.ghtml",
+        "img": "https://picsum.photos/seed/586/800/400"
+    },
+    {
+        "titulo": "NOTA TÉCNICA CFO Nº 002/2026: OTOMODELAÇÃO É PROCEDIMENTO LÍCITO NA ODONTOLOGIA",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "02:46",
+        "url": "https://website.cfo.org.br/nota-tecnica-cfo-no-002-2026-otomodelacao-e-procedimento-licito-na-odontologia/",
+        "img": "https://picsum.photos/seed/336/800/400"
+    },
+    {
+        "titulo": "Argentina supera Cabo Verde na prorrogação e avança às oitavas da Copa do Mundo",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "02:46",
+        "url": "https://www.jornalfolhadoestado.com/esportes/argentina-supera-cabo-verde-na-prorrogacao-e-avanca-as-oitavas-da-copa-do-mundo/",
+        "img": "https://picsum.photos/seed/454/800/400"
+    },
+    {
+        "titulo": "61ª Reunião da ABENO – 70 Anos de História e Inovação no Ensino Odontológico",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "02:46",
+        "url": "https://croba.org.br/61a-reuniao-da-abeno-70-anos-de-historia-e-inovacao-no-ensino-odontologico/",
+        "img": "https://picsum.photos/seed/74/800/400"
+    },
+    {
+        "titulo": "São João ABO-BA: tradição, alegria e bons encontros.",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "02:46",
+        "url": "https://abo-ba.org.br/sao-joao-abo-ba-tradicao-alegria-e-bons-encontros/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-30-at-11.35.37.jpeg"
+    },
+    {
+        "titulo": "Egito elimina a Austrália nos pênaltis e conquista classificação inédita",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "02:46",
+        "url": "https://www.jornalfolhadoestado.com/esportes/egito-elimina-a-australia-nos-penaltis-e-conquista-classificacao-inedita/",
+        "img": "https://picsum.photos/seed/315/800/400"
     }
 ]
