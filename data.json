@@ -1,317 +1,191 @@
 [
     {
-        "titulo": "Valter Walker finaliza em 92 segundos, faz história no UFC Abu Dhabi",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "03:46",
-        "url": "https://www.jornalfolhadoestado.com/esportes/valter-walker-finaliza-em-92-segundos-faz-historia-no-ufc-abu-dhabi/",
-        "img": "https://picsum.photos/seed/79/800/400"
-    },
-    {
-        "titulo": "STF: Moraes manda retirar tornozeleira eletrônica de ex-prefeito de Belford Roxo",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "03:46",
-        "url": "https://www.acordacidade.com.br/brasil/stf-moraes-manda-retirar-tornozeleira-eletronica-de-ex-prefeito-de-belford-roxo/",
-        "img": "https://picsum.photos/seed/650/800/400"
-    },
-    {
-        "titulo": "CFO prorroga prazo de adesão ao REFIS 2026 até 31 de julho",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "03:46",
-        "url": "https://croba.org.br/26035-2/",
-        "img": "https://picsum.photos/seed/339/800/400"
-    },
-    {
-        "titulo": "Conselho Federal de Odontologia proíbe uso de PMMA para fins estéticos",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "03:46",
-        "url": "https://website.cfo.org.br/conselho-federal-de-odontologia-proibe-uso-de-pmma-para-fins-esteticos/",
-        "img": "https://picsum.photos/seed/775/800/400"
-    },
-    {
-        "titulo": "Vôlei: Brasil vence Itália de virada e encara a Turquia na final da Liga das Nações",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "03:46",
-        "url": "https://www.acordacidade.com.br/esportes/volei-brasil-vence-italia-de-virada-e-encara-a-turquia-na-final-da-liga-das-nacoes/",
-        "img": "https://picsum.photos/seed/537/800/400"
-    },
-    {
-        "titulo": "Presidente da Câmara recebe CFO para discutir piso salarial dos cirurgiões-dentistas",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "03:46",
-        "url": "https://website.cfo.org.br/presidente-da-camara-recebe-cfo-para-discutir-piso-salarial-dos-cirurgioes-dentistas/",
-        "img": "https://picsum.photos/seed/381/800/400"
-    },
-    {
         "titulo": "Dono de bar é morto a facadas após discussão por atendimento na Bahia; suspeito é procurado",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "G1 Feira",
-        "data": "03:46",
+        "data": "06:35",
         "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/25/homem-morto-facadas-bahia.ghtml",
-        "img": "https://picsum.photos/seed/778/800/400"
-    },
-    {
-        "titulo": "CFO recebe representantes do Movimento Dentistas do SUS para discutir articulação em defesa de ",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "03:46",
-        "url": "https://website.cfo.org.br/cfo-recebe-representantes-do-movimento-dentistas-do-sus-para-discutir-articulacao-em-defesa-de-pautas-da-odontologia/",
-        "img": "https://picsum.photos/seed/197/800/400"
-    },
-    {
-        "titulo": "Itamaraty recusa visto de dois funcionários do governo dos EUA",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "03:46",
-        "url": "https://www.acordacidade.com.br/politica/itamaraty-recusa-visto-de-dois-funcionarios-do-governo-dos-eua/",
-        "img": "https://picsum.photos/seed/954/800/400"
-    },
-    {
-        "titulo": "São João ABO-BA: tradição, alegria e bons encontros.",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "03:46",
-        "url": "https://abo-ba.org.br/sao-joao-abo-ba-tradicao-alegria-e-bons-encontros/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-30-at-11.35.37.jpeg"
-    },
-    {
-        "titulo": "Norris conquista pole na Hungria; Bortoleto larga em 14º após classificação marcada por inciden",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "03:46",
-        "url": "https://www.jornalfolhadoestado.com/esportes/norris-conquista-pole-na-hungria-bortoleto-larga-em-14o-apos-classificacao-marcada-por-incidentes/",
-        "img": "https://picsum.photos/seed/48/800/400"
-    },
-    {
-        "titulo": "ABO se torna  signatária do Manifesto ESG/ODS por Ambientes Sustentáveis, Saudáveis, Inteligent",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "03:46",
-        "url": "https://abo-ba.org.br/abo-se-torna-signataria-do-manifesto-esg-ods-por-ambientes-sustentaveis-saudaveis-inteligentes-e-felizes/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-23-at-09.02.46.jpeg"
-    },
-    {
-        "titulo": "A nova era da harmonização orofacial começa com conhecimento de verdade e você pode fazer parte",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "03:46",
-        "url": "https://abo-ba.org.br/a-nova-era-da-harmonizacao-orofacial-comeca-com-conhecimento-de-verdade-e-voce-pode-fazer-parte/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/Black-and-Gold-Illustrated-Webinar-Event-Instagram-Post-1920-x-1080-px.png"
-    },
-    {
-        "titulo": "ANVISA divulga modelos de receituários eletrônicos e orientações para integração ao SNCR",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "03:46",
-        "url": "https://croba.org.br/anvisa-divulga-modelos-de-receituarios-eletronicos-e-orientacoes-para-integracao-ao-sncr/",
-        "img": "https://picsum.photos/seed/131/800/400"
-    },
-    {
-        "titulo": "Café &#038; Prosa promove reflexão sobre autocuidado na ABO-BA",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "03:46",
-        "url": "https://abo-ba.org.br/cafe-prosa-promove-reflexao-sobre-autocuidado-na-abo-ba/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/1.png"
-    },
-    {
-        "titulo": "Justiça Federal confirma validade da Decisão CFO-SEC nº 30/2026 e mantém resultado das eleições",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "03:46",
-        "url": "https://website.cfo.org.br/justica-federal-confirma-validade-da-decisao-cfo-sec-no-30-2026-e-mantem-resultado-das-eleicoes-do-cro-rs/",
-        "img": "https://picsum.photos/seed/523/800/400"
-    },
-    {
-        "titulo": "CRO-BA e Dentistas do SUS na linha de frente pelo PL 1.365/22",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "03:46",
-        "url": "https://croba.org.br/cro-ba-e-dentistas-do-sus-na-linha-de-frent-pelo-pl-1-365-22/",
-        "img": "https://picsum.photos/seed/684/800/400"
-    },
-    {
-        "titulo": "Bahia goleia Fluminense de Feira por 8 a 0 e abre vantagem na final do Baianão Sub-20",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "03:46",
-        "url": "https://www.acordacidade.com.br/esportes/bahia-goleia-fluminense-de-feira-por-8-a-0-e-abre-vantagem-na-final-do-baianao-sub-20/",
-        "img": "https://picsum.photos/seed/401/800/400"
-    },
-    {
-        "titulo": "Fiéis lotam a Catedral Metropolitana na última noite da novena de Sant&#8217;Ana",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "03:46",
-        "url": "https://www.acordacidade.com.br/feira-de-santana/fieis-lotam-a-catedral-metropolitana-na-ultima-noite-da-novena-de-santana/",
-        "img": "https://picsum.photos/seed/896/800/400"
+        "img": "https://picsum.photos/seed/289/800/400"
     },
     {
         "titulo": "VÍDEO: Enxame de abelhas invade estádio e interrompe partida de futebol na Bahia",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "G1 Feira",
-        "data": "03:46",
+        "data": "06:35",
         "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/25/video-enxame-de-abelhas-invade-estadio-e-interrompe-partida-de-futebol-na-bahia.ghtml",
-        "img": "https://picsum.photos/seed/230/800/400"
-    },
-    {
-        "titulo": "Brasil encara a Turquia em busca do título inédito da Liga das Nações Feminina de Vôlei",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "03:46",
-        "url": "https://www.jornalfolhadoestado.com/esportes/brasil-encara-a-turquia-em-busca-do-titulo-inedito-da-liga-das-nacoes-feminina-de-volei/",
-        "img": "https://picsum.photos/seed/260/800/400"
-    },
-    {
-        "titulo": "Bahia goleia o Flu de Feira e fica muito perto do octacampeonato baiano Sub-20",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "03:46",
-        "url": "https://www.jornalfolhadoestado.com/esportes/bahia-goleia-o-flu-de-feira-e-fica-muito-perto-do-octacampeonato-baiano-sub-20/",
-        "img": "https://picsum.photos/seed/80/800/400"
-    },
-    {
-        "titulo": "São João da ABO-BA celebra tradição, alegria e união da classe odontológica",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "03:46",
-        "url": "https://abo-ba.org.br/sao-joao-da-abo-ba-celebra-tradicao-alegria-e-uniao-da-classe-odontologica/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/2.png"
-    },
-    {
-        "titulo": "CFO reafirma defesa da formação presencial e convoca categoria a participar de Consulta Pública",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "03:46",
-        "url": "https://website.cfo.org.br/cfo-reafirma-defesa-da-formacao-presencial-e-convoca-categoria-a-participar-de-consulta-publica-sobre-o-ensino-ead/",
-        "img": "https://picsum.photos/seed/647/800/400"
-    },
-    {
-        "titulo": "Vizinhos aprovam expulsão de investigado por se masturbar em academia de condomínio na Bahia ",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "03:46",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/25/importunacao-sexual-bahia.ghtml",
-        "img": "https://picsum.photos/seed/28/800/400"
-    },
-    {
-        "titulo": "CFO, CRO-DF e Sesc-DF unem forças para ampliar o acesso à saúde bucal",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "03:46",
-        "url": "https://website.cfo.org.br/sesc-df-cfo-e-cro-df-unem-forcas-para-ampliar-o-acesso-a-saude-bucal/",
-        "img": "https://picsum.photos/seed/47/800/400"
-    },
-    {
-        "titulo": "Menino de 5 anos morre após ser atropelado na BR-116, no interior da Bahia; mãe ficou ferida",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "03:46",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/25/morte-menino-acidente-bahia.ghtml",
-        "img": "https://picsum.photos/seed/700/800/400"
-    },
-    {
-        "titulo": "ABO Bahia sedia Jornada Estadual sobre Hanseníase: “Conhecer e Cuidar, de Janeiro a Janeiro”",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "03:46",
-        "url": "https://abo-ba.org.br/abo-bahia-sedia-jornada-estadual-sobre-hanseniase-conhecer-e-cuidar-de-janeiro-a-janeiro/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/capas-abo-.png"
-    },
-    {
-        "titulo": "Mulher atacada com ácido após denunciar ex-companheiro morre depois de 17 dias internada na Bah",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "03:46",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/25/mulher-morte-acido-bahia.ghtml",
-        "img": "https://picsum.photos/seed/40/800/400"
-    },
-    {
-        "titulo": "Menino de 5 anos morre após ser atropelado na BR-116; mãe está em estado grave",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "03:46",
-        "url": "https://www.acordacidade.com.br/bahia/menino-de-5-anos-morre-apos-ser-atropelado-na-br-116-mae-esta-em-estado-grave/",
-        "img": "https://picsum.photos/seed/458/800/400"
-    },
-    {
-        "titulo": "Enxame de abelhas paralisa final do Baianão Sub-20 no Joia da Princesa",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "03:46",
-        "url": "https://www.jornalfolhadoestado.com/esportes/enxame-de-abelhas-paralisa-final-do-baianao-sub-20-no-joia-da-princesa/",
-        "img": "https://picsum.photos/seed/25/800/400"
-    },
-    {
-        "titulo": "61ª Reunião da ABENO – 70 Anos de História e Inovação no Ensino Odontológico",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "03:46",
-        "url": "https://croba.org.br/61a-reuniao-da-abeno-70-anos-de-historia-e-inovacao-no-ensino-odontologico/",
-        "img": "https://picsum.photos/seed/614/800/400"
-    },
-    {
-        "titulo": "FSA Esporte Clube faz história e coloca Feira de Santana na final do Brasileiro de Fut7 de Base",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "03:46",
-        "url": "https://www.jornalfolhadoestado.com/esportes/fsa-esporte-clube-faz-historia-e-coloca-feira-de-santana-na-final-do-brasileiro-de-fut7-de-base/",
-        "img": "https://picsum.photos/seed/91/800/400"
+        "img": "https://picsum.photos/seed/572/800/400"
     },
     {
         "titulo": "Ossada é encontrada na Bahia; suspeita é de jovem que desapareceu antes de jogo da seleção",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "G1 Feira",
-        "data": "03:46",
+        "data": "06:35",
         "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/25/ossada-humana-bahia.ghtml",
-        "img": "https://picsum.photos/seed/422/800/400"
+        "img": "https://picsum.photos/seed/669/800/400"
+    },
+    {
+        "titulo": "CFO recebe representantes do Movimento Dentistas do SUS para discutir articulação em defesa de ",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "06:35",
+        "url": "https://website.cfo.org.br/cfo-recebe-representantes-do-movimento-dentistas-do-sus-para-discutir-articulacao-em-defesa-de-pautas-da-odontologia/",
+        "img": "https://picsum.photos/seed/409/800/400"
+    },
+    {
+        "titulo": "São João ABO-BA: tradição, alegria e bons encontros.",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "06:35",
+        "url": "https://abo-ba.org.br/sao-joao-abo-ba-tradicao-alegria-e-bons-encontros/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-30-at-11.35.37.jpeg"
+    },
+    {
+        "titulo": "Café &#038; Prosa promove reflexão sobre autocuidado na ABO-BA",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "06:35",
+        "url": "https://abo-ba.org.br/cafe-prosa-promove-reflexao-sobre-autocuidado-na-abo-ba/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/1.png"
+    },
+    {
+        "titulo": "Norris conquista pole na Hungria; Bortoleto larga em 14º após classificação marcada por inciden",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "06:35",
+        "url": "https://www.jornalfolhadoestado.com/esportes/norris-conquista-pole-na-hungria-bortoleto-larga-em-14o-apos-classificacao-marcada-por-incidentes/",
+        "img": "https://picsum.photos/seed/826/800/400"
+    },
+    {
+        "titulo": "Justiça Federal confirma validade da Decisão CFO-SEC nº 30/2026 e mantém resultado das eleições",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "06:35",
+        "url": "https://website.cfo.org.br/justica-federal-confirma-validade-da-decisao-cfo-sec-no-30-2026-e-mantem-resultado-das-eleicoes-do-cro-rs/",
+        "img": "https://picsum.photos/seed/96/800/400"
+    },
+    {
+        "titulo": "CFO prorroga prazo de adesão ao REFIS 2026 até 31 de julho",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "06:35",
+        "url": "https://croba.org.br/26035-2/",
+        "img": "https://picsum.photos/seed/175/800/400"
+    },
+    {
+        "titulo": "Menino de 5 anos morre após ser atropelado na BR-116; mãe está em estado grave",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "06:35",
+        "url": "https://www.acordacidade.com.br/bahia/menino-de-5-anos-morre-apos-ser-atropelado-na-br-116-mae-esta-em-estado-grave/",
+        "img": "https://picsum.photos/seed/248/800/400"
+    },
+    {
+        "titulo": "61ª Reunião da ABENO – 70 Anos de História e Inovação no Ensino Odontológico",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "06:35",
+        "url": "https://croba.org.br/61a-reuniao-da-abeno-70-anos-de-historia-e-inovacao-no-ensino-odontologico/",
+        "img": "https://picsum.photos/seed/632/800/400"
+    },
+    {
+        "titulo": "Itamaraty recusa visto de dois funcionários do governo dos EUA",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "06:35",
+        "url": "https://www.acordacidade.com.br/politica/itamaraty-recusa-visto-de-dois-funcionarios-do-governo-dos-eua/",
+        "img": "https://picsum.photos/seed/750/800/400"
+    },
+    {
+        "titulo": "Enxame de abelhas paralisa final do Baianão Sub-20 no Joia da Princesa",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "06:35",
+        "url": "https://www.jornalfolhadoestado.com/esportes/enxame-de-abelhas-paralisa-final-do-baianao-sub-20-no-joia-da-princesa/",
+        "img": "https://picsum.photos/seed/513/800/400"
+    },
+    {
+        "titulo": "Menino de 5 anos morre após ser atropelado na BR-116, no interior da Bahia; mãe ficou ferida",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "06:35",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/25/morte-menino-acidente-bahia.ghtml",
+        "img": "https://picsum.photos/seed/772/800/400"
+    },
+    {
+        "titulo": "CFO, CRO-DF e Sesc-DF unem forças para ampliar o acesso à saúde bucal",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "06:35",
+        "url": "https://website.cfo.org.br/sesc-df-cfo-e-cro-df-unem-forcas-para-ampliar-o-acesso-a-saude-bucal/",
+        "img": "https://picsum.photos/seed/589/800/400"
     },
     {
         "titulo": "Operação integrada fiscaliza clínicas odontológicas em Salvador e reforça compromisso com a seg",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "ODONTOLOGIA",
         "fonte": "CRO-BA",
-        "data": "03:46",
+        "data": "06:35",
         "url": "https://croba.org.br/operacao-integrada-fiscaliza-clinicas-odontologicas-em-salvador-e-reforca-compromisso-com-a-seguranca-da-populacao/",
+        "img": "https://picsum.photos/seed/801/800/400"
+    },
+    {
+        "titulo": "Vôlei: Brasil vence Itália de virada e encara a Turquia na final da Liga das Nações",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "06:35",
+        "url": "https://www.acordacidade.com.br/esportes/volei-brasil-vence-italia-de-virada-e-encara-a-turquia-na-final-da-liga-das-nacoes/",
+        "img": "https://picsum.photos/seed/959/800/400"
+    },
+    {
+        "titulo": "ABO Bahia sedia Jornada Estadual sobre Hanseníase: “Conhecer e Cuidar, de Janeiro a Janeiro”",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "06:35",
+        "url": "https://abo-ba.org.br/abo-bahia-sedia-jornada-estadual-sobre-hanseniase-conhecer-e-cuidar-de-janeiro-a-janeiro/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/capas-abo-.png"
+    },
+    {
+        "titulo": "STF: Moraes manda retirar tornozeleira eletrônica de ex-prefeito de Belford Roxo",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "06:35",
+        "url": "https://www.acordacidade.com.br/brasil/stf-moraes-manda-retirar-tornozeleira-eletronica-de-ex-prefeito-de-belford-roxo/",
+        "img": "https://picsum.photos/seed/941/800/400"
+    },
+    {
+        "titulo": "Brasil encara a Turquia em busca do título inédito da Liga das Nações Feminina de Vôlei",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "06:35",
+        "url": "https://www.jornalfolhadoestado.com/esportes/brasil-encara-a-turquia-em-busca-do-titulo-inedito-da-liga-das-nacoes-feminina-de-volei/",
+        "img": "https://picsum.photos/seed/763/800/400"
+    },
+    {
+        "titulo": "ANVISA divulga modelos de receituários eletrônicos e orientações para integração ao SNCR",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "06:35",
+        "url": "https://croba.org.br/anvisa-divulga-modelos-de-receituarios-eletronicos-e-orientacoes-para-integracao-ao-sncr/",
         "img": "https://picsum.photos/seed/849/800/400"
     },
     {
@@ -319,8 +193,134 @@
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "ODONTOLOGIA",
         "fonte": "CRO-BA",
-        "data": "03:46",
+        "data": "06:35",
         "url": "https://croba.org.br/nota-de-pesar-dra-valni-queiroga-santana-martins/",
-        "img": "https://picsum.photos/seed/556/800/400"
+        "img": "https://picsum.photos/seed/509/800/400"
+    },
+    {
+        "titulo": "A nova era da harmonização orofacial começa com conhecimento de verdade e você pode fazer parte",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "06:35",
+        "url": "https://abo-ba.org.br/a-nova-era-da-harmonizacao-orofacial-comeca-com-conhecimento-de-verdade-e-voce-pode-fazer-parte/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/Black-and-Gold-Illustrated-Webinar-Event-Instagram-Post-1920-x-1080-px.png"
+    },
+    {
+        "titulo": "Fiéis lotam a Catedral Metropolitana na última noite da novena de Sant&#8217;Ana",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "06:35",
+        "url": "https://www.acordacidade.com.br/feira-de-santana/fieis-lotam-a-catedral-metropolitana-na-ultima-noite-da-novena-de-santana/",
+        "img": "https://picsum.photos/seed/437/800/400"
+    },
+    {
+        "titulo": "Bahia goleia Fluminense de Feira por 8 a 0 e abre vantagem na final do Baianão Sub-20",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "06:35",
+        "url": "https://www.acordacidade.com.br/esportes/bahia-goleia-fluminense-de-feira-por-8-a-0-e-abre-vantagem-na-final-do-baianao-sub-20/",
+        "img": "https://picsum.photos/seed/830/800/400"
+    },
+    {
+        "titulo": "Vizinhos aprovam expulsão de investigado por se masturbar em academia de condomínio na Bahia ",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "06:35",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/25/importunacao-sexual-bahia.ghtml",
+        "img": "https://picsum.photos/seed/487/800/400"
+    },
+    {
+        "titulo": "Presidente da Câmara recebe CFO para discutir piso salarial dos cirurgiões-dentistas",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "06:35",
+        "url": "https://website.cfo.org.br/presidente-da-camara-recebe-cfo-para-discutir-piso-salarial-dos-cirurgioes-dentistas/",
+        "img": "https://picsum.photos/seed/158/800/400"
+    },
+    {
+        "titulo": "Bahia goleia o Flu de Feira e fica muito perto do octacampeonato baiano Sub-20",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "06:35",
+        "url": "https://www.jornalfolhadoestado.com/esportes/bahia-goleia-o-flu-de-feira-e-fica-muito-perto-do-octacampeonato-baiano-sub-20/",
+        "img": "https://picsum.photos/seed/73/800/400"
+    },
+    {
+        "titulo": "FSA Esporte Clube faz história e coloca Feira de Santana na final do Brasileiro de Fut7 de Base",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "06:35",
+        "url": "https://www.jornalfolhadoestado.com/esportes/fsa-esporte-clube-faz-historia-e-coloca-feira-de-santana-na-final-do-brasileiro-de-fut7-de-base/",
+        "img": "https://picsum.photos/seed/540/800/400"
+    },
+    {
+        "titulo": "São João da ABO-BA celebra tradição, alegria e união da classe odontológica",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "06:35",
+        "url": "https://abo-ba.org.br/sao-joao-da-abo-ba-celebra-tradicao-alegria-e-uniao-da-classe-odontologica/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/2.png"
+    },
+    {
+        "titulo": "CRO-BA e Dentistas do SUS na linha de frente pelo PL 1.365/22",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "06:35",
+        "url": "https://croba.org.br/cro-ba-e-dentistas-do-sus-na-linha-de-frent-pelo-pl-1-365-22/",
+        "img": "https://picsum.photos/seed/602/800/400"
+    },
+    {
+        "titulo": "Valter Walker finaliza em 92 segundos, faz história no UFC Abu Dhabi",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "06:35",
+        "url": "https://www.jornalfolhadoestado.com/esportes/valter-walker-finaliza-em-92-segundos-faz-historia-no-ufc-abu-dhabi/",
+        "img": "https://picsum.photos/seed/366/800/400"
+    },
+    {
+        "titulo": "ABO se torna  signatária do Manifesto ESG/ODS por Ambientes Sustentáveis, Saudáveis, Inteligent",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "06:35",
+        "url": "https://abo-ba.org.br/abo-se-torna-signataria-do-manifesto-esg-ods-por-ambientes-sustentaveis-saudaveis-inteligentes-e-felizes/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-23-at-09.02.46.jpeg"
+    },
+    {
+        "titulo": "Mulher atacada com ácido após denunciar ex-companheiro morre depois de 17 dias internada na Bah",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "06:35",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/25/mulher-morte-acido-bahia.ghtml",
+        "img": "https://picsum.photos/seed/112/800/400"
+    },
+    {
+        "titulo": "CFO reafirma defesa da formação presencial e convoca categoria a participar de Consulta Pública",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "06:35",
+        "url": "https://website.cfo.org.br/cfo-reafirma-defesa-da-formacao-presencial-e-convoca-categoria-a-participar-de-consulta-publica-sobre-o-ensino-ead/",
+        "img": "https://picsum.photos/seed/509/800/400"
+    },
+    {
+        "titulo": "Conselho Federal de Odontologia proíbe uso de PMMA para fins estéticos",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "06:35",
+        "url": "https://website.cfo.org.br/conselho-federal-de-odontologia-proibe-uso-de-pmma-para-fins-esteticos/",
+        "img": "https://picsum.photos/seed/658/800/400"
     }
 ]
