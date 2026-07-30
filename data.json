@@ -1,218 +1,326 @@
 [
     {
-        "titulo": "Polêmica: saiba por que Turnê de Anitta não terá venda de bebida alcoólica em alguns horários",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "15:52",
-        "url": "https://www.acordacidade.com.br/entretenimento/polemica-saiba-por-que-turne-de-anitta-nao-tera-venda-de-bebida-alcoolica-em-alguns-horarios/",
-        "img": "https://picsum.photos/seed/502/800/400"
-    },
-    {
-        "titulo": "PEC da Segurança Pública chega ao Senado para análise",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "15:52",
-        "url": "https://www.jornalfolhadoestado.com/politica/pec-da-seguranca-publica-chega-ao-senado-para-analise/",
-        "img": "https://picsum.photos/seed/485/800/400"
-    },
-    {
-        "titulo": "Anvisa determina apreensão de Mounjaro falsificado",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "15:52",
-        "url": "https://www.jornalfolhadoestado.com/policia/anvisa-determina-apreensao-de-mounjaro-falsificado/",
-        "img": "https://picsum.photos/seed/789/800/400"
-    },
-    {
-        "titulo": "Jornalista Eduardo Vieira morre após passar mal no Rio de Janeiro",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "15:52",
-        "url": "https://www.acordacidade.com.br/brasil/jornalista-eduardo-vieira-morre-apos-passar-mal-no-rio-de-janeiro/",
-        "img": "https://picsum.photos/seed/338/800/400"
-    },
-    {
-        "titulo": "CFO reafirma defesa da formação presencial e convoca categoria a participar de Consulta Pública",
+        "titulo": "CFO, CRO-DF e Sesc-DF unem forças para ampliar o acesso à saúde bucal",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "15:51",
-        "url": "https://website.cfo.org.br/cfo-reafirma-defesa-da-formacao-presencial-e-convoca-categoria-a-participar-de-consulta-publica-sobre-o-ensino-ead/",
-        "img": "https://picsum.photos/seed/513/800/400"
+        "data": "17:25",
+        "url": "https://website.cfo.org.br/sesc-df-cfo-e-cro-df-unem-forcas-para-ampliar-o-acesso-a-saude-bucal/",
+        "img": "https://picsum.photos/seed/772/800/400"
     },
     {
         "titulo": "PoderData: Lula lidera corrida eleitoral com 41%; Flávio tem 35%",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Folha do Estado",
-        "data": "15:52",
+        "data": "17:25",
         "url": "https://www.jornalfolhadoestado.com/politica/poderdata-lula-lidera-corrida-eleitoral-com-41-flavio-tem-35/",
-        "img": "https://picsum.photos/seed/605/800/400"
-    },
-    {
-        "titulo": "CFO recebe representantes do Movimento Dentistas do SUS para discutir articulação em defesa de ",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "15:51",
-        "url": "https://website.cfo.org.br/cfo-recebe-representantes-do-movimento-dentistas-do-sus-para-discutir-articulacao-em-defesa-de-pautas-da-odontologia/",
-        "img": "https://picsum.photos/seed/941/800/400"
-    },
-    {
-        "titulo": "Conselho Federal de Odontologia proíbe uso de PMMA para fins estéticos",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "15:51",
-        "url": "https://website.cfo.org.br/conselho-federal-de-odontologia-proibe-uso-de-pmma-para-fins-esteticos/",
-        "img": "https://picsum.photos/seed/449/800/400"
-    },
-    {
-        "titulo": "Suíça está pagando até R$400 mil para brasileiros se mudarem para lá",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "15:52",
-        "url": "https://www.jornalfolhadoestado.com/mundo/suica-esta-pagando-ate-r400-mil-para-brasileiros-se-mudarem-para-la/",
-        "img": "https://picsum.photos/seed/701/800/400"
-    },
-    {
-        "titulo": "Justiça Federal confirma validade da Decisão CFO-SEC nº 30/2026 e mantém resultado das eleições",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "15:51",
-        "url": "https://website.cfo.org.br/justica-federal-confirma-validade-da-decisao-cfo-sec-no-30-2026-e-mantem-resultado-das-eleicoes-do-cro-rs/",
-        "img": "https://picsum.photos/seed/723/800/400"
-    },
-    {
-        "titulo": "Assista ao Bahia Meio Dia da TV Subaé",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "15:52",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
-        "img": "https://picsum.photos/seed/817/800/400"
-    },
-    {
-        "titulo": "Evento oferece produtos de beleza com descontos de até 80% em Feira de Santana",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "15:52",
-        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/evento-oferece-produtos-de-beleza-com-descontos-de-ate-80-em-feira-de-santana/",
-        "img": "https://picsum.photos/seed/773/800/400"
-    },
-    {
-        "titulo": "Funcionário de gabinete do deputado Binho Galinha é assassinado em Salvador",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "15:52",
-        "url": "https://www.acordacidade.com.br/policia/funcionario-de-gabinete-do-deputado-binho-galinha-e-assassinado-em-salvador/",
-        "img": "https://picsum.photos/seed/487/800/400"
-    },
-    {
-        "titulo": "CFO, CRO-DF e Sesc-DF unem forças para ampliar o acesso à saúde bucal",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "15:51",
-        "url": "https://website.cfo.org.br/sesc-df-cfo-e-cro-df-unem-forcas-para-ampliar-o-acesso-a-saude-bucal/",
-        "img": "https://picsum.photos/seed/833/800/400"
-    },
-    {
-        "titulo": "Sobe para três o número de mortes em SP por conta das fortes ventanias",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "15:52",
-        "url": "https://www.acordacidade.com.br/brasil/sobe-para-tres-o-numero-de-mortes-em-sp-por-conta-das-fortes-ventanias/",
-        "img": "https://picsum.photos/seed/441/800/400"
-    },
-    {
-        "titulo": "Chefe de grupo suspeito de roubar cabos de indústrias é preso na Bahia; empresa teve prejuízo d",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "15:52",
-        "url": "https://g1.globo.com/ba/bahia/noticia/2026/07/30/chefe-de-grupo-suspeito-de-roubar-cabos-de-industrias-e-preso-na-bahia-empresa-teve-prejuizo-de-r-500-mil.ghtml",
-        "img": "https://picsum.photos/seed/118/800/400"
+        "img": "https://picsum.photos/seed/431/800/400"
     },
     {
         "titulo": "Funcionário do gabinete do deputado Binho Galinha é morto a facadas em Salvador",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "G1 Feira",
-        "data": "15:52",
+        "data": "17:25",
         "url": "https://g1.globo.com/ba/bahia/noticia/2026/07/30/homem-e-morto-em-salvador.ghtml",
-        "img": "https://picsum.photos/seed/582/800/400"
+        "img": "https://picsum.photos/seed/950/800/400"
     },
     {
-        "titulo": "Eleições 2026: mudanças em seções alteram locais de votação em cidade do interior da Bahia; vej",
+        "titulo": "Café &#038; Prosa promove reflexão sobre autocuidado na ABO-BA",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "17:25",
+        "url": "https://abo-ba.org.br/cafe-prosa-promove-reflexao-sobre-autocuidado-na-abo-ba/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/1.png"
+    },
+    {
+        "titulo": "ANVISA divulga modelos de receituários eletrônicos e orientações para integração ao SNCR",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "17:25",
+        "url": "https://croba.org.br/anvisa-divulga-modelos-de-receituarios-eletronicos-e-orientacoes-para-integracao-ao-sncr/",
+        "img": "https://picsum.photos/seed/197/800/400"
+    },
+    {
+        "titulo": "São João da ABO-BA celebra tradição, alegria e união da classe odontológica",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "17:25",
+        "url": "https://abo-ba.org.br/sao-joao-da-abo-ba-celebra-tradicao-alegria-e-uniao-da-classe-odontologica/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/2.png"
+    },
+    {
+        "titulo": "Operação integrada fiscaliza clínicas odontológicas em Salvador e reforça compromisso com a seg",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "17:25",
+        "url": "https://croba.org.br/operacao-integrada-fiscaliza-clinicas-odontologicas-em-salvador-e-reforca-compromisso-com-a-seguranca-da-populacao/",
+        "img": "https://picsum.photos/seed/250/800/400"
+    },
+    {
+        "titulo": "Justiça Federal confirma validade da Decisão CFO-SEC nº 30/2026 e mantém resultado das eleições",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "17:25",
+        "url": "https://website.cfo.org.br/justica-federal-confirma-validade-da-decisao-cfo-sec-no-30-2026-e-mantem-resultado-das-eleicoes-do-cro-rs/",
+        "img": "https://picsum.photos/seed/802/800/400"
+    },
+    {
+        "titulo": "Funcionário de gabinete do deputado Binho Galinha é assassinado em Salvador",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "17:25",
+        "url": "https://www.acordacidade.com.br/policia/funcionario-de-gabinete-do-deputado-binho-galinha-e-assassinado-em-salvador/",
+        "img": "https://picsum.photos/seed/689/800/400"
+    },
+    {
+        "titulo": "PEC da Segurança Pública chega ao Senado para análise",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "17:25",
+        "url": "https://www.jornalfolhadoestado.com/politica/pec-da-seguranca-publica-chega-ao-senado-para-analise/",
+        "img": "https://picsum.photos/seed/184/800/400"
+    },
+    {
+        "titulo": "Ossada encontrada em mata é de jovem desaparecido em Feira de Santana",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "17:25",
+        "url": "https://www.acordacidade.com.br/policia/ossada-encontrada-em-mata-e-de-jovem-desaparecido-desde-junho-em-feira-de-santana/",
+        "img": "https://picsum.photos/seed/772/800/400"
+    },
+    {
+        "titulo": "Jornalista Eduardo Vieira morre após passar mal no Rio de Janeiro",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "17:25",
+        "url": "https://www.acordacidade.com.br/brasil/jornalista-eduardo-vieira-morre-apos-passar-mal-no-rio-de-janeiro/",
+        "img": "https://picsum.photos/seed/181/800/400"
+    },
+    {
+        "titulo": "Chefe de grupo suspeito de roubar cabos de indústrias é preso na Bahia; empresa teve prejuízo d",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "G1 Feira",
-        "data": "15:52",
-        "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/07/30/eleicoes-mudancas-bahia.ghtml",
-        "img": "https://picsum.photos/seed/801/800/400"
+        "data": "17:25",
+        "url": "https://g1.globo.com/ba/bahia/noticia/2026/07/30/chefe-de-grupo-suspeito-de-roubar-cabos-de-industrias-e-preso-na-bahia-empresa-teve-prejuizo-de-r-500-mil.ghtml",
+        "img": "https://picsum.photos/seed/603/800/400"
     },
     {
-        "titulo": "Periquitos danificam fiação e afetam funcionamento de semáforos em Feira de Santana",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "15:52",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/30/fiacao-danificada-bahia.ghtml",
-        "img": "https://picsum.photos/seed/156/800/400"
+        "titulo": "A nova era da harmonização orofacial começa com conhecimento de verdade e você pode fazer parte",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "17:25",
+        "url": "https://abo-ba.org.br/a-nova-era-da-harmonizacao-orofacial-comeca-com-conhecimento-de-verdade-e-voce-pode-fazer-parte/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/Black-and-Gold-Illustrated-Webinar-Event-Instagram-Post-1920-x-1080-px.png"
     },
     {
         "titulo": "CFO publica nova resolução e atualiza regras para habilitação em sedação em Odontologia",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "15:51",
+        "data": "17:25",
         "url": "https://website.cfo.org.br/cfo-publica-nova-resolucao-e-atualiza-regras-para-habilitacao-em-sedacao-em-odontologia/",
-        "img": "https://picsum.photos/seed/9/800/400"
+        "img": "https://picsum.photos/seed/172/800/400"
+    },
+    {
+        "titulo": "Anvisa determina apreensão de Mounjaro falsificado",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "17:25",
+        "url": "https://www.jornalfolhadoestado.com/policia/anvisa-determina-apreensao-de-mounjaro-falsificado/",
+        "img": "https://picsum.photos/seed/72/800/400"
     },
     {
         "titulo": "O uso da IA pela Justiça e casos não previstos na lei são tema de aula inaugural na Unex Feira ",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Acorda Cidade",
-        "data": "15:52",
+        "data": "17:25",
         "url": "https://www.acordacidade.com.br/educacao/o-uso-da-ia-pela-justica-e-casos-nao-previstos-na-lei-sao-tema-de-aula-inaugural-na-unex-feira-de-santana/",
-        "img": "https://picsum.photos/seed/248/800/400"
-    },
-    {
-        "titulo": "Como urnas eletrônicas são fiscalizadas? Entenda as 40 etapas de auditoria do Tribunal Superior",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "15:52",
-        "url": "https://www.acordacidade.com.br/politica/eleicoes/como-urnas-eletronicas-sao-fiscalizadas-entenda-as-40-etapas-de-auditoria-do-tribunal-superior-eleitoral/",
-        "img": "https://picsum.photos/seed/62/800/400"
+        "img": "https://picsum.photos/seed/772/800/400"
     },
     {
         "titulo": "Sete torcedores são detidos após confronto antes de Vitória x Palmeiras em Salvador",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Folha do Estado",
-        "data": "15:52",
+        "data": "17:25",
         "url": "https://www.jornalfolhadoestado.com/esportes/sete-torcedores-sao-detidos-apos-confronto-antes-de-vitoria-x-palmeiras-em-salvador/",
-        "img": "https://picsum.photos/seed/133/800/400"
+        "img": "https://picsum.photos/seed/188/800/400"
+    },
+    {
+        "titulo": "ABO Bahia sedia Jornada Estadual sobre Hanseníase: “Conhecer e Cuidar, de Janeiro a Janeiro”",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "17:25",
+        "url": "https://abo-ba.org.br/abo-bahia-sedia-jornada-estadual-sobre-hanseniase-conhecer-e-cuidar-de-janeiro-a-janeiro/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/capas-abo-.png"
+    },
+    {
+        "titulo": "São João ABO-BA: tradição, alegria e bons encontros.",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "17:25",
+        "url": "https://abo-ba.org.br/sao-joao-abo-ba-tradicao-alegria-e-bons-encontros/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-30-at-11.35.37.jpeg"
+    },
+    {
+        "titulo": "Suíça está pagando até R$400 mil para brasileiros se mudarem para lá",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "17:25",
+        "url": "https://www.jornalfolhadoestado.com/mundo/suica-esta-pagando-ate-r400-mil-para-brasileiros-se-mudarem-para-la/",
+        "img": "https://picsum.photos/seed/977/800/400"
+    },
+    {
+        "titulo": "Periquitos danificam fiação e afetam funcionamento de semáforos em Feira de Santana",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "17:25",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/30/fiacao-danificada-bahia.ghtml",
+        "img": "https://picsum.photos/seed/885/800/400"
+    },
+    {
+        "titulo": "Corpo de Bombeiros forma 38 militares para ampliar operações aéreas e combate a incêndios",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "17:25",
+        "url": "https://www.acordacidade.com.br/bahia/corpo-de-bombeiros-forma-38-militares-para-ampliar-operacoes-aereas-e-combate-a-incendios/",
+        "img": "https://picsum.photos/seed/727/800/400"
+    },
+    {
+        "titulo": "Conselho Federal de Odontologia proíbe uso de PMMA para fins estéticos",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "17:25",
+        "url": "https://website.cfo.org.br/conselho-federal-de-odontologia-proibe-uso-de-pmma-para-fins-esteticos/",
+        "img": "https://picsum.photos/seed/365/800/400"
+    },
+    {
+        "titulo": "Resolução CFO nº 297/2026 – CFO proíbe o uso de PMMA para fins estéticos",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "17:25",
+        "url": "https://croba.org.br/resolucao-cfo-no-297-2026-cfo-proibe-o-uso-de-pmma-para-fins-esteticos/",
+        "img": "https://picsum.photos/seed/156/800/400"
+    },
+    {
+        "titulo": "Resolução CFO nº 295/2026 –  CFO RECONHECE EXPERIÊNCIA PROFISSIONAL PARA REGISTRO EM SEDAÇÃO",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "17:25",
+        "url": "https://croba.org.br/resolucao-cfo-no-295-2026-cfo-reconhece-experiencia-profissional-para-registro-em-sedacao/",
+        "img": "https://picsum.photos/seed/656/800/400"
+    },
+    {
+        "titulo": "72%  DOS CIRURGIÕES-DENTISTAS DO BRASIL SÃO MULHERES",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "17:25",
+        "url": "https://croba.org.br/72-dos-cirurgioes-dentistas-do-brasil-sao-mulheres/",
+        "img": "https://picsum.photos/seed/829/800/400"
+    },
+    {
+        "titulo": "Evento oferece produtos de beleza com descontos de até 80% em Feira de Santana",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "17:25",
+        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/evento-oferece-produtos-de-beleza-com-descontos-de-ate-80-em-feira-de-santana/",
+        "img": "https://picsum.photos/seed/240/800/400"
+    },
+    {
+        "titulo": "ABO se torna  signatária do Manifesto ESG/ODS por Ambientes Sustentáveis, Saudáveis, Inteligent",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "17:25",
+        "url": "https://abo-ba.org.br/abo-se-torna-signataria-do-manifesto-esg-ods-por-ambientes-sustentaveis-saudaveis-inteligentes-e-felizes/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-23-at-09.02.46.jpeg"
+    },
+    {
+        "titulo": "CFO recebe representantes do Movimento Dentistas do SUS para discutir articulação em defesa de ",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "17:25",
+        "url": "https://website.cfo.org.br/cfo-recebe-representantes-do-movimento-dentistas-do-sus-para-discutir-articulacao-em-defesa-de-pautas-da-odontologia/",
+        "img": "https://picsum.photos/seed/548/800/400"
+    },
+    {
+        "titulo": "CFO reafirma defesa da formação presencial e convoca categoria a participar de Consulta Pública",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "17:25",
+        "url": "https://website.cfo.org.br/cfo-reafirma-defesa-da-formacao-presencial-e-convoca-categoria-a-participar-de-consulta-publica-sobre-o-ensino-ead/",
+        "img": "https://picsum.photos/seed/30/800/400"
     },
     {
         "titulo": "Homem é preso suspeito de abusar de três meninos que frequentavam mesma igreja na Bahia",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "G1 Feira",
-        "data": "15:52",
+        "data": "17:25",
         "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/30/suspeito-abuso-sexual-bahia.ghtml",
-        "img": "https://picsum.photos/seed/212/800/400"
+        "img": "https://picsum.photos/seed/317/800/400"
+    },
+    {
+        "titulo": "CRO-BA e Dentistas do SUS na linha de frente pelo PL 1.365/22",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "17:25",
+        "url": "https://croba.org.br/cro-ba-e-dentistas-do-sus-na-linha-de-frent-pelo-pl-1-365-22/",
+        "img": "https://picsum.photos/seed/992/800/400"
+    },
+    {
+        "titulo": "Assista aos telejornais da TV Subaé",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "17:25",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
+        "img": "https://picsum.photos/seed/278/800/400"
+    },
+    {
+        "titulo": "Eleições 2026: mudanças em seções alteram locais de votação em cidade do interior da Bahia; vej",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "17:25",
+        "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/07/30/eleicoes-mudancas-bahia.ghtml",
+        "img": "https://picsum.photos/seed/106/800/400"
+    },
+    {
+        "titulo": "Polêmica: saiba por que Turnê de Anitta não terá venda de bebida alcoólica em alguns horários",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "17:25",
+        "url": "https://www.acordacidade.com.br/entretenimento/polemica-saiba-por-que-turne-de-anitta-nao-tera-venda-de-bebida-alcoolica-em-alguns-horarios/",
+        "img": "https://picsum.photos/seed/965/800/400"
     }
 ]
