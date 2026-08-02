@@ -1,218 +1,272 @@
 [
     {
-        "titulo": "É campeão! Flu de Feira vence o SSA, conquista a Série B invicto e faz a festa no Joia da Princ",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "21:55",
-        "url": "https://www.jornalfolhadoestado.com/esportes/e-campeao-flu-de-feira-vence-o-ssa-conquista-a-serie-b-invicto-e-faz-a-festa-no-joia-da-princesa/",
-        "img": "https://picsum.photos/seed/409/800/400"
-    },
-    {
-        "titulo": "Prefeitura na Bahia abre concurso público com mais de 230 vagas; salários chegam a R$ 3 mil",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "21:55",
-        "url": "https://g1.globo.com/ba/bahia/blogdoemprego/noticia/2026/08/01/concurso-publico-bahia.ghtml",
-        "img": "https://picsum.photos/seed/803/800/400"
-    },
-    {
         "titulo": "CFO reafirma defesa da formação presencial e convoca categoria a participar de Consulta Pública",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "21:54",
+        "data": "22:54",
         "url": "https://website.cfo.org.br/cfo-reafirma-defesa-da-formacao-presencial-e-convoca-categoria-a-participar-de-consulta-publica-sobre-o-ensino-ead/",
-        "img": "https://picsum.photos/seed/309/800/400"
+        "img": "https://picsum.photos/seed/330/800/400"
     },
     {
-        "titulo": "Fluminense de Feira vence o Bahia, mas Tricolor conquista o Baianão Sub-20 2026",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "21:55",
-        "url": "https://www.jornalfolhadoestado.com/esportes/fluminense-de-feira-vence-o-bahia-mas-tricolor-conquista-o-baianao-sub-20-2026/",
-        "img": "https://picsum.photos/seed/542/800/400"
-    },
-    {
-        "titulo": "Fluminense de Feira conquista título baiano da Segunda Divisão de forma invicta",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "21:55",
-        "url": "https://www.acordacidade.com.br/esportes/futebol/fluminense-de-feira-conquista-titulo-baiano-da-segunda-divisao-de-forma-invicta/",
-        "img": "https://picsum.photos/seed/864/800/400"
-    },
-    {
-        "titulo": "Homem é preso após ser flagrado com arma falsa e drogas em Alagoinhas ",
+        "titulo": "Resolução CFO nº 295/2026 –  CFO RECONHECE EXPERIÊNCIA PROFISSIONAL PARA REGISTRO EM SEDAÇÃO",
         "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "21:55",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/02/homem-e-preso-em-alagoinhas.ghtml",
-        "img": "https://picsum.photos/seed/918/800/400"
-    },
-    {
-        "titulo": "Duas pessoas morrem e quatro ficam feridas após acidente entre caminhão, carro e motocicleta",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "21:55",
-        "url": "https://www.acordacidade.com.br/bahia/duas-pessoas-morrem-e-quatro-ficam-feridas-apos-acidente-entre-caminhao-carro-e-motocicleta/",
-        "img": "https://picsum.photos/seed/568/800/400"
-    },
-    {
-        "titulo": "Justiça Federal confirma validade da Decisão CFO-SEC nº 30/2026 e mantém resultado das eleições",
-        "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "21:54",
-        "url": "https://website.cfo.org.br/justica-federal-confirma-validade-da-decisao-cfo-sec-no-30-2026-e-mantem-resultado-das-eleicoes-do-cro-rs/",
-        "img": "https://picsum.photos/seed/914/800/400"
+        "fonte": "CRO-BA",
+        "data": "22:54",
+        "url": "https://croba.org.br/resolucao-cfo-no-295-2026-cfo-reconhece-experiencia-profissional-para-registro-em-sedacao/",
+        "img": "https://picsum.photos/seed/232/800/400"
     },
     {
-        "titulo": "Ação apreende cerca de uma tonelada de cocaína no Porto de Salvador",
+        "titulo": "Robson Conceição perde para Raymond Muratalla e fica sem título mundial da IBF",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Folha do Estado",
-        "data": "21:55",
-        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/acao-apreende-cerca-de-uma-tonelada-de-cocaina-no-porto-de-salvador/",
-        "img": "https://picsum.photos/seed/721/800/400"
-    },
-    {
-        "titulo": "CFO repudia informações falsas divulgadas pelo CFM sobre a Resolução CFO nº 295/2026",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "21:54",
-        "url": "https://website.cfo.org.br/cfo-repudia-informacoes-falsas-divulgadas-pelo-cfm-sobre-a-resolucao-cfo-no-295-2026/",
-        "img": "https://picsum.photos/seed/101/800/400"
-    },
-    {
-        "titulo": "Operação investiga quatro advogados por suspeita de fraude e lavagem de dinheiro na Bahia; movi",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "21:55",
-        "url": "https://g1.globo.com/ba/bahia/noticia/2026/08/01/operacao-perjurio-mp-bahia.ghtml",
-        "img": "https://picsum.photos/seed/796/800/400"
-    },
-    {
-        "titulo": "Brasil é o 4º país no mundo que mais cresceu em turismo internacional, aponta levantamento",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "21:55",
-        "url": "https://www.acordacidade.com.br/viagens/brasil-e-o-4o-pais-no-mundo-que-mais-cresceu-em-turismo-internacional-aponta-levantamento/",
-        "img": "https://picsum.photos/seed/646/800/400"
-    },
-    {
-        "titulo": "Instituição abre inscrições para oficinas gratuitas de percussão e dança em Feira de Santana",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "21:55",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/01/instituicao-oferece-oficinas-gratuitas-em-feira-de-santana.ghtml",
-        "img": "https://picsum.photos/seed/656/800/400"
-    },
-    {
-        "titulo": "Mulher e filho de 3 anos são encontrados mortos dentro de casa em Feira de Santana",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "21:55",
-        "url": "https://www.jornalfolhadoestado.com/policia/mulher-e-filho-de-3-anos-sao-encontrados-mortos-dentro-de-casa-em-feira-de-santana/",
-        "img": "https://picsum.photos/seed/140/800/400"
-    },
-    {
-        "titulo": "Homem é executado a tiros no bairro Gabriela",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "21:55",
-        "url": "https://www.jornalfolhadoestado.com/policia/homem-e-executado-a-tiros-no-bairro-gabriela/",
-        "img": "https://picsum.photos/seed/839/800/400"
-    },
-    {
-        "titulo": "Polícia Civil cumpre mandado contra investigado por estupro de vulnerável contra criança de 11 ",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "21:55",
-        "url": "https://www.acordacidade.com.br/policia/policia-civil-cumpre-mandado-contra-investigado-por-estupro-de-vulneravel-contra-crianca-de-11-anos/",
-        "img": "https://picsum.photos/seed/966/800/400"
-    },
-    {
-        "titulo": "Incêndio atinge balsa na costa da Indonésia e deixa deixa 5 mortos e 41 desaparecidos",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "21:55",
-        "url": "https://www.acordacidade.com.br/mundo/incendio-atinge-balsa-na-costa-da-indonesia-e-deixa-deixa-5-mortos-e-41-desaparecidos/",
-        "img": "https://picsum.photos/seed/83/800/400"
-    },
-    {
-        "titulo": "Cria da base, Lucas Arcanjo mede forças com ídolo do Athletico em duelo decisivo da Copa do Bra",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "21:55",
-        "url": "https://www.jornalfolhadoestado.com/esportes/cria-da-base-lucas-arcanjo-mede-forcas-com-idolo-do-athletico-em-duelo-decisivo-da-copa-do-brasil/",
-        "img": "https://picsum.photos/seed/658/800/400"
-    },
-    {
-        "titulo": "Assista aos telejornais da TV Bahia",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "21:55",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
-        "img": "https://picsum.photos/seed/146/800/400"
-    },
-    {
-        "titulo": "Influenciadora com 99 mil seguidores é alvo de operação por suspeita de tráfico na Bahia",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "21:55",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/01/influenciadora-alvo-operacao-bahia.ghtml",
-        "img": "https://picsum.photos/seed/866/800/400"
-    },
-    {
-        "titulo": "CFO recebe representantes do Movimento Dentistas do SUS para discutir articulação em defesa de ",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "21:54",
-        "url": "https://website.cfo.org.br/cfo-recebe-representantes-do-movimento-dentistas-do-sus-para-discutir-articulacao-em-defesa-de-pautas-da-odontologia/",
-        "img": "https://picsum.photos/seed/459/800/400"
-    },
-    {
-        "titulo": "Conheça 10 cachoeiras para explorar no Litoral Norte de São Paulo",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "21:55",
-        "url": "https://www.acordacidade.com.br/viagens/conheca-10-cachoeiras-para-explorar-no-litoral-norte-de-sao-paulo/",
-        "img": "https://picsum.photos/seed/322/800/400"
-    },
-    {
-        "titulo": "CFO publica nova resolução e atualiza regras para habilitação em sedação em Odontologia",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "21:54",
-        "url": "https://website.cfo.org.br/cfo-publica-nova-resolucao-e-atualiza-regras-para-habilitacao-em-sedacao-em-odontologia/",
-        "img": "https://picsum.photos/seed/154/800/400"
+        "data": "22:55",
+        "url": "https://www.jornalfolhadoestado.com/esportes/robson-conceicao-perde-para-raymond-muratalla-e-fica-sem-titulo-mundial-da-ibf/",
+        "img": "https://picsum.photos/seed/388/800/400"
     },
     {
         "titulo": "Conselho Federal de Odontologia proíbe uso de PMMA para fins estéticos",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "21:54",
+        "data": "22:54",
         "url": "https://website.cfo.org.br/conselho-federal-de-odontologia-proibe-uso-de-pmma-para-fins-esteticos/",
-        "img": "https://picsum.photos/seed/500/800/400"
+        "img": "https://picsum.photos/seed/334/800/400"
+    },
+    {
+        "titulo": "Nadador feirense conquista 5 medalhas em etapa nacional no Distrito Federal",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "22:55",
+        "url": "https://www.acordacidade.com.br/esportes/nadador-feirense-conquista-5-medalhas-em-etapa-nacional-no-distrito-federal/",
+        "img": "https://picsum.photos/seed/910/800/400"
+    },
+    {
+        "titulo": "Influenciadora com 99 mil seguidores é alvo de operação por suspeita de tráfico na Bahia",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "22:55",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/01/influenciadora-alvo-operacao-bahia.ghtml",
+        "img": "https://picsum.photos/seed/998/800/400"
+    },
+    {
+        "titulo": "Palmeiras goleia o Fortaleza por 3 a 0 e coloca um pé nas quartas da Copa do Brasil",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "22:55",
+        "url": "https://www.jornalfolhadoestado.com/esportes/palmeiras-goleia-o-fortaleza-por-3-a-0-e-coloca-um-pe-nas-quartas-da-copa-do-brasil/",
+        "img": "https://picsum.photos/seed/485/800/400"
+    },
+    {
+        "titulo": "Resolução CFO nº 297/2026 – CFO proíbe o uso de PMMA para fins estéticos",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "22:54",
+        "url": "https://croba.org.br/resolucao-cfo-no-297-2026-cfo-proibe-o-uso-de-pmma-para-fins-esteticos/",
+        "img": "https://picsum.photos/seed/538/800/400"
+    },
+    {
+        "titulo": "De 1891 aos dias atuais: ataques ao voto feminino expõem machismo histórico no Brasil",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "22:55",
+        "url": "https://www.acordacidade.com.br/politica/eleicoes/de-1891-aos-dias-atuais-ataques-ao-voto-feminino-expoem-machismo-historico-no-brasil/",
+        "img": "https://picsum.photos/seed/390/800/400"
+    },
+    {
+        "titulo": "CFO repudia informações falsas divulgadas pelo CFM sobre a Resolução CFO nº 295/2026",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "22:54",
+        "url": "https://website.cfo.org.br/cfo-repudia-informacoes-falsas-divulgadas-pelo-cfm-sobre-a-resolucao-cfo-no-295-2026/",
+        "img": "https://picsum.photos/seed/532/800/400"
+    },
+    {
+        "titulo": "Homem é preso após ser flagrado com arma falsa e drogas em Alagoinhas ",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "22:55",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/02/homem-e-preso-em-alagoinhas.ghtml",
+        "img": "https://picsum.photos/seed/680/800/400"
+    },
+    {
+        "titulo": "Fluminense de Feira vence o Bahia, mas Tricolor conquista o Baianão Sub-20 2026",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "22:55",
+        "url": "https://www.jornalfolhadoestado.com/esportes/fluminense-de-feira-vence-o-bahia-mas-tricolor-conquista-o-baianao-sub-20-2026/",
+        "img": "https://picsum.photos/seed/548/800/400"
+    },
+    {
+        "titulo": "72%  DOS CIRURGIÕES-DENTISTAS DO BRASIL SÃO MULHERES",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "22:54",
+        "url": "https://croba.org.br/72-dos-cirurgioes-dentistas-do-brasil-sao-mulheres/",
+        "img": "https://picsum.photos/seed/475/800/400"
+    },
+    {
+        "titulo": "ANVISA divulga modelos de receituários eletrônicos e orientações para integração ao SNCR",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "22:54",
+        "url": "https://croba.org.br/anvisa-divulga-modelos-de-receituarios-eletronicos-e-orientacoes-para-integracao-ao-sncr/",
+        "img": "https://picsum.photos/seed/273/800/400"
+    },
+    {
+        "titulo": "Conheça 10 cachoeiras para explorar no Litoral Norte de São Paulo",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "22:55",
+        "url": "https://www.acordacidade.com.br/viagens/conheca-10-cachoeiras-para-explorar-no-litoral-norte-de-sao-paulo/",
+        "img": "https://picsum.photos/seed/492/800/400"
+    },
+    {
+        "titulo": "Assista aos telejornais da TV Bahia",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "22:55",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
+        "img": "https://picsum.photos/seed/795/800/400"
+    },
+    {
+        "titulo": "Prefeitura na Bahia abre concurso público com mais de 230 vagas; salários chegam a R$ 3 mil",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "22:55",
+        "url": "https://g1.globo.com/ba/bahia/blogdoemprego/noticia/2026/08/01/concurso-publico-bahia.ghtml",
+        "img": "https://picsum.photos/seed/664/800/400"
+    },
+    {
+        "titulo": "Fluminense de Feira conquista título baiano da Segunda Divisão de forma invicta",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "22:55",
+        "url": "https://www.acordacidade.com.br/esportes/futebol/fluminense-de-feira-conquista-titulo-baiano-da-segunda-divisao-de-forma-invicta/",
+        "img": "https://picsum.photos/seed/382/800/400"
+    },
+    {
+        "titulo": "Instituição abre inscrições para oficinas gratuitas de percussão e dança em Feira de Santana",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "22:55",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/01/instituicao-oferece-oficinas-gratuitas-em-feira-de-santana.ghtml",
+        "img": "https://picsum.photos/seed/478/800/400"
+    },
+    {
+        "titulo": "CFO publica nova resolução e atualiza regras para habilitação em sedação em Odontologia",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "22:54",
+        "url": "https://website.cfo.org.br/cfo-publica-nova-resolucao-e-atualiza-regras-para-habilitacao-em-sedacao-em-odontologia/",
+        "img": "https://picsum.photos/seed/923/800/400"
+    },
+    {
+        "titulo": "CRO-BA e Dentistas do SUS na linha de frente pelo PL 1.365/22",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "22:54",
+        "url": "https://croba.org.br/cro-ba-e-dentistas-do-sus-na-linha-de-frent-pelo-pl-1-365-22/",
+        "img": "https://picsum.photos/seed/727/800/400"
+    },
+    {
+        "titulo": "Operação integrada fiscaliza clínicas odontológicas em Salvador e reforça compromisso com a seg",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "22:54",
+        "url": "https://croba.org.br/operacao-integrada-fiscaliza-clinicas-odontologicas-em-salvador-e-reforca-compromisso-com-a-seguranca-da-populacao/",
+        "img": "https://picsum.photos/seed/586/800/400"
+    },
+    {
+        "titulo": "Incêndio atinge balsa na costa da Indonésia e deixa deixa 5 mortos e 41 desaparecidos",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "22:55",
+        "url": "https://www.acordacidade.com.br/mundo/incendio-atinge-balsa-na-costa-da-indonesia-e-deixa-deixa-5-mortos-e-41-desaparecidos/",
+        "img": "https://picsum.photos/seed/528/800/400"
+    },
+    {
+        "titulo": "É campeão! Flu de Feira vence o SSA, conquista a Série B invicto e faz a festa no Joia da Princ",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "22:55",
+        "url": "https://www.jornalfolhadoestado.com/esportes/e-campeao-flu-de-feira-vence-o-ssa-conquista-a-serie-b-invicto-e-faz-a-festa-no-joia-da-princesa/",
+        "img": "https://picsum.photos/seed/930/800/400"
+    },
+    {
+        "titulo": "Duas pessoas morrem e quatro ficam feridas após acidente entre caminhão, carro e motocicleta",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "22:55",
+        "url": "https://www.acordacidade.com.br/bahia/duas-pessoas-morrem-e-quatro-ficam-feridas-apos-acidente-entre-caminhao-carro-e-motocicleta/",
+        "img": "https://picsum.photos/seed/747/800/400"
+    },
+    {
+        "titulo": "Ação apreende cerca de uma tonelada de cocaína no Porto de Salvador",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "22:55",
+        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/acao-apreende-cerca-de-uma-tonelada-de-cocaina-no-porto-de-salvador/",
+        "img": "https://picsum.photos/seed/765/800/400"
+    },
+    {
+        "titulo": "Justiça Federal confirma validade da Decisão CFO-SEC nº 30/2026 e mantém resultado das eleições",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "22:54",
+        "url": "https://website.cfo.org.br/justica-federal-confirma-validade-da-decisao-cfo-sec-no-30-2026-e-mantem-resultado-das-eleicoes-do-cro-rs/",
+        "img": "https://picsum.photos/seed/384/800/400"
+    },
+    {
+        "titulo": "Cria da base, Lucas Arcanjo mede forças com ídolo do Athletico em duelo decisivo da Copa do Bra",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "22:55",
+        "url": "https://www.jornalfolhadoestado.com/esportes/cria-da-base-lucas-arcanjo-mede-forcas-com-idolo-do-athletico-em-duelo-decisivo-da-copa-do-brasil/",
+        "img": "https://picsum.photos/seed/580/800/400"
+    },
+    {
+        "titulo": "CFO recebe representantes do Movimento Dentistas do SUS para discutir articulação em defesa de ",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "22:54",
+        "url": "https://website.cfo.org.br/cfo-recebe-representantes-do-movimento-dentistas-do-sus-para-discutir-articulacao-em-defesa-de-pautas-da-odontologia/",
+        "img": "https://picsum.photos/seed/663/800/400"
+    },
+    {
+        "titulo": "Operação investiga quatro advogados por suspeita de fraude e lavagem de dinheiro na Bahia; movi",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "22:55",
+        "url": "https://g1.globo.com/ba/bahia/noticia/2026/08/01/operacao-perjurio-mp-bahia.ghtml",
+        "img": "https://picsum.photos/seed/903/800/400"
     }
 ]
