@@ -1,326 +1,218 @@
 [
     {
-        "titulo": "Julho das Pretas termina com alerta sobre violência de gênero para estudantes em Feira de Santa",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "13:39",
-        "url": "https://www.acordacidade.com.br/feira-de-santana/julho-das-pretas-termina-com-alerta-sobre-violencia-de-genero-para-estudantes-em-feira-de-santana/",
-        "img": "https://picsum.photos/seed/929/800/400"
-    },
-    {
-        "titulo": "CFO reafirma defesa da formação presencial e convoca categoria a participar de Consulta Pública",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "13:39",
-        "url": "https://website.cfo.org.br/cfo-reafirma-defesa-da-formacao-presencial-e-convoca-categoria-a-participar-de-consulta-publica-sobre-o-ensino-ead/",
-        "img": "https://picsum.photos/seed/210/800/400"
-    },
-    {
-        "titulo": "ANEEL mantém bandeira amarela de energia pelo quarto mês seguido",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "13:39",
-        "url": "https://www.jornalfolhadoestado.com/municipios/aneel-mantem-bandeira-amarela-de-energia-pelo-quarto-mes-seguido/",
-        "img": "https://picsum.photos/seed/720/800/400"
-    },
-    {
-        "titulo": "Edson Gomes é internado em UTI após passar mal depois de show em Salvador",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "13:39",
-        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/edson-gomes-e-internado-em-uti-apos-passar-mal-depois-de-show-em-salvador/",
-        "img": "https://picsum.photos/seed/898/800/400"
-    },
-    {
-        "titulo": "ABO Bahia sedia Jornada Estadual sobre Hanseníase: “Conhecer e Cuidar, de Janeiro a Janeiro”",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "13:39",
-        "url": "https://abo-ba.org.br/abo-bahia-sedia-jornada-estadual-sobre-hanseniase-conhecer-e-cuidar-de-janeiro-a-janeiro/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/capas-abo-.png"
-    },
-    {
-        "titulo": "Instituição abre inscrições para oficinas gratuitas de percussão e dança em Feira de Santana",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "13:39",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/01/instituicao-oferece-oficinas-gratuitas-em-feira-de-santana.ghtml",
-        "img": "https://picsum.photos/seed/67/800/400"
-    },
-    {
-        "titulo": "Operação integrada fiscaliza clínicas odontológicas em Salvador e reforça compromisso com a seg",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "13:39",
-        "url": "https://croba.org.br/operacao-integrada-fiscaliza-clinicas-odontologicas-em-salvador-e-reforca-compromisso-com-a-seguranca-da-populacao/",
-        "img": "https://picsum.photos/seed/961/800/400"
-    },
-    {
-        "titulo": "A nova era da harmonização orofacial começa com conhecimento de verdade e você pode fazer parte",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "13:39",
-        "url": "https://abo-ba.org.br/a-nova-era-da-harmonizacao-orofacial-comeca-com-conhecimento-de-verdade-e-voce-pode-fazer-parte/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/Black-and-Gold-Illustrated-Webinar-Event-Instagram-Post-1920-x-1080-px.png"
-    },
-    {
-        "titulo": "72%  DOS CIRURGIÕES-DENTISTAS DO BRASIL SÃO MULHERES",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "13:39",
-        "url": "https://croba.org.br/72-dos-cirurgioes-dentistas-do-brasil-sao-mulheres/",
-        "img": "https://picsum.photos/seed/688/800/400"
-    },
-    {
-        "titulo": "TSE promove semana de ações sobre segurança e transparência das urnas eletrônicas",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "13:39",
-        "url": "https://www.jornalfolhadoestado.com/politica/tse-promove-semana-de-acoes-sobre-seguranca-e-transparencia-das-urnas-eletronicas/",
-        "img": "https://picsum.photos/seed/446/800/400"
-    },
-    {
-        "titulo": "Virginia Fonseca anuncia afastamento da internet",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "13:39",
-        "url": "https://www.acordacidade.com.br/entretenimento/virginia-fonseca-anuncia-afastamento-da-internet/",
-        "img": "https://picsum.photos/seed/391/800/400"
-    },
-    {
-        "titulo": "CFO publica nova resolução e atualiza regras para habilitação em sedação em Odontologia",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "13:39",
-        "url": "https://website.cfo.org.br/cfo-publica-nova-resolucao-e-atualiza-regras-para-habilitacao-em-sedacao-em-odontologia/",
-        "img": "https://picsum.photos/seed/231/800/400"
-    },
-    {
-        "titulo": "Assista aos telejornais da TV Bahia",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "13:39",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
-        "img": "https://picsum.photos/seed/223/800/400"
-    },
-    {
         "titulo": "Cantor Edson Gomes é internado em UTI de hospital na Bahia após passar mal depois de show",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "G1 Feira",
-        "data": "13:39",
+        "data": "16:24",
         "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/03/cantor-edson-gomes-e-internado-bahia.ghtml",
-        "img": "https://picsum.photos/seed/235/800/400"
+        "img": "https://picsum.photos/seed/402/800/400"
     },
     {
-        "titulo": "&#8220;Quem bate em mulher não vota em mim&#8221;, diz Lula em convenção partidária",
+        "titulo": "CMDI realiza mutirão com mais de mil vagas para exames e consultas em Feira de Santana",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Acorda Cidade",
-        "data": "13:39",
-        "url": "https://www.acordacidade.com.br/dilton-e-feito/quem-bate-em-mulher-nao-vota-em-mim-diz-lula-em-convencao-partidaria/",
-        "img": "https://picsum.photos/seed/513/800/400"
+        "data": "16:24",
+        "url": "https://www.acordacidade.com.br/feira-de-santana/cmdi-realiza-mutirao-com-mais-de-mil-vagas-para-exames-e-consultas-em-feira-de-santana/",
+        "img": "https://picsum.photos/seed/219/800/400"
     },
     {
-        "titulo": "Lei Maria da Penha: STF retoma julgamento sobre alcance das medidas protetivas",
+        "titulo": "Leilão da Zona Azul de Feira de Santana terá transmissão ao vivo; veja onde acompanhar",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Acorda Cidade",
-        "data": "13:39",
-        "url": "https://www.acordacidade.com.br/justica/lei-maria-da-penha-stf-retoma-julgamento-sobre-alcance-das-medidas-protetivas/",
-        "img": "https://picsum.photos/seed/780/800/400"
+        "data": "16:24",
+        "url": "https://www.acordacidade.com.br/feira-de-santana/leilao-da-zona-azul-de-feira-de-santana-tera-transmissao-ao-vivo-veja-onde-acompanhar/",
+        "img": "https://picsum.photos/seed/406/800/400"
     },
     {
-        "titulo": "Quatro pessoas são presas após roubo de carga de cerveja avaliada em R$ 20 mil",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "13:39",
-        "url": "https://www.acordacidade.com.br/policia/quatro-pessoas-sao-presas-apos-roubo-de-carga-de-cerveja-avaliada-em-r-20-mil/",
-        "img": "https://picsum.photos/seed/351/800/400"
-    },
-    {
-        "titulo": "Resolução CFO nº 297/2026 – CFO proíbe o uso de PMMA para fins estéticos",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "13:39",
-        "url": "https://croba.org.br/resolucao-cfo-no-297-2026-cfo-proibe-o-uso-de-pmma-para-fins-esteticos/",
-        "img": "https://picsum.photos/seed/169/800/400"
-    },
-    {
-        "titulo": "Café &#038; Prosa promove reflexão sobre autocuidado na ABO-BA",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "13:39",
-        "url": "https://abo-ba.org.br/cafe-prosa-promove-reflexao-sobre-autocuidado-na-abo-ba/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/1.png"
-    },
-    {
-        "titulo": "Polícia Militar intensifica ações e apreende armas, drogas e recupera veículos na região de Fei",
+        "titulo": "Leilão da Zona Azul de Feira de Santana terá transmissão ao vivo pelos canais oficiais da Prefe",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Folha do Estado",
-        "data": "13:39",
-        "url": "https://www.jornalfolhadoestado.com/policia/policia-militar-intensifica-acoes-e-apreende-armas-drogas-e-recupera-veiculos-na-regiao-de-feira-de-santana/",
-        "img": "https://picsum.photos/seed/721/800/400"
+        "data": "16:24",
+        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/leilao-da-zona-azul-de-feira-de-santana-tera-transmissao-ao-vivo-pelos-canais-oficiais-da-prefeitura-nesta-3a/",
+        "img": "https://picsum.photos/seed/618/800/400"
     },
     {
-        "titulo": "CRO-BA e Dentistas do SUS na linha de frente pelo PL 1.365/22",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "13:39",
-        "url": "https://croba.org.br/cro-ba-e-dentistas-do-sus-na-linha-de-frent-pelo-pl-1-365-22/",
-        "img": "https://picsum.photos/seed/179/800/400"
-    },
-    {
-        "titulo": "Confira as vagas de emprego disponíveis em Feira de Santana e região nesta segunda-feira (3)",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "13:39",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/03/vagas-de-emprego-disponiveis-em-feira-de-santana-e-regiao.ghtml",
-        "img": "https://picsum.photos/seed/272/800/400"
-    },
-    {
-        "titulo": "Conselho Federal de Odontologia proíbe uso de PMMA para fins estéticos",
+        "titulo": "Aprovados no concurso da Guarda Municipal se manifestam em frente à prefeitura para cobrar nome",
         "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "13:39",
-        "url": "https://website.cfo.org.br/conselho-federal-de-odontologia-proibe-uso-de-pmma-para-fins-esteticos/",
-        "img": "https://picsum.photos/seed/723/800/400"
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "16:24",
+        "url": "https://www.acordacidade.com.br/feira-de-santana/aprovados-no-concurso-da-guarda-municipal-se-manifestam-em-frente-a-prefeitura-para-cobrar-nomeacao/",
+        "img": "https://picsum.photos/seed/533/800/400"
     },
     {
         "titulo": "CFO repudia informações falsas divulgadas pelo CFM sobre a Resolução CFO nº 295/2026",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "13:39",
+        "data": "16:23",
         "url": "https://website.cfo.org.br/cfo-repudia-informacoes-falsas-divulgadas-pelo-cfm-sobre-a-resolucao-cfo-no-295-2026/",
-        "img": "https://picsum.photos/seed/693/800/400"
-    },
-    {
-        "titulo": "CFO recebe representantes do Movimento Dentistas do SUS para discutir articulação em defesa de ",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "13:39",
-        "url": "https://website.cfo.org.br/cfo-recebe-representantes-do-movimento-dentistas-do-sus-para-discutir-articulacao-em-defesa-de-pautas-da-odontologia/",
-        "img": "https://picsum.photos/seed/255/800/400"
-    },
-    {
-        "titulo": "ABO se torna  signatária do Manifesto ESG/ODS por Ambientes Sustentáveis, Saudáveis, Inteligent",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "13:39",
-        "url": "https://abo-ba.org.br/abo-se-torna-signataria-do-manifesto-esg-ods-por-ambientes-sustentaveis-saudaveis-inteligentes-e-felizes/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-23-at-09.02.46.jpeg"
+        "img": "https://picsum.photos/seed/68/800/400"
     },
     {
         "titulo": "Justiça Federal confirma validade da Decisão CFO-SEC nº 30/2026 e mantém resultado das eleições",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "13:39",
+        "data": "16:23",
         "url": "https://website.cfo.org.br/justica-federal-confirma-validade-da-decisao-cfo-sec-no-30-2026-e-mantem-resultado-das-eleicoes-do-cro-rs/",
-        "img": "https://picsum.photos/seed/166/800/400"
+        "img": "https://picsum.photos/seed/785/800/400"
     },
     {
-        "titulo": "Resolução CFO nº 295/2026 –  CFO RECONHECE EXPERIÊNCIA PROFISSIONAL PARA REGISTRO EM SEDAÇÃO",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "13:39",
-        "url": "https://croba.org.br/resolucao-cfo-no-295-2026-cfo-reconhece-experiencia-profissional-para-registro-em-sedacao/",
-        "img": "https://picsum.photos/seed/89/800/400"
-    },
-    {
-        "titulo": "Polícia Civil conclui 4ª Edição da Operação Mulher Segura 2026 com 133 prisões e 1.815 diligênc",
+        "titulo": "PF investiga vazamento que alertou quadrilha acusada de desviar R$ 45 milhões da Caixa",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Folha do Estado",
-        "data": "13:39",
-        "url": "https://www.jornalfolhadoestado.com/policia/policia-civil-conclui-4a-edicao-da-operacao-mulher-segura-2026-com-133-prisoes-e-1-815-diligencias-na-bahia/",
-        "img": "https://picsum.photos/seed/452/800/400"
+        "data": "16:24",
+        "url": "https://www.jornalfolhadoestado.com/brasil/pf-investiga-vazamento-que-alertou-quadrilha-acusada-de-desviar-r-45-milhoes-da-caixa/",
+        "img": "https://picsum.photos/seed/828/800/400"
     },
     {
-        "titulo": "São João da ABO-BA celebra tradição, alegria e união da classe odontológica",
+        "titulo": "Feira de Santana recebe mutirão da Defensoria com reconhecimento de paternidade e exames de DNA",
         "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "13:39",
-        "url": "https://abo-ba.org.br/sao-joao-da-abo-ba-celebra-tradicao-alegria-e-uniao-da-classe-odontologica/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/2.png"
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "16:24",
+        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/feira-de-santana-recebe-mutirao-da-defensoria-com-reconhecimento-de-paternidade-e-exames-de-dna-gratuitos/",
+        "img": "https://picsum.photos/seed/396/800/400"
     },
     {
-        "titulo": "Homem é preso após ser flagrado com arma falsa e drogas em Alagoinhas ",
+        "titulo": "Mulher é mordida após reagir a estupro no interior da Bahia",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "16:24",
+        "url": "https://www.jornalfolhadoestado.com/policia/mulher-e-mordida-apos-reagir-a-estupro-no-interior-da-bahia/",
+        "img": "https://picsum.photos/seed/438/800/400"
+    },
+    {
+        "titulo": "Mulher é esfaqueada durante tentativa de reatar relacionamento no interior da Bahia",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "G1 Feira",
-        "data": "13:39",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/02/homem-e-preso-em-alagoinhas.ghtml",
-        "img": "https://picsum.photos/seed/642/800/400"
+        "data": "16:24",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/03/mulher-e-esfaqueada-durante-tentativa-de-reatar-relacionamento-no-interior-da-bahia.ghtml",
+        "img": "https://picsum.photos/seed/82/800/400"
     },
     {
-        "titulo": "Polícia Civil inicia ações de prevenção da campanha Agosto Lilás",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "13:39",
-        "url": "https://www.acordacidade.com.br/policia/policia-civil-inicia-acoes-de-prevencao-da-campanha-agosto-lilas/",
-        "img": "https://picsum.photos/seed/723/800/400"
-    },
-    {
-        "titulo": "El Niño deve ganhar força e aumentar risco de eventos extremos no Brasil",
+        "titulo": "Mulher grávida é agredida com fio elétrico no sudoeste da Bahia",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Folha do Estado",
-        "data": "13:39",
-        "url": "https://www.jornalfolhadoestado.com/brasil/el-nino-deve-ganhar-forca-e-aumentar-risco-de-eventos-extremos-no-brasil/",
-        "img": "https://picsum.photos/seed/136/800/400"
+        "data": "16:24",
+        "url": "https://www.jornalfolhadoestado.com/policia/mulher-gravida-e-agredida-com-fio-eletrico-no-sudoeste-da-bahia/",
+        "img": "https://picsum.photos/seed/265/800/400"
     },
     {
-        "titulo": "ANVISA divulga modelos de receituários eletrônicos e orientações para integração ao SNCR",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "13:39",
-        "url": "https://croba.org.br/anvisa-divulga-modelos-de-receituarios-eletronicos-e-orientacoes-para-integracao-ao-sncr/",
-        "img": "https://picsum.photos/seed/33/800/400"
-    },
-    {
-        "titulo": "São João ABO-BA: tradição, alegria e bons encontros.",
+        "titulo": "Conselho Federal de Odontologia proíbe uso de PMMA para fins estéticos",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "13:39",
-        "url": "https://abo-ba.org.br/sao-joao-abo-ba-tradicao-alegria-e-bons-encontros/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-30-at-11.35.37.jpeg"
+        "fonte": "CFO Federal",
+        "data": "16:23",
+        "url": "https://website.cfo.org.br/conselho-federal-de-odontologia-proibe-uso-de-pmma-para-fins-esteticos/",
+        "img": "https://picsum.photos/seed/982/800/400"
+    },
+    {
+        "titulo": "Em uma semana, operação na Bahia prende 53 suspeitos de estelionato",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "16:24",
+        "url": "https://www.acordacidade.com.br/policia/em-uma-semana-operacao-na-bahia-prende-53-suspeitos-de-estelionato/",
+        "img": "https://picsum.photos/seed/177/800/400"
+    },
+    {
+        "titulo": "CFO recebe representantes do Movimento Dentistas do SUS para discutir articulação em defesa de ",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "16:23",
+        "url": "https://website.cfo.org.br/cfo-recebe-representantes-do-movimento-dentistas-do-sus-para-discutir-articulacao-em-defesa-de-pautas-da-odontologia/",
+        "img": "https://picsum.photos/seed/669/800/400"
+    },
+    {
+        "titulo": "Três pessoas morrem e duas ficam feridas após grave acidente no Vale do Jiquiriçá",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "16:24",
+        "url": "https://www.acordacidade.com.br/bahia/tres-pessoas-morrem-e-duas-ficam-feridas-apos-grave-acidente-no-vale-do-jiquirica/",
+        "img": "https://picsum.photos/seed/808/800/400"
+    },
+    {
+        "titulo": "Defensoria Pública oferece reconhecimento de paternidade e exame de DNA gratuitos na Bahia",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "16:24",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/03/mutirao-gratuito-bahia.ghtml",
+        "img": "https://picsum.photos/seed/386/800/400"
     },
     {
         "titulo": "Mulher fica ferida após ser mordida ao reagir a tentativa de estupro enquanto tomava banho na B",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "G1 Feira",
-        "data": "13:39",
+        "data": "16:24",
         "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/03/mulher-e-mordida-ao-reagir-a-tentativa-de-estupro-enquanto-tomava-banho-na-bahia.ghtml",
-        "img": "https://picsum.photos/seed/864/800/400"
+        "img": "https://picsum.photos/seed/754/800/400"
+    },
+    {
+        "titulo": "CFO publica nova resolução e atualiza regras para habilitação em sedação em Odontologia",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "16:23",
+        "url": "https://website.cfo.org.br/cfo-publica-nova-resolucao-e-atualiza-regras-para-habilitacao-em-sedacao-em-odontologia/",
+        "img": "https://picsum.photos/seed/635/800/400"
+    },
+    {
+        "titulo": "Cerca de 100 kg de drogas são incinerados pela Polícia Civil da Bahia",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "16:24",
+        "url": "https://www.acordacidade.com.br/policia/cerca-de-100-kg-de-drogas-sao-incinerados-pela-policia-civil-da-bahia/",
+        "img": "https://picsum.photos/seed/791/800/400"
+    },
+    {
+        "titulo": "CFO reafirma defesa da formação presencial e convoca categoria a participar de Consulta Pública",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "16:23",
+        "url": "https://website.cfo.org.br/cfo-reafirma-defesa-da-formacao-presencial-e-convoca-categoria-a-participar-de-consulta-publica-sobre-o-ensino-ead/",
+        "img": "https://picsum.photos/seed/476/800/400"
+    },
+    {
+        "titulo": "Confira as vagas de emprego disponíveis em Feira de Santana e região nesta segunda-feira (3)",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "16:24",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/03/vagas-de-emprego-disponiveis-em-feira-de-santana-e-regiao.ghtml",
+        "img": "https://picsum.photos/seed/589/800/400"
+    },
+    {
+        "titulo": "Operação da Polícia Civil contra golpes prende mais de 50 pessoas na Bahia",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "16:24",
+        "url": "https://www.jornalfolhadoestado.com/policia/operacao-da-policia-civil-contra-golpes-prende-mais-de-50-pessoas-na-bahia/",
+        "img": "https://picsum.photos/seed/504/800/400"
+    },
+    {
+        "titulo": "Assista aos telejornais da TV Subaé",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "16:24",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
+        "img": "https://picsum.photos/seed/827/800/400"
     }
 ]
