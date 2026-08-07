@@ -1,55 +1,289 @@
 [
     {
-        "titulo": "Veja quem são os candidatos a vice-governador da Bahia em 2026",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "02:42",
-        "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/08/06/veja-quem-sao-os-candidatos-a-vice-governador-da-bahia-em-2026.ghtml",
-        "img": "https://picsum.photos/seed/350/800/400"
-    },
-    {
-        "titulo": "Conselho Federal de Odontologia proíbe uso de PMMA para fins estéticos",
+        "titulo": "CFO publica nova resolução e atualiza regras para habilitação em sedação em Odontologia",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "02:41",
-        "url": "https://website.cfo.org.br/conselho-federal-de-odontologia-proibe-uso-de-pmma-para-fins-esteticos/",
-        "img": "https://picsum.photos/seed/237/800/400"
+        "data": "04:52",
+        "url": "https://website.cfo.org.br/cfo-publica-nova-resolucao-e-atualiza-regras-para-habilitacao-em-sedacao-em-odontologia/",
+        "img": "https://picsum.photos/seed/942/800/400"
+    },
+    {
+        "titulo": "Árvores centenárias da antiga Praça do &#8220;Lambe-lambe&#8221; são utilizadas como sanitários",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "04:53",
+        "url": "https://www.acordacidade.com.br/feira-de-santana/arvores-centenarias-da-antiga-praca-do-lambe-lambe-sao-utilizadas-como-sanitarios-publicos/",
+        "img": "https://picsum.photos/seed/640/800/400"
+    },
+    {
+        "titulo": "VÍDEO: Vereadores trocam socos e empurrões durante sessão da Câmara no interior da Bahia",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "04:53",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/06/confusao-vereadores-camara-bahia.ghtml",
+        "img": "https://picsum.photos/seed/93/800/400"
+    },
+    {
+        "titulo": "Veja quem são os candidatos a governador da Bahia em 2026",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "04:53",
+        "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/08/06/veja-quem-sao-os-candidatos-a-governador-da-bahia-em-2026.ghtml",
+        "img": "https://picsum.photos/seed/813/800/400"
+    },
+    {
+        "titulo": "Veja quem são os candidatos a senador pela Bahia em 2026",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "04:53",
+        "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/08/06/veja-quem-sao-os-candidatos-a-senador-pela-bahia-em-2026.ghtml",
+        "img": "https://picsum.photos/seed/19/800/400"
+    },
+    {
+        "titulo": "Feirenses reforçam comissão técnica do Vila Nova na elite do futebol de cegos",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "04:53",
+        "url": "https://www.jornalfolhadoestado.com/esportes/feirenses-reforcam-comissao-tecnica-do-vila-nova-na-elite-do-futebol-de-cegos/",
+        "img": "https://picsum.photos/seed/134/800/400"
     },
     {
         "titulo": "Operação integrada fiscaliza clínicas odontológicas em Salvador e reforça compromisso com a seg",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "ODONTOLOGIA",
         "fonte": "CRO-BA",
-        "data": "02:41",
+        "data": "04:52",
         "url": "https://croba.org.br/operacao-integrada-fiscaliza-clinicas-odontologicas-em-salvador-e-reforca-compromisso-com-a-seguranca-da-populacao/",
-        "img": "https://picsum.photos/seed/982/800/400"
+        "img": "https://picsum.photos/seed/248/800/400"
+    },
+    {
+        "titulo": "Café &#038; Prosa promove reflexão sobre autocuidado na ABO-BA",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "04:52",
+        "url": "https://abo-ba.org.br/cafe-prosa-promove-reflexao-sobre-autocuidado-na-abo-ba/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/1.png"
+    },
+    {
+        "titulo": "Resolução CFO nº 295/2026 –  CFO RECONHECE EXPERIÊNCIA PROFISSIONAL PARA REGISTRO EM SEDAÇÃO",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "04:52",
+        "url": "https://croba.org.br/resolucao-cfo-no-295-2026-cfo-reconhece-experiencia-profissional-para-registro-em-sedacao/",
+        "img": "https://picsum.photos/seed/528/800/400"
     },
     {
         "titulo": "CFO repudia informações falsas divulgadas pelo CFM sobre a Resolução CFO nº 295/2026",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "02:41",
+        "data": "04:52",
         "url": "https://website.cfo.org.br/cfo-repudia-informacoes-falsas-divulgadas-pelo-cfm-sobre-a-resolucao-cfo-no-295-2026/",
-        "img": "https://picsum.photos/seed/637/800/400"
+        "img": "https://picsum.photos/seed/241/800/400"
     },
     {
-        "titulo": "Assista aos telejornais da TV Subaé",
+        "titulo": "Mega-Sena acumula mais uma vez e prêmio vai a R$ 165 milhões",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "04:53",
+        "url": "https://www.acordacidade.com.br/brasil/mega-sena-acumula-mais-uma-vez-e-premio-vai-a-r-165-milhoes/",
+        "img": "https://picsum.photos/seed/917/800/400"
+    },
+    {
+        "titulo": "ABO Bahia sedia Jornada Estadual sobre Hanseníase: “Conhecer e Cuidar, de Janeiro a Janeiro”",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "04:53",
+        "url": "https://abo-ba.org.br/abo-bahia-sedia-jornada-estadual-sobre-hanseniase-conhecer-e-cuidar-de-janeiro-a-janeiro/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/capas-abo-.png"
+    },
+    {
+        "titulo": "Vitória busca virada histórica contra o Athletico para seguir vivo na Copa do Brasil",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "04:53",
+        "url": "https://www.jornalfolhadoestado.com/esportes/vitoria-busca-virada-historica-contra-o-athletico-para-seguir-vivo-na-copa-do-brasil/",
+        "img": "https://picsum.photos/seed/837/800/400"
+    },
+    {
+        "titulo": "ABO se torna  signatária do Manifesto ESG/ODS por Ambientes Sustentáveis, Saudáveis, Inteligent",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "04:52",
+        "url": "https://abo-ba.org.br/abo-se-torna-signataria-do-manifesto-esg-ods-por-ambientes-sustentaveis-saudaveis-inteligentes-e-felizes/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-23-at-09.02.46.jpeg"
+    },
+    {
+        "titulo": "Vitória goleia o Athletico, faz noite histórica no Barradão e avança às quartas da Copa do Bras",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "04:53",
+        "url": "https://www.jornalfolhadoestado.com/esportes/vitoria-goleia-o-athletico-faz-noite-historica-no-barradao-e-avanca-as-quartas-da-copa-do-brasil/",
+        "img": "https://picsum.photos/seed/223/800/400"
+    },
+    {
+        "titulo": "CFO solicita ao MEC a suspensão da abertura de novos cursos e do aumento de vagas em Odontologi",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "04:52",
+        "url": "https://website.cfo.org.br/cfo-solicita-ao-mec-a-suspensao-da-abertura-de-novos-cursos-e-do-aumento-de-vagas-em-odontologia/",
+        "img": "https://picsum.photos/seed/418/800/400"
+    },
+    {
+        "titulo": "Livro em homenagem aos 50 anos da Academia Feirense de Letras será lançado no Flifs 2026",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "04:53",
+        "url": "https://www.acordacidade.com.br/cultura/livro-em-homenagem-aos-50-anos-da-academia-feirense-de-letras-sera-lancado-no-flifs-2026/",
+        "img": "https://picsum.photos/seed/500/800/400"
+    },
+    {
+        "titulo": "CRO-BA e Dentistas do SUS na linha de frente pelo PL 1.365/22",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "04:52",
+        "url": "https://croba.org.br/cro-ba-e-dentistas-do-sus-na-linha-de-frent-pelo-pl-1-365-22/",
+        "img": "https://picsum.photos/seed/108/800/400"
+    },
+    {
+        "titulo": "Justiça Federal confirma validade da Decisão CFO-SEC nº 30/2026 e mantém resultado das eleições",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "04:52",
+        "url": "https://website.cfo.org.br/justica-federal-confirma-validade-da-decisao-cfo-sec-no-30-2026-e-mantem-resultado-das-eleicoes-do-cro-rs/",
+        "img": "https://picsum.photos/seed/462/800/400"
+    },
+    {
+        "titulo": "Com foco no câncer infantil, 3ª Colorrida 2026 é lançada para arrecadar fundos para nova sede d",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "04:53",
+        "url": "https://www.acordacidade.com.br/feira-de-santana/com-foco-no-cancer-infantil-3a-colorrida-2026-e-lancada-para-arrecadar-fundos-para-nova-sede-da-aapc/",
+        "img": "https://picsum.photos/seed/880/800/400"
+    },
+    {
+        "titulo": "Veja quem são os candidatos a vice-governador da Bahia em 2026",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "G1 Feira",
-        "data": "02:42",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
-        "img": "https://picsum.photos/seed/698/800/400"
+        "data": "04:53",
+        "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/08/06/veja-quem-sao-os-candidatos-a-vice-governador-da-bahia-em-2026.ghtml",
+        "img": "https://picsum.photos/seed/317/800/400"
+    },
+    {
+        "titulo": "MP pede afastamento imediato de Mire da presidência da Câmara de Lamarão",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "04:53",
+        "url": "https://www.jornalfolhadoestado.com/politica/mp-pede-afastamento-imediato-de-mire-da-presidencia-da-camara-de-lamarao/",
+        "img": "https://picsum.photos/seed/319/800/400"
+    },
+    {
+        "titulo": "A nova era da harmonização orofacial começa com conhecimento de verdade e você pode fazer parte",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "04:53",
+        "url": "https://abo-ba.org.br/a-nova-era-da-harmonizacao-orofacial-comeca-com-conhecimento-de-verdade-e-voce-pode-fazer-parte/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/Black-and-Gold-Illustrated-Webinar-Event-Instagram-Post-1920-x-1080-px.png"
+    },
+    {
+        "titulo": "Aumento de casos de HIV reforça a importância de métodos de prevenção disponíveis no SUS",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "04:53",
+        "url": "https://www.acordacidade.com.br/saude/aumento-de-casos-de-hiv-reforca-a-importancia-de-metodos-de-prevencao-disponiveis-no-sus/",
+        "img": "https://picsum.photos/seed/993/800/400"
+    },
+    {
+        "titulo": "Homem filmado se masturbando em academia de condomínio é transferido para Conjunto Penal na Bah",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "04:53",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/06/preso-importunacao-sexual-transferido-bahia.ghtml",
+        "img": "https://picsum.photos/seed/620/800/400"
+    },
+    {
+        "titulo": "Conselho Federal de Odontologia proíbe uso de PMMA para fins estéticos",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "04:52",
+        "url": "https://website.cfo.org.br/conselho-federal-de-odontologia-proibe-uso-de-pmma-para-fins-esteticos/",
+        "img": "https://picsum.photos/seed/840/800/400"
+    },
+    {
+        "titulo": "72%  DOS CIRURGIÕES-DENTISTAS DO BRASIL SÃO MULHERES",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "04:52",
+        "url": "https://croba.org.br/72-dos-cirurgioes-dentistas-do-brasil-sao-mulheres/",
+        "img": "https://picsum.photos/seed/763/800/400"
+    },
+    {
+        "titulo": "Resolução CFO nº 297/2026 – CFO proíbe o uso de PMMA para fins estéticos",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "04:52",
+        "url": "https://croba.org.br/resolucao-cfo-no-297-2026-cfo-proibe-o-uso-de-pmma-para-fins-esteticos/",
+        "img": "https://picsum.photos/seed/877/800/400"
+    },
+    {
+        "titulo": "São João da ABO-BA celebra tradição, alegria e união da classe odontológica",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "04:52",
+        "url": "https://abo-ba.org.br/sao-joao-da-abo-ba-celebra-tradicao-alegria-e-uniao-da-classe-odontologica/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/2.png"
+    },
+    {
+        "titulo": "Vereadores cobram cumprimento de leis aprovadas pela Câmara em Feira",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "04:53",
+        "url": "https://www.jornalfolhadoestado.com/politica/vereadores-cobram-cumprimento-de-leis-aprovadas-pela-camara-em-feira/",
+        "img": "https://picsum.photos/seed/97/800/400"
+    },
+    {
+        "titulo": "CFO reafirma defesa da formação presencial e convoca categoria a participar de Consulta Pública",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "04:52",
+        "url": "https://website.cfo.org.br/cfo-reafirma-defesa-da-formacao-presencial-e-convoca-categoria-a-participar-de-consulta-publica-sobre-o-ensino-ead/",
+        "img": "https://picsum.photos/seed/308/800/400"
     },
     {
         "titulo": "São João ABO-BA: tradição, alegria e bons encontros.",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "ABO-BA",
-        "data": "02:42",
+        "data": "04:52",
         "url": "https://abo-ba.org.br/sao-joao-abo-ba-tradicao-alegria-e-bons-encontros/",
         "img": "https://abo-ba.org.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-30-at-11.35.37.jpeg"
     },
@@ -58,269 +292,35 @@
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Acorda Cidade",
-        "data": "02:42",
+        "data": "04:53",
         "url": "https://www.acordacidade.com.br/economia/governo-federal-define-nova-estimativa-para-o-salario-minimo-de-2027-veja-o-valor/",
-        "img": "https://picsum.photos/seed/351/800/400"
+        "img": "https://picsum.photos/seed/294/800/400"
     },
     {
-        "titulo": "Vitória busca virada histórica contra o Athletico para seguir vivo na Copa do Brasil",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "02:42",
-        "url": "https://www.jornalfolhadoestado.com/esportes/vitoria-busca-virada-historica-contra-o-athletico-para-seguir-vivo-na-copa-do-brasil/",
-        "img": "https://picsum.photos/seed/934/800/400"
-    },
-    {
-        "titulo": "Veja quem são os candidatos a senador pela Bahia em 2026",
+        "titulo": "Assista aos telejornais da TV Subaé",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "G1 Feira",
-        "data": "02:42",
-        "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/08/06/veja-quem-sao-os-candidatos-a-senador-pela-bahia-em-2026.ghtml",
-        "img": "https://picsum.photos/seed/950/800/400"
-    },
-    {
-        "titulo": "Feirenses reforçam comissão técnica do Vila Nova na elite do futebol de cegos",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "02:42",
-        "url": "https://www.jornalfolhadoestado.com/esportes/feirenses-reforcam-comissao-tecnica-do-vila-nova-na-elite-do-futebol-de-cegos/",
-        "img": "https://picsum.photos/seed/1/800/400"
-    },
-    {
-        "titulo": "Mega-Sena acumula mais uma vez e prêmio vai a R$ 165 milhões",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "02:42",
-        "url": "https://www.acordacidade.com.br/brasil/mega-sena-acumula-mais-uma-vez-e-premio-vai-a-r-165-milhoes/",
-        "img": "https://picsum.photos/seed/398/800/400"
-    },
-    {
-        "titulo": "Com foco no câncer infantil, 3ª Colorrida 2026 é lançada para arrecadar fundos para nova sede d",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "02:42",
-        "url": "https://www.acordacidade.com.br/feira-de-santana/com-foco-no-cancer-infantil-3a-colorrida-2026-e-lancada-para-arrecadar-fundos-para-nova-sede-da-aapc/",
-        "img": "https://picsum.photos/seed/818/800/400"
-    },
-    {
-        "titulo": "Justiça Federal confirma validade da Decisão CFO-SEC nº 30/2026 e mantém resultado das eleições",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "02:41",
-        "url": "https://website.cfo.org.br/justica-federal-confirma-validade-da-decisao-cfo-sec-no-30-2026-e-mantem-resultado-das-eleicoes-do-cro-rs/",
-        "img": "https://picsum.photos/seed/889/800/400"
+        "data": "04:53",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
+        "img": "https://picsum.photos/seed/717/800/400"
     },
     {
         "titulo": "Dez municípios apoiados pelo Projeto de Educação Continuada da Bracell na Bahia avançam no IDEB",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Folha do Estado",
-        "data": "02:42",
+        "data": "04:53",
         "url": "https://www.jornalfolhadoestado.com/educacao/dez-municipios-apoiados-pelo-projeto-de-educacao-continuada-da-bracell-na-bahia-avancam-no-ideb-2025/",
-        "img": "https://picsum.photos/seed/774/800/400"
-    },
-    {
-        "titulo": "São João da ABO-BA celebra tradição, alegria e união da classe odontológica",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "02:42",
-        "url": "https://abo-ba.org.br/sao-joao-da-abo-ba-celebra-tradicao-alegria-e-uniao-da-classe-odontologica/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/2.png"
-    },
-    {
-        "titulo": "ABO Bahia sedia Jornada Estadual sobre Hanseníase: “Conhecer e Cuidar, de Janeiro a Janeiro”",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "02:42",
-        "url": "https://abo-ba.org.br/abo-bahia-sedia-jornada-estadual-sobre-hanseniase-conhecer-e-cuidar-de-janeiro-a-janeiro/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/capas-abo-.png"
-    },
-    {
-        "titulo": "CRO-BA e Dentistas do SUS na linha de frente pelo PL 1.365/22",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "02:41",
-        "url": "https://croba.org.br/cro-ba-e-dentistas-do-sus-na-linha-de-frent-pelo-pl-1-365-22/",
-        "img": "https://picsum.photos/seed/951/800/400"
-    },
-    {
-        "titulo": "Veja quem são os candidatos a governador da Bahia em 2026",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "02:42",
-        "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/08/06/veja-quem-sao-os-candidatos-a-governador-da-bahia-em-2026.ghtml",
-        "img": "https://picsum.photos/seed/525/800/400"
-    },
-    {
-        "titulo": "CFO publica nova resolução e atualiza regras para habilitação em sedação em Odontologia",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "02:41",
-        "url": "https://website.cfo.org.br/cfo-publica-nova-resolucao-e-atualiza-regras-para-habilitacao-em-sedacao-em-odontologia/",
-        "img": "https://picsum.photos/seed/274/800/400"
-    },
-    {
-        "titulo": "Vereadores cobram cumprimento de leis aprovadas pela Câmara em Feira",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "02:42",
-        "url": "https://www.jornalfolhadoestado.com/politica/vereadores-cobram-cumprimento-de-leis-aprovadas-pela-camara-em-feira/",
-        "img": "https://picsum.photos/seed/68/800/400"
-    },
-    {
-        "titulo": "MP pede afastamento imediato de Mire da presidência da Câmara de Lamarão",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "02:42",
-        "url": "https://www.jornalfolhadoestado.com/politica/mp-pede-afastamento-imediato-de-mire-da-presidencia-da-camara-de-lamarao/",
-        "img": "https://picsum.photos/seed/446/800/400"
-    },
-    {
-        "titulo": "Homem filmado se masturbando em academia de condomínio é transferido para Conjunto Penal na Bah",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "02:42",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/06/preso-importunacao-sexual-transferido-bahia.ghtml",
-        "img": "https://picsum.photos/seed/169/800/400"
-    },
-    {
-        "titulo": "Resolução CFO nº 297/2026 – CFO proíbe o uso de PMMA para fins estéticos",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "02:41",
-        "url": "https://croba.org.br/resolucao-cfo-no-297-2026-cfo-proibe-o-uso-de-pmma-para-fins-esteticos/",
-        "img": "https://picsum.photos/seed/832/800/400"
-    },
-    {
-        "titulo": "CFO solicita ao MEC a suspensão da abertura de novos cursos e do aumento de vagas em Odontologi",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "02:41",
-        "url": "https://website.cfo.org.br/cfo-solicita-ao-mec-a-suspensao-da-abertura-de-novos-cursos-e-do-aumento-de-vagas-em-odontologia/",
-        "img": "https://picsum.photos/seed/188/800/400"
-    },
-    {
-        "titulo": "Aumento de casos de HIV reforça a importância de métodos de prevenção disponíveis no SUS",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "02:42",
-        "url": "https://www.acordacidade.com.br/saude/aumento-de-casos-de-hiv-reforca-a-importancia-de-metodos-de-prevencao-disponiveis-no-sus/",
-        "img": "https://picsum.photos/seed/631/800/400"
-    },
-    {
-        "titulo": "ABO se torna  signatária do Manifesto ESG/ODS por Ambientes Sustentáveis, Saudáveis, Inteligent",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "02:42",
-        "url": "https://abo-ba.org.br/abo-se-torna-signataria-do-manifesto-esg-ods-por-ambientes-sustentaveis-saudaveis-inteligentes-e-felizes/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-23-at-09.02.46.jpeg"
-    },
-    {
-        "titulo": "CFO reafirma defesa da formação presencial e convoca categoria a participar de Consulta Pública",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "02:41",
-        "url": "https://website.cfo.org.br/cfo-reafirma-defesa-da-formacao-presencial-e-convoca-categoria-a-participar-de-consulta-publica-sobre-o-ensino-ead/",
-        "img": "https://picsum.photos/seed/479/800/400"
-    },
-    {
-        "titulo": "A nova era da harmonização orofacial começa com conhecimento de verdade e você pode fazer parte",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "02:42",
-        "url": "https://abo-ba.org.br/a-nova-era-da-harmonizacao-orofacial-comeca-com-conhecimento-de-verdade-e-voce-pode-fazer-parte/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/Black-and-Gold-Illustrated-Webinar-Event-Instagram-Post-1920-x-1080-px.png"
-    },
-    {
-        "titulo": "Árvores centenárias da antiga Praça do &#8220;Lambe-lambe&#8221; são utilizadas como sanitários",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "02:42",
-        "url": "https://www.acordacidade.com.br/feira-de-santana/arvores-centenarias-da-antiga-praca-do-lambe-lambe-sao-utilizadas-como-sanitarios-publicos/",
-        "img": "https://picsum.photos/seed/778/800/400"
-    },
-    {
-        "titulo": "Livro em homenagem aos 50 anos da Academia Feirense de Letras será lançado no Flifs 2026",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "02:42",
-        "url": "https://www.acordacidade.com.br/cultura/livro-em-homenagem-aos-50-anos-da-academia-feirense-de-letras-sera-lancado-no-flifs-2026/",
-        "img": "https://picsum.photos/seed/280/800/400"
-    },
-    {
-        "titulo": "72%  DOS CIRURGIÕES-DENTISTAS DO BRASIL SÃO MULHERES",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "02:41",
-        "url": "https://croba.org.br/72-dos-cirurgioes-dentistas-do-brasil-sao-mulheres/",
-        "img": "https://picsum.photos/seed/819/800/400"
-    },
-    {
-        "titulo": "Café &#038; Prosa promove reflexão sobre autocuidado na ABO-BA",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "02:42",
-        "url": "https://abo-ba.org.br/cafe-prosa-promove-reflexao-sobre-autocuidado-na-abo-ba/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/1.png"
+        "img": "https://picsum.photos/seed/489/800/400"
     },
     {
         "titulo": "Odontologia do Esporte é destaque em novo episódio do PodCROBA",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "ODONTOLOGIA",
         "fonte": "CRO-BA",
-        "data": "02:41",
+        "data": "04:52",
         "url": "https://croba.org.br/odontologia-do-esporte-e-destaque-em-novo-episodio-do-podcroba/",
-        "img": "https://picsum.photos/seed/334/800/400"
-    },
-    {
-        "titulo": "VÍDEO: Vereadores trocam socos e empurrões durante sessão da Câmara no interior da Bahia",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "02:42",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/06/confusao-vereadores-camara-bahia.ghtml",
-        "img": "https://picsum.photos/seed/348/800/400"
-    },
-    {
-        "titulo": "Resolução CFO nº 295/2026 –  CFO RECONHECE EXPERIÊNCIA PROFISSIONAL PARA REGISTRO EM SEDAÇÃO",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "02:41",
-        "url": "https://croba.org.br/resolucao-cfo-no-295-2026-cfo-reconhece-experiencia-profissional-para-registro-em-sedacao/",
-        "img": "https://picsum.photos/seed/379/800/400"
-    },
-    {
-        "titulo": "Vitória goleia o Athletico, faz noite histórica no Barradão e avança às quartas da Copa do Bras",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "02:42",
-        "url": "https://www.jornalfolhadoestado.com/esportes/vitoria-goleia-o-athletico-faz-noite-historica-no-barradao-e-avanca-as-quartas-da-copa-do-brasil/",
-        "img": "https://picsum.photos/seed/762/800/400"
+        "img": "https://picsum.photos/seed/479/800/400"
     }
 ]
