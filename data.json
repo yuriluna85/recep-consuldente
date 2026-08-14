@@ -1,326 +1,218 @@
 [
     {
-        "titulo": "Após falas de José Ronaldo sobre mortes na regulação, Sesab desafia prefeito a apresentar dados",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "06:12",
-        "url": "https://www.acordacidade.com.br/dilton-e-feito/apos-falas-de-jose-ronaldo-sobre-mortes-na-regulacao-sesab-desafia-prefeito-a-apresentar-dados/",
-        "img": "https://picsum.photos/seed/236/800/400"
-    },
-    {
-        "titulo": "Júri de acusados pela morte de estudante a caminho do trabalho é adiado na Bahia ",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "06:12",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/13/juri-e-adiado-na-bahia.ghtml",
-        "img": "https://picsum.photos/seed/380/800/400"
-    },
-    {
         "titulo": "CFO solicita ao MEC a suspensão da abertura de novos cursos e do aumento de vagas em Odontologi",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "06:12",
+        "data": "08:13",
         "url": "https://website.cfo.org.br/cfo-solicita-ao-mec-a-suspensao-da-abertura-de-novos-cursos-e-do-aumento-de-vagas-em-odontologia/",
-        "img": "https://picsum.photos/seed/785/800/400"
-    },
-    {
-        "titulo": "Assista aos telejornais da TV Subaé",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "06:12",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
-        "img": "https://picsum.photos/seed/896/800/400"
-    },
-    {
-        "titulo": "Conselho Federal de Odontologia proíbe uso de PMMA para fins estéticos",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "06:12",
-        "url": "https://website.cfo.org.br/conselho-federal-de-odontologia-proibe-uso-de-pmma-para-fins-esteticos/",
-        "img": "https://picsum.photos/seed/400/800/400"
-    },
-    {
-        "titulo": "Feirense prepara estreia no Baiano Sub-15 e Sub-17 diante da Catuense",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "06:12",
-        "url": "https://www.jornalfolhadoestado.com/esportes/feirense-prepara-estreia-no-baiano-sub-15-e-sub-17-diante-da-catuense/",
-        "img": "https://picsum.photos/seed/521/800/400"
-    },
-    {
-        "titulo": "Feira FC se manifesta após operação e declara confiança em embaixador investigado",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "06:12",
-        "url": "https://www.jornalfolhadoestado.com/esportes/feira-fc-se-manifesta-apos-operacao-e-declara-confianca-em-embaixador-investigado/",
-        "img": "https://picsum.photos/seed/300/800/400"
-    },
-    {
-        "titulo": "CFO publica nova resolução e atualiza regras para habilitação em sedação em Odontologia",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "06:12",
-        "url": "https://website.cfo.org.br/cfo-publica-nova-resolucao-e-atualiza-regras-para-habilitacao-em-sedacao-em-odontologia/",
-        "img": "https://picsum.photos/seed/76/800/400"
-    },
-    {
-        "titulo": "A nova era da harmonização orofacial começa com conhecimento de verdade e você pode fazer parte",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "06:12",
-        "url": "https://abo-ba.org.br/a-nova-era-da-harmonizacao-orofacial-comeca-com-conhecimento-de-verdade-e-voce-pode-fazer-parte/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/Black-and-Gold-Illustrated-Webinar-Event-Instagram-Post-1920-x-1080-px.png"
-    },
-    {
-        "titulo": "Marleide cobra cumprimento de acordo na educação",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "06:12",
-        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/marleide-cobra-cumprimento-de-acordo-na-educacao/",
-        "img": "https://picsum.photos/seed/169/800/400"
-    },
-    {
-        "titulo": "Contas de 2025 do CRO-BA são aprovadas sem ressalvas pelo CFO",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "06:12",
-        "url": "https://croba.org.br/contas-de-2025-do-cro-ba-sao-aprovadas-sem-ressalvas-pelo-cfo/",
-        "img": "https://picsum.photos/seed/417/800/400"
-    },
-    {
-        "titulo": "Cidades do interior da Bahia podem registrar nível máximo de radiação UV no fim de semana; veja",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "06:12",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/13/nivel-alto-radiacao-uv-bahia.ghtml",
-        "img": "https://picsum.photos/seed/853/800/400"
-    },
-    {
-        "titulo": "CFO repudia informações falsas divulgadas pelo CFM sobre a Resolução CFO nº 295/2026",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "06:12",
-        "url": "https://website.cfo.org.br/cfo-repudia-informacoes-falsas-divulgadas-pelo-cfm-sobre-a-resolucao-cfo-no-295-2026/",
-        "img": "https://picsum.photos/seed/795/800/400"
-    },
-    {
-        "titulo": "PL que atualiza piso salarial de médicos e cirurgiões-dentistas avança no Senado Federal",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "06:12",
-        "url": "https://website.cfo.org.br/pl-que-atualiza-piso-salarial-de-medicos-e-cirurgioes-dentistas-avanca-no-senado-federal/",
-        "img": "https://picsum.photos/seed/928/800/400"
-    },
-    {
-        "titulo": "Nota de Pesar – Dra. Winnie Adrielle",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "06:12",
-        "url": "https://croba.org.br/nota-de-pesar-dra-winnie-adrielle/",
-        "img": "https://picsum.photos/seed/966/800/400"
-    },
-    {
-        "titulo": "Idoso de 64 anos é linchado em Feira de Santana após jovem denunciar importunação sexual",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "06:12",
-        "url": "https://www.acordacidade.com.br/policia/idoso-de-64-anos-e-linchado-em-feira-de-santana-apos-jovem-denunciar-importunacao-sexual/",
-        "img": "https://picsum.photos/seed/125/800/400"
-    },
-    {
-        "titulo": "Polícia Militar apreende drogas e conduz suspeitos à delegacia após operações no bairro Queimad",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "06:12",
-        "url": "https://www.acordacidade.com.br/policia/policia-militar-apreende-drogas-e-conduz-suspeitos-a-delegacia-apos-operacoes-no-bairro-queimadinha/",
-        "img": "https://picsum.photos/seed/571/800/400"
-    },
-    {
-        "titulo": "Resolução CFO nº 295/2026 –  CFO RECONHECE EXPERIÊNCIA PROFISSIONAL PARA REGISTRO EM SEDAÇÃO",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "06:12",
-        "url": "https://croba.org.br/resolucao-cfo-no-295-2026-cfo-reconhece-experiencia-profissional-para-registro-em-sedacao/",
-        "img": "https://picsum.photos/seed/454/800/400"
-    },
-    {
-        "titulo": "Chikungunya cresce na Bahia em 2026 e casos aumentam mais de 280% em relação ao mesmo período d",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "06:12",
-        "url": "https://g1.globo.com/ba/bahia/noticia/2026/08/13/casos-chikungunya-bahia.ghtml",
-        "img": "https://picsum.photos/seed/673/800/400"
-    },
-    {
-        "titulo": "HGCA já registrou 433 casos de picadas por escorpiões e serpentes em 2026",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "06:12",
-        "url": "https://www.acordacidade.com.br/saude/hgca-ja-registrou-433-casos-de-picadas-por-escorpioes-e-serpentes-em-2026/",
-        "img": "https://picsum.photos/seed/305/800/400"
-    },
-    {
-        "titulo": "Investidor do Feira Futebol Clube é alvo de operação contra esquema de apostas online, golpes e",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "06:12",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/13/operacao-aposta-suja-e-deflagrada.ghtml",
-        "img": "https://picsum.photos/seed/690/800/400"
-    },
-    {
-        "titulo": "Flávio Bolsonaro volta a ser filiado ao PL; TSE cancelou vínculo com o Missão",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "06:12",
-        "url": "https://www.jornalfolhadoestado.com/politica/flavio-bolsonaro-volta-a-ser-filiado-ao-pl-tse-cancelou-vinculo-com-o-missao/",
-        "img": "https://picsum.photos/seed/506/800/400"
-    },
-    {
-        "titulo": "São João da ABO-BA celebra tradição, alegria e união da classe odontológica",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "06:12",
-        "url": "https://abo-ba.org.br/sao-joao-da-abo-ba-celebra-tradicao-alegria-e-uniao-da-classe-odontologica/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/2.png"
-    },
-    {
-        "titulo": "Adolescente é apreendida por suspeita de participação em tentativa de homicídio no centro de Fe",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "06:12",
-        "url": "https://www.acordacidade.com.br/policia/adolescente-e-apreendida-por-suspeita-de-participacao-em-tentativa-de-homicidio-no-centro-de-feira-de-santana/",
-        "img": "https://picsum.photos/seed/320/800/400"
-    },
-    {
-        "titulo": "Empresas têm até setembro para negociarem pendências tributárias com a Receita Federal",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "06:12",
-        "url": "https://www.jornalfolhadoestado.com/municipios/empresas-tem-ate-setembro-para-negociarem-pendencias-tributarias-com-a-receita-federal/",
-        "img": "https://picsum.photos/seed/655/800/400"
+        "img": "https://picsum.photos/seed/920/800/400"
     },
     {
         "titulo": "Confira os números sorteados na Mega-Sena nesta quinta (13); prêmio acumulou para R$ 38 milhões",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Acorda Cidade",
-        "data": "06:12",
+        "data": "08:14",
         "url": "https://www.acordacidade.com.br/brasil/confira-os-numeros-sorteados-na-mega-sena-nesta-quinta-13-premio-acumulou-para-r-38-milhoes/",
-        "img": "https://picsum.photos/seed/220/800/400"
+        "img": "https://picsum.photos/seed/409/800/400"
     },
     {
-        "titulo": "Festival Literário e Cultural de Feira de Santana 2026 começa em agosto; confira programação ",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "06:12",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/13/programacao-do-festival-literario-e-cultural-de-feira-de-santana-2026.ghtml",
-        "img": "https://picsum.photos/seed/652/800/400"
-    },
-    {
-        "titulo": "Odontologia do Esporte é destaque em novo episódio do PodCROBA",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "06:12",
-        "url": "https://croba.org.br/odontologia-do-esporte-e-destaque-em-novo-episodio-do-podcroba/",
-        "img": "https://picsum.photos/seed/595/800/400"
-    },
-    {
-        "titulo": "ABO Bahia sedia Jornada Estadual sobre Hanseníase: “Conhecer e Cuidar, de Janeiro a Janeiro”",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "06:12",
-        "url": "https://abo-ba.org.br/abo-bahia-sedia-jornada-estadual-sobre-hanseniase-conhecer-e-cuidar-de-janeiro-a-janeiro/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/capas-abo-.png"
-    },
-    {
-        "titulo": "Pablo Roberto critica paralisação e destaca avanços na educação",
+        "titulo": "UPB comemora 62 anos e presta homenagem a personalidades baianas",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Folha do Estado",
-        "data": "06:12",
-        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/pablo-roberto-critica-paralisacao-e-destaca-avancos-na-educacao/",
-        "img": "https://picsum.photos/seed/869/800/400"
-    },
-    {
-        "titulo": "ABO se torna  signatária do Manifesto ESG/ODS por Ambientes Sustentáveis, Saudáveis, Inteligent",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "06:12",
-        "url": "https://abo-ba.org.br/abo-se-torna-signataria-do-manifesto-esg-ods-por-ambientes-sustentaveis-saudaveis-inteligentes-e-felizes/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-23-at-09.02.46.jpeg"
-    },
-    {
-        "titulo": "Café &#038; Prosa promove reflexão sobre autocuidado na ABO-BA",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "06:12",
-        "url": "https://abo-ba.org.br/cafe-prosa-promove-reflexao-sobre-autocuidado-na-abo-ba/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/1.png"
-    },
-    {
-        "titulo": "72%  DOS CIRURGIÕES-DENTISTAS DO BRASIL SÃO MULHERES",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "06:12",
-        "url": "https://croba.org.br/72-dos-cirurgioes-dentistas-do-brasil-sao-mulheres/",
-        "img": "https://picsum.photos/seed/185/800/400"
-    },
-    {
-        "titulo": "PL do piso salarial avança na CAE do Senado",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "06:12",
-        "url": "https://croba.org.br/pl-do-piso-salarial-avanca-na-cae-do-senado/",
-        "img": "https://picsum.photos/seed/836/800/400"
-    },
-    {
-        "titulo": "São João ABO-BA: tradição, alegria e bons encontros.",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "06:12",
-        "url": "https://abo-ba.org.br/sao-joao-abo-ba-tradicao-alegria-e-bons-encontros/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-30-at-11.35.37.jpeg"
+        "data": "08:14",
+        "url": "https://www.jornalfolhadoestado.com/municipios/upb-comemora-62-anos-e-presta-homenagem-a-personalidades-baianas/",
+        "img": "https://picsum.photos/seed/464/800/400"
     },
     {
         "titulo": "Justiça Federal confirma validade da Decisão CFO-SEC nº 30/2026 e mantém resultado das eleições",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "06:12",
+        "data": "08:13",
         "url": "https://website.cfo.org.br/justica-federal-confirma-validade-da-decisao-cfo-sec-no-30-2026-e-mantem-resultado-das-eleicoes-do-cro-rs/",
-        "img": "https://picsum.photos/seed/535/800/400"
+        "img": "https://picsum.photos/seed/35/800/400"
+    },
+    {
+        "titulo": "Ponto e Vírgula  14/08",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "08:14",
+        "url": "https://www.jornalfolhadoestado.com/blogs/ponto-e-virgula/ponto-e-virgula-14-08/",
+        "img": "https://picsum.photos/seed/636/800/400"
+    },
+    {
+        "titulo": "Investidor do Feira Futebol Clube é alvo de operação contra esquema de apostas online, golpes e",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "08:14",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/13/operacao-aposta-suja-e-deflagrada.ghtml",
+        "img": "https://picsum.photos/seed/331/800/400"
+    },
+    {
+        "titulo": "Após falas de José Ronaldo sobre mortes na regulação, Sesab desafia prefeito a apresentar dados",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "08:14",
+        "url": "https://www.acordacidade.com.br/dilton-e-feito/apos-falas-de-jose-ronaldo-sobre-mortes-na-regulacao-sesab-desafia-prefeito-a-apresentar-dados/",
+        "img": "https://picsum.photos/seed/282/800/400"
+    },
+    {
+        "titulo": "CFO repudia informações falsas divulgadas pelo CFM sobre a Resolução CFO nº 295/2026",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "08:13",
+        "url": "https://website.cfo.org.br/cfo-repudia-informacoes-falsas-divulgadas-pelo-cfm-sobre-a-resolucao-cfo-no-295-2026/",
+        "img": "https://picsum.photos/seed/126/800/400"
+    },
+    {
+        "titulo": "CFO publica nova resolução e atualiza regras para habilitação em sedação em Odontologia",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "08:13",
+        "url": "https://website.cfo.org.br/cfo-publica-nova-resolucao-e-atualiza-regras-para-habilitacao-em-sedacao-em-odontologia/",
+        "img": "https://picsum.photos/seed/267/800/400"
+    },
+    {
+        "titulo": "Chikungunya cresce na Bahia em 2026 e casos aumentam mais de 280% em relação ao mesmo período d",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "08:14",
+        "url": "https://g1.globo.com/ba/bahia/noticia/2026/08/13/casos-chikungunya-bahia.ghtml",
+        "img": "https://picsum.photos/seed/580/800/400"
+    },
+    {
+        "titulo": "Idoso de 64 anos é linchado em Feira de Santana após jovem denunciar importunação sexual",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "08:14",
+        "url": "https://www.acordacidade.com.br/policia/idoso-de-64-anos-e-linchado-em-feira-de-santana-apos-jovem-denunciar-importunacao-sexual/",
+        "img": "https://picsum.photos/seed/730/800/400"
+    },
+    {
+        "titulo": "Plano de governo de Flávio Bolsonaro propõe corte de pelo menos 10 ministérios",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "08:14",
+        "url": "https://www.jornalfolhadoestado.com/brasil/plano-de-governo-de-flavio-bolsonaro-propoe-corte-de-pelo-menos-10-ministerios/",
+        "img": "https://picsum.photos/seed/364/800/400"
+    },
+    {
+        "titulo": "PL que atualiza piso salarial de médicos e cirurgiões-dentistas avança no Senado Federal",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "08:13",
+        "url": "https://website.cfo.org.br/pl-que-atualiza-piso-salarial-de-medicos-e-cirurgioes-dentistas-avanca-no-senado-federal/",
+        "img": "https://picsum.photos/seed/603/800/400"
+    },
+    {
+        "titulo": "Cantor baiano Arpe lança videoclipe de &#8220;Encaixe&#8221; gravado em Salvador, após show his",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "08:14",
+        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/cantor-baiano-arpe-lanca-videoclipe-de-encaixe-gravado-em-salvador-apos-show-historico-no-rio-de-janeiro/",
+        "img": "https://picsum.photos/seed/200/800/400"
+    },
+    {
+        "titulo": "Polícia Militar apreende drogas e conduz suspeitos à delegacia após operações no bairro Queimad",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "08:14",
+        "url": "https://www.acordacidade.com.br/policia/policia-militar-apreende-drogas-e-conduz-suspeitos-a-delegacia-apos-operacoes-no-bairro-queimadinha/",
+        "img": "https://picsum.photos/seed/88/800/400"
+    },
+    {
+        "titulo": "Feira de Santana está entre os municípios da Bahia com mais registros de picadas de cobra",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "08:14",
+        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/feira-de-santana-esta-entre-os-municipios-da-bahia-com-mais-registros-de-picadas-de-cobra/",
+        "img": "https://picsum.photos/seed/590/800/400"
+    },
+    {
+        "titulo": "Júri de acusados pela morte de estudante a caminho do trabalho é adiado na Bahia ",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "08:14",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/13/juri-e-adiado-na-bahia.ghtml",
+        "img": "https://picsum.photos/seed/959/800/400"
+    },
+    {
+        "titulo": "Festival Literário e Cultural de Feira de Santana 2026 começa em agosto; confira programação ",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "08:14",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/13/programacao-do-festival-literario-e-cultural-de-feira-de-santana-2026.ghtml",
+        "img": "https://picsum.photos/seed/817/800/400"
+    },
+    {
+        "titulo": "Conselho Federal de Odontologia proíbe uso de PMMA para fins estéticos",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "08:13",
+        "url": "https://website.cfo.org.br/conselho-federal-de-odontologia-proibe-uso-de-pmma-para-fins-esteticos/",
+        "img": "https://picsum.photos/seed/761/800/400"
+    },
+    {
+        "titulo": "Cidades do interior da Bahia podem registrar nível máximo de radiação UV no fim de semana; veja",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "08:14",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/13/nivel-alto-radiacao-uv-bahia.ghtml",
+        "img": "https://picsum.photos/seed/594/800/400"
+    },
+    {
+        "titulo": "HGCA já registrou 433 casos de picadas por escorpiões e serpentes em 2026",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "08:14",
+        "url": "https://www.acordacidade.com.br/saude/hgca-ja-registrou-433-casos-de-picadas-por-escorpioes-e-serpentes-em-2026/",
+        "img": "https://picsum.photos/seed/943/800/400"
+    },
+    {
+        "titulo": "Autoridades informam ao PL que dirigente do Missão filiou Flávio Bolsonaro",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "08:14",
+        "url": "https://www.jornalfolhadoestado.com/politica/autoridades-informam-ao-pl-que-dirigente-do-missao-filiou-flavio-bolsonaro/",
+        "img": "https://picsum.photos/seed/915/800/400"
+    },
+    {
+        "titulo": "Assista aos telejornais da TV Subaé",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "08:14",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
+        "img": "https://picsum.photos/seed/986/800/400"
+    },
+    {
+        "titulo": "Adolescente é apreendida por suspeita de participação em tentativa de homicídio no centro de Fe",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "08:14",
+        "url": "https://www.acordacidade.com.br/policia/adolescente-e-apreendida-por-suspeita-de-participacao-em-tentativa-de-homicidio-no-centro-de-feira-de-santana/",
+        "img": "https://picsum.photos/seed/757/800/400"
     }
 ]
