@@ -1,218 +1,326 @@
 [
     {
-        "titulo": "Feira de Santana domina, mas fica no empate com Santanópolis no Intermunicipal",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "02:58",
-        "url": "https://www.jornalfolhadoestado.com/esportes/feira-de-santana-domina-mas-fica-no-empate-com-santanopolis-no-intermunicipal/",
-        "img": "https://picsum.photos/seed/385/800/400"
+        "titulo": "72%  DOS CIRURGIÕES-DENTISTAS DO BRASIL SÃO MULHERES",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "03:53",
+        "url": "https://croba.org.br/72-dos-cirurgioes-dentistas-do-brasil-sao-mulheres/",
+        "img": "https://picsum.photos/seed/411/800/400"
     },
     {
         "titulo": "ACM Neto começa campanha eleitoral em cidades do interior da Bahia",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "G1 Feira",
-        "data": "02:58",
+        "data": "03:53",
         "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/08/16/acm-neto-comeca-campanha-eleitoral-na-bahia.ghtml",
-        "img": "https://picsum.photos/seed/994/800/400"
-    },
-    {
-        "titulo": "CFO publica nova resolução e atualiza regras para habilitação em sedação em Odontologia",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "02:57",
-        "url": "https://website.cfo.org.br/cfo-publica-nova-resolucao-e-atualiza-regras-para-habilitacao-em-sedacao-em-odontologia/",
-        "img": "https://picsum.photos/seed/980/800/400"
-    },
-    {
-        "titulo": "Festa da Boa Morte movimenta fiéis e une tradições religiosas no Recôncavo da Bahia; veja progr",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "02:58",
-        "url": "https://g1.globo.com/ba/bahia/noticia/2026/08/16/festa-da-boa-morte-movimenta-fieis-em-cachoeira.ghtml",
-        "img": "https://picsum.photos/seed/521/800/400"
-    },
-    {
-        "titulo": "Ronaldo Mansur inicia campanha eleitoral com panfletagem em bairro de Salvador",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "02:58",
-        "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/08/16/ronaldo-mansur-inicia-campanha-eleitoral-em-salvador.ghtml",
-        "img": "https://picsum.photos/seed/10/800/400"
-    },
-    {
-        "titulo": "Justiça Federal confirma validade da Decisão CFO-SEC nº 30/2026 e mantém resultado das eleições",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "02:57",
-        "url": "https://website.cfo.org.br/justica-federal-confirma-validade-da-decisao-cfo-sec-no-30-2026-e-mantem-resultado-das-eleicoes-do-cro-rs/",
-        "img": "https://picsum.photos/seed/198/800/400"
-    },
-    {
-        "titulo": "Homem de 34 anos morre após se engasgar com beiju no interior da Bahia",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "02:58",
-        "url": "https://www.acordacidade.com.br/bahia/homem-de-34-anos-morre-apos-se-engasgar-com-beiju-no-interior-da-bahia/",
-        "img": "https://picsum.photos/seed/675/800/400"
-    },
-    {
-        "titulo": "Santos atropela o Vasco pela 23ª rodada do Brasileirão",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "02:58",
-        "url": "https://www.acordacidade.com.br/esportes/futebol/santos-atropela-o-vasco-pela-23a-rodada-do-brasileirao/",
-        "img": "https://picsum.photos/seed/441/800/400"
-    },
-    {
-        "titulo": "Candidatos a governador da Bahia começam campanhas eleitorais no estado",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "02:58",
-        "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/08/16/candidatos-a-governador-da-bahia-comecam-campanhas-eleitorais.ghtml",
-        "img": "https://picsum.photos/seed/176/800/400"
-    },
-    {
-        "titulo": "Vitória vence Botafogo no Barradão e encerra período de seca no Brasileirão",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "02:58",
-        "url": "https://www.acordacidade.com.br/esportes/futebol/vitoria-vence-botafogo-no-barradao-e-encerra-periodo-de-seca-no-brasileirao/",
-        "img": "https://picsum.photos/seed/521/800/400"
-    },
-    {
-        "titulo": "Após revitalização do Tanque da Matinha, José Ronaldo anuncia novas obras no distrito",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "02:58",
-        "url": "https://www.acordacidade.com.br/feira-de-santana/apos-revitalizacao-do-tanque-da-matinha-jose-ronaldo-anuncia-novas-obras-no-distrito/",
-        "img": "https://picsum.photos/seed/403/800/400"
-    },
-    {
-        "titulo": "Aroldo Félix dá início à campanha eleitoral com ato em bairro de Salvador",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "02:58",
-        "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/08/16/aroldo-felix-da-inicio-a-campanha-eleitoral-em-salvador.ghtml",
-        "img": "https://picsum.photos/seed/675/800/400"
-    },
-    {
-        "titulo": "Datafolha: maioria rejeita eutanásia e suicídio assistido no Brasil",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "02:58",
-        "url": "https://www.jornalfolhadoestado.com/brasil/datafolha-maioria-rejeita-eutanasia-e-suicidio-assistido-no-brasil/",
-        "img": "https://picsum.photos/seed/957/800/400"
-    },
-    {
-        "titulo": "CFO solicita ao MEC a suspensão da abertura de novos cursos e do aumento de vagas em Odontologi",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "02:57",
-        "url": "https://website.cfo.org.br/cfo-solicita-ao-mec-a-suspensao-da-abertura-de-novos-cursos-e-do-aumento-de-vagas-em-odontologia/",
-        "img": "https://picsum.photos/seed/969/800/400"
-    },
-    {
-        "titulo": "Confira como foi a largada de Lula, Flávio e outros presidenciáveis no primeiro dia oficial de ",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "02:58",
-        "url": "https://www.acordacidade.com.br/politica/eleicoes/confira-como-foi-a-largada-de-lula-flavio-e-outros-presidenciaveis-no-primeiro-dia-oficial-de-campanha/",
-        "img": "https://picsum.photos/seed/153/800/400"
-    },
-    {
-        "titulo": "Jerônimo Rodrigues inicia campanha eleitoral com concentração no Bonfim, em Salvador ",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "02:58",
-        "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/08/16/jeronimo-rodrigues-inicia-campanha-eleitoral-em-salvador.ghtml",
-        "img": "https://picsum.photos/seed/792/800/400"
+        "img": "https://picsum.photos/seed/263/800/400"
     },
     {
         "titulo": "Distrito de Matinha celebra festa de São Roque em Feira de Santana",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Acorda Cidade",
-        "data": "02:58",
+        "data": "03:53",
         "url": "https://www.acordacidade.com.br/feira-de-santana/distrito-de-matinha-celebra-festa-de-sao-roque-em-feira-de-santana/",
-        "img": "https://picsum.photos/seed/403/800/400"
+        "img": "https://picsum.photos/seed/301/800/400"
     },
     {
-        "titulo": "CFO repudia informações falsas divulgadas pelo CFM sobre a Resolução CFO nº 295/2026",
+        "titulo": "Contas de 2025 do CRO-BA são aprovadas sem ressalvas pelo CFO",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "03:53",
+        "url": "https://croba.org.br/contas-de-2025-do-cro-ba-sao-aprovadas-sem-ressalvas-pelo-cfo/",
+        "img": "https://picsum.photos/seed/597/800/400"
+    },
+    {
+        "titulo": "Jerônimo Rodrigues inicia campanha eleitoral com concentração no Bonfim, em Salvador ",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "03:53",
+        "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/08/16/jeronimo-rodrigues-inicia-campanha-eleitoral-em-salvador.ghtml",
+        "img": "https://picsum.photos/seed/543/800/400"
+    },
+    {
+        "titulo": "Café &#038; Prosa promove reflexão sobre autocuidado na ABO-BA",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "03:53",
+        "url": "https://abo-ba.org.br/cafe-prosa-promove-reflexao-sobre-autocuidado-na-abo-ba/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/1.png"
+    },
+    {
+        "titulo": "CFO publica nova resolução e atualiza regras para habilitação em sedação em Odontologia",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "02:57",
-        "url": "https://website.cfo.org.br/cfo-repudia-informacoes-falsas-divulgadas-pelo-cfm-sobre-a-resolucao-cfo-no-295-2026/",
-        "img": "https://picsum.photos/seed/326/800/400"
+        "data": "03:53",
+        "url": "https://website.cfo.org.br/cfo-publica-nova-resolucao-e-atualiza-regras-para-habilitacao-em-sedacao-em-odontologia/",
+        "img": "https://picsum.photos/seed/161/800/400"
     },
     {
-        "titulo": "ABC vence Nacional-AM e garante acesso à Série C do Brasileirão",
+        "titulo": "Vitória vence Botafogo no Barradão e encerra período de seca no Brasileirão",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "02:58",
-        "url": "https://www.jornalfolhadoestado.com/esportes/abc-vence-nacional-am-e-garante-acesso-a-serie-c-do-brasileirao/",
-        "img": "https://picsum.photos/seed/506/800/400"
-    },
-    {
-        "titulo": "Vitória vence Botafogo no Barradão e respira no Brasileirão",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "02:58",
-        "url": "https://www.jornalfolhadoestado.com/esportes/vitoria-vence-botafogo-no-barradao-e-respira-no-brasileirao/",
-        "img": "https://picsum.photos/seed/662/800/400"
-    },
-    {
-        "titulo": "Luiz Cláudio lamenta empate na estreia de Feira de Santana no Intermunicipal",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "02:58",
-        "url": "https://www.jornalfolhadoestado.com/esportes/luis-claudio-lamenta-empate-na-estreia-de-feira-de-santana-no-intermunicipal/",
-        "img": "https://picsum.photos/seed/641/800/400"
+        "fonte": "Acorda Cidade",
+        "data": "03:53",
+        "url": "https://www.acordacidade.com.br/esportes/futebol/vitoria-vence-botafogo-no-barradao-e-encerra-periodo-de-seca-no-brasileirao/",
+        "img": "https://picsum.photos/seed/838/800/400"
     },
     {
         "titulo": "PL que atualiza piso salarial de médicos e cirurgiões-dentistas avança no Senado Federal",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "02:57",
+        "data": "03:53",
         "url": "https://website.cfo.org.br/pl-que-atualiza-piso-salarial-de-medicos-e-cirurgioes-dentistas-avanca-no-senado-federal/",
-        "img": "https://picsum.photos/seed/491/800/400"
+        "img": "https://picsum.photos/seed/769/800/400"
+    },
+    {
+        "titulo": "CFO solicita ao MEC a suspensão da abertura de novos cursos e do aumento de vagas em Odontologi",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "03:53",
+        "url": "https://website.cfo.org.br/cfo-solicita-ao-mec-a-suspensao-da-abertura-de-novos-cursos-e-do-aumento-de-vagas-em-odontologia/",
+        "img": "https://picsum.photos/seed/664/800/400"
+    },
+    {
+        "titulo": "Resolução CFO nº 295/2026 –  CFO RECONHECE EXPERIÊNCIA PROFISSIONAL PARA REGISTRO EM SEDAÇÃO",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "03:53",
+        "url": "https://croba.org.br/resolucao-cfo-no-295-2026-cfo-reconhece-experiencia-profissional-para-registro-em-sedacao/",
+        "img": "https://picsum.photos/seed/372/800/400"
+    },
+    {
+        "titulo": "Feira de Santana domina, mas fica no empate com Santanópolis no Intermunicipal",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "03:53",
+        "url": "https://www.jornalfolhadoestado.com/esportes/feira-de-santana-domina-mas-fica-no-empate-com-santanopolis-no-intermunicipal/",
+        "img": "https://picsum.photos/seed/391/800/400"
+    },
+    {
+        "titulo": "ABO se torna  signatária do Manifesto ESG/ODS por Ambientes Sustentáveis, Saudáveis, Inteligent",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "03:53",
+        "url": "https://abo-ba.org.br/abo-se-torna-signataria-do-manifesto-esg-ods-por-ambientes-sustentaveis-saudaveis-inteligentes-e-felizes/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-23-at-09.02.46.jpeg"
+    },
+    {
+        "titulo": "Homem de 34 anos morre após se engasgar com beiju no interior da Bahia",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "03:53",
+        "url": "https://www.acordacidade.com.br/bahia/homem-de-34-anos-morre-apos-se-engasgar-com-beiju-no-interior-da-bahia/",
+        "img": "https://picsum.photos/seed/158/800/400"
+    },
+    {
+        "titulo": "Aroldo Félix dá início à campanha eleitoral com ato em bairro de Salvador",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "03:53",
+        "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/08/16/aroldo-felix-da-inicio-a-campanha-eleitoral-em-salvador.ghtml",
+        "img": "https://picsum.photos/seed/125/800/400"
+    },
+    {
+        "titulo": "Odontologia do Esporte é destaque em novo episódio do PodCROBA",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "03:53",
+        "url": "https://croba.org.br/odontologia-do-esporte-e-destaque-em-novo-episodio-do-podcroba/",
+        "img": "https://picsum.photos/seed/766/800/400"
+    },
+    {
+        "titulo": "São João da ABO-BA celebra tradição, alegria e união da classe odontológica",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "03:53",
+        "url": "https://abo-ba.org.br/sao-joao-da-abo-ba-celebra-tradicao-alegria-e-uniao-da-classe-odontologica/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/2.png"
+    },
+    {
+        "titulo": "Nota de Pesar – Dra. Winnie Adrielle",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "03:53",
+        "url": "https://croba.org.br/nota-de-pesar-dra-winnie-adrielle/",
+        "img": "https://picsum.photos/seed/644/800/400"
+    },
+    {
+        "titulo": "ABO Bahia sedia Jornada Estadual sobre Hanseníase: “Conhecer e Cuidar, de Janeiro a Janeiro”",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "03:53",
+        "url": "https://abo-ba.org.br/abo-bahia-sedia-jornada-estadual-sobre-hanseniase-conhecer-e-cuidar-de-janeiro-a-janeiro/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/capas-abo-.png"
+    },
+    {
+        "titulo": "Após revitalização do Tanque da Matinha, José Ronaldo anuncia novas obras no distrito",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "03:53",
+        "url": "https://www.acordacidade.com.br/feira-de-santana/apos-revitalizacao-do-tanque-da-matinha-jose-ronaldo-anuncia-novas-obras-no-distrito/",
+        "img": "https://picsum.photos/seed/340/800/400"
+    },
+    {
+        "titulo": "CFO repudia informações falsas divulgadas pelo CFM sobre a Resolução CFO nº 295/2026",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "03:53",
+        "url": "https://website.cfo.org.br/cfo-repudia-informacoes-falsas-divulgadas-pelo-cfm-sobre-a-resolucao-cfo-no-295-2026/",
+        "img": "https://picsum.photos/seed/956/800/400"
+    },
+    {
+        "titulo": "Festa da Boa Morte movimenta fiéis e une tradições religiosas no Recôncavo da Bahia; veja progr",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "03:53",
+        "url": "https://g1.globo.com/ba/bahia/noticia/2026/08/16/festa-da-boa-morte-movimenta-fieis-em-cachoeira.ghtml",
+        "img": "https://picsum.photos/seed/752/800/400"
     },
     {
         "titulo": "Conselho Federal de Odontologia proíbe uso de PMMA para fins estéticos",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "02:57",
+        "data": "03:53",
         "url": "https://website.cfo.org.br/conselho-federal-de-odontologia-proibe-uso-de-pmma-para-fins-esteticos/",
-        "img": "https://picsum.photos/seed/835/800/400"
+        "img": "https://picsum.photos/seed/383/800/400"
+    },
+    {
+        "titulo": "Justiça Federal confirma validade da Decisão CFO-SEC nº 30/2026 e mantém resultado das eleições",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "03:53",
+        "url": "https://website.cfo.org.br/justica-federal-confirma-validade-da-decisao-cfo-sec-no-30-2026-e-mantem-resultado-das-eleicoes-do-cro-rs/",
+        "img": "https://picsum.photos/seed/137/800/400"
+    },
+    {
+        "titulo": "Luiz Cláudio lamenta empate na estreia de Feira de Santana no Intermunicipal",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "03:53",
+        "url": "https://www.jornalfolhadoestado.com/esportes/luis-claudio-lamenta-empate-na-estreia-de-feira-de-santana-no-intermunicipal/",
+        "img": "https://picsum.photos/seed/917/800/400"
+    },
+    {
+        "titulo": "Vitória vence Botafogo no Barradão e respira no Brasileirão",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "03:53",
+        "url": "https://www.jornalfolhadoestado.com/esportes/vitoria-vence-botafogo-no-barradao-e-respira-no-brasileirao/",
+        "img": "https://picsum.photos/seed/650/800/400"
+    },
+    {
+        "titulo": "ABC vence Nacional-AM e garante acesso à Série C do Brasileirão",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "03:53",
+        "url": "https://www.jornalfolhadoestado.com/esportes/abc-vence-nacional-am-e-garante-acesso-a-serie-c-do-brasileirao/",
+        "img": "https://picsum.photos/seed/542/800/400"
     },
     {
         "titulo": "Bahia empata com a Chapecoense e chega ao quinto empate consecutivo",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Folha do Estado",
-        "data": "02:58",
+        "data": "03:53",
         "url": "https://www.jornalfolhadoestado.com/esportes/bahia-empata-com-a-chapecoense-e-chega-ao-quinto-empate-consecutivo/",
-        "img": "https://picsum.photos/seed/953/800/400"
+        "img": "https://picsum.photos/seed/587/800/400"
+    },
+    {
+        "titulo": "Santos atropela o Vasco pela 23ª rodada do Brasileirão",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "03:53",
+        "url": "https://www.acordacidade.com.br/esportes/futebol/santos-atropela-o-vasco-pela-23a-rodada-do-brasileirao/",
+        "img": "https://picsum.photos/seed/314/800/400"
+    },
+    {
+        "titulo": "Candidatos a governador da Bahia começam campanhas eleitorais no estado",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "03:53",
+        "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/08/16/candidatos-a-governador-da-bahia-comecam-campanhas-eleitorais.ghtml",
+        "img": "https://picsum.photos/seed/951/800/400"
+    },
+    {
+        "titulo": "A nova era da harmonização orofacial começa com conhecimento de verdade e você pode fazer parte",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "03:53",
+        "url": "https://abo-ba.org.br/a-nova-era-da-harmonizacao-orofacial-comeca-com-conhecimento-de-verdade-e-voce-pode-fazer-parte/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/Black-and-Gold-Illustrated-Webinar-Event-Instagram-Post-1920-x-1080-px.png"
+    },
+    {
+        "titulo": "PL do piso salarial avança na CAE do Senado",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "03:53",
+        "url": "https://croba.org.br/pl-do-piso-salarial-avanca-na-cae-do-senado/",
+        "img": "https://picsum.photos/seed/279/800/400"
+    },
+    {
+        "titulo": "Ronaldo Mansur inicia campanha eleitoral com panfletagem em bairro de Salvador",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "03:53",
+        "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/08/16/ronaldo-mansur-inicia-campanha-eleitoral-em-salvador.ghtml",
+        "img": "https://picsum.photos/seed/887/800/400"
+    },
+    {
+        "titulo": "Datafolha: maioria rejeita eutanásia e suicídio assistido no Brasil",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "03:53",
+        "url": "https://www.jornalfolhadoestado.com/brasil/datafolha-maioria-rejeita-eutanasia-e-suicidio-assistido-no-brasil/",
+        "img": "https://picsum.photos/seed/951/800/400"
+    },
+    {
+        "titulo": "São João ABO-BA: tradição, alegria e bons encontros.",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "03:53",
+        "url": "https://abo-ba.org.br/sao-joao-abo-ba-tradicao-alegria-e-bons-encontros/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-30-at-11.35.37.jpeg"
+    },
+    {
+        "titulo": "Confira como foi a largada de Lula, Flávio e outros presidenciáveis no primeiro dia oficial de ",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "03:53",
+        "url": "https://www.acordacidade.com.br/politica/eleicoes/confira-como-foi-a-largada-de-lula-flavio-e-outros-presidenciaveis-no-primeiro-dia-oficial-de-campanha/",
+        "img": "https://picsum.photos/seed/91/800/400"
     }
 ]
