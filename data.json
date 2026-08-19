@@ -1,37 +1,199 @@
 [
     {
-        "titulo": "Vídeos do g1 e TV Subaé - quarta-feira, 19 de agosto de 2026",
+        "titulo": "Contas de 2025 do CRO-BA são aprovadas sem ressalvas pelo CFO",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "22:22",
+        "url": "https://croba.org.br/contas-de-2025-do-cro-ba-sao-aprovadas-sem-ressalvas-pelo-cfo/",
+        "img": "https://picsum.photos/seed/960/800/400"
+    },
+    {
+        "titulo": "Baiano, Luis Felipe Salomão, assume presidência do STJ",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "22:22",
+        "url": "https://www.jornalfolhadoestado.com/politica/baiano-luis-felipe-salomao-assume-presidencia-do-stj/",
+        "img": "https://picsum.photos/seed/873/800/400"
+    },
+    {
+        "titulo": "Ministro do TCU recebe Título de Cidadão Feirense em Sessão Solene na Câmara de Feira de Santan",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "22:22",
+        "url": "https://www.acordacidade.com.br/dilton-e-feito/ministro-do-tcu-recebe-titulo-de-cidadao-feirense-em-sessao-solene-na-camara-de-feira-de-santana/",
+        "img": "https://picsum.photos/seed/798/800/400"
+    },
+    {
+        "titulo": "Feira FC inicia treinos com 27 atletas selecionados para a base",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "22:22",
+        "url": "https://www.jornalfolhadoestado.com/esportes/feira-fc-inicia-treinos-com-27-atletas-selecionados-para-a-base/",
+        "img": "https://picsum.photos/seed/852/800/400"
+    },
+    {
+        "titulo": "Sem Jerônimo e ACM Neto em debate, Ronaldo Mansur defende concurso para professores na Bahia",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "G1 Feira",
-        "data": "21:23",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/playlist/videos-do-g1-e-tv-subae-quarta-feira-19-de-agosto-de-2026.ghtml",
-        "img": "https://picsum.photos/seed/630/800/400"
+        "data": "22:22",
+        "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/08/19/entrevista-de-ronaldo-mansur-psol-a-bahia-fm.ghtml",
+        "img": "https://picsum.photos/seed/287/800/400"
+    },
+    {
+        "titulo": "CRO-BA participa de debate sobre canetas emagrecedoras no MP-BA",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "22:22",
+        "url": "https://croba.org.br/cro-ba-participa-de-debate-sobre-canetas-emagrecedoras-no-mp-ba/",
+        "img": "https://picsum.photos/seed/917/800/400"
+    },
+    {
+        "titulo": "Nota de Pesar – Dra. Winnie Adrielle",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "22:22",
+        "url": "https://croba.org.br/nota-de-pesar-dra-winnie-adrielle/",
+        "img": "https://picsum.photos/seed/568/800/400"
+    },
+    {
+        "titulo": "Menina de 9 anos morre após acidente entre motocicleta e caçamba na BA; mãe ficou ferida",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "22:22",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/19/menina-morre-em-acidente-bahia.ghtml",
+        "img": "https://picsum.photos/seed/367/800/400"
     },
     {
         "titulo": "CFO solicita ao MEC a suspensão da abertura de novos cursos e do aumento de vagas em Odontologi",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "21:22",
+        "data": "22:21",
         "url": "https://website.cfo.org.br/cfo-solicita-ao-mec-a-suspensao-da-abertura-de-novos-cursos-e-do-aumento-de-vagas-em-odontologia/",
-        "img": "https://picsum.photos/seed/31/800/400"
+        "img": "https://picsum.photos/seed/426/800/400"
+    },
+    {
+        "titulo": "MP investiga exposição de dados pessoais de mais de 290 pacientes na Bahia; lista inclui regist",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "22:22",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/19/mp-investiga-possivel-exposicao-de-dados-pessoais-e-de-saude-de-pacientes-em-santo-estevao.ghtml",
+        "img": "https://picsum.photos/seed/410/800/400"
+    },
+    {
+        "titulo": "Cobrança de curso de R$ 250 para vistoria de táxis é suspensa após solicitação de vereador",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "22:22",
+        "url": "https://www.acordacidade.com.br/politica/cobranca-de-curso-de-r-250-para-vistoria-de-taxis-e-suspensa-apos-solicitacao-de-vereador/",
+        "img": "https://picsum.photos/seed/978/800/400"
+    },
+    {
+        "titulo": "Conselho Federal de Odontologia proíbe uso de PMMA para fins estéticos",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "22:21",
+        "url": "https://website.cfo.org.br/conselho-federal-de-odontologia-proibe-uso-de-pmma-para-fins-esteticos/",
+        "img": "https://picsum.photos/seed/498/800/400"
+    },
+    {
+        "titulo": "PL que atualiza piso salarial de médicos e cirurgiões-dentistas avança no Senado Federal",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "22:21",
+        "url": "https://website.cfo.org.br/pl-que-atualiza-piso-salarial-de-medicos-e-cirurgioes-dentistas-avanca-no-senado-federal/",
+        "img": "https://picsum.photos/seed/117/800/400"
+    },
+    {
+        "titulo": "Odontologia do Esporte é destaque em novo episódio do PodCROBA",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "22:22",
+        "url": "https://croba.org.br/odontologia-do-esporte-e-destaque-em-novo-episodio-do-podcroba/",
+        "img": "https://picsum.photos/seed/212/800/400"
     },
     {
         "titulo": "Feira da Gestante chega a Feira de Santana com produtos para enxoval a partir de R$ 1,99",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "G1 Feira",
-        "data": "21:23",
+        "data": "22:22",
         "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/19/feira-da-gestante-chega-a-feira-de-santana-com-produtos-para-enxoval.ghtml",
-        "img": "https://picsum.photos/seed/93/800/400"
+        "img": "https://picsum.photos/seed/638/800/400"
+    },
+    {
+        "titulo": "Delegado da PF é alvo de operação que apura venda de informações sigilosas",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "22:22",
+        "url": "https://www.jornalfolhadoestado.com/politica/delegado-da-pf-e-alvo-de-operacao-que-apura-venda-de-informacoes-sigilosas/",
+        "img": "https://picsum.photos/seed/931/800/400"
+    },
+    {
+        "titulo": "PL do piso salarial avança na CAE do Senado",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "22:22",
+        "url": "https://croba.org.br/pl-do-piso-salarial-avanca-na-cae-do-senado/",
+        "img": "https://picsum.photos/seed/37/800/400"
+    },
+    {
+        "titulo": "Prefeito determina apuração de suposto esquema de propina envolvendo servidores de Feira de San",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "22:22",
+        "url": "https://www.acordacidade.com.br/feira-de-santana/prefeito-determina-apuracao-de-suposto-esquema-de-propina-envolvendo-servidores-de-feira-de-santana/",
+        "img": "https://picsum.photos/seed/570/800/400"
+    },
+    {
+        "titulo": "Prefeito diz que foi inocentado em processo que investiga desvio de recursos pela Secretaria de",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "22:22",
+        "url": "https://www.acordacidade.com.br/dilton-e-feito/prefeito-diz-que-foi-inocentado-em-processo-que-investiga-desvio-de-recursos-pela-secretaria-de-saude/",
+        "img": "https://picsum.photos/seed/289/800/400"
+    },
+    {
+        "titulo": "ABO Bahia sedia Jornada Estadual sobre Hanseníase: “Conhecer e Cuidar, de Janeiro a Janeiro”",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "22:22",
+        "url": "https://abo-ba.org.br/abo-bahia-sedia-jornada-estadual-sobre-hanseniase-conhecer-e-cuidar-de-janeiro-a-janeiro/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/capas-abo-.png"
+    },
+    {
+        "titulo": "ABO se torna  signatária do Manifesto ESG/ODS por Ambientes Sustentáveis, Saudáveis, Inteligent",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "22:22",
+        "url": "https://abo-ba.org.br/abo-se-torna-signataria-do-manifesto-esg-ods-por-ambientes-sustentaveis-saudaveis-inteligentes-e-felizes/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-23-at-09.02.46.jpeg"
     },
     {
         "titulo": "São João da ABO-BA celebra tradição, alegria e união da classe odontológica",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "ABO-BA",
-        "data": "21:23",
+        "data": "22:22",
         "url": "https://abo-ba.org.br/sao-joao-da-abo-ba-celebra-tradicao-alegria-e-uniao-da-classe-odontologica/",
         "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/2.png"
     },
@@ -40,287 +202,125 @@
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "ABO-BA",
-        "data": "21:23",
+        "data": "22:22",
         "url": "https://abo-ba.org.br/cafe-prosa-promove-reflexao-sobre-autocuidado-na-abo-ba/",
         "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/1.png"
-    },
-    {
-        "titulo": "CRO-BA participa de debate sobre canetas emagrecedoras no MP-BA",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "21:23",
-        "url": "https://croba.org.br/cro-ba-participa-de-debate-sobre-canetas-emagrecedoras-no-mp-ba/",
-        "img": "https://picsum.photos/seed/829/800/400"
-    },
-    {
-        "titulo": "Conselho Federal de Odontologia proíbe uso de PMMA para fins estéticos",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "21:22",
-        "url": "https://website.cfo.org.br/conselho-federal-de-odontologia-proibe-uso-de-pmma-para-fins-esteticos/",
-        "img": "https://picsum.photos/seed/609/800/400"
-    },
-    {
-        "titulo": "PL do piso salarial avança na CAE do Senado",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "21:23",
-        "url": "https://croba.org.br/pl-do-piso-salarial-avanca-na-cae-do-senado/",
-        "img": "https://picsum.photos/seed/444/800/400"
-    },
-    {
-        "titulo": "Ba-Vi 508 terá duelo de jovens centroavantes em busca de protagonismo",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "21:23",
-        "url": "https://www.jornalfolhadoestado.com/esportes/ba-vi-508-tera-duelo-de-jovens-centroavantes-em-busca-de-protagonismo/",
-        "img": "https://picsum.photos/seed/600/800/400"
-    },
-    {
-        "titulo": "Prefeito diz que foi inocentado em processo que investiga desvio de recursos pela Secretaria de",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "21:23",
-        "url": "https://www.acordacidade.com.br/dilton-e-feito/prefeito-diz-que-foi-inocentado-em-processo-que-investiga-desvio-de-recursos-pela-secretaria-de-saude/",
-        "img": "https://picsum.photos/seed/128/800/400"
-    },
-    {
-        "titulo": "Menina de 9 anos morre após acidente entre motocicleta e caçamba na BA; mãe ficou ferida",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "21:23",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/19/menina-morre-em-acidente-bahia.ghtml",
-        "img": "https://picsum.photos/seed/274/800/400"
-    },
-    {
-        "titulo": "&#8216;Respira, Feira Verde&#8217;: Câmara promulga lei que cria Política de Arborização Urbana",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "21:23",
-        "url": "https://www.acordacidade.com.br/feira-de-santana/respira-feira-verde-camara-promulga-lei-que-cria-politica-de-arborizacao-urbana/",
-        "img": "https://picsum.photos/seed/993/800/400"
-    },
-    {
-        "titulo": "Feira FC inicia treinos com 27 atletas selecionados para a base",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "21:23",
-        "url": "https://www.jornalfolhadoestado.com/esportes/feira-fc-inicia-treinos-com-27-atletas-selecionados-para-a-base/",
-        "img": "https://picsum.photos/seed/866/800/400"
-    },
-    {
-        "titulo": "ABO Bahia sedia Jornada Estadual sobre Hanseníase: “Conhecer e Cuidar, de Janeiro a Janeiro”",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "21:23",
-        "url": "https://abo-ba.org.br/abo-bahia-sedia-jornada-estadual-sobre-hanseniase-conhecer-e-cuidar-de-janeiro-a-janeiro/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/capas-abo-.png"
-    },
-    {
-        "titulo": "Ministro do TCU recebe Título de Cidadão Feirense em Sessão Solene na Câmara de Feira de Santan",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "21:23",
-        "url": "https://www.acordacidade.com.br/dilton-e-feito/ministro-do-tcu-recebe-titulo-de-cidadao-feirense-em-sessao-solene-na-camara-de-feira-de-santana/",
-        "img": "https://picsum.photos/seed/651/800/400"
-    },
-    {
-        "titulo": "Nota de Pesar – Dra. Winnie Adrielle",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "21:23",
-        "url": "https://croba.org.br/nota-de-pesar-dra-winnie-adrielle/",
-        "img": "https://picsum.photos/seed/206/800/400"
-    },
-    {
-        "titulo": "CFO repudia informações falsas divulgadas pelo CFM sobre a Resolução CFO nº 295/2026",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "21:22",
-        "url": "https://website.cfo.org.br/cfo-repudia-informacoes-falsas-divulgadas-pelo-cfm-sobre-a-resolucao-cfo-no-295-2026/",
-        "img": "https://picsum.photos/seed/980/800/400"
-    },
-    {
-        "titulo": "Delegado da PF é alvo de operação que apura venda de informações sigilosas",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "21:23",
-        "url": "https://www.jornalfolhadoestado.com/politica/delegado-da-pf-e-alvo-de-operacao-que-apura-venda-de-informacoes-sigilosas/",
-        "img": "https://picsum.photos/seed/873/800/400"
-    },
-    {
-        "titulo": "Vencedor do prêmio de Melhor Filme do Júri Popular no Festival de Brasília, &#8220;Não Existe A",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "21:23",
-        "url": "https://www.jornalfolhadoestado.com/cultura/vencedor-do-premio-de-melhor-filme-do-juri-popular-no-festival-de-brasilia-nao-existe-almoco-gratis-estreia-nos-cinemas-dia-3-de-setembro/",
-        "img": "https://picsum.photos/seed/38/800/400"
-    },
-    {
-        "titulo": "Assista ao BATV da TV Subaé",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "21:23",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
-        "img": "https://picsum.photos/seed/558/800/400"
-    },
-    {
-        "titulo": "São João ABO-BA: tradição, alegria e bons encontros.",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "21:23",
-        "url": "https://abo-ba.org.br/sao-joao-abo-ba-tradicao-alegria-e-bons-encontros/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-30-at-11.35.37.jpeg"
-    },
-    {
-        "titulo": "MP investiga exposição de dados pessoais de mais de 290 pacientes na Bahia; lista inclui regist",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "21:23",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/19/mp-investiga-possivel-exposicao-de-dados-pessoais-e-de-saude-de-pacientes-em-santo-estevao.ghtml",
-        "img": "https://picsum.photos/seed/111/800/400"
-    },
-    {
-        "titulo": "Cobrança de curso de R$ 250 para vistoria de táxis é suspensa após solicitação de vereador",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "21:23",
-        "url": "https://www.acordacidade.com.br/politica/cobranca-de-curso-de-r-250-para-vistoria-de-taxis-e-suspensa-apos-solicitacao-de-vereador/",
-        "img": "https://picsum.photos/seed/471/800/400"
-    },
-    {
-        "titulo": "CFO publica nova resolução e atualiza regras para habilitação em sedação em Odontologia",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "21:22",
-        "url": "https://website.cfo.org.br/cfo-publica-nova-resolucao-e-atualiza-regras-para-habilitacao-em-sedacao-em-odontologia/",
-        "img": "https://picsum.photos/seed/231/800/400"
-    },
-    {
-        "titulo": "PL que atualiza piso salarial de médicos e cirurgiões-dentistas avança no Senado Federal",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "21:22",
-        "url": "https://website.cfo.org.br/pl-que-atualiza-piso-salarial-de-medicos-e-cirurgioes-dentistas-avanca-no-senado-federal/",
-        "img": "https://picsum.photos/seed/173/800/400"
-    },
-    {
-        "titulo": "A nova era da harmonização orofacial começa com conhecimento de verdade e você pode fazer parte",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "21:23",
-        "url": "https://abo-ba.org.br/a-nova-era-da-harmonizacao-orofacial-comeca-com-conhecimento-de-verdade-e-voce-pode-fazer-parte/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/Black-and-Gold-Illustrated-Webinar-Event-Instagram-Post-1920-x-1080-px.png"
-    },
-    {
-        "titulo": "Dnit contrata empresa por pregão para operação de tráfego em 676 km das BRs-116 e 324 na Bahia",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "21:23",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/19/operacao-trafego-brs-na-bahia.ghtml",
-        "img": "https://picsum.photos/seed/800/800/400"
-    },
-    {
-        "titulo": "Contas de 2025 do CRO-BA são aprovadas sem ressalvas pelo CFO",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "21:23",
-        "url": "https://croba.org.br/contas-de-2025-do-cro-ba-sao-aprovadas-sem-ressalvas-pelo-cfo/",
-        "img": "https://picsum.photos/seed/905/800/400"
-    },
-    {
-        "titulo": "Odontologia do Esporte é destaque em novo episódio do PodCROBA",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "21:23",
-        "url": "https://croba.org.br/odontologia-do-esporte-e-destaque-em-novo-episodio-do-podcroba/",
-        "img": "https://picsum.photos/seed/619/800/400"
-    },
-    {
-        "titulo": "Vereador Galeguinho denuncia suposta cobrança de propina em Feira de Santana",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "21:23",
-        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/vereador-galeguinho-denuncia-suposta-cobranca-de-propina-em-feira-de-santana/",
-        "img": "https://picsum.photos/seed/837/800/400"
-    },
-    {
-        "titulo": "Prefeito determina apuração de suposto esquema de propina envolvendo servidores de Feira de San",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "21:23",
-        "url": "https://www.acordacidade.com.br/feira-de-santana/prefeito-determina-apuracao-de-suposto-esquema-de-propina-envolvendo-servidores-de-feira-de-santana/",
-        "img": "https://picsum.photos/seed/232/800/400"
-    },
-    {
-        "titulo": "CRO-BA prestigia XVI Seminário Saúde Coletiva em Pauta na UEFS",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "21:23",
-        "url": "https://croba.org.br/cro-ba-prestigia-xvi-seminario-saude-coletiva-em-pauta-na-uefs/",
-        "img": "https://picsum.photos/seed/470/800/400"
-    },
-    {
-        "titulo": "Justiça Federal confirma validade da Decisão CFO-SEC nº 30/2026 e mantém resultado das eleições",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "21:22",
-        "url": "https://website.cfo.org.br/justica-federal-confirma-validade-da-decisao-cfo-sec-no-30-2026-e-mantem-resultado-das-eleicoes-do-cro-rs/",
-        "img": "https://picsum.photos/seed/895/800/400"
-    },
-    {
-        "titulo": "Baiano, Luis Felipe Salomão, assume presidência do STJ",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "21:23",
-        "url": "https://www.jornalfolhadoestado.com/politica/baiano-luis-felipe-salomao-assume-presidencia-do-stj/",
-        "img": "https://picsum.photos/seed/3/800/400"
-    },
-    {
-        "titulo": "ABO se torna  signatária do Manifesto ESG/ODS por Ambientes Sustentáveis, Saudáveis, Inteligent",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "21:23",
-        "url": "https://abo-ba.org.br/abo-se-torna-signataria-do-manifesto-esg-ods-por-ambientes-sustentaveis-saudaveis-inteligentes-e-felizes/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-23-at-09.02.46.jpeg"
     },
     {
         "titulo": "Polícia Civil define estratégias para atuação nas eleições de 2026",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Acorda Cidade",
-        "data": "21:23",
+        "data": "22:22",
         "url": "https://www.acordacidade.com.br/policia/policia-civil-define-estrategias-para-atuacao-nas-eleicoes-de-2026/",
-        "img": "https://picsum.photos/seed/585/800/400"
+        "img": "https://picsum.photos/seed/829/800/400"
+    },
+    {
+        "titulo": "Vereador Galeguinho denuncia suposta cobrança de propina em Feira de Santana",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "22:22",
+        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/vereador-galeguinho-denuncia-suposta-cobranca-de-propina-em-feira-de-santana/",
+        "img": "https://picsum.photos/seed/709/800/400"
+    },
+    {
+        "titulo": "CFO repudia informações falsas divulgadas pelo CFM sobre a Resolução CFO nº 295/2026",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "22:21",
+        "url": "https://website.cfo.org.br/cfo-repudia-informacoes-falsas-divulgadas-pelo-cfm-sobre-a-resolucao-cfo-no-295-2026/",
+        "img": "https://picsum.photos/seed/701/800/400"
+    },
+    {
+        "titulo": "A nova era da harmonização orofacial começa com conhecimento de verdade e você pode fazer parte",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "22:22",
+        "url": "https://abo-ba.org.br/a-nova-era-da-harmonizacao-orofacial-comeca-com-conhecimento-de-verdade-e-voce-pode-fazer-parte/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/Black-and-Gold-Illustrated-Webinar-Event-Instagram-Post-1920-x-1080-px.png"
+    },
+    {
+        "titulo": "São João ABO-BA: tradição, alegria e bons encontros.",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "22:22",
+        "url": "https://abo-ba.org.br/sao-joao-abo-ba-tradicao-alegria-e-bons-encontros/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-30-at-11.35.37.jpeg"
+    },
+    {
+        "titulo": "&#8216;Respira, Feira Verde&#8217;: Câmara promulga lei que cria Política de Arborização Urbana",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "22:22",
+        "url": "https://www.acordacidade.com.br/feira-de-santana/respira-feira-verde-camara-promulga-lei-que-cria-politica-de-arborizacao-urbana/",
+        "img": "https://picsum.photos/seed/686/800/400"
+    },
+    {
+        "titulo": "Vídeos do g1 e TV Subaé - quarta-feira, 19 de agosto de 2026",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "22:22",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/playlist/videos-do-g1-e-tv-subae-quarta-feira-19-de-agosto-de-2026.ghtml",
+        "img": "https://picsum.photos/seed/343/800/400"
+    },
+    {
+        "titulo": "Assista ao BATV da TV Subaé",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "22:22",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
+        "img": "https://picsum.photos/seed/270/800/400"
+    },
+    {
+        "titulo": "Ba-Vi 508 terá duelo de jovens centroavantes em busca de protagonismo",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "22:22",
+        "url": "https://www.jornalfolhadoestado.com/esportes/ba-vi-508-tera-duelo-de-jovens-centroavantes-em-busca-de-protagonismo/",
+        "img": "https://picsum.photos/seed/474/800/400"
+    },
+    {
+        "titulo": "Vencedor do prêmio de Melhor Filme do Júri Popular no Festival de Brasília, &#8220;Não Existe A",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "22:22",
+        "url": "https://www.jornalfolhadoestado.com/cultura/vencedor-do-premio-de-melhor-filme-do-juri-popular-no-festival-de-brasilia-nao-existe-almoco-gratis-estreia-nos-cinemas-dia-3-de-setembro/",
+        "img": "https://picsum.photos/seed/279/800/400"
+    },
+    {
+        "titulo": "CRO-BA prestigia XVI Seminário Saúde Coletiva em Pauta na UEFS",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "22:22",
+        "url": "https://croba.org.br/cro-ba-prestigia-xvi-seminario-saude-coletiva-em-pauta-na-uefs/",
+        "img": "https://picsum.photos/seed/280/800/400"
+    },
+    {
+        "titulo": "CFO publica nova resolução e atualiza regras para habilitação em sedação em Odontologia",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "22:21",
+        "url": "https://website.cfo.org.br/cfo-publica-nova-resolucao-e-atualiza-regras-para-habilitacao-em-sedacao-em-odontologia/",
+        "img": "https://picsum.photos/seed/14/800/400"
+    },
+    {
+        "titulo": "Justiça Federal confirma validade da Decisão CFO-SEC nº 30/2026 e mantém resultado das eleições",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "22:21",
+        "url": "https://website.cfo.org.br/justica-federal-confirma-validade-da-decisao-cfo-sec-no-30-2026-e-mantem-resultado-das-eleicoes-do-cro-rs/",
+        "img": "https://picsum.photos/seed/563/800/400"
     }
 ]
