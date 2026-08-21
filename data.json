@@ -1,262 +1,109 @@
 [
     {
-        "titulo": "Concurso para PM e Bombeiros na Bahia tem 40 vagas para médicos e dentistas com salário de até ",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "16:31",
-        "url": "https://g1.globo.com/ba/bahia/blogdoemprego/noticia/2026/08/21/concurso-para-pm-e-bombeiros-na-bahia-tem-40-vagas-para-medicos-e-dentistas-com-salario-de-ate-r-99-mil.ghtml",
-        "img": "https://picsum.photos/seed/214/800/400"
-    },
-    {
-        "titulo": "CFO repudia informações falsas divulgadas pelo CFM sobre a Resolução CFO nº 295/2026",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "16:31",
-        "url": "https://website.cfo.org.br/cfo-repudia-informacoes-falsas-divulgadas-pelo-cfm-sobre-a-resolucao-cfo-no-295-2026/",
-        "img": "https://picsum.photos/seed/72/800/400"
-    },
-    {
-        "titulo": "Nota de Pesar – Dra. Winnie Adrielle",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "16:31",
-        "url": "https://croba.org.br/nota-de-pesar-dra-winnie-adrielle/",
-        "img": "https://picsum.photos/seed/584/800/400"
-    },
-    {
-        "titulo": "Crédito para carros de aplicativo tem teto elevado para R$ 200 mil",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "16:31",
-        "url": "https://www.jornalfolhadoestado.com/brasil/credito-para-carros-de-aplicativo-tem-teto-elevado-para-r-200-mil/",
-        "img": "https://picsum.photos/seed/336/800/400"
-    },
-    {
-        "titulo": "Odontologia do Esporte é destaque em novo episódio do PodCROBA",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "16:31",
-        "url": "https://croba.org.br/odontologia-do-esporte-e-destaque-em-novo-episodio-do-podcroba/",
-        "img": "https://picsum.photos/seed/205/800/400"
-    },
-    {
-        "titulo": "São João ABO-BA: tradição, alegria e bons encontros.",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "16:31",
-        "url": "https://abo-ba.org.br/sao-joao-abo-ba-tradicao-alegria-e-bons-encontros/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-30-at-11.35.37.jpeg"
-    },
-    {
-        "titulo": "Contas de 2025 do CRO-BA são aprovadas sem ressalvas pelo CFO",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "16:31",
-        "url": "https://croba.org.br/contas-de-2025-do-cro-ba-sao-aprovadas-sem-ressalvas-pelo-cfo/",
-        "img": "https://picsum.photos/seed/911/800/400"
-    },
-    {
         "titulo": "Polícia vai prender idoso procurado por homicídio e descobre que ele morreu há mais de um ano n",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "G1 Feira",
-        "data": "16:31",
+        "data": "17:26",
         "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/21/policia-cumpre-mandado-e-descobre-que-homem-morreu-na-bahia.ghtml",
-        "img": "https://picsum.photos/seed/769/800/400"
-    },
-    {
-        "titulo": "Café &#038; Prosa promove reflexão sobre autocuidado na ABO-BA",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "16:31",
-        "url": "https://abo-ba.org.br/cafe-prosa-promove-reflexao-sobre-autocuidado-na-abo-ba/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/1.png"
-    },
-    {
-        "titulo": "CRO-BA participa de debate sobre canetas emagrecedoras no MP-BA",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "16:31",
-        "url": "https://croba.org.br/cro-ba-participa-de-debate-sobre-canetas-emagrecedoras-no-mp-ba/",
-        "img": "https://picsum.photos/seed/450/800/400"
-    },
-    {
-        "titulo": "Homem morre e dois ficam feridos após ataque a tiros dentro de bar no interior da Bahia",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "16:31",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/21/ataque-a-tiros-interior-da-bahia.ghtml",
-        "img": "https://picsum.photos/seed/548/800/400"
-    },
-    {
-        "titulo": "Seguranças de rua são presos por espancar homem até a morte no Rio de Janeiro",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "16:31",
-        "url": "https://www.acordacidade.com.br/brasil/segurancas-de-rua-sao-presos-por-espancar-homem-ate-a-morte-no-rio-de-janeiro/",
-        "img": "https://picsum.photos/seed/102/800/400"
-    },
-    {
-        "titulo": "A nova era da harmonização orofacial começa com conhecimento de verdade e você pode fazer parte",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "16:31",
-        "url": "https://abo-ba.org.br/a-nova-era-da-harmonizacao-orofacial-comeca-com-conhecimento-de-verdade-e-voce-pode-fazer-parte/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/Black-and-Gold-Illustrated-Webinar-Event-Instagram-Post-1920-x-1080-px.png"
-    },
-    {
-        "titulo": "Ex-BBB Jonas Sulzbach sofre fratura e relata dificuldades",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "16:31",
-        "url": "https://www.acordacidade.com.br/entretenimento/famosos/ex-bbb-jonas-sulzbach-sofre-fratura-e-relata-dificuldades/",
-        "img": "https://picsum.photos/seed/531/800/400"
-    },
-    {
-        "titulo": "Qualify Combat 16: Dôglas &#8220;Puro Osso&#8221; busca cinturão na categoria até 57 kg neste s",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "16:31",
-        "url": "https://www.jornalfolhadoestado.com/esportes/qualify-combat-16-doglas-puro-osso-busca-cinturao-na-categoria-ate-57-kg-neste-sabado-em-salvador/",
-        "img": "https://picsum.photos/seed/512/800/400"
-    },
-    {
-        "titulo": "PL do piso salarial avança na CAE do Senado",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "16:31",
-        "url": "https://croba.org.br/pl-do-piso-salarial-avanca-na-cae-do-senado/",
-        "img": "https://picsum.photos/seed/954/800/400"
-    },
-    {
-        "titulo": "Quase 5 mil mesários vão atuar nas próximas eleições em Feira de Santana",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "16:31",
-        "url": "https://www.acordacidade.com.br/politica/quase-5-mil-mesarios-vao-atuar-nas-proximas-eleicoes-em-feira-de-santana/",
-        "img": "https://picsum.photos/seed/822/800/400"
-    },
-    {
-        "titulo": "Assista aos telejornais da TV Subaé",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "16:31",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
-        "img": "https://picsum.photos/seed/834/800/400"
-    },
-    {
-        "titulo": "CFO solicita ao MEC a suspensão da abertura de novos cursos e do aumento de vagas em Odontologi",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "16:31",
-        "url": "https://website.cfo.org.br/cfo-solicita-ao-mec-a-suspensao-da-abertura-de-novos-cursos-e-do-aumento-de-vagas-em-odontologia/",
-        "img": "https://picsum.photos/seed/293/800/400"
+        "img": "https://picsum.photos/seed/246/800/400"
     },
     {
         "titulo": "Mega-Sena acumula e próximo concurso deve pagar R$ 58 milhões",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Folha do Estado",
-        "data": "16:31",
+        "data": "17:26",
         "url": "https://www.jornalfolhadoestado.com/brasil/mega-sena-acumula-e-proximo-concurso-deve-pagar-r-58-milhoes/",
-        "img": "https://picsum.photos/seed/178/800/400"
+        "img": "https://picsum.photos/seed/350/800/400"
+    },
+    {
+        "titulo": "CRO-BA prestigia XVI Seminário Saúde Coletiva em Pauta na UEFS",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "17:26",
+        "url": "https://croba.org.br/cro-ba-prestigia-xvi-seminario-saude-coletiva-em-pauta-na-uefs/",
+        "img": "https://picsum.photos/seed/248/800/400"
     },
     {
         "titulo": "Desigualdades marcam formalização do trabalho entre jovens brasileiros",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Folha do Estado",
-        "data": "16:31",
+        "data": "17:26",
         "url": "https://www.jornalfolhadoestado.com/brasil/desigualdades-marcam-formalizacao-do-trabalho-entre-jovens-brasileiros/",
-        "img": "https://picsum.photos/seed/116/800/400"
+        "img": "https://picsum.photos/seed/884/800/400"
     },
     {
-        "titulo": "PL que atualiza piso salarial de médicos e cirurgiões-dentistas avança no Senado Federal",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "16:31",
-        "url": "https://website.cfo.org.br/pl-que-atualiza-piso-salarial-de-medicos-e-cirurgioes-dentistas-avanca-no-senado-federal/",
-        "img": "https://picsum.photos/seed/963/800/400"
-    },
-    {
-        "titulo": "CFO esclarece decisão judicial sobre a Harmonização Orofacial",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "16:31",
-        "url": "https://website.cfo.org.br/cfo-esclarece-decisao-judicial-sobre-a-harmonizacao-orofacial/",
-        "img": "https://picsum.photos/seed/825/800/400"
-    },
-    {
-        "titulo": "São João da ABO-BA celebra tradição, alegria e união da classe odontológica",
+        "titulo": "São João ABO-BA: tradição, alegria e bons encontros.",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "ABO-BA",
-        "data": "16:31",
-        "url": "https://abo-ba.org.br/sao-joao-da-abo-ba-celebra-tradicao-alegria-e-uniao-da-classe-odontologica/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/2.png"
+        "data": "17:26",
+        "url": "https://abo-ba.org.br/sao-joao-abo-ba-tradicao-alegria-e-bons-encontros/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-30-at-11.35.37.jpeg"
     },
     {
-        "titulo": "Luto no futebol: Morre Zé Humberto, ex-técnico da Juazeirense",
-        "resumo": "Portal Oficial - Clique para ler mais.",
+        "titulo": "Concurso para PM e Bombeiros na Bahia tem 40 vagas para médicos e dentistas com salário de até ",
+        "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "16:31",
-        "url": "https://www.jornalfolhadoestado.com/esportes/luto-no-futebol-morre-ze-humberto-ex-tecnico-da-juazeirense/",
-        "img": "https://picsum.photos/seed/441/800/400"
+        "fonte": "G1 Feira",
+        "data": "17:26",
+        "url": "https://g1.globo.com/ba/bahia/blogdoemprego/noticia/2026/08/21/concurso-para-pm-e-bombeiros-na-bahia-tem-40-vagas-para-medicos-e-dentistas-com-salario-de-ate-r-99-mil.ghtml",
+        "img": "https://picsum.photos/seed/792/800/400"
     },
     {
-        "titulo": "Corpo de promotora que morreu afogada em Praia do Forte é levado para Manaus",
+        "titulo": "Pablo, Toque Dez, Zé Ramalho, espetáculos e mais: veja opções de lazer em Feira de Santana e re",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "17:26",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/21/veja-opcoes-de-lazer-em-feira-de-santana-e-regiao.ghtml",
+        "img": "https://picsum.photos/seed/337/800/400"
+    },
+    {
+        "titulo": "MP pede manutenção da prisão preventiva de Deolane Bezerra",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Acorda Cidade",
-        "data": "16:31",
-        "url": "https://www.acordacidade.com.br/brasil/corpo-de-promotora-que-morreu-afogada-em-praia-do-forte-e-levado-para-manaus/",
-        "img": "https://picsum.photos/seed/991/800/400"
+        "data": "17:26",
+        "url": "https://www.acordacidade.com.br/brasil/mp-pede-manutencao-da-prisao-preventiva-de-deolane-bezerra/",
+        "img": "https://picsum.photos/seed/199/800/400"
     },
     {
-        "titulo": "Conselho Federal de Odontologia proíbe uso de PMMA para fins estéticos",
-        "resumo": "Portal Oficial - Clique para ler mais.",
+        "titulo": "Odontologia do Esporte é destaque em novo episódio do PodCROBA",
+        "resumo": "Atualização via Radar Consuldente.",
         "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "16:31",
-        "url": "https://website.cfo.org.br/conselho-federal-de-odontologia-proibe-uso-de-pmma-para-fins-esteticos/",
-        "img": "https://picsum.photos/seed/664/800/400"
+        "fonte": "CRO-BA",
+        "data": "17:26",
+        "url": "https://croba.org.br/odontologia-do-esporte-e-destaque-em-novo-episodio-do-podcroba/",
+        "img": "https://picsum.photos/seed/913/800/400"
     },
     {
-        "titulo": "CFO publica nova resolução e atualiza regras para habilitação em sedação em Odontologia",
+        "titulo": "A nova era da harmonização orofacial começa com conhecimento de verdade e você pode fazer parte",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "16:31",
-        "url": "https://website.cfo.org.br/cfo-publica-nova-resolucao-e-atualiza-regras-para-habilitacao-em-sedacao-em-odontologia/",
-        "img": "https://picsum.photos/seed/112/800/400"
+        "fonte": "ABO-BA",
+        "data": "17:26",
+        "url": "https://abo-ba.org.br/a-nova-era-da-harmonizacao-orofacial-comeca-com-conhecimento-de-verdade-e-voce-pode-fazer-parte/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/Black-and-Gold-Illustrated-Webinar-Event-Instagram-Post-1920-x-1080-px.png"
+    },
+    {
+        "titulo": "Crédito para carros de aplicativo tem teto elevado para R$ 200 mil",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "17:26",
+        "url": "https://www.jornalfolhadoestado.com/brasil/credito-para-carros-de-aplicativo-tem-teto-elevado-para-r-200-mil/",
+        "img": "https://picsum.photos/seed/459/800/400"
     },
     {
         "titulo": "ABO Bahia sedia Jornada Estadual sobre Hanseníase: “Conhecer e Cuidar, de Janeiro a Janeiro”",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "ABO-BA",
-        "data": "16:31",
+        "data": "17:26",
         "url": "https://abo-ba.org.br/abo-bahia-sedia-jornada-estadual-sobre-hanseniase-conhecer-e-cuidar-de-janeiro-a-janeiro/",
         "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/capas-abo-.png"
     },
@@ -265,62 +112,215 @@
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "G1 Feira",
-        "data": "16:31",
+        "data": "17:26",
         "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/21/festival-literario-e-cultural-de-feira-de-santana.ghtml",
-        "img": "https://picsum.photos/seed/549/800/400"
-    },
-    {
-        "titulo": "Pablo, Toque Dez, Zé Ramalho, espetáculos e mais: veja opções de lazer em Feira de Santana e re",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "16:31",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/21/veja-opcoes-de-lazer-em-feira-de-santana-e-regiao.ghtml",
-        "img": "https://picsum.photos/seed/790/800/400"
-    },
-    {
-        "titulo": "Caso Kauan Gomes: análise do pedido de desaforamento do júri é adiada",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "16:31",
-        "url": "https://www.acordacidade.com.br/policia/adiado-pedido-de-desaforamento-do-caso-kauan-gomes-morto-por-engano-em-feira-de-santana/",
-        "img": "https://picsum.photos/seed/491/800/400"
-    },
-    {
-        "titulo": "ABO se torna  signatária do Manifesto ESG/ODS por Ambientes Sustentáveis, Saudáveis, Inteligent",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "16:31",
-        "url": "https://abo-ba.org.br/abo-se-torna-signataria-do-manifesto-esg-ods-por-ambientes-sustentaveis-saudaveis-inteligentes-e-felizes/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-23-at-09.02.46.jpeg"
+        "img": "https://picsum.photos/seed/150/800/400"
     },
     {
         "titulo": "Tomate, Timbalada e Aline Rosa são anunciadas como atrações da Micareta de Feira 2026",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Acorda Cidade",
-        "data": "16:31",
+        "data": "17:26",
         "url": "https://www.acordacidade.com.br/micareta/tomate-timbalada-e-aline-rosa-sao-anunciadas-como-atracoes-da-micareta-de-feira-2026/",
-        "img": "https://picsum.photos/seed/597/800/400"
+        "img": "https://picsum.photos/seed/26/800/400"
     },
     {
-        "titulo": "CRO-BA prestigia XVI Seminário Saúde Coletiva em Pauta na UEFS",
-        "resumo": "Atualização via Radar Consuldente.",
+        "titulo": "São João da ABO-BA celebra tradição, alegria e união da classe odontológica",
+        "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "16:31",
-        "url": "https://croba.org.br/cro-ba-prestigia-xvi-seminario-saude-coletiva-em-pauta-na-uefs/",
-        "img": "https://picsum.photos/seed/283/800/400"
+        "fonte": "ABO-BA",
+        "data": "17:26",
+        "url": "https://abo-ba.org.br/sao-joao-da-abo-ba-celebra-tradicao-alegria-e-uniao-da-classe-odontologica/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/2.png"
     },
     {
         "titulo": "48º Festival de Violeiros de Feira de Santana celebra tradição e integração com o FLIFS",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Folha do Estado",
-        "data": "16:31",
+        "data": "17:26",
         "url": "https://www.jornalfolhadoestado.com/feira-de-santana/48o-festival-de-violeiros-de-feira-de-santana-celebra-tradicao-e-integracao-com-o-flifs/",
-        "img": "https://picsum.photos/seed/186/800/400"
+        "img": "https://picsum.photos/seed/626/800/400"
+    },
+    {
+        "titulo": "PL do piso salarial avança na CAE do Senado",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "17:26",
+        "url": "https://croba.org.br/pl-do-piso-salarial-avanca-na-cae-do-senado/",
+        "img": "https://picsum.photos/seed/215/800/400"
+    },
+    {
+        "titulo": "CFO publica nova resolução e atualiza regras para habilitação em sedação em Odontologia",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "17:26",
+        "url": "https://website.cfo.org.br/cfo-publica-nova-resolucao-e-atualiza-regras-para-habilitacao-em-sedacao-em-odontologia/",
+        "img": "https://picsum.photos/seed/75/800/400"
+    },
+    {
+        "titulo": "Corpo de promotora que morreu afogada em Praia do Forte é levado para Manaus",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "17:26",
+        "url": "https://www.acordacidade.com.br/brasil/corpo-de-promotora-que-morreu-afogada-em-praia-do-forte-e-levado-para-manaus/",
+        "img": "https://picsum.photos/seed/354/800/400"
+    },
+    {
+        "titulo": "Qualify Combat 16: Dôglas &#8220;Puro Osso&#8221; busca cinturão na categoria até 57 kg neste s",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "17:26",
+        "url": "https://www.jornalfolhadoestado.com/esportes/qualify-combat-16-doglas-puro-osso-busca-cinturao-na-categoria-ate-57-kg-neste-sabado-em-salvador/",
+        "img": "https://picsum.photos/seed/185/800/400"
+    },
+    {
+        "titulo": "Luto no futebol: Morre Zé Humberto, ex-técnico da Juazeirense",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "17:26",
+        "url": "https://www.jornalfolhadoestado.com/esportes/luto-no-futebol-morre-ze-humberto-ex-tecnico-da-juazeirense/",
+        "img": "https://picsum.photos/seed/600/800/400"
+    },
+    {
+        "titulo": "Café &#038; Prosa promove reflexão sobre autocuidado na ABO-BA",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "17:26",
+        "url": "https://abo-ba.org.br/cafe-prosa-promove-reflexao-sobre-autocuidado-na-abo-ba/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/1.png"
+    },
+    {
+        "titulo": "CRO-BA participa de debate sobre canetas emagrecedoras no MP-BA",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "17:26",
+        "url": "https://croba.org.br/cro-ba-participa-de-debate-sobre-canetas-emagrecedoras-no-mp-ba/",
+        "img": "https://picsum.photos/seed/354/800/400"
+    },
+    {
+        "titulo": "PL que atualiza piso salarial de médicos e cirurgiões-dentistas avança no Senado Federal",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "17:26",
+        "url": "https://website.cfo.org.br/pl-que-atualiza-piso-salarial-de-medicos-e-cirurgioes-dentistas-avanca-no-senado-federal/",
+        "img": "https://picsum.photos/seed/260/800/400"
+    },
+    {
+        "titulo": "Conselho Federal de Odontologia proíbe uso de PMMA para fins estéticos",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "17:26",
+        "url": "https://website.cfo.org.br/conselho-federal-de-odontologia-proibe-uso-de-pmma-para-fins-esteticos/",
+        "img": "https://picsum.photos/seed/184/800/400"
+    },
+    {
+        "titulo": "CFO solicita ao MEC a suspensão da abertura de novos cursos e do aumento de vagas em Odontologi",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "17:26",
+        "url": "https://website.cfo.org.br/cfo-solicita-ao-mec-a-suspensao-da-abertura-de-novos-cursos-e-do-aumento-de-vagas-em-odontologia/",
+        "img": "https://picsum.photos/seed/137/800/400"
+    },
+    {
+        "titulo": "ABO se torna  signatária do Manifesto ESG/ODS por Ambientes Sustentáveis, Saudáveis, Inteligent",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "17:26",
+        "url": "https://abo-ba.org.br/abo-se-torna-signataria-do-manifesto-esg-ods-por-ambientes-sustentaveis-saudaveis-inteligentes-e-felizes/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-23-at-09.02.46.jpeg"
+    },
+    {
+        "titulo": "Assista aos telejornais da TV Subaé",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "17:26",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
+        "img": "https://picsum.photos/seed/724/800/400"
+    },
+    {
+        "titulo": "Polícia deflagra operação de combate o tráfico de drogas durante o Festival de Inverno Bahia",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "17:26",
+        "url": "https://www.acordacidade.com.br/policia/policia-deflagra-operacao-de-combate-o-trafico-de-drogas-durante-o-festival-de-inverno-bahia/",
+        "img": "https://picsum.photos/seed/648/800/400"
+    },
+    {
+        "titulo": "CFO repudia informações falsas divulgadas pelo CFM sobre a Resolução CFO nº 295/2026",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "17:26",
+        "url": "https://website.cfo.org.br/cfo-repudia-informacoes-falsas-divulgadas-pelo-cfm-sobre-a-resolucao-cfo-no-295-2026/",
+        "img": "https://picsum.photos/seed/868/800/400"
+    },
+    {
+        "titulo": "CFO esclarece decisão judicial sobre a Harmonização Orofacial",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "17:26",
+        "url": "https://website.cfo.org.br/cfo-esclarece-decisao-judicial-sobre-a-harmonizacao-orofacial/",
+        "img": "https://picsum.photos/seed/707/800/400"
+    },
+    {
+        "titulo": "Homem morre e dois ficam feridos após ataque a tiros dentro de bar no interior da Bahia",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "17:26",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/21/ataque-a-tiros-interior-da-bahia.ghtml",
+        "img": "https://picsum.photos/seed/282/800/400"
+    },
+    {
+        "titulo": "Ex-BBB Jonas Sulzbach sofre fratura e relata dificuldades",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "17:26",
+        "url": "https://www.acordacidade.com.br/entretenimento/famosos/ex-bbb-jonas-sulzbach-sofre-fratura-e-relata-dificuldades/",
+        "img": "https://picsum.photos/seed/522/800/400"
+    },
+    {
+        "titulo": "Quase 5 mil mesários vão atuar nas próximas eleições em Feira de Santana",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "17:26",
+        "url": "https://www.acordacidade.com.br/politica/quase-5-mil-mesarios-vao-atuar-nas-proximas-eleicoes-em-feira-de-santana/",
+        "img": "https://picsum.photos/seed/259/800/400"
+    },
+    {
+        "titulo": "Nota de Pesar – Dra. Winnie Adrielle",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "17:26",
+        "url": "https://croba.org.br/nota-de-pesar-dra-winnie-adrielle/",
+        "img": "https://picsum.photos/seed/315/800/400"
+    },
+    {
+        "titulo": "Contas de 2025 do CRO-BA são aprovadas sem ressalvas pelo CFO",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "17:26",
+        "url": "https://croba.org.br/contas-de-2025-do-cro-ba-sao-aprovadas-sem-ressalvas-pelo-cfo/",
+        "img": "https://picsum.photos/seed/107/800/400"
     }
 ]
