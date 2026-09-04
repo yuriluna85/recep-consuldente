@@ -1,326 +1,218 @@
 [
     {
-        "titulo": "Eleições 2026: veja como foi o dia dos candidatos ao governo da Bahia nesta quinta-feira ",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "07:54",
-        "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/09/03/veja-como-foi-o-dia-dos-candidatos-ao-governo-da-bahia-nesta-quinta-feira.ghtml",
-        "img": "https://picsum.photos/seed/249/800/400"
-    },
-    {
-        "titulo": "Inverno &#8220;quente&#8221; impacta negativamente vendas de roupas de frio em Feira de Santana",
+        "titulo": "Polícia Civil deflagra 2ª fase da Operação Paraguai contra tráfico e homicídios em município ba",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Acorda Cidade",
-        "data": "07:54",
-        "url": "https://www.acordacidade.com.br/feira-de-santana/inverno-quente-impacta-negativamente-vendas-de-roupas-de-frio-em-feira-de-santana/",
-        "img": "https://picsum.photos/seed/439/800/400"
+        "data": "12:31",
+        "url": "https://www.acordacidade.com.br/policia/policia-civil-deflagra-2a-fase-da-operacao-paraguai-contra-trafico-e-homicidios-em-municipio-baiano/",
+        "img": "https://picsum.photos/seed/253/800/400"
     },
     {
-        "titulo": "\nMicareta de Santo Estevão terá Toque Dez, Pagodart e Cheiro de Amor; confira programação",
+        "titulo": "Eu Te Explico #196: como prevenir afastamento laboral causado por saúde mental?",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "G1 Feira",
-        "data": "07:54",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/09/03/confira-programacao-da-micareta-de-santo-estevao.ghtml",
-        "img": "https://picsum.photos/seed/671/800/400"
-    },
-    {
-        "titulo": "Comissão da Mulher em Odontologia do CFO debate ações de enfrentamento à violência contra a mul",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "07:54",
-        "url": "https://croba.org.br/26885-2/",
-        "img": "https://picsum.photos/seed/14/800/400"
-    },
-    {
-        "titulo": "Área às margens da Lagoa Salgada, em Feira de Santana, é desapropriada",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "07:54",
-        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/area-as-margens-da-lagoa-salgada-em-feira-de-santana-e-desapropriada/",
-        "img": "https://picsum.photos/seed/94/800/400"
-    },
-    {
-        "titulo": "CRO-BA prestigia XVI Seminário Saúde Coletiva em Pauta na UEFS",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "07:54",
-        "url": "https://croba.org.br/cro-ba-prestigia-xvi-seminario-saude-coletiva-em-pauta-na-uefs/",
-        "img": "https://picsum.photos/seed/487/800/400"
-    },
-    {
-        "titulo": "Café &#038; Prosa promove reflexão sobre autocuidado na ABO-BA",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "07:54",
-        "url": "https://abo-ba.org.br/cafe-prosa-promove-reflexao-sobre-autocuidado-na-abo-ba/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/1.png"
-    },
-    {
-        "titulo": "CIEE oferece mais de 600 vagas de estágio e aprendizagem  em Feira e outras cidades",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "07:54",
-        "url": "https://www.jornalfolhadoestado.com/educacao/ciee-oferece-mais-de-600-vagas-de-estagio-e-aprendizagem-em-feira-e-outras-cidades/",
-        "img": "https://picsum.photos/seed/221/800/400"
-    },
-    {
-        "titulo": "MPT investiga mortes de três trabalhadores em acidentes de trabalho em cidades da Bahia",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "07:54",
-        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/mpt-investiga-mortes-de-tres-trabalhadores-em-acidentes-de-trabalho-em-cidades-da-bahia/",
-        "img": "https://picsum.photos/seed/571/800/400"
-    },
-    {
-        "titulo": "CRO-BA participa do Fórum Nacional de Fiscalização 2026 e acompanha lançamento de novo Manual d",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "07:54",
-        "url": "https://croba.org.br/cro-ba-participa-do-forum-nacional-de-fiscalizacao-2026-e-acompanha-lancamento-de-novo-manual-do-sistema-cfo-cros/",
-        "img": "https://picsum.photos/seed/908/800/400"
-    },
-    {
-        "titulo": "Piso dos cirurgiões-dentistas avança e chega ao Plenário do Senado",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "07:54",
-        "url": "https://website.cfo.org.br/piso-salarial-dos-cirurgioes-dentistas-avanca-no-senado-e-segue-para-o-plenario/",
-        "img": "https://picsum.photos/seed/177/800/400"
-    },
-    {
-        "titulo": "São João da ABO-BA celebra tradição, alegria e união da classe odontológica",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "07:54",
-        "url": "https://abo-ba.org.br/sao-joao-da-abo-ba-celebra-tradicao-alegria-e-uniao-da-classe-odontologica/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/2.png"
-    },
-    {
-        "titulo": "Nota de Repúdio e solidariedade à cirurgiã-dentista Giullia Falcão",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "07:54",
-        "url": "https://website.cfo.org.br/nota-de-repudio-e-solidariedade-a-cirurgia-dentista-giullia-falcao/",
-        "img": "https://picsum.photos/seed/933/800/400"
-    },
-    {
-        "titulo": "Café com a Presidente reúne profissionais da Odontologia em Barreiras",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "07:54",
-        "url": "https://croba.org.br/cafe-com-a-presidente-reune-profissionais-da-odontologia-em-barreiras/",
-        "img": "https://picsum.photos/seed/86/800/400"
-    },
-    {
-        "titulo": "CFO esclarece efeitos de decisão judicial sobre a Resolução nº 295/2026",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "07:54",
-        "url": "https://website.cfo.org.br/cfo-esclarece-efeitos-de-decisao-judicial-sobre-a-resolucao-no-295-2026/",
-        "img": "https://picsum.photos/seed/371/800/400"
-    },
-    {
-        "titulo": "MP do Trabalho abre inquéritos para investigar mortes de três trabalhadores na Bahia",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "07:54",
-        "url": "https://www.acordacidade.com.br/bahia/mp-do-trabalho-abre-inqueritos-para-investigar-mortes-de-tres-trabalhadores-na-bahia/",
-        "img": "https://picsum.photos/seed/975/800/400"
-    },
-    {
-        "titulo": "MPT investiga mortes de três trabalhadores em acidentes de trabalho em cidades da Bahia",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "07:54",
-        "url": "https://g1.globo.com/ba/bahia/noticia/2026/09/03/mpt-investiga-mortes-de-trabalhadores-na-bahia.ghtml",
-        "img": "https://picsum.photos/seed/484/800/400"
-    },
-    {
-        "titulo": "Parque de Exposições terá horário antecipado de abertura para a 47ª Expofeira",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "07:54",
-        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/parque-de-exposicoes-tera-horario-antecipado-de-abertura-para-a-47a-expofeira/",
-        "img": "https://picsum.photos/seed/995/800/400"
-    },
-    {
-        "titulo": "A nova era da harmonização orofacial começa com conhecimento de verdade e você pode fazer parte",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "07:54",
-        "url": "https://abo-ba.org.br/a-nova-era-da-harmonizacao-orofacial-comeca-com-conhecimento-de-verdade-e-voce-pode-fazer-parte/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/Black-and-Gold-Illustrated-Webinar-Event-Instagram-Post-1920-x-1080-px.png"
+        "data": "12:31",
+        "url": "https://g1.globo.com/ba/bahia/podcast/eu-te-explico/noticia/2026/09/04/eu-te-explico-196-como-prevenir-afastamento-laboral-causado-por-saude-mental.ghtml",
+        "img": "https://picsum.photos/seed/218/800/400"
     },
     {
         "titulo": "Assista aos telejornais da TV Subaé",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "G1 Feira",
-        "data": "07:54",
+        "data": "12:31",
         "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
-        "img": "https://picsum.photos/seed/990/800/400"
+        "img": "https://picsum.photos/seed/271/800/400"
     },
     {
-        "titulo": "STF determina comprovação de renda para obter gratuidade em processos trabalhistas",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "07:54",
-        "url": "https://www.acordacidade.com.br/justica/stf-determina-comprovacao-de-renda-para-obter-gratuidade-em-processos-trabalhistas/",
-        "img": "https://picsum.photos/seed/662/800/400"
-    },
-    {
-        "titulo": "Casas Bahia pede proteção contra corte de mais contratos essenciais e cita ameaça de fornecedor",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "07:54",
-        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/casas-bahia-pede-protecao-contra-corte-de-mais-contratos-essenciais-e-cita-ameaca-de-fornecedores/",
-        "img": "https://picsum.photos/seed/306/800/400"
-    },
-    {
-        "titulo": "Ponto e Vírgula  04/09",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "07:54",
-        "url": "https://www.jornalfolhadoestado.com/blogs/ponto-e-virgula/ponto-e-virgula-04-09/",
-        "img": "https://picsum.photos/seed/829/800/400"
-    },
-    {
-        "titulo": "ABO se torna  signatária do Manifesto ESG/ODS por Ambientes Sustentáveis, Saudáveis, Inteligent",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "07:54",
-        "url": "https://abo-ba.org.br/abo-se-torna-signataria-do-manifesto-esg-ods-por-ambientes-sustentaveis-saudaveis-inteligentes-e-felizes/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-23-at-09.02.46.jpeg"
-    },
-    {
-        "titulo": "Ninguém acerta seis dezenas da Mega-Sena, e prêmio acumula em R$ 48 milhões",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "07:54",
-        "url": "https://www.acordacidade.com.br/brasil/ninguem-acerta-seis-dezenas-da-mega-sena-e-premio-acumula-em-r-48-milhoes/",
-        "img": "https://picsum.photos/seed/419/800/400"
-    },
-    {
-        "titulo": "Partiu Estágio abre mais de 5.700 vagas para estudantes universitários na Bahia",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "07:54",
-        "url": "https://www.acordacidade.com.br/empregos/partiu-estagio-abre-mais-de-5-700-vagas-para-estudantes-universitarios-na-bahia/",
-        "img": "https://picsum.photos/seed/305/800/400"
-    },
-    {
-        "titulo": "ABO Bahia sedia Jornada Estadual sobre Hanseníase: “Conhecer e Cuidar, de Janeiro a Janeiro”",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "07:54",
-        "url": "https://abo-ba.org.br/abo-bahia-sedia-jornada-estadual-sobre-hanseniase-conhecer-e-cuidar-de-janeiro-a-janeiro/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/capas-abo-.png"
-    },
-    {
-        "titulo": "São João ABO-BA: tradição, alegria e bons encontros.",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "07:54",
-        "url": "https://abo-ba.org.br/sao-joao-abo-ba-tradicao-alegria-e-bons-encontros/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-30-at-11.35.37.jpeg"
-    },
-    {
-        "titulo": "CIEE oferece mais de 600 vagas de estágio e aprendizagem na Bahia; veja como se candidatar",
+        "titulo": "Vaquejada de Serrinha, Expofeira, espetáculos e mais: veja opções de lazer em Feira de Santana ",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "G1 Feira",
-        "data": "07:54",
-        "url": "https://g1.globo.com/ba/bahia/blogdoemprego/noticia/2026/09/03/ciee-oferece-vagas-de-estagio-e-aprendizagem-na-bahia-veja-como-se-candidatar.ghtml",
-        "img": "https://picsum.photos/seed/124/800/400"
+        "data": "12:31",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/09/04/veja-opcoes-de-lazer-em-feira-de-santana-e-regiao.ghtml",
+        "img": "https://picsum.photos/seed/370/800/400"
     },
     {
         "titulo": "Novo manual de Fiscalização",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "07:54",
+        "data": "12:30",
         "url": "https://website.cfo.org.br/fiscalizacao/",
         "img": "https://website.cfo.org.br/wp-content/uploads/2026/08/manual_fiscalizacao.png"
+    },
+    {
+        "titulo": "Piso dos cirurgiões-dentistas avança e chega ao Plenário do Senado",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "12:30",
+        "url": "https://website.cfo.org.br/piso-salarial-dos-cirurgioes-dentistas-avanca-no-senado-e-segue-para-o-plenario/",
+        "img": "https://picsum.photos/seed/180/800/400"
+    },
+    {
+        "titulo": "Nota de Repúdio e solidariedade à cirurgiã-dentista Giullia Falcão",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "12:30",
+        "url": "https://website.cfo.org.br/nota-de-repudio-e-solidariedade-a-cirurgia-dentista-giullia-falcao/",
+        "img": "https://picsum.photos/seed/862/800/400"
+    },
+    {
+        "titulo": "Rodovias do Litoral Norte devem receber mais de 507 mil veículos no feriado de 7 de Setembro",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "12:31",
+        "url": "https://www.acordacidade.com.br/bahia/rodovias-da-bahia-devem-receber-mais-de-507-mil-veiculos-no-feriado-de-7-de-setembro/",
+        "img": "https://picsum.photos/seed/716/800/400"
+    },
+    {
+        "titulo": "Projetos de inclusão para pessoas com TEA são aprovados em primeira discussão na Câmara de Feir",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "12:31",
+        "url": "https://www.jornalfolhadoestado.com/politica/projetos-de-inclusao-para-pessoas-com-tea-sao-aprovados-em-primeira-discussao-na-camara-de-feira-de-santana/",
+        "img": "https://picsum.photos/seed/289/800/400"
     },
     {
         "titulo": "CFO esclarece decisão judicial sobre a Harmonização Orofacial",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "07:54",
+        "data": "12:30",
         "url": "https://website.cfo.org.br/cfo-esclarece-decisao-judicial-sobre-a-harmonizacao-orofacial/",
-        "img": "https://picsum.photos/seed/467/800/400"
+        "img": "https://picsum.photos/seed/718/800/400"
     },
     {
-        "titulo": "Rede Estadual atualiza cronograma do Encontro Estudantil; resultado preliminar sai nesta sexta ",
+        "titulo": "INSS revela beneficiários que podem receber pagamento duplo",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "07:54",
-        "url": "https://www.acordacidade.com.br/educacao/rede-estadual-atualiza-cronograma-do-encontro-estudantil-resultado-preliminar-sai-nesta-sexta-4/",
-        "img": "https://picsum.photos/seed/691/800/400"
+        "fonte": "Folha do Estado",
+        "data": "12:31",
+        "url": "https://www.jornalfolhadoestado.com/economia/inss-revela-beneficiarios-que-podem-receber-pagamento-duplo/",
+        "img": "https://picsum.photos/seed/185/800/400"
     },
     {
         "titulo": "CFO lança novo Manual de Fiscalização da Odontologia",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "07:54",
+        "data": "12:30",
         "url": "https://website.cfo.org.br/cfo-lanca-novo-manual-de-fiscalizacao-da-odontologia/",
         "img": "https://website.cfo.org.br/wp-content/uploads/2026/08/manual-de-fiscalizacao-capa.png"
     },
     {
-        "titulo": "COBRAC 2026 reúne especialistas e conta com representação do CRO-BA",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "07:54",
-        "url": "https://croba.org.br/cobrac-2026-reune-especialistas-e-conta-com-representacao-do-cro-ba/",
-        "img": "https://picsum.photos/seed/354/800/400"
+        "titulo": "Instituto do qual Mendonça se afastou recebeu R$ 11,5 milhões de órgãos públicos sem licitação",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "12:31",
+        "url": "https://www.jornalfolhadoestado.com/politica/instituto-do-qual-mendonca-se-afastou-recebeu-r-115-milhoes-de-orgaos-publicos-sem-licitacao/",
+        "img": "https://picsum.photos/seed/614/800/400"
     },
     {
-        "titulo": "Jovem morre após ser esmagado por peça de metal enquanto trabalhava em Feira de Santana",
+        "titulo": "CFO esclarece efeitos de decisão judicial sobre a Resolução nº 295/2026",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "12:30",
+        "url": "https://website.cfo.org.br/cfo-esclarece-efeitos-de-decisao-judicial-sobre-a-resolucao-no-295-2026/",
+        "img": "https://picsum.photos/seed/94/800/400"
+    },
+    {
+        "titulo": "Em áudios, Nikolas pede ajuda a Vorcaro e diz: &#8216;Estou à disposição&#8217;",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "12:31",
+        "url": "https://www.jornalfolhadoestado.com/politica/em-audios-nikolas-pede-ajuda-a-vorcaro-e-diz-estou-a-disposicao/",
+        "img": "https://picsum.photos/seed/84/800/400"
+    },
+    {
+        "titulo": "Sete pessoas são presas em operação contra grupo que fazia ‘delivery’ de drogas na Bahia",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "G1 Feira",
-        "data": "07:54",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/09/03/jovem-morre-apos-sofrer-acidente-de-trabalho-em-feira-de-santana.ghtml",
-        "img": "https://picsum.photos/seed/601/800/400"
+        "data": "12:31",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/09/04/operacao-linha-sombria-interior-da-bahia.ghtml",
+        "img": "https://picsum.photos/seed/837/800/400"
     },
     {
-        "titulo": "Radar de Eventos",
+        "titulo": "Alcolumbre deixa fim da 6&#215;1 para depois do 1º turno da eleição",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "12:31",
+        "url": "https://www.jornalfolhadoestado.com/politica/alcolumbre-deixa-fim-da-6x1-para-depois-do-1o-turno-da-eleicao/",
+        "img": "https://picsum.photos/seed/485/800/400"
+    },
+    {
+        "titulo": "Mendonça, Moraes, PGR e Polícia Federal têm 5 dias para prestarem informações sobre crise no ST",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "12:31",
+        "url": "https://www.acordacidade.com.br/justica/mendonca-moraes-pgr-e-policia-federal-tem-5-dias-para-prestarem-informacoes-sobre-crise-no-stf/",
+        "img": "https://picsum.photos/seed/564/800/400"
+    },
+    {
+        "titulo": "Caixa passa a oferecer modalidade de Pix parcelado",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "12:31",
+        "url": "https://www.jornalfolhadoestado.com/economia/caixa-passa-a-oferecer-modalidade-de-pix-parcelado/",
+        "img": "https://picsum.photos/seed/944/800/400"
+    },
+    {
+        "titulo": "Eleições 2026: veja como foi o dia dos candidatos ao governo da Bahia nesta quinta-feira ",
         "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "07:54",
-        "url": "https://croba.org.br/radar-de-eventos/",
-        "img": "https://picsum.photos/seed/774/800/400"
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "12:31",
+        "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/09/03/veja-como-foi-o-dia-dos-candidatos-ao-governo-da-bahia-nesta-quinta-feira.ghtml",
+        "img": "https://picsum.photos/seed/233/800/400"
+    },
+    {
+        "titulo": "Veja o que abre e fecha em Feira de Santana no feriado de 7 de setembro",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "12:31",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/09/04/veja-o-que-abre-e-fecha-em-feira-de-santana.ghtml",
+        "img": "https://picsum.photos/seed/570/800/400"
+    },
+    {
+        "titulo": "PM apreende farta quantidade de drogas após descobrir depósito em bairro de Salvador",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "12:31",
+        "url": "https://www.acordacidade.com.br/policia/pm-apreende-farta-quantidade-de-drogas-apos-descobrir-deposito-em-bairro-de-salvador/",
+        "img": "https://picsum.photos/seed/771/800/400"
+    },
+    {
+        "titulo": "André Mendonça pede afastamento do ministro Alexandre de Moraes em meio à crise no STF",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "12:31",
+        "url": "https://www.acordacidade.com.br/politica/andre-mendonca-pede-afastamento-do-ministro-alexandre-de-moraes-em-meio-a-crise-no-stf/",
+        "img": "https://picsum.photos/seed/612/800/400"
+    },
+    {
+        "titulo": "Confira a agenda dos candidatos à Presidência nesta sexta (4)",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "12:31",
+        "url": "https://www.acordacidade.com.br/dilton-e-feito/confira-a-agenda-dos-candidatos-a-presidencia-nesta-sexta-4/",
+        "img": "https://picsum.photos/seed/20/800/400"
     }
 ]
