@@ -1,272 +1,326 @@
 [
     {
-        "titulo": "A caridade cabe em qualquer lugar",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "09:58",
-        "url": "https://www.acordacidade.com.br/mensagem-do-dia/a-caridade-cabe-em-qualquer-lugar/",
-        "img": "https://picsum.photos/seed/93/800/400"
-    },
-    {
-        "titulo": "Defensores públicos ganham destaque em campanha pelo acesso à Justiça",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "09:58",
-        "url": "https://www.acordacidade.com.br/dilton-e-feito/defensores-publicos-ganham-destaque-em-campanha-pelo-acesso-a-justica/",
-        "img": "https://picsum.photos/seed/436/800/400"
-    },
-    {
-        "titulo": "CFO esclarece decisão judicial sobre a Harmonização Orofacial",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "09:58",
-        "url": "https://website.cfo.org.br/cfo-esclarece-decisao-judicial-sobre-a-harmonizacao-orofacial/",
-        "img": "https://picsum.photos/seed/680/800/400"
-    },
-    {
-        "titulo": "Confira a programação completa da 47ª Expofeira de Feira de Santana",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "09:58",
-        "url": "https://www.acordacidade.com.br/feira-de-santana/confira-a-programacao-completa-da-47a-expofeira-de-feira-de-santana/",
-        "img": "https://picsum.photos/seed/39/800/400"
-    },
-    {
-        "titulo": "ABO Bahia sedia Jornada Estadual sobre Hanseníase: “Conhecer e Cuidar, de Janeiro a Janeiro”",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "09:58",
-        "url": "https://abo-ba.org.br/abo-bahia-sedia-jornada-estadual-sobre-hanseniase-conhecer-e-cuidar-de-janeiro-a-janeiro/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/capas-abo-.png"
-    },
-    {
-        "titulo": "Proposta orçamentária prevê preenchimento de 53.530 vagas no setor público",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "09:58",
-        "url": "https://www.acordacidade.com.br/politica/proposta-orcamentaria-preve-preenchimento-de-53-530-vagas-no-setor-publico/",
-        "img": "https://picsum.photos/seed/896/800/400"
-    },
-    {
-        "titulo": "ACM Neto destaca planos para gerar emprego e renda durante caminhada em Salvador",
+        "titulo": "ExpoCruz 2026 terá shows de Jau, Rachel Reis e Devinho Novaes em Cruz das Almas; veja programaç",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "G1 Feira",
-        "data": "09:58",
-        "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/09/04/agenda-de-campanha-acm-neto.ghtml",
-        "img": "https://picsum.photos/seed/572/800/400"
+        "data": "13:21",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/09/05/expocruz-2026-na-bahia.ghtml",
+        "img": "https://picsum.photos/seed/975/800/400"
     },
     {
-        "titulo": "CFO lança novo Manual de Fiscalização da Odontologia",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "09:58",
-        "url": "https://website.cfo.org.br/cfo-lanca-novo-manual-de-fiscalizacao-da-odontologia/",
-        "img": "https://website.cfo.org.br/wp-content/uploads/2026/08/manual-de-fiscalizacao-capa.png"
-    },
-    {
-        "titulo": "SENAI Bahia abre inscrições para curso gratuito na área de energias renováveis; veja quem pode ",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "09:58",
-        "url": "https://www.acordacidade.com.br/educacao/senai-bahia-abre-inscricoes-para-curso-gratuito-na-area-de-energias-renovaveis-veja-quem-pode-participar/",
-        "img": "https://picsum.photos/seed/40/800/400"
-    },
-    {
-        "titulo": "São João ABO-BA: tradição, alegria e bons encontros.",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "09:58",
-        "url": "https://abo-ba.org.br/sao-joao-abo-ba-tradicao-alegria-e-bons-encontros/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-30-at-11.35.37.jpeg"
-    },
-    {
-        "titulo": "SSP monta esquema especial com Reconhecimento Facial e mais de 300 policiais  para Vaquejada de",
+        "titulo": "Bahia amplia segurança alimentar com entrega  novas cozinhas comunitárias em Feira  e outros mu",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Folha do Estado",
-        "data": "09:58",
-        "url": "https://www.jornalfolhadoestado.com/eventos-culturais/ssp-monta-esquema-especial-com-reconhecimento-facial-e-mais-de-300-policiais-para-vaquejada-de-serrinha/",
-        "img": "https://picsum.photos/seed/810/800/400"
-    },
-    {
-        "titulo": "43º TOA reúne jovens a partir de 15 anos em três dias de formação e fé, em Feira de Santana",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "09:58",
-        "url": "https://www.acordacidade.com.br/agenda-cultural/43o-toa-reune-jovens-a-partir-de-15-anos-em-tres-dias-de-formacao-e-fe-em-feira-de-santana/",
-        "img": "https://picsum.photos/seed/573/800/400"
-    },
-    {
-        "titulo": "São João da ABO-BA celebra tradição, alegria e união da classe odontológica",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "09:58",
-        "url": "https://abo-ba.org.br/sao-joao-da-abo-ba-celebra-tradicao-alegria-e-uniao-da-classe-odontologica/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/2.png"
-    },
-    {
-        "titulo": "De cara nova: Asa Branca comemora reforma do campo de futebol com torneio",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "09:58",
-        "url": "https://www.jornalfolhadoestado.com/esportes/de-cara-nova-asa-branca-comemora-reforma-do-campo-de-futebol-com-torneio/",
-        "img": "https://picsum.photos/seed/393/800/400"
-    },
-    {
-        "titulo": "Novo manual de Fiscalização",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "09:58",
-        "url": "https://website.cfo.org.br/fiscalizacao/",
-        "img": "https://website.cfo.org.br/wp-content/uploads/2026/08/manual_fiscalizacao.png"
-    },
-    {
-        "titulo": "Quatro homens invadem fazenda e roubam caminhonete, trator e motocicletas na Bahia",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "09:58",
-        "url": "https://www.jornalfolhadoestado.com/policia/quatro-homens-invadem-fazenda-e-roubam-caminhonete-trator-e-motocicletas-na-bahia/",
-        "img": "https://picsum.photos/seed/886/800/400"
-    },
-    {
-        "titulo": "ABO se torna  signatária do Manifesto ESG/ODS por Ambientes Sustentáveis, Saudáveis, Inteligent",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "09:58",
-        "url": "https://abo-ba.org.br/abo-se-torna-signataria-do-manifesto-esg-ods-por-ambientes-sustentaveis-saudaveis-inteligentes-e-felizes/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-23-at-09.02.46.jpeg"
-    },
-    {
-        "titulo": "Sindicância da Sedur ouve servidores após denúncia de Galeguinho SPA",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "09:58",
-        "url": "https://www.jornalfolhadoestado.com/politica/sindicancia-da-sedur-ouve-servidores-apos-denuncia-de-galeguinho-spa/",
-        "img": "https://picsum.photos/seed/685/800/400"
-    },
-    {
-        "titulo": "CFO esclarece efeitos de decisão judicial sobre a Resolução nº 295/2026",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "09:58",
-        "url": "https://website.cfo.org.br/cfo-esclarece-efeitos-de-decisao-judicial-sobre-a-resolucao-no-295-2026/",
-        "img": "https://picsum.photos/seed/521/800/400"
-    },
-    {
-        "titulo": "\nRonaldo Mansur destaca propostas para ampliar atendimentos de saúde no interior da Bahia",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "09:58",
-        "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/09/04/agenda-de-campanha-de-ronaldo-mansur.ghtml",
-        "img": "https://picsum.photos/seed/539/800/400"
-    },
-    {
-        "titulo": "Super El Niño: Neoenergia Coelba investe mais de R$ 100 milhões para reforçar rede elétrica no ",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "09:58",
-        "url": "https://www.jornalfolhadoestado.com/municipios/super-el-nino-neoenergia-coelba-investe-mais-de-r-100-milhoes-para-reforcar-rede-eletrica-no-centro-norte-da-bahia/",
-        "img": "https://picsum.photos/seed/28/800/400"
-    },
-    {
-        "titulo": "Nota de Repúdio e solidariedade à cirurgiã-dentista Giullia Falcão",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "09:58",
-        "url": "https://website.cfo.org.br/nota-de-repudio-e-solidariedade-a-cirurgia-dentista-giullia-falcao/",
-        "img": "https://picsum.photos/seed/877/800/400"
-    },
-    {
-        "titulo": "Jerônimo Rodrigues destaca duplicação da BR-101 em agenda no sul da Bahia",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "09:58",
-        "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/09/04/agenda-de-campanha-de-jeronimo-rodrigues.ghtml",
-        "img": "https://picsum.photos/seed/596/800/400"
-    },
-    {
-        "titulo": "Assista aos telejornais da TV Subaé",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "09:58",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
-        "img": "https://picsum.photos/seed/776/800/400"
-    },
-    {
-        "titulo": "Piso dos cirurgiões-dentistas avança e chega ao Plenário do Senado",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "09:58",
-        "url": "https://website.cfo.org.br/piso-salarial-dos-cirurgioes-dentistas-avanca-no-senado-e-segue-para-o-plenario/",
-        "img": "https://picsum.photos/seed/973/800/400"
-    },
-    {
-        "titulo": "Eleições 2026: veja como foi o dia dos candidatos ao governo da Bahia nesta sexta-feira",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "09:58",
-        "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/09/04/veja-como-foi-o-dia-dos-candidatos-ao-governo-da-bahia-nesta-sexta-feira.ghtml",
-        "img": "https://picsum.photos/seed/318/800/400"
+        "data": "13:21",
+        "url": "https://www.jornalfolhadoestado.com/municipios/bahia-amplia-seguranca-alimentar-com-entrega-novas-cozinhas-comunitarias-em-feira-e-outros-municipios/",
+        "img": "https://picsum.photos/seed/624/800/400"
     },
     {
         "titulo": "A nova era da harmonização orofacial começa com conhecimento de verdade e você pode fazer parte",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "ABO-BA",
-        "data": "09:58",
+        "data": "13:21",
         "url": "https://abo-ba.org.br/a-nova-era-da-harmonizacao-orofacial-comeca-com-conhecimento-de-verdade-e-voce-pode-fazer-parte/",
         "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/Black-and-Gold-Illustrated-Webinar-Event-Instagram-Post-1920-x-1080-px.png"
     },
     {
-        "titulo": "Bahia registrou mais de 500 casos de sequestro e cárcere privado em 2025, diz polícia",
+        "titulo": "SSP monta esquema especial com Reconhecimento Facial e mais de 300 policiais  para Vaquejada de",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "13:21",
+        "url": "https://www.jornalfolhadoestado.com/eventos-culturais/ssp-monta-esquema-especial-com-reconhecimento-facial-e-mais-de-300-policiais-para-vaquejada-de-serrinha/",
+        "img": "https://picsum.photos/seed/736/800/400"
+    },
+    {
+        "titulo": "Ação integrada prende no RJ líder de organização criminosa com atuação em Salvador",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "13:21",
+        "url": "https://www.acordacidade.com.br/policia/acao-integrada-prende-no-rj-lider-de-organizacao-criminosa-com-atuacao-em-salvador/",
+        "img": "https://picsum.photos/seed/800/800/400"
+    },
+    {
+        "titulo": "Super El Niño: Neoenergia Coelba investe mais de R$ 100 milhões para reforçar rede elétrica no ",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "13:21",
+        "url": "https://www.jornalfolhadoestado.com/municipios/super-el-nino-neoenergia-coelba-investe-mais-de-r-100-milhoes-para-reforcar-rede-eletrica-no-centro-norte-da-bahia/",
+        "img": "https://picsum.photos/seed/317/800/400"
+    },
+    {
+        "titulo": "Piso dos cirurgiões-dentistas avança e chega ao Plenário do Senado",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "13:21",
+        "url": "https://website.cfo.org.br/piso-salarial-dos-cirurgioes-dentistas-avanca-no-senado-e-segue-para-o-plenario/",
+        "img": "https://picsum.photos/seed/127/800/400"
+    },
+    {
+        "titulo": "Mais de 158 milhões de brasileiros estão aptos a votar nas eleições 2026; mulheres são maioria",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "13:21",
+        "url": "https://www.acordacidade.com.br/politica/eleicoes/mais-de-158-milhoes-de-brasileiros-estao-aptos-a-votar-nas-eleicoes-2026-mulheres-sao-maioria/",
+        "img": "https://picsum.photos/seed/940/800/400"
+    },
+    {
+        "titulo": "Café com a Presidente reúne profissionais da Odontologia em Barreiras",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "13:21",
+        "url": "https://croba.org.br/cafe-com-a-presidente-reune-profissionais-da-odontologia-em-barreiras/",
+        "img": "https://picsum.photos/seed/983/800/400"
+    },
+    {
+        "titulo": "Nota de Repúdio e solidariedade à cirurgiã-dentista Giullia Falcão",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "13:21",
+        "url": "https://website.cfo.org.br/nota-de-repudio-e-solidariedade-a-cirurgia-dentista-giullia-falcao/",
+        "img": "https://picsum.photos/seed/294/800/400"
+    },
+    {
+        "titulo": "COBRAC 2026 reúne especialistas e conta com representação do CRO-BA",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "13:21",
+        "url": "https://croba.org.br/cobrac-2026-reune-especialistas-e-conta-com-representacao-do-cro-ba/",
+        "img": "https://picsum.photos/seed/638/800/400"
+    },
+    {
+        "titulo": "Justiça condena ex-governador do Rio por esquema de regalias durante prisão",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "13:21",
+        "url": "https://www.acordacidade.com.br/dilton-e-feito/justica-condena-ex-governador-do-rio-por-esquema-de-regalias-durante-prisao/",
+        "img": "https://picsum.photos/seed/264/800/400"
+    },
+    {
+        "titulo": "Cursos gratuitos de qualificação profissional têm inscrições abertas no interior da Bahia; veja",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "G1 Feira",
-        "data": "09:58",
-        "url": "https://g1.globo.com/ba/bahia/noticia/2026/09/05/balanco-casos-de-sequestro-e-carcere-privado-na-bahia.ghtml",
-        "img": "https://picsum.photos/seed/338/800/400"
+        "data": "13:21",
+        "url": "https://g1.globo.com/ba/bahia/blogdoemprego/noticia/2026/09/05/vagas-gratuitas-cursos-na-bahia.ghtml",
+        "img": "https://picsum.photos/seed/704/800/400"
     },
     {
-        "titulo": "Café &#038; Prosa promove reflexão sobre autocuidado na ABO-BA",
+        "titulo": "Homem é morto com golpes de facão após confrontar suspeito de furto de fios em zona rural da Ba",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "13:21",
+        "url": "https://g1.globo.com/ba/bahia/noticia/2026/09/05/homem-e-morto-com-golpes-de-facao-em-zona-rural-da-bahia.ghtml",
+        "img": "https://picsum.photos/seed/795/800/400"
+    },
+    {
+        "titulo": "Sindicância da Sedur ouve servidores após denúncia de Galeguinho SPA",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "13:21",
+        "url": "https://www.jornalfolhadoestado.com/politica/sindicancia-da-sedur-ouve-servidores-apos-denuncia-de-galeguinho-spa/",
+        "img": "https://picsum.photos/seed/749/800/400"
+    },
+    {
+        "titulo": "CFO esclarece decisão judicial sobre a Harmonização Orofacial",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "13:21",
+        "url": "https://website.cfo.org.br/cfo-esclarece-decisao-judicial-sobre-a-harmonizacao-orofacial/",
+        "img": "https://picsum.photos/seed/253/800/400"
+    },
+    {
+        "titulo": "Homem é preso após mostrar partes íntimas para adolescentes de 10 e 13 anos em Feira de Santana",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "13:21",
+        "url": "https://www.acordacidade.com.br/policia/homem-e-preso-apos-mostrar-partes-intimas-para-adolescentes-de-10-e-13-anos-em-feira-de-santana/",
+        "img": "https://picsum.photos/seed/59/800/400"
+    },
+    {
+        "titulo": "Nos pênaltis, Bahia bate Palmeiras e avança para semifinais do Brasileirão feminino",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "13:21",
+        "url": "https://www.acordacidade.com.br/esportes/produtores-rurais-ganham-novo-incentivo-para-renegociar-dividas-ligadas-a-eventos-climaticos/",
+        "img": "https://picsum.photos/seed/77/800/400"
+    },
+    {
+        "titulo": "\nRonaldo Mansur destaca propostas para ampliar atendimentos de saúde no interior da Bahia",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "13:21",
+        "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/09/04/agenda-de-campanha-de-ronaldo-mansur.ghtml",
+        "img": "https://picsum.photos/seed/856/800/400"
+    },
+    {
+        "titulo": "CFO esclarece efeitos de decisão judicial sobre a Resolução nº 295/2026",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "13:21",
+        "url": "https://website.cfo.org.br/cfo-esclarece-efeitos-de-decisao-judicial-sobre-a-resolucao-no-295-2026/",
+        "img": "https://picsum.photos/seed/814/800/400"
+    },
+    {
+        "titulo": "CRO-BA prestigia XVI Seminário Saúde Coletiva em Pauta na UEFS",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "13:21",
+        "url": "https://croba.org.br/cro-ba-prestigia-xvi-seminario-saude-coletiva-em-pauta-na-uefs/",
+        "img": "https://picsum.photos/seed/474/800/400"
+    },
+    {
+        "titulo": "Eleições 2026: veja como foi o dia dos candidatos ao governo da Bahia nesta sexta-feira",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "13:21",
+        "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/09/04/veja-como-foi-o-dia-dos-candidatos-ao-governo-da-bahia-nesta-sexta-feira.ghtml",
+        "img": "https://picsum.photos/seed/327/800/400"
+    },
+    {
+        "titulo": "PM já recuperou mais de 2 mil celulares durante nova fase da Operação Mobile 360° na Bahia",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "13:21",
+        "url": "https://www.acordacidade.com.br/policia/pm-ja-recuperou-mais-de-2-mil-celulares-durante-nova-fase-da-operacao-mobile-360-na-bahia/",
+        "img": "https://picsum.photos/seed/871/800/400"
+    },
+    {
+        "titulo": "São João da ABO-BA celebra tradição, alegria e união da classe odontológica",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "ABO-BA",
-        "data": "09:58",
-        "url": "https://abo-ba.org.br/cafe-prosa-promove-reflexao-sobre-autocuidado-na-abo-ba/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/1.png"
+        "data": "13:21",
+        "url": "https://abo-ba.org.br/sao-joao-da-abo-ba-celebra-tradicao-alegria-e-uniao-da-classe-odontologica/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/2.png"
+    },
+    {
+        "titulo": "ABO Bahia sedia Jornada Estadual sobre Hanseníase: “Conhecer e Cuidar, de Janeiro a Janeiro”",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "13:21",
+        "url": "https://abo-ba.org.br/abo-bahia-sedia-jornada-estadual-sobre-hanseniase-conhecer-e-cuidar-de-janeiro-a-janeiro/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/capas-abo-.png"
+    },
+    {
+        "titulo": "Novo manual de Fiscalização",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "13:21",
+        "url": "https://website.cfo.org.br/fiscalizacao/",
+        "img": "https://website.cfo.org.br/wp-content/uploads/2026/08/manual_fiscalizacao.png"
+    },
+    {
+        "titulo": "CFO lança novo Manual de Fiscalização da Odontologia",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "13:21",
+        "url": "https://website.cfo.org.br/cfo-lanca-novo-manual-de-fiscalizacao-da-odontologia/",
+        "img": "https://website.cfo.org.br/wp-content/uploads/2026/08/manual-de-fiscalizacao-capa.png"
     },
     {
         "titulo": "Bancários da Caixa, BB e Banco do Nordeste anunciam greve por tempo indeterminado em Feira de S",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Folha do Estado",
-        "data": "09:58",
+        "data": "13:21",
         "url": "https://www.jornalfolhadoestado.com/feira-de-santana/bancarios-da-caixa-bb-e-banco-do-nordeste-anunciam-greve-por-tempo-indeterminado-em-feira-de-santana/",
-        "img": "https://picsum.photos/seed/348/800/400"
+        "img": "https://picsum.photos/seed/541/800/400"
+    },
+    {
+        "titulo": "Bahia registrou mais de 500 casos de sequestro e cárcere privado em 2025, diz polícia",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "13:21",
+        "url": "https://g1.globo.com/ba/bahia/noticia/2026/09/05/balanco-casos-de-sequestro-e-carcere-privado-na-bahia.ghtml",
+        "img": "https://picsum.photos/seed/674/800/400"
+    },
+    {
+        "titulo": "Café &#038; Prosa promove reflexão sobre autocuidado na ABO-BA",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "13:21",
+        "url": "https://abo-ba.org.br/cafe-prosa-promove-reflexao-sobre-autocuidado-na-abo-ba/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/1.png"
+    },
+    {
+        "titulo": "Comissão da Mulher em Odontologia do CFO debate ações de enfrentamento à violência contra a mul",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "13:21",
+        "url": "https://croba.org.br/26885-2/",
+        "img": "https://picsum.photos/seed/484/800/400"
+    },
+    {
+        "titulo": "ABO se torna  signatária do Manifesto ESG/ODS por Ambientes Sustentáveis, Saudáveis, Inteligent",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "13:21",
+        "url": "https://abo-ba.org.br/abo-se-torna-signataria-do-manifesto-esg-ods-por-ambientes-sustentaveis-saudaveis-inteligentes-e-felizes/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-23-at-09.02.46.jpeg"
+    },
+    {
+        "titulo": "São João ABO-BA: tradição, alegria e bons encontros.",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "13:21",
+        "url": "https://abo-ba.org.br/sao-joao-abo-ba-tradicao-alegria-e-bons-encontros/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-30-at-11.35.37.jpeg"
+    },
+    {
+        "titulo": "Quatro homens invadem fazenda e roubam caminhonete, trator e motocicletas na Bahia",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "13:21",
+        "url": "https://www.jornalfolhadoestado.com/policia/quatro-homens-invadem-fazenda-e-roubam-caminhonete-trator-e-motocicletas-na-bahia/",
+        "img": "https://picsum.photos/seed/238/800/400"
+    },
+    {
+        "titulo": "Radar de Eventos",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "13:21",
+        "url": "https://croba.org.br/radar-de-eventos/",
+        "img": "https://picsum.photos/seed/971/800/400"
+    },
+    {
+        "titulo": "CRO-BA participa do Fórum Nacional de Fiscalização 2026 e acompanha lançamento de novo Manual d",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "13:21",
+        "url": "https://croba.org.br/cro-ba-participa-do-forum-nacional-de-fiscalizacao-2026-e-acompanha-lancamento-de-novo-manual-do-sistema-cfo-cros/",
+        "img": "https://picsum.photos/seed/771/800/400"
     }
 ]
