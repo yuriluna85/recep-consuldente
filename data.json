@@ -1,208 +1,46 @@
 [
     {
-        "titulo": "CFO alerta para golpes que utilizam indevidamente o nome do Sistema CFO/CROs",
+        "titulo": "VÍDEO: homem atira para o alto durante manifestação pró-Lula",
         "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "10:03",
-        "url": "https://website.cfo.org.br/cfo-alerta-para-golpes-que-utilizam-indevidamente-o-nome-do-sistema-cfo-cros/",
-        "img": "https://picsum.photos/seed/899/800/400"
-    },
-    {
-        "titulo": "NOTA DO CONSELHO FEDERAL DE ODONTOLOGIA",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "10:03",
-        "url": "https://website.cfo.org.br/nota-do-conselho-federal-de-odontologia/",
-        "img": "https://picsum.photos/seed/133/800/400"
-    },
-    {
-        "titulo": "CFO defende medidas para garantir o abastecimento de flúor",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "10:03",
-        "url": "https://website.cfo.org.br/cfo-defende-medidas-para-garantir-o-abastecimento-de-fluor/",
-        "img": "https://picsum.photos/seed/916/800/400"
-    },
-    {
-        "titulo": "Alerta de Golpe!",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "10:04",
-        "url": "https://croba.org.br/alerta-de-golpe/",
-        "img": "https://picsum.photos/seed/674/800/400"
-    },
-    {
-        "titulo": "Justiça determina interdição de lar de idosos na Bahia por risco de desabamento",
-        "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "10:04",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/10/08/justica-determina-interdicao-de-lar-de-idosos-na-bahia.ghtml",
-        "img": "https://picsum.photos/seed/572/800/400"
+        "fonte": "Acorda Cidade",
+        "data": "17:19",
+        "url": "https://www.acordacidade.com.br/brasil/video-homem-atira-para-o-alto-durante-manifestacao-pro-lula/",
+        "img": "https://picsum.photos/seed/435/800/400"
     },
     {
         "titulo": "Prescrição de medicamentos controlados: entenda as mudanças previstas pela RDC Anvisa nº 1.000/",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "10:03",
+        "data": "17:19",
         "url": "https://website.cfo.org.br/prescricao-de-medicamentos-controlados-entenda-as-mudancas-previstas-pela-rdc-anvisa-no-1-000-2025/",
-        "img": "https://picsum.photos/seed/344/800/400"
+        "img": "https://picsum.photos/seed/662/800/400"
     },
     {
-        "titulo": "Confira as vagas de estágio e empregos para Feira de Santana nesta sexta-feira (9)",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "10:04",
-        "url": "https://www.acordacidade.com.br/empregos/confira-as-vagas-de-empregos-para-feira-de-santana-e-outras-cidades-2/",
-        "img": "https://picsum.photos/seed/48/800/400"
-    },
-    {
-        "titulo": "São João da ABO-BA celebra tradição, alegria e união da classe odontológica",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "10:04",
-        "url": "https://abo-ba.org.br/sao-joao-da-abo-ba-celebra-tradicao-alegria-e-uniao-da-classe-odontologica/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/2.png"
-    },
-    {
-        "titulo": "COBRAC 2026 reúne especialistas e conta com representação do CRO-BA",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "10:04",
-        "url": "https://croba.org.br/cobrac-2026-reune-especialistas-e-conta-com-representacao-do-cro-ba/",
-        "img": "https://picsum.photos/seed/651/800/400"
-    },
-    {
-        "titulo": "A nova era da harmonização orofacial começa com conhecimento de verdade e você pode fazer parte",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "10:04",
-        "url": "https://abo-ba.org.br/a-nova-era-da-harmonizacao-orofacial-comeca-com-conhecimento-de-verdade-e-voce-pode-fazer-parte/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/Black-and-Gold-Illustrated-Webinar-Event-Instagram-Post-1920-x-1080-px.png"
-    },
-    {
-        "titulo": "Câmara aprova Política Municipal de Alfabetização proposta pela Prefeitura de Feira de Santana",
+        "titulo": "Feirense Alice Pereira aposta em agressividade para conquistar 2ª vitória no UFC",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Folha do Estado",
-        "data": "10:04",
-        "url": "https://www.jornalfolhadoestado.com/politica/camara-aprova-politica-municipal-de-alfabetizacao-proposta-pela-prefeitura-de-feira-de-santana/",
-        "img": "https://picsum.photos/seed/136/800/400"
+        "data": "17:19",
+        "url": "https://www.jornalfolhadoestado.com/esportes/feirense-alice-pereira-aposta-em-agressividade-para-conquistar-2a-vitoria-no-ufc/",
+        "img": "https://picsum.photos/seed/96/800/400"
     },
     {
-        "titulo": "Micareta de Feira 2026 terá regras contra músicas que desvalorizem mulheres e promovam discrimi",
+        "titulo": "Inema prevê calor acima de 41 °C e umidade abaixo de 15% na BA; veja previsão para o feriado",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "G1 Feira",
-        "data": "10:04",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/10/08/micareta-de-feira-2026.ghtml",
-        "img": "https://picsum.photos/seed/76/800/400"
-    },
-    {
-        "titulo": "ABO se torna  signatária do Manifesto ESG/ODS por Ambientes Sustentáveis, Saudáveis, Inteligent",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "10:04",
-        "url": "https://abo-ba.org.br/abo-se-torna-signataria-do-manifesto-esg-ods-por-ambientes-sustentaveis-saudaveis-inteligentes-e-felizes/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-23-at-09.02.46.jpeg"
-    },
-    {
-        "titulo": "ABO Bahia sedia Jornada Estadual sobre Hanseníase: “Conhecer e Cuidar, de Janeiro a Janeiro”",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "10:04",
-        "url": "https://abo-ba.org.br/abo-bahia-sedia-jornada-estadual-sobre-hanseniase-conhecer-e-cuidar-de-janeiro-a-janeiro/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/capas-abo-.png"
-    },
-    {
-        "titulo": "Câmeras de reconhecimento facial ajudam a localizar 870 pais com mandados de prisão por dívida ",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "10:04",
-        "url": "https://www.jornalfolhadoestado.com/municipios/cameras-de-reconhecimento-facial-ajudam-a-localizar-870-pais-com-mandados-de-prisao-por-divida-de-pensao-alimenticia-na-bahia-em-2026/",
-        "img": "https://picsum.photos/seed/573/800/400"
-    },
-    {
-        "titulo": "Justiça extingue ação contra o CFO e mantém publicação",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "10:03",
-        "url": "https://website.cfo.org.br/justica-extingue-acao-contra-o-cfo-e-mantem-publicacao/",
-        "img": "https://picsum.photos/seed/433/800/400"
-    },
-    {
-        "titulo": "Incêndio de grandes proporções atinge três lojas comerciais em Alagoinhas",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "10:04",
-        "url": "https://www.acordacidade.com.br/bahia/incendio-de-grandes-proporcoes-atinge-tres-lojas-comerciais-em-alagoinhas/",
-        "img": "https://picsum.photos/seed/618/800/400"
-    },
-    {
-        "titulo": "CRO-BA participa do Fórum Nacional de Fiscalização 2026 e acompanha lançamento de novo Manual d",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "10:04",
-        "url": "https://croba.org.br/cro-ba-participa-do-forum-nacional-de-fiscalizacao-2026-e-acompanha-lancamento-de-novo-manual-do-sistema-cfo-cros/",
-        "img": "https://picsum.photos/seed/501/800/400"
-    },
-    {
-        "titulo": "Tom critica falta de empenho do grupo de José Ronaldo, diz que aliados “fizeram o L” e dispara:",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "10:04",
-        "url": "https://www.acordacidade.com.br/politica/eleicoes/tom-critica-falta-de-empenho-do-grupo-de-jose-ronaldo-diz-que-aliados-fizeram-o-l-e-dispara-estou-cansado-dessa-conversinha/",
-        "img": "https://picsum.photos/seed/439/800/400"
-    },
-    {
-        "titulo": "Café com a Presidente reúne profissionais da Odontologia em Barreiras",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "10:04",
-        "url": "https://croba.org.br/cafe-com-a-presidente-reune-profissionais-da-odontologia-em-barreiras/",
-        "img": "https://picsum.photos/seed/268/800/400"
-    },
-    {
-        "titulo": "Biblioteca digital de Feira de Santana reúne mais de 100 mil livros e audiolivros gratuitos; ve",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "10:04",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/10/08/biblioteca-digital-de-feira-de-santana.ghtml",
-        "img": "https://picsum.photos/seed/458/800/400"
-    },
-    {
-        "titulo": "Incêndio atinge barracas na feirinha da Estação Nova;  hipótese inicial é de curto-circuito",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "10:04",
-        "url": "https://www.jornalfolhadoestado.com/feira-de-santana/incendio-atinge-barracas-na-feirinha-da-estacao-nova-hipotese-inicial-e-de-curto-circuito/",
-        "img": "https://picsum.photos/seed/343/800/400"
+        "data": "17:19",
+        "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/08/inema-preve-calor-e-umidade-baixa-na-ba-veja-previsao.ghtml",
+        "img": "https://picsum.photos/seed/224/800/400"
     },
     {
         "titulo": "Café &#038; Prosa promove reflexão sobre autocuidado na ABO-BA",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "ABO-BA",
-        "data": "10:04",
+        "data": "17:19",
         "url": "https://abo-ba.org.br/cafe-prosa-promove-reflexao-sobre-autocuidado-na-abo-ba/",
         "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/1.png"
     },
@@ -211,116 +49,278 @@
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "ABO-BA",
-        "data": "10:04",
+        "data": "17:19",
         "url": "https://abo-ba.org.br/sao-joao-abo-ba-tradicao-alegria-e-bons-encontros/",
         "img": "https://abo-ba.org.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-30-at-11.35.37.jpeg"
     },
     {
-        "titulo": "Inema prevê calor acima de 41 °C e umidade abaixo de 15% na BA; veja previsão para o feriado",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "10:04",
-        "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/08/inema-preve-calor-e-umidade-baixa-na-ba-veja-previsao.ghtml",
-        "img": "https://picsum.photos/seed/299/800/400"
-    },
-    {
-        "titulo": "Varal inteligente que seca roupas, se recolhe sozinho e ainda pode ser transformado em luminári",
+        "titulo": "CFO defende medidas para garantir o abastecimento de flúor",
         "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "10:04",
-        "url": "https://www.acordacidade.com.br/antenados/varal-inteligente/",
-        "img": "https://picsum.photos/seed/856/800/400"
-    },
-    {
-        "titulo": "Nota de Pesar – Dra. Vanda Maria Nascimento Alves",
-        "resumo": "Atualização via Radar Consuldente.",
         "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "10:04",
-        "url": "https://croba.org.br/nota-de-pesar-dra-vanda-maria-nascimento-alves/",
-        "img": "https://picsum.photos/seed/738/800/400"
-    },
-    {
-        "titulo": "Assista aos telejornais da TV Subaé",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "10:04",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
-        "img": "https://picsum.photos/seed/220/800/400"
+        "fonte": "CFO Federal",
+        "data": "17:19",
+        "url": "https://website.cfo.org.br/cfo-defende-medidas-para-garantir-o-abastecimento-de-fluor/",
+        "img": "https://picsum.photos/seed/999/800/400"
     },
     {
         "titulo": "Radar de Eventos",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "ODONTOLOGIA",
         "fonte": "CRO-BA",
-        "data": "10:04",
+        "data": "17:19",
         "url": "https://croba.org.br/radar-de-eventos/",
-        "img": "https://picsum.photos/seed/545/800/400"
+        "img": "https://picsum.photos/seed/447/800/400"
     },
     {
-        "titulo": "Ato pró-Lula em Sergipe é interrompido após relatos de homem armado e tiros",
+        "titulo": "Nota de Pesar – Dra. Vanda Maria Nascimento Alves",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "17:19",
+        "url": "https://croba.org.br/nota-de-pesar-dra-vanda-maria-nascimento-alves/",
+        "img": "https://picsum.photos/seed/731/800/400"
+    },
+    {
+        "titulo": "Justiça determina interdição de lar de idosos na Bahia por risco de desabamento",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "17:19",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/10/08/justica-determina-interdicao-de-lar-de-idosos-na-bahia.ghtml",
+        "img": "https://picsum.photos/seed/897/800/400"
+    },
+    {
+        "titulo": "Alerta de Golpe!",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "17:19",
+        "url": "https://croba.org.br/alerta-de-golpe/",
+        "img": "https://picsum.photos/seed/139/800/400"
+    },
+    {
+        "titulo": "Alunos do 3° ano do Ensino Médio são denunciados após divulgarem lista de meninas 'mais estuprá",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "17:19",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/10/09/policia-civil-apura-ocorrencia-em-escola-da-bahia.ghtml",
+        "img": "https://picsum.photos/seed/130/800/400"
+    },
+    {
+        "titulo": "Avião de pequeno porte cai perto de estação de metrô em BH e deixa um morto",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Folha do Estado",
-        "data": "10:04",
-        "url": "https://www.jornalfolhadoestado.com/policia/ato-pro-lula-em-sergipe-e-interrompido-apos-relatos-de-homem-armado-e-tiros/",
-        "img": "https://picsum.photos/seed/833/800/400"
+        "data": "17:19",
+        "url": "https://www.jornalfolhadoestado.com/brasil/aviao-de-pequeno-porte-cai-perto-de-estacao-de-metro-em-bh-e-deixa-um-morto/",
+        "img": "https://picsum.photos/seed/95/800/400"
     },
     {
-        "titulo": "Ponto e Vírgula 09/10",
+        "titulo": "NOTA DO CONSELHO FEDERAL DE ODONTOLOGIA",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "17:19",
+        "url": "https://website.cfo.org.br/nota-do-conselho-federal-de-odontologia/",
+        "img": "https://picsum.photos/seed/103/800/400"
+    },
+    {
+        "titulo": "Polícia prende quatro influenciadores na Bahia em investigação sobre esquema de apostas",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Folha do Estado",
-        "data": "10:04",
-        "url": "https://www.jornalfolhadoestado.com/blogs/ponto-e-virgula/ponto-e-virgula-09-10/",
-        "img": "https://picsum.photos/seed/718/800/400"
+        "data": "17:19",
+        "url": "https://www.jornalfolhadoestado.com/policia/policia-prende-quatro-influenciadores-na-bahia-em-investigacao-sobre-esquema-de-apostas/",
+        "img": "https://picsum.photos/seed/807/800/400"
     },
     {
-        "titulo": "Sempre há uma solução",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "10:04",
-        "url": "https://www.acordacidade.com.br/mensagem-do-dia/sempre-ha-uma-solucao/",
-        "img": "https://picsum.photos/seed/110/800/400"
+        "titulo": "COBRAC 2026 reúne especialistas e conta com representação do CRO-BA",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "17:19",
+        "url": "https://croba.org.br/cobrac-2026-reune-especialistas-e-conta-com-representacao-do-cro-ba/",
+        "img": "https://picsum.photos/seed/834/800/400"
     },
     {
         "titulo": "NOTA DE POSICIONAMENTO: Resolução nº 198/2019 e a Harmonização Orofacial",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "10:03",
+        "data": "17:19",
         "url": "https://website.cfo.org.br/nota-de-posicionamento-resolucao-no-198-2019-e-a-harmonizacao-orofacial/",
-        "img": "https://picsum.photos/seed/617/800/400"
+        "img": "https://picsum.photos/seed/527/800/400"
+    },
+    {
+        "titulo": "Justiça extingue ação contra o CFO e mantém publicação",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "17:19",
+        "url": "https://website.cfo.org.br/justica-extingue-acao-contra-o-cfo-e-mantem-publicacao/",
+        "img": "https://picsum.photos/seed/783/800/400"
     },
     {
         "titulo": "Bahia terá transporte intermunicipal gratuito no segundo turno das eleições; veja regras",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "G1 Feira",
-        "data": "10:04",
+        "data": "17:19",
         "url": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/08/transporte-gratuito-eleicoes-bahia.ghtml",
-        "img": "https://picsum.photos/seed/344/800/400"
+        "img": "https://picsum.photos/seed/413/800/400"
     },
     {
-        "titulo": "Ron do Povo agradece os mais 14 mil votos na Bahia; quase 12 mil só em Feira",
+        "titulo": "A nova era da harmonização orofacial começa com conhecimento de verdade e você pode fazer parte",
         "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "10:04",
-        "url": "https://www.jornalfolhadoestado.com/politica/ron-do-povo-agradece-os-mais-14-mil-votos-na-bahia-quase-12-mil-so-em-feira/",
-        "img": "https://picsum.photos/seed/221/800/400"
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "17:19",
+        "url": "https://abo-ba.org.br/a-nova-era-da-harmonizacao-orofacial-comeca-com-conhecimento-de-verdade-e-voce-pode-fazer-parte/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/Black-and-Gold-Illustrated-Webinar-Event-Instagram-Post-1920-x-1080-px.png"
     },
     {
-        "titulo": "Homem acusado de homicídio é flagrado com revólver e drogas em Feira de Santana",
+        "titulo": "Penteado para cabelos crespos de crianças pode ser feito em casa com um passo a passo simples",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Acorda Cidade",
-        "data": "10:04",
-        "url": "https://www.acordacidade.com.br/policia/homem-acusado-de-homicidio-e-flagrado-com-revolver-e-drogas-em-feira-de-santana/",
-        "img": "https://picsum.photos/seed/950/800/400"
+        "data": "17:19",
+        "url": "https://www.acordacidade.com.br/antenados/penteado-para-cabelos-crespos-de-criancas/",
+        "img": "https://picsum.photos/seed/335/800/400"
+    },
+    {
+        "titulo": "Ministros do TSE determinam remoção de vídeos de Lula e Janja sobre Flávio Bolsonaro",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "17:19",
+        "url": "https://www.acordacidade.com.br/justica/ministros-do-tse-determinam-remocao-de-videos-de-lula-e-janja-sobre-flavio-bolsonaro/",
+        "img": "https://picsum.photos/seed/322/800/400"
+    },
+    {
+        "titulo": "Café com a Presidente reúne profissionais da Odontologia em Barreiras",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "17:19",
+        "url": "https://croba.org.br/cafe-com-a-presidente-reune-profissionais-da-odontologia-em-barreiras/",
+        "img": "https://picsum.photos/seed/222/800/400"
+    },
+    {
+        "titulo": "Começa nesta sexta a Começa nesta sexta a propaganda eleitoral gratuita no rádio e na TV gratui",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "17:19",
+        "url": "https://www.acordacidade.com.br/dilton-e-feito/tse-ministros-ordenam-que-lula-e-janja-removam-videos-contra-flavio/",
+        "img": "https://picsum.photos/seed/603/800/400"
+    },
+    {
+        "titulo": "CFO alerta para golpes que utilizam indevidamente o nome do Sistema CFO/CROs",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "17:19",
+        "url": "https://website.cfo.org.br/cfo-alerta-para-golpes-que-utilizam-indevidamente-o-nome-do-sistema-cfo-cros/",
+        "img": "https://picsum.photos/seed/619/800/400"
+    },
+    {
+        "titulo": "ABO Bahia sedia Jornada Estadual sobre Hanseníase: “Conhecer e Cuidar, de Janeiro a Janeiro”",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "17:19",
+        "url": "https://abo-ba.org.br/abo-bahia-sedia-jornada-estadual-sobre-hanseniase-conhecer-e-cuidar-de-janeiro-a-janeiro/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/capas-abo-.png"
+    },
+    {
+        "titulo": "ABO se torna  signatária do Manifesto ESG/ODS por Ambientes Sustentáveis, Saudáveis, Inteligent",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "17:19",
+        "url": "https://abo-ba.org.br/abo-se-torna-signataria-do-manifesto-esg-ods-por-ambientes-sustentaveis-saudaveis-inteligentes-e-felizes/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-23-at-09.02.46.jpeg"
+    },
+    {
+        "titulo": "Vídeos do g1 e TV Subaé - sexta-feira, 9 de outubro de 2026",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "17:19",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/edicao/2026/10/09/videos-do-g1-e-tv-subae-sexta-feira-9-de-outubro-de-2026.ghtml",
+        "img": "https://picsum.photos/seed/417/800/400"
+    },
+    {
+        "titulo": "MP denuncia 5 PMs por homicídio qualificado, cárcere privado e fraude processual na Bahia",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "17:19",
+        "url": "https://www.acordacidade.com.br/policia/mp-denuncia-5-pms-por-homicidio-qualificado-carcere-privado-e-fraude-processual-na-bahia/",
+        "img": "https://picsum.photos/seed/342/800/400"
+    },
+    {
+        "titulo": "CRO-BA participa do Fórum Nacional de Fiscalização 2026 e acompanha lançamento de novo Manual d",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "17:19",
+        "url": "https://croba.org.br/cro-ba-participa-do-forum-nacional-de-fiscalizacao-2026-e-acompanha-lancamento-de-novo-manual-do-sistema-cfo-cros/",
+        "img": "https://picsum.photos/seed/671/800/400"
+    },
+    {
+        "titulo": "Bahia terá transporte gratuito no segundo turno; veja horários e regras",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "17:19",
+        "url": "https://www.jornalfolhadoestado.com/municipios/bahia-tera-transporte-gratuito-no-segundo-turno-veja-horarios-e-regras/",
+        "img": "https://picsum.photos/seed/544/800/400"
+    },
+    {
+        "titulo": "Assista aos telejornais da TV Subaé",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "17:19",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
+        "img": "https://picsum.photos/seed/517/800/400"
+    },
+    {
+        "titulo": "São João da ABO-BA celebra tradição, alegria e união da classe odontológica",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "ABO-BA",
+        "data": "17:19",
+        "url": "https://abo-ba.org.br/sao-joao-da-abo-ba-celebra-tradicao-alegria-e-uniao-da-classe-odontologica/",
+        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/2.png"
+    },
+    {
+        "titulo": "Galeria de Arte Carlo Barbosa do Cuca/Uefs abre inscrições para exposições",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "17:19",
+        "url": "https://www.acordacidade.com.br/cultura/galeria-de-arte-carlo-barbosa-do-cuca-uefs-abre-inscricoes-para-exposicoes/",
+        "img": "https://picsum.photos/seed/515/800/400"
+    },
+    {
+        "titulo": "Agente da PRF é presa por fugir com o filho após Justiça ceder guarda a pai",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "17:19",
+        "url": "https://www.jornalfolhadoestado.com/policia/agente-da-prf-e-presa-por-fugir-com-o-filho-apos-justica-ceder-guarda-a-pai/",
+        "img": "https://picsum.photos/seed/622/800/400"
+    },
+    {
+        "titulo": "Corpo de homem com marcas de tiros é encontrado em matagal em Feira de Santana",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "17:19",
+        "url": "https://www.jornalfolhadoestado.com/policia/corpo-de-homem-com-marcas-de-tiros-e-encontrado-em-matagal-em-feira-de-santana/",
+        "img": "https://picsum.photos/seed/387/800/400"
     }
 ]
