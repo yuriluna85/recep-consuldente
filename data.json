@@ -1,326 +1,272 @@
 [
     {
-        "titulo": "Alerta de Golpe!",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "05:49",
-        "url": "https://croba.org.br/alerta-de-golpe/",
-        "img": "https://picsum.photos/seed/30/800/400"
-    },
-    {
-        "titulo": "CFO promove jantar com a imprensa para dialogar sobre a Harmonização Orofacial",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "05:48",
-        "url": "https://website.cfo.org.br/cfo-promove-jantar-com-a-imprensa-para-dialogar-sobre-a-harmonizacao-orofacial/",
-        "img": "https://picsum.photos/seed/4/800/400"
-    },
-    {
-        "titulo": "Assista aos telejornais da TV Subaé",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "05:49",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
-        "img": "https://picsum.photos/seed/56/800/400"
-    },
-    {
-        "titulo": "Cuca/Uefs recebe brechós em 4º Encontro de Moda Circular",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "05:49",
-        "url": "https://www.jornalfolhadoestado.com/cultura/cuca-uefs-recebe-brechos-em-4o-encontro-de-moda-circular/",
-        "img": "https://picsum.photos/seed/769/800/400"
-    },
-    {
-        "titulo": "Netinho foi candidato a deputado federal pelo PL, mas não se elegeu: veja a trajetória política",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "05:49",
-        "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/14/netinho-foi-candidato-a-deputado-federal-veja-a-trajetoria-politica.ghtml",
-        "img": "https://picsum.photos/seed/508/800/400"
-    },
-    {
-        "titulo": "Estrutura escondida por séculos é identificada por arqueólogos e pode ser a porta de entrada de",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "05:49",
-        "url": "https://www.acordacidade.com.br/antenados/estrutura-escondida-por-seculos-e-identificada-por-arqueologos-e-pode-ser-a-porta-de-entrada-de-uma-fortaleza-romana/",
-        "img": "https://picsum.photos/seed/676/800/400"
-    },
-    {
-        "titulo": "Teatro do Cuca/Uefs recebe a comédia dramática “Saltos e Coturnos” nos dias 16 e 17 de outubro",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "05:49",
-        "url": "https://www.jornalfolhadoestado.com/cultura/teatro-do-cuca-uefs-recebe-a-comedia-dramatica-saltos-e-coturnos-nos-dias-16-e-17-de-outubro/",
-        "img": "https://picsum.photos/seed/402/800/400"
-    },
-    {
-        "titulo": "O que fazer com caixas de ovos vazias? 6 ideias simples mostram como reaproveitar o material",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "05:49",
-        "url": "https://www.acordacidade.com.br/antenados/o-que-fazer-com-caixas-de-ovos-vazias-6-ideias-simples-mostram-como-reaproveitar-o-material/",
-        "img": "https://picsum.photos/seed/118/800/400"
-    },
-    {
-        "titulo": "Governo lança medidas para perdoar dívidas e incentivar MEIs",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "05:49",
-        "url": "https://www.jornalfolhadoestado.com/brasil/governo-lanca-medidas-para-perdoar-dividas-e-incentivar-meis/",
-        "img": "https://picsum.photos/seed/956/800/400"
-    },
-    {
-        "titulo": "COBRAC 2026 reúne especialistas e conta com representação do CRO-BA",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "05:49",
-        "url": "https://croba.org.br/cobrac-2026-reune-especialistas-e-conta-com-representacao-do-cro-ba/",
-        "img": "https://picsum.photos/seed/646/800/400"
-    },
-    {
-        "titulo": "Nota de Pesar – Dor. Gabriel Gentil",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "05:49",
-        "url": "https://croba.org.br/nota-de-pesar-dor-gabriel-gentil/",
-        "img": "https://picsum.photos/seed/86/800/400"
-    },
-    {
-        "titulo": "CRO-BA participa do Fórum Nacional de Fiscalização 2026 e acompanha lançamento de novo Manual d",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "05:49",
-        "url": "https://croba.org.br/cro-ba-participa-do-forum-nacional-de-fiscalizacao-2026-e-acompanha-lancamento-de-novo-manual-do-sistema-cfo-cros/",
-        "img": "https://picsum.photos/seed/802/800/400"
-    },
-    {
-        "titulo": "Investimentos do governo de Jerônimos nos quase quatro anos já somam R$ 29 bilhões",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "05:49",
-        "url": "https://www.jornalfolhadoestado.com/municipios/investimentos-do-governo-de-jeronimos-nos-quase-quatro-anos-ja-somam-r-29-bilhoes/",
-        "img": "https://picsum.photos/seed/647/800/400"
-    },
-    {
-        "titulo": "São João da ABO-BA celebra tradição, alegria e união da classe odontológica",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "05:49",
-        "url": "https://abo-ba.org.br/sao-joao-da-abo-ba-celebra-tradicao-alegria-e-uniao-da-classe-odontologica/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/2.png"
-    },
-    {
         "titulo": "Terceiro envolvido no assassinato de Mãe Bernadete é condenado a 28 anos de prisão na Bahia",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "G1 Feira",
-        "data": "05:49",
+        "data": "11:13",
         "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/13/juri-caso-mae-bernadete.ghtml",
-        "img": "https://picsum.photos/seed/555/800/400"
-    },
-    {
-        "titulo": "NOTA DO CONSELHO FEDERAL DE ODONTOLOGIA",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "05:48",
-        "url": "https://website.cfo.org.br/nota-do-conselho-federal-de-odontologia/",
-        "img": "https://picsum.photos/seed/905/800/400"
-    },
-    {
-        "titulo": "CFO e Colégio Brasileiro de Cirurgia Estética Orofacial promovem encontro nacional em defesa da",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "05:48",
-        "url": "https://website.cfo.org.br/cfo-e-colegio-brasileiro-de-cirurgia-estetica-orofacial-promovem-encontro-nacional-em-defesa-da-especialidade/",
-        "img": "https://picsum.photos/seed/63/800/400"
-    },
-    {
-        "titulo": "Entenda o que é adenocarcinoma pulmonar, câncer que atinge o papa",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "05:49",
-        "url": "https://www.acordacidade.com.br/saude/entenda-o-que-e-adenocarcinoma-pulmonar-cancer-que-atinge-o-papa/",
-        "img": "https://picsum.photos/seed/822/800/400"
-    },
-    {
-        "titulo": "A nova era da harmonização orofacial começa com conhecimento de verdade e você pode fazer parte",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "05:49",
-        "url": "https://abo-ba.org.br/a-nova-era-da-harmonizacao-orofacial-comeca-com-conhecimento-de-verdade-e-voce-pode-fazer-parte/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/Black-and-Gold-Illustrated-Webinar-Event-Instagram-Post-1920-x-1080-px.png"
-    },
-    {
-        "titulo": "Boulevard Shopping realiza 7ª edição da Corrida Kids Boulevard em outubro",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Folha do Estado",
-        "data": "05:49",
-        "url": "https://www.jornalfolhadoestado.com/esportes/boulevard-shopping-realiza-7a-edicao-da-corrida-kids-boulevard-em-outubro/",
-        "img": "https://picsum.photos/seed/543/800/400"
-    },
-    {
-        "titulo": "Pastor perde R$ 16 mil em golpe com clonagem de voz por inteligência artificial na Bahia",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "05:49",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/10/13/pastor-perde-r-16-mil-em-golpe-com-clonagem-de-voz-por-inteligencia-artificial-na-bahia.ghtml",
-        "img": "https://picsum.photos/seed/974/800/400"
-    },
-    {
-        "titulo": "Escalada termina em tragédia após alpinista alcançar o cume de uma montanha de quase 4 mil metr",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "05:49",
-        "url": "https://www.acordacidade.com.br/antenados/escalada-termina-em-tragedia-apos-alpinista-alcancar-o-cume-de-uma-montanha-de-quase-4-mil-metros/",
-        "img": "https://picsum.photos/seed/122/800/400"
-    },
-    {
-        "titulo": "NOTA DE POSICIONAMENTO: Resolução nº 198/2019 e a Harmonização Orofacial",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "05:48",
-        "url": "https://website.cfo.org.br/nota-de-posicionamento-resolucao-no-198-2019-e-a-harmonizacao-orofacial/",
-        "img": "https://picsum.photos/seed/378/800/400"
-    },
-    {
-        "titulo": "Nota de Pesar – Dra. Vanda Maria Nascimento Alves",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CRO-BA",
-        "data": "05:49",
-        "url": "https://croba.org.br/nota-de-pesar-dra-vanda-maria-nascimento-alves/",
-        "img": "https://picsum.photos/seed/342/800/400"
+        "img": "https://picsum.photos/seed/427/800/400"
     },
     {
         "titulo": "CFO alerta para golpes que utilizam indevidamente o nome do Sistema CFO/CROs",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
         "fonte": "CFO Federal",
-        "data": "05:48",
+        "data": "11:12",
         "url": "https://website.cfo.org.br/cfo-alerta-para-golpes-que-utilizam-indevidamente-o-nome-do-sistema-cfo-cros/",
-        "img": "https://picsum.photos/seed/467/800/400"
-    },
-    {
-        "titulo": "Em Brasília, milhares de estudantes tomam a Esplanada em apoio a Lula",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "05:49",
-        "url": "https://www.acordacidade.com.br/politica/em-brasilia-milhares-de-estudantes-tomam-a-esplanada-em-apoio-a-lula/",
-        "img": "https://picsum.photos/seed/624/800/400"
-    },
-    {
-        "titulo": "Faculdade de engenharia civil, vocalista de banda e carreira solo: a trajetória de Netinho até ",
-        "resumo": "Atualização via Radar Consuldente.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "G1 Feira",
-        "data": "05:49",
-        "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/14/relembre-a-trajetoria-de-netinho-ate-se-tornar-icone-do-axe-no-brasil.ghtml",
-        "img": "https://picsum.photos/seed/474/800/400"
-    },
-    {
-        "titulo": "Prescrição de medicamentos controlados: entenda as mudanças previstas pela RDC Anvisa nº 1.000/",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "CFO Federal",
-        "data": "05:48",
-        "url": "https://website.cfo.org.br/prescricao-de-medicamentos-controlados-entenda-as-mudancas-previstas-pela-rdc-anvisa-no-1-000-2025/",
-        "img": "https://picsum.photos/seed/261/800/400"
-    },
-    {
-        "titulo": "Café &#038; Prosa promove reflexão sobre autocuidado na ABO-BA",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "05:49",
-        "url": "https://abo-ba.org.br/cafe-prosa-promove-reflexao-sobre-autocuidado-na-abo-ba/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/07/1.png"
-    },
-    {
-        "titulo": "Flávio Bolsonaro faz visita ao pai em prisão domiciliar e cumpre agenda em São Paulo",
-        "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "FEIRA DE SANTANA",
-        "fonte": "Acorda Cidade",
-        "data": "05:49",
-        "url": "https://www.acordacidade.com.br/politica/eleicoes/flavio-bolsonaro-faz-visita-ao-pai-em-prisao-domiciliar-e-cumpre-agenda-em-sao-paulo/",
-        "img": "https://picsum.photos/seed/875/800/400"
+        "img": "https://picsum.photos/seed/767/800/400"
     },
     {
         "titulo": "Café com a Presidente reúne profissionais da Odontologia em Barreiras",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "ODONTOLOGIA",
         "fonte": "CRO-BA",
-        "data": "05:49",
+        "data": "11:13",
         "url": "https://croba.org.br/cafe-com-a-presidente-reune-profissionais-da-odontologia-em-barreiras/",
-        "img": "https://picsum.photos/seed/955/800/400"
+        "img": "https://picsum.photos/seed/353/800/400"
+    },
+    {
+        "titulo": "Homem morre após disparos de arma de fogo no bairro Lagoa Grande, em Feira de Santana",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "11:13",
+        "url": "https://www.jornalfolhadoestado.com/policia/homem-morre-apos-disparos-de-arma-de-fogo-no-bairro-lagoa-grande-em-feira-de-santana/",
+        "img": "https://picsum.photos/seed/607/800/400"
+    },
+    {
+        "titulo": "PF bloqueia R$ 187 milhões em operação contra tráfico internacional de drogas com alvos na Bahi",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "11:13",
+        "url": "https://www.jornalfolhadoestado.com/policia/pf-bloqueia-r-187-milhoes-em-operacao-contra-trafico-internacional-de-drogas-com-alvos-na-bahia/",
+        "img": "https://picsum.photos/seed/359/800/400"
+    },
+    {
+        "titulo": "Bancos têm até esta quarta para devolver R$ 1,3 bilhão a apostadores de bets",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "11:13",
+        "url": "https://www.acordacidade.com.br/brasil/bancos-tem-ate-esta-quarta-para-devolver-r-13-bilhao-a-apostadores-de-bets/",
+        "img": "https://picsum.photos/seed/145/800/400"
+    },
+    {
+        "titulo": "Raquel Brito anuncia nascimento do primeiro filho Ravi",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "11:13",
+        "url": "https://www.acordacidade.com.br/entretenimento/famosos/raquel-brito-anuncia-nascimento-do-primeiro-filho-ravi/",
+        "img": "https://picsum.photos/seed/167/800/400"
+    },
+    {
+        "titulo": "Prescrição de medicamentos controlados: entenda as mudanças previstas pela RDC Anvisa nº 1.000/",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "11:12",
+        "url": "https://website.cfo.org.br/prescricao-de-medicamentos-controlados-entenda-as-mudancas-previstas-pela-rdc-anvisa-no-1-000-2025/",
+        "img": "https://picsum.photos/seed/536/800/400"
+    },
+    {
+        "titulo": "Alerta de Golpe!",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "11:13",
+        "url": "https://croba.org.br/alerta-de-golpe/",
+        "img": "https://picsum.photos/seed/944/800/400"
+    },
+    {
+        "titulo": "Enem na reta final: professor que acertou tema da redação do ano passado levanta possibilidades",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "11:13",
+        "url": "https://www.acordacidade.com.br/educacao/enem-na-reta-final-professor-que-acertou-tema-da-redacao-do-ano-passado-levanta-possibilidades/",
+        "img": "https://picsum.photos/seed/244/800/400"
+    },
+    {
+        "titulo": "Por que alguns gatos são laranjas? Cientistas identificam a particularidade genética responsáve",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "11:13",
+        "url": "https://www.acordacidade.com.br/antenados/gatos-laranjas/",
+        "img": "https://picsum.photos/seed/926/800/400"
+    },
+    {
+        "titulo": "PRF prende cinco suspeitos de furtos a condomínios de luxo durante operação na Bahia",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "11:13",
+        "url": "https://www.jornalfolhadoestado.com/policia/prf-prende-cinco-suspeitos-de-furtos-a-condominios-de-luxo-durante-operacao-na-bahia/",
+        "img": "https://picsum.photos/seed/143/800/400"
+    },
+    {
+        "titulo": "Assista aos telejornais da TV Subaé",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "11:13",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
+        "img": "https://picsum.photos/seed/16/800/400"
+    },
+    {
+        "titulo": "Faculdade de engenharia civil, vocalista de banda e carreira solo: a trajetória de Netinho até ",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "11:13",
+        "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/14/relembre-a-trajetoria-de-netinho-ate-se-tornar-icone-do-axe-no-brasil.ghtml",
+        "img": "https://picsum.photos/seed/722/800/400"
+    },
+    {
+        "titulo": "COBRAC 2026 reúne especialistas e conta com representação do CRO-BA",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "11:13",
+        "url": "https://croba.org.br/cobrac-2026-reune-especialistas-e-conta-com-representacao-do-cro-ba/",
+        "img": "https://picsum.photos/seed/371/800/400"
     },
     {
         "titulo": "Herdeiros de Netinho receberão direitos autorais por sete décadas; confira as músicas mais toca",
         "resumo": "Atualização via Radar Consuldente.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "G1 Feira",
-        "data": "05:49",
+        "data": "11:13",
         "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/13/confira-as-musicas-de-netinho-mais-tocadas-nos-anos.ghtml",
-        "img": "https://picsum.photos/seed/991/800/400"
+        "img": "https://picsum.photos/seed/404/800/400"
     },
     {
-        "titulo": "Netinho voltou a se apresentar em trios elétricos na Micareta de Feira de Santana em 2018",
+        "titulo": "Senado pode votar fim da escala 6&#215;1 em dois turnos nesta quarta",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "FEIRA DE SANTANA",
         "fonte": "Folha do Estado",
-        "data": "05:49",
-        "url": "https://www.jornalfolhadoestado.com/cultura/netinho-voltou-a-se-apresentar-em-trios-eletricos-na-micareta-de-feira-de-santana-em-2018/",
-        "img": "https://picsum.photos/seed/988/800/400"
+        "data": "11:13",
+        "url": "https://www.jornalfolhadoestado.com/politica/senado-pode-votar-fim-da-escala-6x1-em-dois-turnos-nesta-quarta/",
+        "img": "https://picsum.photos/seed/288/800/400"
     },
     {
-        "titulo": "ABO se torna  signatária do Manifesto ESG/ODS por Ambientes Sustentáveis, Saudáveis, Inteligent",
+        "titulo": "NOTA DO CONSELHO FEDERAL DE ODONTOLOGIA",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "05:49",
-        "url": "https://abo-ba.org.br/abo-se-torna-signataria-do-manifesto-esg-ods-por-ambientes-sustentaveis-saudaveis-inteligentes-e-felizes/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-23-at-09.02.46.jpeg"
+        "fonte": "CFO Federal",
+        "data": "11:12",
+        "url": "https://website.cfo.org.br/nota-do-conselho-federal-de-odontologia/",
+        "img": "https://picsum.photos/seed/742/800/400"
     },
     {
-        "titulo": "ABO Bahia sedia Jornada Estadual sobre Hanseníase: “Conhecer e Cuidar, de Janeiro a Janeiro”",
+        "titulo": "Criança de 11 anos é morta a tiros após ter casa invadida na Matinha, em Feira de Santana",
         "resumo": "Portal Oficial - Clique para ler mais.",
-        "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "05:49",
-        "url": "https://abo-ba.org.br/abo-bahia-sedia-jornada-estadual-sobre-hanseniase-conhecer-e-cuidar-de-janeiro-a-janeiro/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2025/05/capas-abo-.png"
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "11:13",
+        "url": "https://www.jornalfolhadoestado.com/policia/crianca-de-11-anos-e-morta-a-tiros-apos-ter-casa-invadida-na-matinha-em-feira-de-santana/",
+        "img": "https://picsum.photos/seed/364/800/400"
     },
     {
-        "titulo": "São João ABO-BA: tradição, alegria e bons encontros.",
+        "titulo": "Criança de 11 anos é morta a tiros dentro de casa na zona rural de Feira de Santana",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "11:13",
+        "url": "https://www.acordacidade.com.br/policia/crianca-de-11-anos-e-morta-a-tiros-dentro-de-casa-na-zona-rural-de-feira-de-santana/",
+        "img": "https://picsum.photos/seed/815/800/400"
+    },
+    {
+        "titulo": "Nota de Pesar – Dra. Vanda Maria Nascimento Alves",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "11:13",
+        "url": "https://croba.org.br/nota-de-pesar-dra-vanda-maria-nascimento-alves/",
+        "img": "https://picsum.photos/seed/470/800/400"
+    },
+    {
+        "titulo": "CFO promove jantar com a imprensa para dialogar sobre a Harmonização Orofacial",
         "resumo": "Portal Oficial - Clique para ler mais.",
         "cat": "ODONTOLOGIA",
-        "fonte": "ABO-BA",
-        "data": "05:49",
-        "url": "https://abo-ba.org.br/sao-joao-abo-ba-tradicao-alegria-e-bons-encontros/",
-        "img": "https://abo-ba.org.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-30-at-11.35.37.jpeg"
+        "fonte": "CFO Federal",
+        "data": "11:12",
+        "url": "https://website.cfo.org.br/cfo-promove-jantar-com-a-imprensa-para-dialogar-sobre-a-harmonizacao-orofacial/",
+        "img": "https://picsum.photos/seed/417/800/400"
+    },
+    {
+        "titulo": "CRO-BA participa do Fórum Nacional de Fiscalização 2026 e acompanha lançamento de novo Manual d",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "11:13",
+        "url": "https://croba.org.br/cro-ba-participa-do-forum-nacional-de-fiscalizacao-2026-e-acompanha-lancamento-de-novo-manual-do-sistema-cfo-cros/",
+        "img": "https://picsum.photos/seed/368/800/400"
+    },
+    {
+        "titulo": "Netinho foi candidato a deputado federal pelo PL, mas não se elegeu: veja a trajetória política",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "11:13",
+        "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/14/netinho-foi-candidato-a-deputado-federal-veja-a-trajetoria-politica.ghtml",
+        "img": "https://picsum.photos/seed/136/800/400"
+    },
+    {
+        "titulo": "Homem de 32 anos é morto a tiros no bairro Lagoa Grande",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Acorda Cidade",
+        "data": "11:13",
+        "url": "https://www.acordacidade.com.br/policia/homem-de-32-anos-e-morto-a-tiros-no-bairro-lagoa-grande/",
+        "img": "https://picsum.photos/seed/294/800/400"
+    },
+    {
+        "titulo": "NOTA DE POSICIONAMENTO: Resolução nº 198/2019 e a Harmonização Orofacial",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "11:12",
+        "url": "https://website.cfo.org.br/nota-de-posicionamento-resolucao-no-198-2019-e-a-harmonizacao-orofacial/",
+        "img": "https://picsum.photos/seed/680/800/400"
+    },
+    {
+        "titulo": "Nota de Pesar – Dor. Gabriel Gentil",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CRO-BA",
+        "data": "11:13",
+        "url": "https://croba.org.br/nota-de-pesar-dor-gabriel-gentil/",
+        "img": "https://picsum.photos/seed/580/800/400"
+    },
+    {
+        "titulo": "Previsão do tempo hoje para Feira de Santana (BA): sol com muitas nuvens durante o dia e períod",
+        "resumo": "Atualização via Radar Consuldente.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "G1 Feira",
+        "data": "11:13",
+        "url": "https://g1.globo.com/ba/bahia/previsao-do-tempo/noticia/2026/10/14/previsao-do-tempo-hoje-para-feira-de-santana-ba-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-poucas-nuvens.ghtml",
+        "img": "https://picsum.photos/seed/379/800/400"
+    },
+    {
+        "titulo": "Site de apostas atua ilegalmente no Brasil após proibição",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "FEIRA DE SANTANA",
+        "fonte": "Folha do Estado",
+        "data": "11:13",
+        "url": "https://www.jornalfolhadoestado.com/brasil/site-de-apostas-atua-ilegalmente-no-brasil-apos-proibicao/",
+        "img": "https://picsum.photos/seed/540/800/400"
+    },
+    {
+        "titulo": "CFO e Colégio Brasileiro de Cirurgia Estética Orofacial promovem encontro nacional em defesa da",
+        "resumo": "Portal Oficial - Clique para ler mais.",
+        "cat": "ODONTOLOGIA",
+        "fonte": "CFO Federal",
+        "data": "11:12",
+        "url": "https://website.cfo.org.br/cfo-e-colegio-brasileiro-de-cirurgia-estetica-orofacial-promovem-encontro-nacional-em-defesa-da-especialidade/",
+        "img": "https://picsum.photos/seed/200/800/400"
     }
 ]
